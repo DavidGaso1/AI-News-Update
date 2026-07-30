@@ -1,0 +1,72 @@
+name: Daily AI News Fetch
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run news fetch
+        env:
+          # Add API keys as GitHub secrets if needed
+          # OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          chmod +x scripts/run-fetch.sh
+          ./scripts/run-fetch.sh
+      
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if data file changed
+          if ! git diff --quiet data/newsletter.json; then
+            git add data/newsletter.json
+            git commit -m "🤖 Daily AI news update $(date '+%Y-%m-%d')"
+            git push
+            echo "✅ Pushed updated newsletter data"
+          else
+            echo "ℹ️ No changes to newsletter data"
+          fi
+      
+      - name: Upload logs as artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: fetch-logs
+          path: logs/
+          retention-days: 7
