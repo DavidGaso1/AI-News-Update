@@ -142,7 +142,9 @@ def build_telegram(data, total=TELEGRAM_TOTAL):
 
     lines = [f"<b>🤖 AI Daily Briefing — {date_str}</b>", ""]
     for cat, a in flat[:total]:
-        title = html.escape(a.get("title", ""))[:180]
+        # Truncate BEFORE escaping so an HTML entity is never split mid-way
+        # (Telegram's HTML parser rejects a truncated entity with HTTP 400).
+        title = html.escape(a.get("title", "")[:170])
         source = html.escape(a.get("source", ""))
         url = html.escape(a.get("url", "#"))
         lines.append(f"{CATEGORY_EMOJI.get(cat, '•')} <a href=\"{url}\">{title}</a>")
@@ -166,12 +168,16 @@ def send_resend(subject, html_body, text_body):
         "html": html_body,
         "text": text_body,
     }
-    resp = httpx.post(
-        "https://api.resend.com/emails",
-        json=payload,
-        headers={"Authorization": f"Bearer {api_key}"},
-        timeout=30.0,
-    )
+    try:
+        resp = httpx.post(
+            "https://api.resend.com/emails",
+            json=payload,
+            headers={"Authorization": f"Bearer {api_key}"},
+            timeout=30.0,
+        )
+    except httpx.HTTPError as e:
+        print(f"❌ Email failed (network): {e}")
+        return False
     if resp.status_code in (200, 201):
         print(f"✅ Email sent to {to} (id {resp.json().get('id', '?')})")
         return True
@@ -185,11 +191,15 @@ def send_telegram(message):
     if not (token and chat_id):
         print("ℹ Telegram channel not configured (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID) — skipping")
         return False
-    resp = httpx.post(
-        f"https://api.telegram.org/bot{token}/sendMessage",
-        json={"chat_id": chat_id, "text": message, "parse_mode": "HTML", "disable_web_page_preview": True},
-        timeout=30.0,
-    )
+    try:
+        resp = httpx.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            json={"chat_id": chat_id, "text": message, "parse_mode": "HTML", "disable_web_page_preview": True},
+            timeout=30.0,
+        )
+    except httpx.HTTPError as e:
+        print(f"❌ Telegram failed (network): {e}")
+        return False
     if resp.status_code == 200:
         print(f"✅ Telegram message sent to chat {chat_id}")
         return True
@@ -209,7 +219,11 @@ def main():
         print("ℹ No stories to send")
         return 0
 
-    subject = f"🤖 AI Daily Briefing — {datetime.now(timezone.utc).strftime('%b %d, %Y')}"
+    generated = data.get("generated_at", "")
+    try:
+        subject = f"🤖 AI Daily Briefing — {datetime.fromisoformat(generated).strftime('%b %d, %Y')}"
+    except Exception:
+        subject = f"🤖 AI Daily Briefing — {datetime.now(timezone.utc).strftime('%b %d, %Y')}"
 
     if args.dry_run:
         print("=" * 60)

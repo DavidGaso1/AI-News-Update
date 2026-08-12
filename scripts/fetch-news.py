@@ -368,7 +368,7 @@ Summary:"""
 
                 # Get title
                 title = entry.get("title", "").strip()
-                if not title or self._is_title_duplicate(title):
+                if not title:
                     continue
 
                 # Get date
@@ -381,6 +381,11 @@ Summary:"""
 
                 # Skip old articles (older than 3 days for RSS)
                 if not self._is_recent(published_iso, days=3):
+                    continue
+
+                # Skip duplicates AFTER the recency check, so a stale copy of a
+                # story can't claim the title and suppress the fresh one.
+                if self._is_title_duplicate(title):
                     continue
 
                 # Get summary/content
@@ -521,7 +526,7 @@ Summary:"""
                     continue
 
                 title = hit.get("title", "").strip()
-                if not title or self._is_title_duplicate(title):
+                if not title:
                     continue
 
                 # Get content from HN comment or story text
@@ -537,6 +542,11 @@ Summary:"""
                 published_iso = datetime.fromtimestamp(hit.get("created_at_i", 0), tz=timezone.utc).isoformat()
 
                 if not self._is_recent(published_iso, days=2):
+                    continue
+
+                # Skip duplicates AFTER the recency check, so a stale copy can't
+                # claim the title and suppress the fresh one.
+                if self._is_title_duplicate(title):
                     continue
 
                 category = self._categorize(title, content, "Hacker News")
