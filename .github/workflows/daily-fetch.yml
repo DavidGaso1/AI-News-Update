@@ -52,10 +52,11 @@ jobs:
           
           # Check if data file changed
           if ! git diff --quiet data/newsletter.json; then
-            git add data/newsletter.json
+            git add data/newsletter.json data/archive.json
             git commit -m "🤖 Daily AI news update $(date '+%Y-%m-%d')"
-            # Rebase over any concurrent run's push (e.g. manual dispatch overlapping the cron)
-            git pull --rebase origin master
+            # Rebase over any concurrent run's push (e.g. manual dispatch overlapping the cron).
+            # -X theirs keeps THIS run's freshly generated data when both runs wrote it.
+            git pull --rebase -X theirs origin master
             git push
             echo "✅ Pushed updated newsletter data"
           else
