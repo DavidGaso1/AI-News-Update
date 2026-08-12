@@ -37,6 +37,10 @@ SOURCES_FILE = Path(__file__).parent.parent / "sources.json"
 # already covered and won't reappear in the digest. Older stories can return.
 DEDUP_ARCHIVE_DAYS = int(os.environ.get("DEDUP_ARCHIVE_DAYS", "14"))
 
+# How much history the committed archive.json keeps (bounded growth over years
+# of daily runs). The dedup window above is the part that actually matters.
+ARCHIVE_RETENTION_DAYS = int(os.environ.get("ARCHIVE_RETENTION_DAYS", "180"))
+
 # LLM Configuration (uses Hermes Agent's built-in tools)
 LLM_MODEL = os.environ.get("HERMES_MODEL", "nemotron-3-ultra-free")
 LLM_PROVIDER = os.environ.get("HERMES_PROVIDER", "opencode-zen")
@@ -852,6 +856,10 @@ def build_archive_index(conn: sqlite3.Connection, output_path: Path):
     for entry in archive:
         prev_by_date[entry["date"]] = entry
     merged = sorted(prev_by_date.values(), key=lambda d: d["date"], reverse=True)
+
+    # Bound archive growth: drop days older than the retention window.
+    retention_cutoff = (datetime.now(timezone.utc) - timedelta(days=ARCHIVE_RETENTION_DAYS)).date().isoformat()
+    merged = [d for d in merged if d.get("date", "") >= retention_cutoff]
 
     with open(output_path, "w") as f:
         json.dump({

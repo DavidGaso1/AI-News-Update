@@ -156,15 +156,16 @@ def build_telegram(data, total=TELEGRAM_TOTAL):
 
 
 def parse_recipients(raw):
-    """Split a comma-separated recipient list, dropping empties and whitespace."""
-    return [r.strip() for r in (raw or "").split(",") if r.strip()]
+    """Split a comma-separated recipient list, dropping empties/duplicates."""
+    return list(dict.fromkeys(r.strip() for r in (raw or "").split(",") if r.strip()))
 
 
 def send_resend(subject, html_body, text_body):
     api_key = os.environ.get("RESEND_API_KEY")
     frm = os.environ.get("NEWSLETTER_FROM")
-    to = parse_recipients(os.environ.get("NEWSLETTER_TO"))
-    to += parse_recipients(os.environ.get("NEWSLETTER_SUBSCRIBERS"))
+    to = list(dict.fromkeys(
+        parse_recipients(os.environ.get("NEWSLETTER_TO")) + parse_recipients(os.environ.get("NEWSLETTER_SUBSCRIBERS"))
+    ))
     if not (api_key and frm and to):
         print("ℹ Email channel not configured (RESEND_API_KEY / NEWSLETTER_FROM / NEWSLETTER_TO) — skipping")
         return False

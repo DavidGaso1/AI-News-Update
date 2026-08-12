@@ -80,3 +80,53 @@ jobs:
 
           print('Dedup unit checks OK')
           EOF
+
+      - name: Cross-day dedup + archive merge checks
+        run: |
+          python3 - <<'EOF'
+          import importlib.util, json, tempfile
+          from pathlib import Path
+
+          spec = importlib.util.spec_from_file_location('fetch_news', 'scripts/fetch-news.py')
+          fetch_news = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(fetch_news)
+
+          # 1. load_archive_seen seeds URLs/titles from a previous day's archive
+          fake = Path(tempfile.mkdtemp()) / 'archive.json'
+          fake.write_text(json.dumps({'archive': [{'date': '2026-08-11', 'articles': [
+              {'url': 'https://x.com/a/123?utm_source=twitter&s=09', 'title': 'OpenAI announces GPT-5.5 Turbo'},
+              {'url': 'https://arxiv.org/abs/2608.05000', 'title': 'RT by @bot: Claude 4 is out'},
+          ]}]}))
+          seen_urls, seen_titles = fetch_news.load_archive_seen(fake)
+          assert 'https://x.com/a/123' in seen_urls, 'tracking-param URL not normalized from archive'
+          assert 'claude 4 is out' in seen_titles, 'RT prefix not stripped in archive titles'
+
+          # 2. A story that resurfaced today must be blocked (cross-day dedup)
+          f = object.__new__(fetch_news.NewsFetcher)
+          f.seen_urls = set(seen_urls)
+          f.seen_titles = set(seen_titles)
+          assert f._is_duplicate('https://x.com/a/123?s=09'), 'cross-day URL dup not caught'
+          assert f._is_title_duplicate('OpenAI announces GPT-5.5 Turbo!'), 'cross-day title dup not caught'
+          assert not f._is_title_duplicate('Meta shows off AR glasses'), 'new story wrongly blocked'
+
+          # 3. build_archive_index preserves previous days when rebuilding
+          import sqlite3
+          conn = sqlite3.connect(':memory:')
+          conn.executescript('''
+              CREATE TABLE articles (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL,
+                  url TEXT NOT NULL UNIQUE, source TEXT NOT NULL, summary TEXT, category TEXT NOT NULL,
+                  published_at TEXT NOT NULL, fetched_at TEXT NOT NULL, author TEXT, tags TEXT, date_key TEXT NOT NULL,
+                  created_at TEXT NOT NULL DEFAULT (datetime('now')));
+              INSERT INTO articles (title, url, source, summary, category, published_at, fetched_at, author, tags, date_key)
+              VALUES ('today story', 'https://example.com/today', 'x', NULL, 'breaking', '2026-08-12', 'now', NULL, NULL, '2026-08-12');
+          ''')
+          out = Path(tempfile.mkdtemp()) / 'archive.json'
+          out.write_text(json.dumps({'generated_at': 'x', 'archive': [{'date': '2026-08-10', 'total': 5, 'categories': {}, 'articles': []}]}))
+          fetch_news.build_archive_index(conn, out)
+          rebuilt = json.loads(out.read_text())
+          dates = [d['date'] for d in rebuilt['archive']]
+          assert '2026-08-10' in dates and '2026-08-12' in dates, f'archive history lost: {dates}'
+          assert dates == sorted(dates, reverse=True), f'archive not sorted desc: {dates}'
+
+          print('Cross-day dedup + archive merge checks OK')
+          EOF
