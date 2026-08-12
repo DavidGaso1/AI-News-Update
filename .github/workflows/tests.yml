@@ -23,3 +23,18 @@ jobs:
 
       - name: Import smoke test
         run: python3 -c "import feedparser, httpx, bs4, lxml, dateutil; print('dependencies OK')"
+
+      - name: Validate newsletter data
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          p = 'data/newsletter.json'
+          assert os.path.exists(p), f'{p} is missing'
+          d = json.load(open(p))
+          for key in ('generated_at', 'article_count', 'categories', 'all_articles'):
+              assert key in d, f'{p} is missing key {key!r}'
+          assert isinstance(d['all_articles'], list), 'all_articles must be a list'
+          assert d['article_count'] == len(d['all_articles']), \
+              f'article_count {d["article_count"]} != actual {len(d["all_articles"])}'
+          print(f'newsletter.json OK — {len(d["all_articles"])} articles from {d["generated_at"]}')
+          EOF
