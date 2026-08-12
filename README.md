@@ -1,5 +1,7 @@
 # AI Daily Newsletter
 
+[![Tests](https://github.com/DavidGaso1/AI-News-Update/actions/workflows/tests.yml/badge.svg)](https://github.com/DavidGaso1/AI-News-Update/actions/workflows/tests.yml)
+
 An automated AI newsletter that fetches, summarizes, and categorizes AI news from multiple sources daily.
 
 ## Features
