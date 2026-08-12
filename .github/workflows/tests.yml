@@ -38,3 +38,45 @@ jobs:
               f'article_count {d["article_count"]} != actual {len(d["all_articles"])}'
           print(f'newsletter.json OK — {len(d["all_articles"])} articles from {d["generated_at"]}')
           EOF
+
+      - name: Digest dry-run (builds email + Telegram, sends nothing)
+        run: python3 scripts/send_digest.py --dry-run
+
+      - name: Dedup logic unit checks
+        run: |
+          python3 - <<'EOF'
+          import importlib.util
+
+          # fetch-news.py has a hyphen, so load it via importlib. It has a
+          # __main__ guard, so importing is side-effect free.
+          spec = importlib.util.spec_from_file_location('fetch_news', 'scripts/fetch-news.py')
+          fetch_news = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(fetch_news)
+
+          # Build a fetcher without touching the network (skip __init__)
+          f = object.__new__(fetch_news.NewsFetcher)
+          f.seen_urls = set()
+          f.seen_titles = set()
+
+          # 1. Retweet prefixes must be stripped so RT and original dedup together
+          assert f._normalize_title('RT @aixbt: Apple releases M5 chip') == \
+                 f._normalize_title('Apple releases M5 chip'), 'RT prefix not stripped'
+          assert f._normalize_title('RT by @bot: OpenAI launches o5') == \
+                 f._normalize_title('OpenAI launches o5'), 'RT by prefix not stripped'
+          assert f._normalize_title('R to @x: Claude 4 is out') == \
+                 f._normalize_title('Claude 4 is out'), 'R to prefix not stripped'
+
+          # 2. Near-duplicate titles must be caught across sources
+          # (_is_title_duplicate returns True when the title IS a duplicate)
+          assert not f._is_title_duplicate('OpenAI announces GPT-5.5 Turbo'), 'first title should be accepted'
+          assert f._is_title_duplicate('OpenAI announces GPT-5.5 Turbo'), 'exact duplicate must be caught'
+          assert f._is_title_duplicate('OpenAI announces GPT-5.5 Turbo! (updated)'), 'near duplicate must be caught'
+          assert not f._is_title_duplicate('Meta shows off AR glasses'), 'different story must pass'
+
+          # 3. URL normalization catches tracking-param duplicates
+          # (_is_duplicate returns True when the URL IS a duplicate)
+          assert not f._is_duplicate('https://x.com/a/123?utm_source=twitter&s=09'), 'first url should be accepted'
+          assert f._is_duplicate('https://x.com/a/123/'), 'tracking param / slash dup must be caught'
+
+          print('Dedup unit checks OK')
+          EOF

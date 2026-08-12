@@ -1,55 +1,16 @@
 {
-  "generated_at": "2026-08-12T07:47:23.743511+00:00",
+  "generated_at": "2026-08-12T08:06:00.222040+00:00",
   "archive": [
     {
       "date": "2026-08-12",
       "total": 50,
       "categories": {
-        "breaking": 15,
-        "research": 22,
-        "industry": 5,
+        "breaking": 10,
+        "research": 28,
+        "industry": 4,
         "tools": 8
       },
       "articles": [
-        {
-          "title": "RT by @huggingface: Try it today --> https://bit.ly/4xFJBUN",
-          "url": "https://nitter.net/ltx_io/status/2087255205045825964#m",
-          "source": "Twitter/@HuggingFace",
-          "summary": "ly/4xFJBUN Link LTX-2 5 - a Lightricks Collection LTX-2 5 base models, quantized models and accompanying LoRAs and IC-LoRAs huggingface",
-          "category": "breaking",
-          "published_at": "2026-08-11T19:09:54+00:00",
-          "author": "HuggingFace",
-          "tags": [
-            "twitter",
-            "huggingface"
-          ]
-        },
-        {
-          "title": "RT by @huggingface: Introducing LTX-2.5, the world model the world builds on. One of the biggest upgrades yet to the model already powering film, robotics, and real-time workflows. Higher pixel fideli",
-          "url": "https://nitter.net/ltx_io/status/2087255203489755243#m",
-          "source": "Twitter/@HuggingFace",
-          "summary": "5, the world model the world builds on One of the biggest upgrades yet to the model already powering film, robotics, and real-time workflows Higher pixel fidelity, multishot scenes that hold together ",
-          "category": "breaking",
-          "published_at": "2026-08-11T19:09:54+00:00",
-          "author": "HuggingFace",
-          "tags": [
-            "twitter",
-            "huggingface"
-          ]
-        },
-        {
-          "title": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb o",
-          "url": "https://nitter.net/OpenAI/status/2087248033906094175#m",
-          "source": "Twitter/@OpenAI",
-          "summary": "The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24 04 LTS • Debian 13 • Fedora 43 and 44 Install with rpm packages for x64 or ARM64",
-          "category": "breaking",
-          "published_at": "2026-08-11T18:41:25+00:00",
-          "author": "OpenAI",
-          "tags": [
-            "twitter",
-            "openai"
-          ]
-        },
         {
           "title": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
           "url": "https://nitter.net/OpenAI/status/2087231350134980830#m",
@@ -61,32 +22,6 @@
           "tags": [
             "twitter",
             "openai"
-          ]
-        },
-        {
-          "title": "RT by @huggingface: 💚 @nvidia Nemotron 3.5 Lightning is here to power more efficient agents! 30B LatentMoE, 3B active. NVFP4 and BF16. Up to 1M context. MTP, DFlash and DSpark. Tool use. Multilingual.",
-          "url": "https://nitter.net/alvarobartt/status/2087162934090731799#m",
-          "source": "Twitter/@HuggingFace",
-          "summary": "5 Lightning is here to power more efficient agents 30B LatentMoE, 3B active MTP, DFlash and DSpark",
-          "category": "breaking",
-          "published_at": "2026-08-11T13:03:15+00:00",
-          "author": "HuggingFace",
-          "tags": [
-            "twitter",
-            "huggingface"
-          ]
-        },
-        {
-          "title": "RT by @huggingface: Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It deliver",
-          "url": "https://nitter.net/NVIDIAAI/status/2087162151995629926#m",
-          "source": "Twitter/@HuggingFace",
-          "summary": "Introducing NVIDIA Nemotron 3 5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster It delivers up to 4x the output",
-          "category": "breaking",
-          "published_at": "2026-08-11T13:00:09+00:00",
-          "author": "HuggingFace",
-          "tags": [
-            "twitter",
-            "huggingface"
           ]
         },
         {
@@ -258,6 +193,68 @@
           "tags": [
             "cs.AI",
             "cs.CV"
+          ]
+        },
+        {
+          "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+          "url": "https://arxiv.org/abs/2608.10030",
+          "source": "arXiv AI/ML",
+          "summary": "10030v1 Announce Type: new Abstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical Yet behavioral scientific research on AI agents rema",
+          "category": "research",
+          "published_at": "2026-08-12T00:00:00-04:00",
+          "author": "Soo Yong Lee, Jongha Lee, Jaewan Chun, Hyunjin Hwang, Fanchen Bu, Ziv Ben-Zion, Taekwan Kim, Denny Borsboom, Jaemin Yoo, Kijung Shin",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+          "url": "https://arxiv.org/abs/2608.10090",
+          "source": "arXiv AI/ML",
+          "summary": "10090v1 Announce Type: new Abstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal than textual imitation alone Hardwar",
+          "category": "research",
+          "published_at": "2026-08-12T00:00:00-04:00",
+          "author": "Hejia Zhang, Sheng Lu, Zhongming Yu, Chia-Tung Ho, Brucek Khailany, Jishen Zhao",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+          "url": "https://arxiv.org/abs/2608.10108",
+          "source": "arXiv AI/ML",
+          "summary": "10108v1 Announce Type: new Abstract: Long-horizon agents accumulate trajectories spanning hundreds of interleaved reasoning, action, and observation steps, where answering a query may depend on eviden",
+          "category": "research",
+          "published_at": "2026-08-12T00:00:00-04:00",
+          "author": "Beidi Zhao, Yaoqi Chen, Yuru Feng, Menghao Li, Qianxi Zhang, Baotong Lu, Jianan Lu, Zhirui Wang, Xinjiang Wang, Shusen Xu, Zengzhong Li, Xiaoxiao Li, Qi Chen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+          "url": "https://arxiv.org/abs/2608.10153",
+          "source": "arXiv AI/ML",
+          "summary": "10153v1 Announce Type: new Abstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built f",
+          "category": "research",
+          "published_at": "2026-08-12T00:00:00-04:00",
+          "author": "Srinivas Telukunta, Georgios Nektarios Lilis, Lucio Baron",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+          "url": "https://arxiv.org/abs/2608.10157",
+          "source": "arXiv AI/ML",
+          "summary": "10157v1 Announce Type: new Abstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve their performance over time Recentl",
+          "category": "research",
+          "published_at": "2026-08-12T00:00:00-04:00",
+          "author": "Vivek Kulkarni, Sudipta Paul, Aounon Kumar, Nicholas Tzou, Srinivas Chappidi",
+          "tags": [
+            "cs.AI"
           ]
         }
       ]

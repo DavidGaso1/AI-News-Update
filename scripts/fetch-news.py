@@ -13,6 +13,7 @@ import time
 import sqlite3
 from dataclasses import dataclass, asdict, field
 from datetime import datetime, timezone, timedelta
+from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urljoin, urlparse
@@ -186,6 +187,7 @@ class NewsFetcher:
         )
         self.articles: list[Article] = []
         self.seen_urls: set[str] = set()
+        self.seen_titles: set[str] = set()
 
     async def __aenter__(self):
         return self
@@ -196,10 +198,10 @@ class NewsFetcher:
     def _normalize_url(self, url: str) -> str:
         """Normalize URL for deduplication."""
         parsed = urlparse(url)
-        # Remove tracking params
+        # Remove tracking params (utm_*, social share refs, Tw/X share code 's')
         clean_query = "&".join(
             p for p in parsed.query.split("&")
-            if not p.startswith(("utm_", "ref", "source", "medium", "campaign", "fbclid", "gclid"))
+            if p and not p.startswith(("utm_", "ref", "source", "medium", "campaign", "fbclid", "gclid", "s=", "t="))
         )
         return parsed._replace(query=clean_query, fragment="").geturl().rstrip("/")
 
@@ -208,6 +210,31 @@ class NewsFetcher:
         if norm in self.seen_urls:
             return True
         self.seen_urls.add(norm)
+        return False
+
+    def _normalize_title(self, title: str) -> str:
+        """Normalize a title for near-duplicate detection."""
+        t = title.strip()
+        # Strip retweet / reply prefixes
+        t = re.sub(r"^(RT by @[^:]+:|RT @[^:]+:|R to @[^:]+:|@\w+\s*:)\s*", "", t, flags=re.IGNORECASE)
+        # Remove URLs
+        t = re.sub(r"https?://\S+", "", t)
+        # Keep letters, digits, spaces only
+        t = re.sub(r"[^a-z0-9\s]", " ", t.lower())
+        t = re.sub(r"\s+", " ", t).strip()
+        return t[:120]
+
+    def _is_title_duplicate(self, title: str) -> bool:
+        """Cross-source near-duplicate detection by fuzzy title similarity."""
+        key = self._normalize_title(title)
+        if not key:
+            return True  # too noisy to be useful
+        if key in self.seen_titles:
+            return True
+        for k in self.seen_titles:
+            if SequenceMatcher(None, key, k).ratio() > 0.88:
+                return True
+        self.seen_titles.add(key)
         return False
 
     def _parse_date(self, date_str: str) -> str:
@@ -341,7 +368,7 @@ Summary:"""
 
                 # Get title
                 title = entry.get("title", "").strip()
-                if not title:
+                if not title or self._is_title_duplicate(title):
                     continue
 
                 # Get date
@@ -432,6 +459,9 @@ Summary:"""
                 if subreddit_match:
                     title = title[subreddit_match.end():].strip()
 
+                if self._is_title_duplicate(title):
+                    continue
+
                 category = self._categorize(title, content, name)
 
                 print(f"    📝 Summarizing: {title[:60]}...")
@@ -491,7 +521,7 @@ Summary:"""
                     continue
 
                 title = hit.get("title", "").strip()
-                if not title:
+                if not title or self._is_title_duplicate(title):
                     continue
 
                 # Get content from HN comment or story text
@@ -554,6 +584,10 @@ Summary:"""
                     if not title:
                         continue
 
+                    # Skip retweets and quote-RTs (the biggest source of duplicate noise)
+                    if re.match(r"^(RT by @|RT @|R to @)", title):
+                        continue
+
                     content = self._clean_html(entry.get("summary", "") or entry.get("description", ""))
 
                     published = entry.get("published", "") or entry.get("updated", "")
@@ -562,10 +596,12 @@ Summary:"""
                     if not self._is_recent(published_iso, days=1):
                         continue
 
-                    # Skip retweets/replies unless they have substantial content
-                    if title.startswith("RT @") or title.startswith("@"):
-                        if len(content) < 100:
-                            continue
+                    # Skip replies unless they carry substantial content
+                    if title.startswith("@") and len(content) < 100:
+                        continue
+
+                    if self._is_title_duplicate(title):
+                        continue
 
                     category = self._categorize(title, content, f"Twitter/@{username}")
 

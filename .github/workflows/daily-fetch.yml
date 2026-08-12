@@ -71,6 +71,19 @@ jobs:
             echo "ℹ️ No changes to newsletter data"
           fi
       
+      - name: Send morning digest (email + Telegram)
+        # Sends the daily briefing to every configured channel (Resend email,
+        # Telegram). Channels with missing credentials are skipped, so this
+        # stays green while a channel is still being set up.
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NEWSLETTER_FROM: ${{ secrets.NEWSLETTER_FROM }}
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python3 scripts/send_digest.py
+
       - name: Upload logs as artifact
         uses: actions/upload-artifact@v4
         if: always()
