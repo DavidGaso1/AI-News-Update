@@ -4,18 +4,20 @@
 
 An automated AI newsletter that fetches, deduplicates, summarizes, and categorizes AI news from multiple sources daily — then delivers a morning briefing to your inbox and Telegram.
 
+🌐 **Live site:** [ainl.vercel.app](https://ainl.vercel.app) — public, updated every morning at 6 AM UTC.
+
 ## Features
 
 - **Automated daily fetching** at 6 AM UTC via GitHub Actions cron
 - **Multiple sources**: RSS feeds, Reddit, Hacker News, Twitter/X (via Nitter)
-- **Aggressive deduplication**: retweet/quote-RT filtering, cross-source fuzzy title matching, and URL normalization (strips tracking params like `utm_*`, `s=`, `t=`)
+- **Aggressive deduplication**: retweet/quote-RT filtering, cross-source fuzzy title matching, URL normalization (strips tracking params like `utm_*`, `s=`, `t=`), and **cross-day dedup** against the committed archive
 - **Morning digest channels**:
-  - 📧 **Email** via Resend (beautiful HTML + plain-text fallback)
+  - 📧 **Email** via Resend (beautiful HTML + plain-text fallback, multi-recipient support)
   - ✈️ **Telegram** via bot (compact HTML message)
 - **LLM-powered summarization** using Hermes Agent (falls back to extractive)
 - **Smart categorization**: Breaking News, Research Papers, Industry Updates, Tools & Releases
 - **Modern, responsive web UI** with dark/light theme toggle
-- **Static site** — no backend needed, Vercel auto-deploys on push
+- **Static site** — no backend needed, auto-deployed to [Vercel](https://ainl.vercel.app) on every push
 
 ## Project Structure
 
@@ -55,7 +57,8 @@ python3 scripts/fetch-news.py
 ```
 
 ### View newsletter
-Open `index.html` in a browser, or serve locally:
+- **Live:** [ainl.vercel.app](https://ainl.vercel.app) (public, auto-updated by the 6 AM cron)
+- **Locally:** open `index.html` in a browser, or serve it:
 ```bash
 python3 -m http.server 8080
 # Then open http://localhost:8080
@@ -103,6 +106,7 @@ python3 scripts/send_digest.py --telegram-only
 | `TELEGRAM_BOT_TOKEN` | Bot token from @BotFather |
 | `TELEGRAM_CHAT_ID` | Chat/user ID to receive the Telegram digest |
 | `DEDUP_ARCHIVE_DAYS` | Cross-day dedup window in days (default 14) |
+| `ARCHIVE_RETENTION_DAYS` | How much archive history is kept (default 180) |
 | `HERMES_API_URL` | LLM API endpoint (default: localhost:8080/v1) |
 | `HERMES_MODEL` | Model name (default: nemotron-3-ultra-free) |
 | `HERMES_PROVIDER` | Provider (default: opencode-zen) |
@@ -117,6 +121,14 @@ The fetcher applies **four** layers of deduplication, so the same story told by 
 4. **Cross-day dedup** — before fetching, the fetcher loads the committed `archive.json` (last `DEDUP_ARCHIVE_DAYS`, default 14) and seeds its seen-URLs/titles sets, so a story already covered yesterday won't reappear in today's digest. The archive itself now **accumulates history** across runs (previously each CI run rebuilt it from a fresh DB and wiped old days).
 
 These behaviors are covered by unit checks in `tests.yml`, so a regression fails CI.
+
+## Deployment
+
+The site is a static page served by Vercel and auto-deployed on every push to `master` (via the GitHub integration in `vercel.json`). `data/newsletter.json` and `data/archive.json` are committed by the daily cron, so each deploy publishes the freshest news.
+
+- **Live URL:** `ainl.vercel.app`
+- **Archive page:** `ainl.vercel.app/archive.html`
+- The site is fully public — no login or SSO required.
 
 ## Data Sources
 
