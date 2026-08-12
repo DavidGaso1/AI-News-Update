@@ -54,11 +54,19 @@ jobs:
           if ! git diff --quiet data/newsletter.json; then
             git add data/newsletter.json data/archive.json
             git commit -m "🤖 Daily AI news update $(date '+%Y-%m-%d')"
-            # Rebase over any concurrent run's push (e.g. manual dispatch overlapping the cron).
-            # -X theirs keeps THIS run's freshly generated data when both runs wrote it.
-            git pull --rebase -X theirs origin master
-            git push
-            echo "✅ Pushed updated newsletter data"
+            # Rebase + push with retries so concurrent runs (e.g. a manual dispatch
+            # overlapping the cron) can't race us out. -X theirs keeps THIS run's
+            # freshly generated data when both runs wrote the same files.
+            for i in 1 2 3 4 5; do
+              if git pull --rebase -X theirs origin master && git push; then
+                echo "✅ Pushed updated newsletter data"
+                exit 0
+              fi
+              echo "⚠️ push attempt $i failed — rebasing and retrying..."
+              sleep 5
+            done
+            echo "❌ Could not push after 5 attempts"
+            exit 1
           else
             echo "ℹ️ No changes to newsletter data"
           fi
