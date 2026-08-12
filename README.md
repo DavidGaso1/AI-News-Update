@@ -72,7 +72,8 @@ The `daily-fetch.yml` workflow fetches news at **6:00 UTC**, commits the fresh d
 3. Add these GitHub secrets to the repo:
    - `RESEND_API_KEY`
    - `NEWSLETTER_FROM` — e.g. `AI News <news@yourdomain.com>`
-   - `NEWSLETTER_TO` — the recipient, e.g. `you@example.com`
+   - `NEWSLETTER_TO` — the main recipient, e.g. `you@example.com`
+   - `NEWSLETTER_SUBSCRIBERS` *(optional)* — comma-separated extra recipients, e.g. `a@x.com,b@y.com`. Everyone on this list gets the same morning briefing.
 
 ### 2. Telegram
 
@@ -97,20 +98,23 @@ python3 scripts/send_digest.py --telegram-only
 |---|---|
 | `RESEND_API_KEY` | Resend API key for email channel |
 | `NEWSLETTER_FROM` | Sender address shown in the email |
-| `NEWSLETTER_TO` | Email recipient of the digest |
+| `NEWSLETTER_TO` | Main email recipient of the digest |
+| `NEWSLETTER_SUBSCRIBERS` | *(optional)* Comma-separated extra recipients who also get the digest |
 | `TELEGRAM_BOT_TOKEN` | Bot token from @BotFather |
 | `TELEGRAM_CHAT_ID` | Chat/user ID to receive the Telegram digest |
+| `DEDUP_ARCHIVE_DAYS` | Cross-day dedup window in days (default 14) |
 | `HERMES_API_URL` | LLM API endpoint (default: localhost:8080/v1) |
 | `HERMES_MODEL` | Model name (default: nemotron-3-ultra-free) |
 | `HERMES_PROVIDER` | Provider (default: opencode-zen) |
 
 ## Redundancy control
 
-The fetcher applies three layers of deduplication, so the same story told by multiple accounts or sources appears once:
+The fetcher applies **four** layers of deduplication, so the same story told by multiple accounts, sources, or days appears once:
 
 1. **Retweet filtering** — entries starting with `RT by @`, `RT @`, or `R to @` are skipped outright (the biggest source of noise).
 2. **Fuzzy title matching** — normalized titles (retweet prefixes, URLs, punctuation stripped) are compared across all sources with a `SequenceMatcher` similarity threshold of 0.88.
 3. **URL normalization** — tracking params (`utm_*`, `ref`, `source`, `s=`, `t=`, etc.) and trailing slashes are removed before comparing URLs.
+4. **Cross-day dedup** — before fetching, the fetcher loads the committed `archive.json` (last `DEDUP_ARCHIVE_DAYS`, default 14) and seeds its seen-URLs/titles sets, so a story already covered yesterday won't reappear in today's digest. The archive itself now **accumulates history** across runs (previously each CI run rebuilt it from a fresh DB and wiped old days).
 
 These behaviors are covered by unit checks in `tests.yml`, so a regression fails CI.
 

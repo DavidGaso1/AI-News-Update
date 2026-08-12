@@ -4,6 +4,7 @@
 Channels (each is enabled only when its environment variables are set):
 
   Email (Resend):   RESEND_API_KEY, NEWSLETTER_FROM, NEWSLETTER_TO
+                    + optional NEWSLETTER_SUBSCRIBERS (comma-separated extra recipients)
   Telegram:         TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
 
 Usage:
@@ -154,10 +155,16 @@ def build_telegram(data, total=TELEGRAM_TOTAL):
     return "\n".join(lines)
 
 
+def parse_recipients(raw):
+    """Split a comma-separated recipient list, dropping empties and whitespace."""
+    return [r.strip() for r in (raw or "").split(",") if r.strip()]
+
+
 def send_resend(subject, html_body, text_body):
     api_key = os.environ.get("RESEND_API_KEY")
     frm = os.environ.get("NEWSLETTER_FROM")
-    to = os.environ.get("NEWSLETTER_TO")
+    to = parse_recipients(os.environ.get("NEWSLETTER_TO"))
+    to += parse_recipients(os.environ.get("NEWSLETTER_SUBSCRIBERS"))
     if not (api_key and frm and to):
         print("ℹ Email channel not configured (RESEND_API_KEY / NEWSLETTER_FROM / NEWSLETTER_TO) — skipping")
         return False
@@ -179,7 +186,7 @@ def send_resend(subject, html_body, text_body):
         print(f"❌ Email failed (network): {e}")
         return False
     if resp.status_code in (200, 201):
-        print(f"✅ Email sent to {to} (id {resp.json().get('id', '?')})")
+        print(f"✅ Email sent to {', '.join(to)} (id {resp.json().get('id', '?')})")
         return True
     print(f"❌ Email failed ({resp.status_code}): {resp.text[:300]}")
     return False

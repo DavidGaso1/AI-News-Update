@@ -30,7 +30,12 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 DATA_DIR = Path(__file__).parent.parent / "data"
 OUTPUT_FILE = DATA_DIR / "newsletter.json"
 DB_FILE = DATA_DIR / "newsletter.db"
+ARCHIVE_FILE = DATA_DIR / "archive.json"
 SOURCES_FILE = Path(__file__).parent.parent / "sources.json"
+
+# Cross-day dedup window: stories archived within this many days are treated as
+# already covered and won't reappear in the digest. Older stories can return.
+DEDUP_ARCHIVE_DAYS = int(os.environ.get("DEDUP_ARCHIVE_DAYS", "14"))
 
 # LLM Configuration (uses Hermes Agent's built-in tools)
 LLM_MODEL = os.environ.get("HERMES_MODEL", "nemotron-3-ultra-free")
@@ -741,8 +746,46 @@ def save_to_database(conn: sqlite3.Connection, articles: list[Article], date_key
     return saved
 
 
+def load_archive_seen(archive_file: Path, days: int = DEDUP_ARCHIVE_DAYS):
+    """Load URLs and normalized titles from the committed archive for cross-day dedup.
+
+    The SQLite DB is gitignored and rebuilt fresh each CI run, so the committed
+    archive.json is the only persistent memory of what has already been covered.
+    Returns (seen_urls, seen_titles) seed sets for the fetcher.
+    """
+    seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
+    if not archive_file.exists():
+        return seen_urls, seen_titles
+    try:
+        data = json.loads(archive_file.read_text(encoding="utf-8"))
+        archive = data.get("archive", []) or []
+    except Exception:
+        return seen_urls, seen_titles
+
+    # Reuse the normalize helpers without constructing a network client
+    f = object.__new__(NewsFetcher)
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).date().isoformat()
+    for day in archive:
+        if day.get("date", "") < cutoff:
+            continue
+        for a in day.get("articles", []) or []:
+            url = a.get("url") or ""
+            if url:
+                seen_urls.add(f._normalize_url(url))
+            title = a.get("title") or ""
+            key = f._normalize_title(title)
+            if key:
+                seen_titles.add(key)
+    return seen_urls, seen_titles
+
+
 def build_archive_index(conn: sqlite3.Connection, output_path: Path):
-    """Build a static archive index JSON from the database."""
+    """Build a static archive index JSON from the database, preserving history.
+
+    Merges with any previously committed archive.json so past days accumulate
+    (the DB is gitignored and doesn't survive between CI runs).
+    """
     cursor = conn.cursor()
 
     # Get all unique dates with article counts
@@ -797,13 +840,26 @@ def build_archive_index(conn: sqlite3.Connection, output_path: Path):
             ]
         })
 
+    # Merge with the previously committed archive so history accumulates across
+    # runs (the DB is regenerated fresh in CI and would otherwise lose old days).
+    prev_by_date = {}
+    if output_path.exists():
+        try:
+            prev = json.loads(output_path.read_text(encoding="utf-8")).get("archive", [])
+            prev_by_date = {d["date"]: d for d in prev if d.get("date")}
+        except Exception:
+            pass
+    for entry in archive:
+        prev_by_date[entry["date"]] = entry
+    merged = sorted(prev_by_date.values(), key=lambda d: d["date"], reverse=True)
+
     with open(output_path, "w") as f:
         json.dump({
             "generated_at": datetime.now(timezone.utc).isoformat(),
-            "archive": archive
+            "archive": merged
         }, f, indent=2, ensure_ascii=False)
 
-    print(f"📚 Archive index built: {len(archive)} days, saved to {output_path}")
+    print(f"📚 Archive index built: {len(merged)} days, saved to {output_path}")
 
 
 async def main():
@@ -821,6 +877,14 @@ async def main():
     conn = init_database(DB_FILE)
 
     async with NewsFetcher() as fetcher:
+        # Cross-day dedup: seed seen sets from the committed archive so stories
+        # already covered in previous days don't reappear in today's digest.
+        seen_urls, seen_titles = load_archive_seen(ARCHIVE_FILE)
+        fetcher.seen_urls |= seen_urls
+        fetcher.seen_titles |= seen_titles
+        if seen_urls or seen_titles:
+            print(f"📚 Cross-day dedup: {len(seen_urls)} urls + {len(seen_titles)} titles loaded from archive")
+
         articles = await fetcher.fetch_all()
 
         # Date key for today's batch
@@ -831,8 +895,7 @@ async def main():
         print(f"\n💾 Saved {saved} new articles to database ({DB_FILE})")
 
         # Build archive index
-        archive_file = DATA_DIR / "archive.json"
-        build_archive_index(conn, archive_file)
+        build_archive_index(conn, ARCHIVE_FILE)
 
         # Convert to dict for JSON serialization (current day only)
         data = {

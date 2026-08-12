@@ -2,7 +2,6 @@
   "buildCommand": "echo 'Static site - no build needed'",
   "outputDirectory": ".",
   "devCommand": "python3 -m http.server 8000",
-  "framework": "none",
   "rewrites": [
     {
       "source": "/data/(.*)",
