@@ -1,71 +1,16 @@
 {
-  "generated_at": "2026-07-30T10:36:54.690209+00:00",
-  "article_count": 31,
+  "generated_at": "2026-08-12T07:18:56.181400+00:00",
+  "article_count": 50,
   "categories": {
     "breaking": [
       {
-        "title": "Think of the children, another excuse for them to go after open source AI",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-30T10:28:13+00:00",
-        "fetched_at": "2026-07-30T10:36:45.641134+00:00",
-        "author": "/u/MaruluVR",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what ",
-        "url": "https://nitter.net/OpenAI/status/2082616641834422740#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T23:57:55+00:00",
-        "fetched_at": "2026-07-30T10:36:48.054070+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and pro",
-        "url": "https://nitter.net/OpenAI/status/2082616643394703682#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T23:57:55+00:00",
-        "fetched_at": "2026-07-30T10:36:48.057460+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what ",
-        "url": "https://nitter.net/OpenAI/status/2082616636989952217#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T23:57:54+00:00",
-        "fetched_at": "2026-07-30T10:36:48.051251+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "RT by @huggingface: We are super excited to release Trackio Logbooks: the perfect way to capture all of your AI experiments as an optimized static html bundle 🔥 Upgrade to Trackio 0.34.0 and start rec",
-        "url": "https://nitter.net/abidlabs/status/2082601407539229137#m",
+        "title": "RT by @huggingface: Try it today --> https://bit.ly/4xFJBUN",
+        "url": "https://nitter.net/ltx_io/status/2087255205045825964#m",
         "source": "Twitter/@HuggingFace",
-        "summary": "",
+        "summary": "ly/4xFJBUN Link LTX-2 5 - a Lightricks Collection LTX-2 5 base models, quantized models and accompanying LoRAs and IC-LoRAs huggingface",
         "category": "breaking",
-        "published_at": "2026-07-29T22:57:23+00:00",
-        "fetched_at": "2026-07-30T10:36:47.085383+00:00",
+        "published_at": "2026-08-11T19:09:54+00:00",
+        "fetched_at": "2026-08-12T07:18:55.000533+00:00",
         "author": "HuggingFace",
         "tags": [
           "twitter",
@@ -73,345 +18,666 @@
         ]
       },
       {
-        "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. -",
-        "url": "https://nitter.net/OpenAI/status/2082577277246972300#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T21:21:29+00:00",
-        "fetched_at": "2026-07-30T10:36:48.058995+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "The open-weights carousel never stops.",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va73s6/the_openweights_carousel_never_stops/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T19:54:19+00:00",
-        "fetched_at": "2026-07-30T10:36:45.623093+00:00",
-        "author": "/u/InternationalGap3698",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Kimi K3 for local use (1.56TB → 594GB) compressed and released by Unsloth",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va6ot2/kimi_k3_for_local_use_156tb_594gb_compressed_and/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T19:39:41+00:00",
-        "fetched_at": "2026-07-30T10:36:45.627290+00:00",
-        "author": "/u/BankApprehensive7612",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "R to @OpenAI: We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in the",
-        "url": "https://nitter.net/OpenAI/status/2082516372656111654#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T17:19:29+00:00",
-        "fetched_at": "2026-07-30T10:36:48.064866+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "R to @OpenAI: Participants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data ",
-        "url": "https://nitter.net/OpenAI/status/2082516374010974228#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T17:19:29+00:00",
-        "fetched_at": "2026-07-30T10:36:48.067911+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027. ChatGPT for Academic Researchers is bu",
-        "url": "https://nitter.net/OpenAI/status/2082516370949062989#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "breaking",
-        "published_at": "2026-07-29T17:19:28+00:00",
-        "fetched_at": "2026-07-30T10:36:48.063394+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "Pro tip: add in a \"Sign-In with Hugging Face\" OAuth button to your website/app so that community members can easily share their email, create model/dataset repos, store data in Buckets, or even kick o",
-        "url": "https://nitter.net/huggingface/status/2082502249784451163#m",
+        "title": "RT by @huggingface: Introducing LTX-2.5, the world model the world builds on. One of the biggest upgrades yet to the model already powering film, robotics, and real-time workflows. Higher pixel fideli",
+        "url": "https://nitter.net/ltx_io/status/2087255203489755243#m",
         "source": "Twitter/@HuggingFace",
-        "summary": "",
+        "summary": "5, the world model the world builds on One of the biggest upgrades yet to the model already powering film, robotics, and real-time workflows Higher pixel fidelity, multishot scenes that hold together ",
         "category": "breaking",
-        "published_at": "2026-07-29T16:23:22+00:00",
-        "fetched_at": "2026-07-30T10:36:47.087380+00:00",
+        "published_at": "2026-08-11T19:09:54+00:00",
+        "fetched_at": "2026-08-12T07:18:55.001467+00:00",
         "author": "HuggingFace",
         "tags": [
           "twitter",
           "huggingface"
         ]
+      },
+      {
+        "title": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb o",
+        "url": "https://nitter.net/OpenAI/status/2087248033906094175#m",
+        "source": "Twitter/@OpenAI",
+        "summary": "The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24 04 LTS • Debian 13 • Fedora 43 and 44 Install with rpm packages for x64 or ARM64",
+        "category": "breaking",
+        "published_at": "2026-08-11T18:41:25+00:00",
+        "fetched_at": "2026-08-12T07:18:24.996638+00:00",
+        "author": "OpenAI",
+        "tags": [
+          "twitter",
+          "openai"
+        ]
+      },
+      {
+        "title": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+        "url": "https://nitter.net/OpenAI/status/2087231350134980830#m",
+        "source": "Twitter/@OpenAI",
+        "summary": "Now in preview: The ChatGPT desktop app for Linux Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems",
+        "category": "breaking",
+        "published_at": "2026-08-11T17:35:07+00:00",
+        "fetched_at": "2026-08-12T07:18:24.995485+00:00",
+        "author": "OpenAI",
+        "tags": [
+          "twitter",
+          "openai"
+        ]
+      },
+      {
+        "title": "RT by @huggingface: 💚 @nvidia Nemotron 3.5 Lightning is here to power more efficient agents! 30B LatentMoE, 3B active. NVFP4 and BF16. Up to 1M context. MTP, DFlash and DSpark. Tool use. Multilingual.",
+        "url": "https://nitter.net/alvarobartt/status/2087162934090731799#m",
+        "source": "Twitter/@HuggingFace",
+        "summary": "5 Lightning is here to power more efficient agents 30B LatentMoE, 3B active MTP, DFlash and DSpark",
+        "category": "breaking",
+        "published_at": "2026-08-11T13:03:15+00:00",
+        "fetched_at": "2026-08-12T07:18:55.002442+00:00",
+        "author": "HuggingFace",
+        "tags": [
+          "twitter",
+          "huggingface"
+        ]
+      },
+      {
+        "title": "RT by @huggingface: Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It deliver",
+        "url": "https://nitter.net/NVIDIAAI/status/2087162151995629926#m",
+        "source": "Twitter/@HuggingFace",
+        "summary": "Introducing NVIDIA Nemotron 3 5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster It delivers up to 4x the output",
+        "category": "breaking",
+        "published_at": "2026-08-11T13:00:09+00:00",
+        "fetched_at": "2026-08-12T07:18:55.003167+00:00",
+        "author": "HuggingFace",
+        "tags": [
+          "twitter",
+          "huggingface"
+        ]
+      },
+      {
+        "title": "Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI Blog",
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control",
+        "category": "breaking",
+        "published_at": "2026-08-11T10:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.446619+00:00",
+        "author": "",
+        "tags": [
+          "Company"
+        ]
+      },
+      {
+        "title": "Daybreak models are now available on AWS",
+        "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+        "source": "OpenAI Blog",
+        "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows",
+        "category": "breaking",
+        "published_at": "2026-08-11T10:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.447360+00:00",
+        "author": "",
+        "tags": [
+          "Product"
+        ]
+      },
+      {
+        "title": "What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI Blog",
+        "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI",
+        "category": "breaking",
+        "published_at": "2026-08-10T17:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.449366+00:00",
+        "author": "",
+        "tags": [
+          "Company"
+        ]
+      },
+      {
+        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+        "source": "OpenAI Blog",
+        "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas The letter supports reliable, transparent growth that benefits Texans",
+        "category": "breaking",
+        "published_at": "2026-08-10T14:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.448030+00:00",
+        "author": "",
+        "tags": [
+          "Global Affairs"
+        ]
+      },
+      {
+        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI Blog",
+        "summary": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing",
+        "category": "breaking",
+        "published_at": "2026-08-10T10:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.450019+00:00",
+        "author": "",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "title": "Putting frontier cyber models in more trusted hands",
+        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+        "source": "OpenAI Blog",
+        "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers",
+        "category": "breaking",
+        "published_at": "2026-08-10T10:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.450684+00:00",
+        "author": "",
+        "tags": [
+          "Security"
+        ]
+      },
+      {
+        "title": "Premium seats are coming to ChatGPT Business",
+        "url": "https://openai.com/index/premium-seats-chatgpt-business",
+        "source": "OpenAI Blog",
+        "summary": "Premium seats are coming to ChatGPT Business Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work",
+        "category": "breaking",
+        "published_at": "2026-08-10T00:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.451346+00:00",
+        "author": "",
+        "tags": [
+          "Product"
+        ]
+      },
+      {
+        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+        "url": "https://openai.com/index/zapier",
+        "source": "OpenAI Blog",
+        "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting",
+        "category": "breaking",
+        "published_at": "2026-08-10T00:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.451984+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+        "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+        "source": "OpenAI Blog",
+        "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey",
+        "category": "breaking",
+        "published_at": "2026-08-10T00:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:04.452643+00:00",
+        "author": "",
+        "tags": []
       }
     ],
     "research": [
       {
-        "title": "Ilintar's Official Guide To Model Selection",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va4i9e/ilintars_official_guide_to_model_selection/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
+        "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+        "url": "https://arxiv.org/abs/2608.09949",
+        "source": "arXiv AI/ML",
+        "summary": "09949v1 Announce Type: new Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experiment",
         "category": "research",
-        "published_at": "2026-07-29T18:23:54+00:00",
-        "fetched_at": "2026-07-30T10:36:45.735976+00:00",
-        "author": "/u/ilintar",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.979791+00:00",
+        "author": "Serge Kernbach",
         "tags": [
-          "reddit"
+          "cs.AI",
+          "physics.bio-ph"
         ]
       },
       {
-        "title": "I keep coming back to Qwen... Over and Over. Is there really nothing better under 120B?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9xsi8/i_keep_coming_back_to_qwen_over_and_over_is_there/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
+        "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.09967",
+        "source": "arXiv AI/ML",
+        "summary": "09967v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret We i",
         "category": "research",
-        "published_at": "2026-07-29T14:27:51+00:00",
-        "fetched_at": "2026-07-30T10:36:45.647204+00:00",
-        "author": "/u/Possible_Grocery8079",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.980750+00:00",
+        "author": "Tamar Gozlan, Claudia V. Goldman",
         "tags": [
-          "reddit"
+          "cs.AI",
+          "cs.LG"
         ]
       },
       {
-        "title": "\"Uncensored\" LLMs are measurably more optimistic than their base models",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9vwev/uncensored_llms_are_measurably_more_optimistic/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
+        "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+        "url": "https://arxiv.org/abs/2608.09986",
+        "source": "arXiv AI/ML",
+        "summary": "09986v1 Announce Type: new Abstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs However, real-world applications frequently encounter incomplete",
         "category": "research",
-        "published_at": "2026-07-29T13:15:09+00:00",
-        "fetched_at": "2026-07-30T10:36:45.726656+00:00",
-        "author": "/u/oleczek",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.981754+00:00",
+        "author": "Yuhua Wen, Yingying Zhou, Qifei Li, Yingming Gao, Zhengqi Wen, Jianhua Tao, Ya Li",
         "tags": [
-          "reddit"
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+        "url": "https://arxiv.org/abs/2608.09998",
+        "source": "arXiv AI/ML",
+        "summary": "09998v1 Announce Type: new Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks Despite their benefits, growing",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.982736+00:00",
+        "author": "Samar Garrab, Sarra Boughriou, Manel BenSassi",
+        "tags": [
+          "cs.AI",
+          "cs.CY",
+          "cs.LG",
+          "cs.SE"
+        ]
+      },
+      {
+        "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+        "url": "https://arxiv.org/abs/2608.10004",
+        "source": "arXiv AI/ML",
+        "summary": "10004v1 Announce Type: new Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and tes",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.983605+00:00",
+        "author": "An Sui, Yuzhu Li, Fuping Wu, Xiahai Zhuang",
+        "tags": [
+          "cs.AI",
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+        "url": "https://arxiv.org/abs/2608.10030",
+        "source": "arXiv AI/ML",
+        "summary": "10030v1 Announce Type: new Abstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical Yet behavioral scientific research on AI agents rema",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.984430+00:00",
+        "author": "Soo Yong Lee, Jongha Lee, Jaewan Chun, Hyunjin Hwang, Fanchen Bu, Ziv Ben-Zion, Taekwan Kim, Denny Borsboom, Jaemin Yoo, Kijung Shin",
+        "tags": [
+          "cs.AI",
+          "cs.MA"
+        ]
+      },
+      {
+        "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+        "url": "https://arxiv.org/abs/2608.10090",
+        "source": "arXiv AI/ML",
+        "summary": "10090v1 Announce Type: new Abstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal than textual imitation alone Hardwar",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.985236+00:00",
+        "author": "Hejia Zhang, Sheng Lu, Zhongming Yu, Chia-Tung Ho, Brucek Khailany, Jishen Zhao",
+        "tags": [
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+        "url": "https://arxiv.org/abs/2608.10108",
+        "source": "arXiv AI/ML",
+        "summary": "10108v1 Announce Type: new Abstract: Long-horizon agents accumulate trajectories spanning hundreds of interleaved reasoning, action, and observation steps, where answering a query may depend on eviden",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.986172+00:00",
+        "author": "Beidi Zhao, Yaoqi Chen, Yuru Feng, Menghao Li, Qianxi Zhang, Baotong Lu, Jianan Lu, Zhirui Wang, Xinjiang Wang, Shusen Xu, Zengzhong Li, Xiaoxiao Li, Qi Chen",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+        "url": "https://arxiv.org/abs/2608.10153",
+        "source": "arXiv AI/ML",
+        "summary": "10153v1 Announce Type: new Abstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built f",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.987099+00:00",
+        "author": "Srinivas Telukunta, Georgios Nektarios Lilis, Lucio Baron",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+        "url": "https://arxiv.org/abs/2608.10157",
+        "source": "arXiv AI/ML",
+        "summary": "10157v1 Announce Type: new Abstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve their performance over time Recentl",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.987986+00:00",
+        "author": "Vivek Kulkarni, Sudipta Paul, Aounon Kumar, Nicholas Tzou, Srinivas Chappidi",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Generating Attacks for LLMs with GFlowNets",
+        "url": "https://arxiv.org/abs/2608.10171",
+        "source": "arXiv AI/ML",
+        "summary": "10171v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading to widespread adoption However, th",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.988829+00:00",
+        "author": "Berkay Ozcam, Irem Onen, Mehmet Fatih Amasyali, Emin Islam Tatli",
+        "tags": [
+          "cs.AI",
+          "cs.CR"
+        ]
+      },
+      {
+        "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+        "url": "https://arxiv.org/abs/2608.10176",
+        "source": "arXiv AI/ML",
+        "summary": "10176v1 Announce Type: new Abstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making sure that the recommendations respec",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.989698+00:00",
+        "author": "Touseef Hasan, Laila Cure, Souvika Sarkar",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents",
+        "url": "https://arxiv.org/abs/2608.10198",
+        "source": "arXiv AI/ML",
+        "summary": "10198v1 Announce Type: new Abstract: Latent-space communication allows heterogeneous vision-language model agents to exchange continuous representations without serializing visual and reasoning states",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.990593+00:00",
+        "author": "Di Wu, Xiaohui Zhu",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Edge Phoneme Recognition for Children's Speech through Age-Aware Training",
+        "url": "https://arxiv.org/abs/2608.10206",
+        "source": "arXiv AI/ML",
+        "summary": "10206v1 Announce Type: new Abstract: Detecting phonemes from children's speech has historically been difficult due to the scarcity of training data, and unique characteristics of children's speech Dur",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.991375+00:00",
+        "author": "Matthew Arboleda, Ryan Arboleda, Sophie Haak, Sam Hjelmeset, Andrew Franck, Bingrui Yang, Jose Bustamante Ortiz, Yuanrong Shen, Joel Walsh",
+        "tags": [
+          "cs.AI",
+          "cs.CL",
+          "cs.SD"
+        ]
+      },
+      {
+        "title": "Mitigating Bus Bunching with Reinforcement Learning Enhanced by Semantic Stop Embedding",
+        "url": "https://arxiv.org/abs/2608.10207",
+        "source": "arXiv AI/ML",
+        "summary": "10207v1 Announce Type: new Abstract: Bus bunching degrades service regularity and increases passenger waiting in high-frequency transit Existing reinforcement-learning-based holding controllers primar",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.992287+00:00",
+        "author": "Xin Dong, Vikash V. Gayah",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes",
+        "url": "https://arxiv.org/abs/2608.10209",
+        "source": "arXiv AI/ML",
+        "summary": "10209v1 Announce Type: new Abstract: Feedback signals used to train Large Language Models (LLMs) are the primary driver of their behavior and our main lever for instilling alignment with human values ",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.993101+00:00",
+        "author": "Alec Harris, Kasey Corra, Archie Chaudhury, Yixiong Hao",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models",
+        "url": "https://arxiv.org/abs/2608.10214",
+        "source": "arXiv AI/ML",
+        "summary": "10214v1 Announce Type: new Abstract: Do large language models contain domain-specific parametric shells: concentrated, causally necessary neuron populations whose removal selectively degrades a target",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.993933+00:00",
+        "author": "Marcus Armstrong, Navid Ayoobi, Arjun Mukherjee",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2608.10218",
+        "source": "arXiv AI/ML",
+        "summary": "10218v1 Announce Type: new Abstract: AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction One such risk i",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.994814+00:00",
+        "author": "Vassilis Papadopoulos, McNair Shah, Sam Zimmerman, Jack Lindsey",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Self-evolving Agentic Customer Support System at LinkedIn",
+        "url": "https://arxiv.org/abs/2608.10224",
+        "source": "arXiv AI/ML",
+        "summary": "10224v1 Announce Type: new Abstract: Enterprise support agents operate in rapidly changing environments where policies, product capabilities, and knowledge bases evolve continuously, making static ass",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.995619+00:00",
+        "author": "Chih Hui Wang, Mengdie Tu, Qianyun Zhang, Wei Wu, Lili Zhou, Mingqi Shen, Changshuai Wei",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Beyond Decision Boundaries: Relational Geometry Attacks on Contrastive Embedding Manifolds",
+        "url": "https://arxiv.org/abs/2608.10237",
+        "source": "arXiv AI/ML",
+        "summary": "10237v1 Announce Type: new Abstract: Contrastive learning and Siamese embedding models have become the foundation of modern verification systems, where decisions are governed not by discrete classific",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.996497+00:00",
+        "author": "Fei Zhao, Peiyuan Zhang, Xi Li, Chengcui Zhang, Nitesh Saxena",
+        "tags": [
+          "cs.AI",
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Beyond Detection: Evaluating Defensive LLMs Against AI-Generated Social Engineering in Live Turn-by-Turn Interaction",
+        "url": "https://arxiv.org/abs/2608.10239",
+        "source": "arXiv AI/ML",
+        "summary": "10239v1 Announce Type: new Abstract: Generative AI makes social-engineering attacks more fluent, adaptive, and scalable, increasing the need for LLM-based de- fenders that can protect users during ong",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.997368+00:00",
+        "author": "Yuqiao Xu, Osama Zafar, Alexander Nemecek, Erman Ayday",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Interpreting Language Model Hidden States at Scale",
+        "url": "https://arxiv.org/abs/2608.10260",
+        "source": "arXiv AI/ML",
+        "summary": "10260v1 Announce Type: new Abstract: Lens methods interpret large language models (LLMs) by mapping intermediate activations to the output vocabulary, revealing how next-token predictions develop thro",
+        "category": "research",
+        "published_at": "2026-08-12T00:00:00-04:00",
+        "fetched_at": "2026-08-12T07:18:00.998322+00:00",
+        "author": "Jordan Pettyjohn, Mansi Sakarvadia, Nathaniel Hudson, Daniel McKenzie, Kyle Chard, Ian Foster",
+        "tags": [
+          "cs.AI"
         ]
       }
     ],
     "industry": [
       {
-        "title": "Anyone tested the IQ1_M 342GB Pruned Kimi K3? Is it usable?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vakvmg/anyone_tested_the_iq1_m_342gb_pruned_kimi_k3_is/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-07-30T05:51:18+00:00",
-        "fetched_at": "2026-07-30T10:36:45.644677+00:00",
-        "author": "/u/Hannibalj2ca",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va7nm7/are_you_guys_not_scared_of_where_were_heading_a/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-07-29T20:13:52+00:00",
-        "fetched_at": "2026-07-30T10:36:45.633656+00:00",
-        "author": "/u/SilverRegion9394",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Together AI announces strategic partnership with Moonshot AI to natively serve Kimi models",
-        "url": "https://www.together.ai/blog/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models",
-        "source": "Together AI Blog",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-07-29T00:00:00+00:00",
-        "fetched_at": "2026-07-30T10:36:45.433271+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Configuring Dedicated Model Inference",
-        "url": "https://www.together.ai/blog/configuring-dedicated-model-inference",
-        "source": "Together AI Blog",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-07-29T00:00:00+00:00",
-        "fetched_at": "2026-07-30T10:36:45.434922+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-        "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+        "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+        "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
         "source": "NVIDIA Blog",
-        "summary": "",
+        "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capit",
         "category": "industry",
-        "published_at": "2026-07-28T15:00:19+00:00",
-        "fetched_at": "2026-07-30T10:36:46.479009+00:00",
-        "author": "Matthew Leib",
+        "published_at": "2026-08-12T00:38:21+00:00",
+        "fetched_at": "2026-08-12T07:18:08.712770+00:00",
+        "author": "Jensen Huang",
         "tags": [
-          "Robotics",
-          "Embedded Computing",
-          "Jetson",
-          "Physical AI"
+          "AI Infrastructure",
+          "Corporate"
+        ]
+      },
+      {
+        "title": "R to @GoogleAI: You can also check @NASA’s map for your local eclipse timing and exact path details. https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+        "url": "https://nitter.net/GoogleAI/status/2087279319202570453#m",
+        "source": "Twitter/@GoogleAI",
+        "summary": "You can also check @NASA ’s map for your local eclipse timing and exact path details gov/eclipses/fu… Link Total Solar Eclipse on August 12, 2026 - NASA Science When the Moon slips in front of the Sun",
+        "category": "industry",
+        "published_at": "2026-08-11T20:45:44+00:00",
+        "fetched_at": "2026-08-12T07:18:43.964093+00:00",
+        "author": "GoogleAI",
+        "tags": [
+          "twitter",
+          "googleai"
+        ]
+      },
+      {
+        "title": "Tomorrow is the total solar eclipse 🌑☀️ Whether you’re in the path of totality across Greenland, Iceland, and Spain, or watching the partial phases online, we’ve got you covered. The interactive 3D vi",
+        "url": "https://nitter.net/GoogleAI/status/2087279317172777169#m",
+        "source": "Twitter/@GoogleAI",
+        "summary": "Tomorrow is the total solar eclipse 🌑☀️ Whether you’re in the path of totality across Greenland, Iceland, and Spain, or watching the partial phases online, we’ve got you covered The interactive 3D vis",
+        "category": "industry",
+        "published_at": "2026-08-11T20:45:43+00:00",
+        "fetched_at": "2026-08-12T07:18:43.962958+00:00",
+        "author": "GoogleAI",
+        "tags": [
+          "twitter",
+          "googleai"
+        ]
+      },
+      {
+        "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+        "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+        "source": "NVIDIA Blog",
+        "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution The bot",
+        "category": "industry",
+        "published_at": "2026-08-11T15:00:06+00:00",
+        "fetched_at": "2026-08-12T07:18:08.713536+00:00",
+        "author": "Harry Petty",
+        "tags": [
+          "AI Infrastructure",
+          "Hardware",
+          "AI Factory",
+          "NVIDIA DSX",
+          "Open Source"
+        ]
+      },
+      {
+        "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+        "source": "NVIDIA Blog",
+        "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally Throughout August, NVIDIA is celebrating the partners an",
+        "category": "industry",
+        "published_at": "2026-08-11T13:00:25+00:00",
+        "fetched_at": "2026-08-12T07:18:08.714319+00:00",
+        "author": "NVIDIA Writers",
+        "tags": [
+          "AI",
+          "Agentic AI",
+          "Artificial Intelligence",
+          "DGX Spark",
+          "Local AI"
         ]
       }
     ],
     "tools": [
       {
-        "title": "GLM 5.2 with vision on Hugging Face",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapetj/glm_52_with_vision_on_hugging_face/",
-        "source": "r/LocalLLaMA",
+        "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+        "source": "Hugging Face Blog",
         "summary": "",
         "category": "tools",
-        "published_at": "2026-07-30T10:08:30+00:00",
-        "fetched_at": "2026-07-30T10:36:45.650596+00:00",
-        "author": "/u/Practical-Collar3063",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Benchmarked: MindControl for Llama.cpp",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapbnl/benchmarked_mindcontrol_for_llamacpp/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-30T10:03:44+00:00",
-        "fetched_at": "2026-07-30T10:36:45.733162+00:00",
-        "author": "/u/hellajacked",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Bought a 5090 to escape API fees. Ended up building a mini datacenter. Sound familiar?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vacf09/bought_a_5090_to_escape_api_fees_ended_up/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T23:16:20+00:00",
-        "fetched_at": "2026-07-30T10:36:45.629919+00:00",
-        "author": "/u/Ok-Shower7286",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Quantizing Kimi K3 (2.8T A50B) to GGUF ourselves - Q3_K_S works, 1.1 TB on disk",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vaaqdl/quantizing_kimi_k3_28t_a50b_to_gguf_ourselves_q3/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T22:08:40+00:00",
-        "fetched_at": "2026-07-30T10:36:45.744498+00:00",
-        "author": "/u/Fun-Meaning-6474",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "R to @OpenAI: These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. https://openai.com/index/gpt-5-6-frontier-intelligence-e",
-        "url": "https://nitter.net/OpenAI/status/2082577278450676080#m",
-        "source": "Twitter/@OpenAI",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T21:21:30+00:00",
-        "fetched_at": "2026-07-30T10:36:48.061535+00:00",
-        "author": "OpenAI",
-        "tags": [
-          "twitter",
-          "openai"
-        ]
-      },
-      {
-        "title": "PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va54em/psa_llamacpp_now_loads_mtp_tensors_by_default_for/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T18:45:34+00:00",
-        "fetched_at": "2026-07-30T10:36:45.653928+00:00",
-        "author": "/u/Shoddy_Bed3240",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Everyone posts day-one impressions. What's still in your stack a month later?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va1zoc/everyone_posts_dayone_impressions_whats_still_in/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T16:56:02+00:00",
-        "fetched_at": "2026-07-30T10:36:45.739840+00:00",
-        "author": "/u/derspenti",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "First Kimi K3 results on home lab ~ 4t/s",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
-        "source": "r/LocalLLaMA",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T16:13:30+00:00",
-        "fetched_at": "2026-07-30T10:36:45.637716+00:00",
-        "author": "/u/iVoider",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale",
-        "url": "https://www.together.ai/blog/thunderagent",
-        "source": "Together AI Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-07-29T00:00:00+00:00",
-        "fetched_at": "2026-07-30T10:36:45.436153+00:00",
+        "published_at": "2026-08-11T13:37:10+00:00",
+        "fetched_at": "2026-08-12T07:18:03.562891+00:00",
         "author": "",
         "tags": []
       },
       {
-        "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+        "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "source": "NVIDIA Blog",
+        "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves Today, NVIDIA is expanding its Nemotron 3 ",
+        "category": "tools",
+        "published_at": "2026-08-11T13:00:05+00:00",
+        "fetched_at": "2026-08-12T07:18:08.715039+00:00",
+        "author": "Kari Briski",
+        "tags": [
+          "AI",
+          "Agentic AI",
+          "Nemotron",
+          "Open Source"
+        ]
+      },
+      {
+        "title": "fru - Fast Random Forest Implementation [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
+        "source": "r/MachineLearning",
+        "summary": "Hello, I wanted to share the work my colleague and I have been doing, which has just been published in Software X journal We developed a Rust-based implementation of Random Forest It has bindings for ",
+        "category": "tools",
+        "published_at": "2026-08-10T17:45:41+00:00",
+        "fetched_at": "2026-08-12T07:18:19.379508+00:00",
+        "author": "/u/kpiwonski",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+        "source": "r/MachineLearning",
+        "summary": "Obviously nobody needs a transformer that's good at multiplication I wanted to know whether a stock transformer could do exact arithmetic if I chose its weights directly I implemented the grade-school",
+        "category": "tools",
+        "published_at": "2026-08-10T17:37:35+00:00",
+        "fetched_at": "2026-08-12T07:18:19.371576+00:00",
+        "author": "/u/notforrob",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
         "summary": "",
         "category": "tools",
-        "published_at": "2026-07-28T16:27:42+00:00",
-        "fetched_at": "2026-07-30T10:36:45.289263+00:00",
+        "published_at": "2026-08-10T16:25:36+00:00",
+        "fetched_at": "2026-08-12T07:18:03.563051+00:00",
         "author": "",
         "tags": []
       },
       {
-        "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+        "title": "Semi Edge Inference Idea [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
+        "source": "r/MachineLearning",
+        "summary": "Today the most important factor in AI is cost My idea is to split ML models inference (closed ones, proprietary) across server and edge computing on clients, and I would like to hear what do you think",
+        "category": "tools",
+        "published_at": "2026-08-10T10:58:11+00:00",
+        "fetched_at": "2026-08-12T07:18:19.381807+00:00",
+        "author": "/u/komorra",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
         "source": "Hugging Face Blog",
         "summary": "",
         "category": "tools",
-        "published_at": "2026-07-28T15:01:45+00:00",
-        "fetched_at": "2026-07-30T10:36:45.290168+00:00",
+        "published_at": "2026-08-10T10:05:36+00:00",
+        "fetched_at": "2026-08-12T07:18:03.563191+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "url": "https://huggingface.co/blog/muse-glimmer",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-08-10T00:00:00+00:00",
+        "fetched_at": "2026-08-12T07:18:03.563343+00:00",
         "author": "",
         "tags": []
       }
@@ -419,68 +685,13 @@
   },
   "all_articles": [
     {
-      "title": "Think of the children, another excuse for them to go after open source AI",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-30T10:28:13+00:00",
-      "fetched_at": "2026-07-30T10:36:45.641134+00:00",
-      "author": "/u/MaruluVR",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what ",
-      "url": "https://nitter.net/OpenAI/status/2082616641834422740#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T23:57:55+00:00",
-      "fetched_at": "2026-07-30T10:36:48.054070+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and pro",
-      "url": "https://nitter.net/OpenAI/status/2082616643394703682#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T23:57:55+00:00",
-      "fetched_at": "2026-07-30T10:36:48.057460+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what ",
-      "url": "https://nitter.net/OpenAI/status/2082616636989952217#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T23:57:54+00:00",
-      "fetched_at": "2026-07-30T10:36:48.051251+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "RT by @huggingface: We are super excited to release Trackio Logbooks: the perfect way to capture all of your AI experiments as an optimized static html bundle 🔥 Upgrade to Trackio 0.34.0 and start rec",
-      "url": "https://nitter.net/abidlabs/status/2082601407539229137#m",
+      "title": "RT by @huggingface: Try it today --> https://bit.ly/4xFJBUN",
+      "url": "https://nitter.net/ltx_io/status/2087255205045825964#m",
       "source": "Twitter/@HuggingFace",
-      "summary": "",
+      "summary": "ly/4xFJBUN Link LTX-2 5 - a Lightricks Collection LTX-2 5 base models, quantized models and accompanying LoRAs and IC-LoRAs huggingface",
       "category": "breaking",
-      "published_at": "2026-07-29T22:57:23+00:00",
-      "fetched_at": "2026-07-30T10:36:47.085383+00:00",
+      "published_at": "2026-08-11T19:09:54+00:00",
+      "fetched_at": "2026-08-12T07:18:55.000533+00:00",
       "author": "HuggingFace",
       "tags": [
         "twitter",
@@ -488,95 +699,13 @@
       ]
     },
     {
-      "title": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. -",
-      "url": "https://nitter.net/OpenAI/status/2082577277246972300#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T21:21:29+00:00",
-      "fetched_at": "2026-07-30T10:36:48.058995+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "The open-weights carousel never stops.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va73s6/the_openweights_carousel_never_stops/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T19:54:19+00:00",
-      "fetched_at": "2026-07-30T10:36:45.623093+00:00",
-      "author": "/u/InternationalGap3698",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Kimi K3 for local use (1.56TB → 594GB) compressed and released by Unsloth",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va6ot2/kimi_k3_for_local_use_156tb_594gb_compressed_and/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T19:39:41+00:00",
-      "fetched_at": "2026-07-30T10:36:45.627290+00:00",
-      "author": "/u/BankApprehensive7612",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "R to @OpenAI: We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in the",
-      "url": "https://nitter.net/OpenAI/status/2082516372656111654#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T17:19:29+00:00",
-      "fetched_at": "2026-07-30T10:36:48.064866+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "R to @OpenAI: Participants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data ",
-      "url": "https://nitter.net/OpenAI/status/2082516374010974228#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T17:19:29+00:00",
-      "fetched_at": "2026-07-30T10:36:48.067911+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027. ChatGPT for Academic Researchers is bu",
-      "url": "https://nitter.net/OpenAI/status/2082516370949062989#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "breaking",
-      "published_at": "2026-07-29T17:19:28+00:00",
-      "fetched_at": "2026-07-30T10:36:48.063394+00:00",
-      "author": "OpenAI",
-      "tags": [
-        "twitter",
-        "openai"
-      ]
-    },
-    {
-      "title": "Pro tip: add in a \"Sign-In with Hugging Face\" OAuth button to your website/app so that community members can easily share their email, create model/dataset repos, store data in Buckets, or even kick o",
-      "url": "https://nitter.net/huggingface/status/2082502249784451163#m",
+      "title": "RT by @huggingface: Introducing LTX-2.5, the world model the world builds on. One of the biggest upgrades yet to the model already powering film, robotics, and real-time workflows. Higher pixel fideli",
+      "url": "https://nitter.net/ltx_io/status/2087255203489755243#m",
       "source": "Twitter/@HuggingFace",
-      "summary": "",
+      "summary": "5, the world model the world builds on One of the biggest upgrades yet to the model already powering film, robotics, and real-time workflows Higher pixel fidelity, multishot scenes that hold together ",
       "category": "breaking",
-      "published_at": "2026-07-29T16:23:22+00:00",
-      "fetched_at": "2026-07-30T10:36:47.087380+00:00",
+      "published_at": "2026-08-11T19:09:54+00:00",
+      "fetched_at": "2026-08-12T07:18:55.001467+00:00",
       "author": "HuggingFace",
       "tags": [
         "twitter",
@@ -584,245 +713,648 @@
       ]
     },
     {
-      "title": "Ilintar's Official Guide To Model Selection",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va4i9e/ilintars_official_guide_to_model_selection/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "research",
-      "published_at": "2026-07-29T18:23:54+00:00",
-      "fetched_at": "2026-07-30T10:36:45.735976+00:00",
-      "author": "/u/ilintar",
+      "title": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb o",
+      "url": "https://nitter.net/OpenAI/status/2087248033906094175#m",
+      "source": "Twitter/@OpenAI",
+      "summary": "The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24 04 LTS • Debian 13 • Fedora 43 and 44 Install with rpm packages for x64 or ARM64",
+      "category": "breaking",
+      "published_at": "2026-08-11T18:41:25+00:00",
+      "fetched_at": "2026-08-12T07:18:24.996638+00:00",
+      "author": "OpenAI",
       "tags": [
-        "reddit"
+        "twitter",
+        "openai"
       ]
     },
     {
-      "title": "I keep coming back to Qwen... Over and Over. Is there really nothing better under 120B?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9xsi8/i_keep_coming_back_to_qwen_over_and_over_is_there/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "research",
-      "published_at": "2026-07-29T14:27:51+00:00",
-      "fetched_at": "2026-07-30T10:36:45.647204+00:00",
-      "author": "/u/Possible_Grocery8079",
+      "title": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+      "url": "https://nitter.net/OpenAI/status/2087231350134980830#m",
+      "source": "Twitter/@OpenAI",
+      "summary": "Now in preview: The ChatGPT desktop app for Linux Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems",
+      "category": "breaking",
+      "published_at": "2026-08-11T17:35:07+00:00",
+      "fetched_at": "2026-08-12T07:18:24.995485+00:00",
+      "author": "OpenAI",
       "tags": [
-        "reddit"
+        "twitter",
+        "openai"
       ]
     },
     {
-      "title": "\"Uncensored\" LLMs are measurably more optimistic than their base models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9vwev/uncensored_llms_are_measurably_more_optimistic/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "research",
-      "published_at": "2026-07-29T13:15:09+00:00",
-      "fetched_at": "2026-07-30T10:36:45.726656+00:00",
-      "author": "/u/oleczek",
+      "title": "RT by @huggingface: 💚 @nvidia Nemotron 3.5 Lightning is here to power more efficient agents! 30B LatentMoE, 3B active. NVFP4 and BF16. Up to 1M context. MTP, DFlash and DSpark. Tool use. Multilingual.",
+      "url": "https://nitter.net/alvarobartt/status/2087162934090731799#m",
+      "source": "Twitter/@HuggingFace",
+      "summary": "5 Lightning is here to power more efficient agents 30B LatentMoE, 3B active MTP, DFlash and DSpark",
+      "category": "breaking",
+      "published_at": "2026-08-11T13:03:15+00:00",
+      "fetched_at": "2026-08-12T07:18:55.002442+00:00",
+      "author": "HuggingFace",
       "tags": [
-        "reddit"
+        "twitter",
+        "huggingface"
       ]
     },
     {
-      "title": "Anyone tested the IQ1_M 342GB Pruned Kimi K3? Is it usable?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vakvmg/anyone_tested_the_iq1_m_342gb_pruned_kimi_k3_is/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-07-30T05:51:18+00:00",
-      "fetched_at": "2026-07-30T10:36:45.644677+00:00",
-      "author": "/u/Hannibalj2ca",
+      "title": "RT by @huggingface: Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It deliver",
+      "url": "https://nitter.net/NVIDIAAI/status/2087162151995629926#m",
+      "source": "Twitter/@HuggingFace",
+      "summary": "Introducing NVIDIA Nemotron 3 5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster It delivers up to 4x the output",
+      "category": "breaking",
+      "published_at": "2026-08-11T13:00:09+00:00",
+      "fetched_at": "2026-08-12T07:18:55.003167+00:00",
+      "author": "HuggingFace",
       "tags": [
-        "reddit"
+        "twitter",
+        "huggingface"
       ]
     },
     {
-      "title": "Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va7nm7/are_you_guys_not_scared_of_where_were_heading_a/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-07-29T20:13:52+00:00",
-      "fetched_at": "2026-07-30T10:36:45.633656+00:00",
-      "author": "/u/SilverRegion9394",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI Blog",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control",
+      "category": "breaking",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.446619+00:00",
+      "author": "",
       "tags": [
-        "reddit"
+        "Company"
       ]
     },
     {
-      "title": "Together AI announces strategic partnership with Moonshot AI to natively serve Kimi models",
-      "url": "https://www.together.ai/blog/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models",
-      "source": "Together AI Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-07-29T00:00:00+00:00",
-      "fetched_at": "2026-07-30T10:36:45.433271+00:00",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI Blog",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows",
+      "category": "breaking",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.447360+00:00",
+      "author": "",
+      "tags": [
+        "Product"
+      ]
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI Blog",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI",
+      "category": "breaking",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.449366+00:00",
+      "author": "",
+      "tags": [
+        "Company"
+      ]
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI Blog",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas The letter supports reliable, transparent growth that benefits Texans",
+      "category": "breaking",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.448030+00:00",
+      "author": "",
+      "tags": [
+        "Global Affairs"
+      ]
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI Blog",
+      "summary": "6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing",
+      "category": "breaking",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.450019+00:00",
+      "author": "",
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI Blog",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers",
+      "category": "breaking",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.450684+00:00",
+      "author": "",
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI Blog",
+      "summary": "Premium seats are coming to ChatGPT Business Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work",
+      "category": "breaking",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.451346+00:00",
+      "author": "",
+      "tags": [
+        "Product"
+      ]
+    },
+    {
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI Blog",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting",
+      "category": "breaking",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.451984+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "Configuring Dedicated Model Inference",
-      "url": "https://www.together.ai/blog/configuring-dedicated-model-inference",
-      "source": "Together AI Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-07-29T00:00:00+00:00",
-      "fetched_at": "2026-07-30T10:36:45.434922+00:00",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI Blog",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey",
+      "category": "breaking",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:04.452643+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "source": "arXiv AI/ML",
+      "summary": "09949v1 Announce Type: new Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experiment",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.979791+00:00",
+      "author": "Serge Kernbach",
+      "tags": [
+        "cs.AI",
+        "physics.bio-ph"
+      ]
+    },
+    {
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "source": "arXiv AI/ML",
+      "summary": "09967v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret We i",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.980750+00:00",
+      "author": "Tamar Gozlan, Claudia V. Goldman",
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "source": "arXiv AI/ML",
+      "summary": "09986v1 Announce Type: new Abstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs However, real-world applications frequently encounter incomplete",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.981754+00:00",
+      "author": "Yuhua Wen, Yingying Zhou, Qifei Li, Yingming Gao, Zhengqi Wen, Jianhua Tao, Ya Li",
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "source": "arXiv AI/ML",
+      "summary": "09998v1 Announce Type: new Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks Despite their benefits, growing",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.982736+00:00",
+      "author": "Samar Garrab, Sarra Boughriou, Manel BenSassi",
+      "tags": [
+        "cs.AI",
+        "cs.CY",
+        "cs.LG",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "url": "https://arxiv.org/abs/2608.10004",
+      "source": "arXiv AI/ML",
+      "summary": "10004v1 Announce Type: new Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and tes",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.983605+00:00",
+      "author": "An Sui, Yuzhu Li, Fuping Wu, Xiahai Zhuang",
+      "tags": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+      "url": "https://arxiv.org/abs/2608.10030",
+      "source": "arXiv AI/ML",
+      "summary": "10030v1 Announce Type: new Abstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical Yet behavioral scientific research on AI agents rema",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.984430+00:00",
+      "author": "Soo Yong Lee, Jongha Lee, Jaewan Chun, Hyunjin Hwang, Fanchen Bu, Ziv Ben-Zion, Taekwan Kim, Denny Borsboom, Jaemin Yoo, Kijung Shin",
+      "tags": [
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+      "url": "https://arxiv.org/abs/2608.10090",
+      "source": "arXiv AI/ML",
+      "summary": "10090v1 Announce Type: new Abstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal than textual imitation alone Hardwar",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.985236+00:00",
+      "author": "Hejia Zhang, Sheng Lu, Zhongming Yu, Chia-Tung Ho, Brucek Khailany, Jishen Zhao",
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+      "url": "https://arxiv.org/abs/2608.10108",
+      "source": "arXiv AI/ML",
+      "summary": "10108v1 Announce Type: new Abstract: Long-horizon agents accumulate trajectories spanning hundreds of interleaved reasoning, action, and observation steps, where answering a query may depend on eviden",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.986172+00:00",
+      "author": "Beidi Zhao, Yaoqi Chen, Yuru Feng, Menghao Li, Qianxi Zhang, Baotong Lu, Jianan Lu, Zhirui Wang, Xinjiang Wang, Shusen Xu, Zengzhong Li, Xiaoxiao Li, Qi Chen",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+      "url": "https://arxiv.org/abs/2608.10153",
+      "source": "arXiv AI/ML",
+      "summary": "10153v1 Announce Type: new Abstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single discipline, typically DevSecOps built f",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.987099+00:00",
+      "author": "Srinivas Telukunta, Georgios Nektarios Lilis, Lucio Baron",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+      "url": "https://arxiv.org/abs/2608.10157",
+      "source": "arXiv AI/ML",
+      "summary": "10157v1 Announce Type: new Abstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve their performance over time Recentl",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.987986+00:00",
+      "author": "Vivek Kulkarni, Sudipta Paul, Aounon Kumar, Nicholas Tzou, Srinivas Chappidi",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Generating Attacks for LLMs with GFlowNets",
+      "url": "https://arxiv.org/abs/2608.10171",
+      "source": "arXiv AI/ML",
+      "summary": "10171v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading to widespread adoption However, th",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.988829+00:00",
+      "author": "Berkay Ozcam, Irem Onen, Mehmet Fatih Amasyali, Emin Islam Tatli",
+      "tags": [
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    {
+      "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+      "url": "https://arxiv.org/abs/2608.10176",
+      "source": "arXiv AI/ML",
+      "summary": "10176v1 Announce Type: new Abstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making sure that the recommendations respec",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.989698+00:00",
+      "author": "Touseef Hasan, Laila Cure, Souvika Sarkar",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents",
+      "url": "https://arxiv.org/abs/2608.10198",
+      "source": "arXiv AI/ML",
+      "summary": "10198v1 Announce Type: new Abstract: Latent-space communication allows heterogeneous vision-language model agents to exchange continuous representations without serializing visual and reasoning states",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.990593+00:00",
+      "author": "Di Wu, Xiaohui Zhu",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Edge Phoneme Recognition for Children's Speech through Age-Aware Training",
+      "url": "https://arxiv.org/abs/2608.10206",
+      "source": "arXiv AI/ML",
+      "summary": "10206v1 Announce Type: new Abstract: Detecting phonemes from children's speech has historically been difficult due to the scarcity of training data, and unique characteristics of children's speech Dur",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.991375+00:00",
+      "author": "Matthew Arboleda, Ryan Arboleda, Sophie Haak, Sam Hjelmeset, Andrew Franck, Bingrui Yang, Jose Bustamante Ortiz, Yuanrong Shen, Joel Walsh",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.SD"
+      ]
+    },
+    {
+      "title": "Mitigating Bus Bunching with Reinforcement Learning Enhanced by Semantic Stop Embedding",
+      "url": "https://arxiv.org/abs/2608.10207",
+      "source": "arXiv AI/ML",
+      "summary": "10207v1 Announce Type: new Abstract: Bus bunching degrades service regularity and increases passenger waiting in high-frequency transit Existing reinforcement-learning-based holding controllers primar",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.992287+00:00",
+      "author": "Xin Dong, Vikash V. Gayah",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
       "source": "NVIDIA Blog",
-      "summary": "",
+      "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capit",
       "category": "industry",
-      "published_at": "2026-07-28T15:00:19+00:00",
-      "fetched_at": "2026-07-30T10:36:46.479009+00:00",
-      "author": "Matthew Leib",
+      "published_at": "2026-08-12T00:38:21+00:00",
+      "fetched_at": "2026-08-12T07:18:08.712770+00:00",
+      "author": "Jensen Huang",
       "tags": [
-        "Robotics",
-        "Embedded Computing",
-        "Jetson",
-        "Physical AI"
+        "AI Infrastructure",
+        "Corporate"
       ]
     },
     {
-      "title": "GLM 5.2 with vision on Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapetj/glm_52_with_vision_on_hugging_face/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-30T10:08:30+00:00",
-      "fetched_at": "2026-07-30T10:36:45.650596+00:00",
-      "author": "/u/Practical-Collar3063",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Benchmarked: MindControl for Llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapbnl/benchmarked_mindcontrol_for_llamacpp/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-30T10:03:44+00:00",
-      "fetched_at": "2026-07-30T10:36:45.733162+00:00",
-      "author": "/u/hellajacked",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Bought a 5090 to escape API fees. Ended up building a mini datacenter. Sound familiar?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vacf09/bought_a_5090_to_escape_api_fees_ended_up/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T23:16:20+00:00",
-      "fetched_at": "2026-07-30T10:36:45.629919+00:00",
-      "author": "/u/Ok-Shower7286",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Quantizing Kimi K3 (2.8T A50B) to GGUF ourselves - Q3_K_S works, 1.1 TB on disk",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vaaqdl/quantizing_kimi_k3_28t_a50b_to_gguf_ourselves_q3/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T22:08:40+00:00",
-      "fetched_at": "2026-07-30T10:36:45.744498+00:00",
-      "author": "/u/Fun-Meaning-6474",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "R to @OpenAI: These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. https://openai.com/index/gpt-5-6-frontier-intelligence-e",
-      "url": "https://nitter.net/OpenAI/status/2082577278450676080#m",
-      "source": "Twitter/@OpenAI",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T21:21:30+00:00",
-      "fetched_at": "2026-07-30T10:36:48.061535+00:00",
-      "author": "OpenAI",
+      "title": "R to @GoogleAI: You can also check @NASA’s map for your local eclipse timing and exact path details. https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
+      "url": "https://nitter.net/GoogleAI/status/2087279319202570453#m",
+      "source": "Twitter/@GoogleAI",
+      "summary": "You can also check @NASA ’s map for your local eclipse timing and exact path details gov/eclipses/fu… Link Total Solar Eclipse on August 12, 2026 - NASA Science When the Moon slips in front of the Sun",
+      "category": "industry",
+      "published_at": "2026-08-11T20:45:44+00:00",
+      "fetched_at": "2026-08-12T07:18:43.964093+00:00",
+      "author": "GoogleAI",
       "tags": [
         "twitter",
-        "openai"
+        "googleai"
       ]
     },
     {
-      "title": "PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va54em/psa_llamacpp_now_loads_mtp_tensors_by_default_for/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T18:45:34+00:00",
-      "fetched_at": "2026-07-30T10:36:45.653928+00:00",
-      "author": "/u/Shoddy_Bed3240",
+      "title": "Tomorrow is the total solar eclipse 🌑☀️ Whether you’re in the path of totality across Greenland, Iceland, and Spain, or watching the partial phases online, we’ve got you covered. The interactive 3D vi",
+      "url": "https://nitter.net/GoogleAI/status/2087279317172777169#m",
+      "source": "Twitter/@GoogleAI",
+      "summary": "Tomorrow is the total solar eclipse 🌑☀️ Whether you’re in the path of totality across Greenland, Iceland, and Spain, or watching the partial phases online, we’ve got you covered The interactive 3D vis",
+      "category": "industry",
+      "published_at": "2026-08-11T20:45:43+00:00",
+      "fetched_at": "2026-08-12T07:18:43.962958+00:00",
+      "author": "GoogleAI",
       "tags": [
-        "reddit"
+        "twitter",
+        "googleai"
       ]
     },
     {
-      "title": "Everyone posts day-one impressions. What's still in your stack a month later?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va1zoc/everyone_posts_dayone_impressions_whats_still_in/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T16:56:02+00:00",
-      "fetched_at": "2026-07-30T10:36:45.739840+00:00",
-      "author": "/u/derspenti",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+      "source": "NVIDIA Blog",
+      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution The bot",
+      "category": "industry",
+      "published_at": "2026-08-11T15:00:06+00:00",
+      "fetched_at": "2026-08-12T07:18:08.713536+00:00",
+      "author": "Harry Petty",
       "tags": [
-        "reddit"
+        "AI Infrastructure",
+        "Hardware",
+        "AI Factory",
+        "NVIDIA DSX",
+        "Open Source"
       ]
     },
     {
-      "title": "First Kimi K3 results on home lab ~ 4t/s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
-      "source": "r/LocalLLaMA",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T16:13:30+00:00",
-      "fetched_at": "2026-07-30T10:36:45.637716+00:00",
-      "author": "/u/iVoider",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "source": "NVIDIA Blog",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally Throughout August, NVIDIA is celebrating the partners an",
+      "category": "industry",
+      "published_at": "2026-08-11T13:00:25+00:00",
+      "fetched_at": "2026-08-12T07:18:08.714319+00:00",
+      "author": "NVIDIA Writers",
       "tags": [
-        "reddit"
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "DGX Spark",
+        "Local AI"
       ]
     },
     {
-      "title": "ThunderAgent: 2x Faster Agentic Inference for Synthetic Data Generation at Scale",
-      "url": "https://www.together.ai/blog/thunderagent",
-      "source": "Together AI Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-07-29T00:00:00+00:00",
-      "fetched_at": "2026-07-30T10:36:45.436153+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "source": "Hugging Face Blog",
       "summary": "",
       "category": "tools",
-      "published_at": "2026-07-28T16:27:42+00:00",
-      "fetched_at": "2026-07-30T10:36:45.289263+00:00",
+      "published_at": "2026-08-11T13:37:10+00:00",
+      "fetched_at": "2026-08-12T07:18:03.562891+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "source": "NVIDIA Blog",
+      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves Today, NVIDIA is expanding its Nemotron 3 ",
+      "category": "tools",
+      "published_at": "2026-08-11T13:00:05+00:00",
+      "fetched_at": "2026-08-12T07:18:08.715039+00:00",
+      "author": "Kari Briski",
+      "tags": [
+        "AI",
+        "Agentic AI",
+        "Nemotron",
+        "Open Source"
+      ]
+    },
+    {
+      "title": "fru - Fast Random Forest Implementation [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
+      "source": "r/MachineLearning",
+      "summary": "Hello, I wanted to share the work my colleague and I have been doing, which has just been published in Software X journal We developed a Rust-based implementation of Random Forest It has bindings for ",
+      "category": "tools",
+      "published_at": "2026-08-10T17:45:41+00:00",
+      "fetched_at": "2026-08-12T07:18:19.379508+00:00",
+      "author": "/u/kpiwonski",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+      "source": "r/MachineLearning",
+      "summary": "Obviously nobody needs a transformer that's good at multiplication I wanted to know whether a stock transformer could do exact arithmetic if I chose its weights directly I implemented the grade-school",
+      "category": "tools",
+      "published_at": "2026-08-10T17:37:35+00:00",
+      "fetched_at": "2026-08-12T07:18:19.371576+00:00",
+      "author": "/u/notforrob",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "source": "Hugging Face Blog",
       "summary": "",
       "category": "tools",
-      "published_at": "2026-07-28T15:01:45+00:00",
-      "fetched_at": "2026-07-30T10:36:45.290168+00:00",
+      "published_at": "2026-08-10T16:25:36+00:00",
+      "fetched_at": "2026-08-12T07:18:03.563051+00:00",
       "author": "",
       "tags": []
+    },
+    {
+      "title": "Semi Edge Inference Idea [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
+      "source": "r/MachineLearning",
+      "summary": "Today the most important factor in AI is cost My idea is to split ML models inference (closed ones, proprietary) across server and edge computing on clients, and I would like to hear what do you think",
+      "category": "tools",
+      "published_at": "2026-08-10T10:58:11+00:00",
+      "fetched_at": "2026-08-12T07:18:19.381807+00:00",
+      "author": "/u/komorra",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-08-10T10:05:36+00:00",
+      "fetched_at": "2026-08-12T07:18:03.563191+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "fetched_at": "2026-08-12T07:18:03.563343+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Evaluation-Conditioned Training: Teaching Models to Generalize to Stronger Oversight Regimes",
+      "url": "https://arxiv.org/abs/2608.10209",
+      "source": "arXiv AI/ML",
+      "summary": "10209v1 Announce Type: new Abstract: Feedback signals used to train Large Language Models (LLMs) are the primary driver of their behavior and our main lever for instilling alignment with human values ",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.993101+00:00",
+      "author": "Alec Harris, Kasey Corra, Archie Chaudhury, Yixiong Hao",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Decodable But Not Detachable: Training Data Granularity Determines Parametric Modularity in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.10214",
+      "source": "arXiv AI/ML",
+      "summary": "10214v1 Announce Type: new Abstract: Do large language models contain domain-specific parametric shells: concentrated, causally necessary neuron populations whose removal selectively degrades a target",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.993933+00:00",
+      "author": "Marcus Armstrong, Navid Ayoobi, Arjun Mukherjee",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2608.10218",
+      "source": "arXiv AI/ML",
+      "summary": "10218v1 Announce Type: new Abstract: AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction One such risk i",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.994814+00:00",
+      "author": "Vassilis Papadopoulos, McNair Shah, Sam Zimmerman, Jack Lindsey",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Self-evolving Agentic Customer Support System at LinkedIn",
+      "url": "https://arxiv.org/abs/2608.10224",
+      "source": "arXiv AI/ML",
+      "summary": "10224v1 Announce Type: new Abstract: Enterprise support agents operate in rapidly changing environments where policies, product capabilities, and knowledge bases evolve continuously, making static ass",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.995619+00:00",
+      "author": "Chih Hui Wang, Mengdie Tu, Qianyun Zhang, Wei Wu, Lili Zhou, Mingqi Shen, Changshuai Wei",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Beyond Decision Boundaries: Relational Geometry Attacks on Contrastive Embedding Manifolds",
+      "url": "https://arxiv.org/abs/2608.10237",
+      "source": "arXiv AI/ML",
+      "summary": "10237v1 Announce Type: new Abstract: Contrastive learning and Siamese embedding models have become the foundation of modern verification systems, where decisions are governed not by discrete classific",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.996497+00:00",
+      "author": "Fei Zhao, Peiyuan Zhang, Xi Li, Chengcui Zhang, Nitesh Saxena",
+      "tags": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Beyond Detection: Evaluating Defensive LLMs Against AI-Generated Social Engineering in Live Turn-by-Turn Interaction",
+      "url": "https://arxiv.org/abs/2608.10239",
+      "source": "arXiv AI/ML",
+      "summary": "10239v1 Announce Type: new Abstract: Generative AI makes social-engineering attacks more fluent, adaptive, and scalable, increasing the need for LLM-based de- fenders that can protect users during ong",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.997368+00:00",
+      "author": "Yuqiao Xu, Osama Zafar, Alexander Nemecek, Erman Ayday",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Interpreting Language Model Hidden States at Scale",
+      "url": "https://arxiv.org/abs/2608.10260",
+      "source": "arXiv AI/ML",
+      "summary": "10260v1 Announce Type: new Abstract: Lens methods interpret large language models (LLMs) by mapping intermediate activations to the output vocabulary, revealing how next-token predictions develop thro",
+      "category": "research",
+      "published_at": "2026-08-12T00:00:00-04:00",
+      "fetched_at": "2026-08-12T07:18:00.998322+00:00",
+      "author": "Jordan Pettyjohn, Mansi Sakarvadia, Nathaniel Hudson, Daniel McKenzie, Kyle Chard, Ian Foster",
+      "tags": [
+        "cs.AI"
+      ]
     }
   ]
 }
