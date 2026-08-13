@@ -118,7 +118,7 @@ The fetcher applies **four** layers of deduplication, so the same story told by 
 1. **Retweet filtering** — entries starting with `RT by @`, `RT @`, or `R to @` are skipped outright (the biggest source of noise).
 2. **Fuzzy title matching** — normalized titles (retweet prefixes, URLs, punctuation stripped) are compared across all sources with a `SequenceMatcher` similarity threshold of 0.88.
 3. **URL normalization** — tracking params (`utm_*`, `ref`, `source`, `s=`, `t=`, etc.) and trailing slashes are removed before comparing URLs.
-4. **Cross-day dedup** — before fetching, the fetcher loads the committed `archive.json` (last `DEDUP_ARCHIVE_DAYS`, default 14) and seeds its seen-URLs/titles sets, so a story already covered yesterday won't reappear in today's digest. The archive itself now **accumulates history** across runs (previously each CI run rebuilt it from a fresh DB and wiped old days).
+4. **Cross-day dedup** — before fetching, the fetcher loads the committed `archive.json` (last `DEDUP_ARCHIVE_DAYS`, default 14) and seeds its seen-URLs/titles sets, so a story already covered yesterday won't reappear in today's digest. The archive accumulates history across runs with a 180-day retention cap (`ARCHIVE_RETENTION_DAYS`).
 
 These behaviors are covered by unit checks in `tests.yml`, so a regression fails CI.
 
