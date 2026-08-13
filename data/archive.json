@@ -1,6 +1,278 @@
 {
-  "generated_at": "2026-08-12T08:40:06.413114+00:00",
+  "generated_at": "2026-08-13T07:27:23.156455+00:00",
   "archive": [
+    {
+      "date": "2026-08-13",
+      "total": 50,
+      "categories": {
+        "breaking": 4,
+        "research": 32,
+        "industry": 5,
+        "tools": 9
+      },
+      "articles": [
+        {
+          "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+          "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA founder and CEO Jensen Huang is ranked No 1 on Glassdoor’s Best CEOs list for 2026 In the just-released ranking, recognition is earned directly from the people who know their leadership the bes",
+          "category": "breaking",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "author": "Febe Punsalan",
+          "tags": [
+            "Corporate",
+            "NVIDIA Life"
+          ]
+        },
+        {
+          "title": "would be even more popular than @UseCorgi cafe",
+          "url": "https://nitter.net/huggingface/status/2087521619459850348#m",
+          "source": "Twitter/@HuggingFace",
+          "summary": "would be even more popular than @UseCorgi cafe Jess Fields (@jessalanfields) Qwen 3 8 27b is being released at 11:00AM EST on Wednesday Folks are lined up for miles to see what this fancy new model is",
+          "category": "breaking",
+          "published_at": "2026-08-12T12:48:33+00:00",
+          "author": "HuggingFace",
+          "tags": [
+            "twitter",
+            "huggingface"
+          ]
+        },
+        {
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption",
+          "category": "breaking",
+          "published_at": "2026-08-12T06:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "url": "https://openai.com/index/ringcentral",
+          "source": "OpenAI Blog",
+          "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations",
+          "category": "breaking",
+          "published_at": "2026-08-12T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
+          "source": "r/MachineLearning",
+          "summary": "gif Notebooks to replicate on github submitted by /u/Weird-Asparagus4136 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-08-13T00:29:52+00:00",
+          "author": "/u/Weird-Asparagus4136",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+          "url": "https://arxiv.org/abs/2608.11207",
+          "source": "arXiv AI/ML",
+          "summary": "11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collaps",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Alexander Liss, Nicholas Desmond, Santiago Gil Gallego",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+          "url": "https://arxiv.org/abs/2608.11210",
+          "source": "arXiv AI/ML",
+          "summary": "11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter Despite decades of methodological work, researchers almost alwa",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Patrik P. S\\\"uli, Gy\\\"orgy Eigner, Roland Holl\\'os",
+          "tags": [
+            "cs.AI",
+            "cs.MA",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+          "url": "https://arxiv.org/abs/2608.11211",
+          "source": "arXiv AI/ML",
+          "summary": "11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists We report a systematic, fully reproducible attack ",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Aalok Thakkar",
+          "tags": [
+            "cs.AI",
+            "cs.SC",
+            "math.CO"
+          ]
+        },
+        {
+          "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+          "url": "https://arxiv.org/abs/2608.11212",
+          "source": "arXiv AI/ML",
+          "summary": "11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protect",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Parvel Gu",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+          "url": "https://arxiv.org/abs/2608.11215",
+          "source": "arXiv AI/ML",
+          "summary": "11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, ",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Igor Itkin",
+          "tags": [
+            "cs.AI",
+            "cond-mat.stat-mech",
+            "cs.CL",
+            "cs.LG",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+          "url": "https://arxiv.org/abs/2608.11216",
+          "source": "arXiv AI/ML",
+          "summary": "11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Marjan Moodi, Xuankang Zhu, Fernando De Mesentier Silva, Harold Chaput, Mohammad Reza Taesiri",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+          "url": "https://arxiv.org/abs/2608.11218",
+          "source": "arXiv AI/ML",
+          "summary": "11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text Merged by a conflict-free replicated data typ",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Carlos Baquero, Lu\\'is Brito, Jo\\~ao Resende",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+          "url": "https://arxiv.org/abs/2608.11219",
+          "source": "arXiv AI/ML",
+          "summary": "11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others We present SAPO, a segment-level A",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Nikita Kulin, Viktor Zhuravlev, Artur Khairullin, Sergey Muravyov, Ilya Makarov, Daniil Sukhorukov, Ekaterina Averkova",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+          "url": "https://arxiv.org/abs/2608.11220",
+          "source": "arXiv AI/ML",
+          "summary": "11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performe",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Timur Zakarin, Sergei Voitov, Sergei Shumilin, Evgeny Burnaev",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+          "url": "https://arxiv.org/abs/2608.11221",
+          "source": "arXiv AI/ML",
+          "summary": "11221v1 Announce Type: new Abstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific domains of expertise The behaviour o",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Barbara da Silva Oliveira (UniCA, Laboratoire I3S - COMRED, KAIROS), Julien Deantoni (UniCA, Laboratoire I3S - COMRED, KAIROS), Nicolas Ferry (Laboratoire I3S - COMRED, KAIROS, UniCA)",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
+          "url": "https://arxiv.org/abs/2608.11225",
+          "source": "arXiv AI/ML",
+          "summary": "11225v1 Announce Type: new Abstract: AI \"personality clones\" force a re-examination of personal identity in operational terms Setting aside the hard problem of consciousness, we approach identity thro",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Luc E. Brunet",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet",
+          "url": "https://arxiv.org/abs/2608.11226",
+          "source": "arXiv AI/ML",
+          "summary": "11226v1 Announce Type: new Abstract: Reinforcement-learning post-training dominates modern language-model development, yet its power behavior on GPU hardware has not been characterized, and datacenter",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Eliseo Curcio",
+          "tags": [
+            "cs.AI",
+            "cs.SY",
+            "eess.SY"
+          ]
+        },
+        {
+          "title": "Forecasting Side Effects of Activation Steering",
+          "url": "https://arxiv.org/abs/2608.11227",
+          "source": "arXiv AI/ML",
+          "summary": "11227v1 Announce Type: new Abstract: Activation steering modifies a language model by adding a learned direction to its hidden activations, enabling targeted behavioral changes without retraining Whil",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Chong Yong Ong, Alson Wei Jie Sim, Peixin Zhang, Jun Sun",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)",
+          "url": "https://arxiv.org/abs/2608.11229",
+          "source": "arXiv AI/ML",
+          "summary": "11229v1 Announce Type: new Abstract: Comparative feedback, asking people which of two behaviors they prefer, has become a standard way to align robot and agent behavior with human intent when the rewa",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Jack Mirenzi, Henny Admoni",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "The Edge-based Contiguous p-median Problem with Connections to Logistics Districting",
+          "url": "https://arxiv.org/abs/2608.11230",
+          "source": "arXiv AI/ML",
+          "summary": "11230v1 Announce Type: new Abstract: This paper introduces the edge-based contiguous p-median (ECpM) problem to partition the roads in a network into a given number of compact and contiguous territori",
+          "category": "research",
+          "published_at": "2026-08-13T00:00:00-04:00",
+          "author": "Zeyad Kassem, Adolfo R. Escobedo",
+          "tags": [
+            "cs.AI",
+            "cs.DM"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "total": 50,
