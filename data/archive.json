@@ -1,6 +1,276 @@
 {
-  "generated_at": "2026-08-14T07:24:58.480397+00:00",
+  "generated_at": "2026-08-15T06:38:28.408905+00:00",
   "archive": [
+    {
+      "date": "2026-08-15",
+      "total": 46,
+      "categories": {
+        "breaking": 5,
+        "research": 26,
+        "industry": 5,
+        "tools": 10
+      },
+      "articles": [
+        {
+          "title": "AC comment and our reply disappeared on OpenReview [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
+          "source": "r/MachineLearning",
+          "summary": "Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing The comment was made by the AC on the first day",
+          "category": "breaking",
+          "published_at": "2026-08-15T00:32:25+00:00",
+          "author": "/u/Terrible-Chicken-426",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "We’ve written an FAQ to answer some of the questions we've received about watermarking. In summary: • We’re implementing watermarking to comply with the EU AI Act. Other major model developers have si",
+          "url": "https://nitter.net/AnthropicAI/status/2088343978873966687#m",
+          "source": "Twitter/@AnthropicAI",
+          "summary": "We’ve written an FAQ to answer some of the questions we've received about watermarking In summary: • We’re implementing watermarking to comply with the EU AI Act Other major model developers have sign",
+          "category": "breaking",
+          "published_at": "2026-08-14T19:16:18+00:00",
+          "author": "AnthropicAI",
+          "tags": [
+            "twitter",
+            "anthropicai"
+          ]
+        },
+        {
+          "title": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk Report",
+          "url": "https://nitter.net/AnthropicAI/status/2088324824863236248#m",
+          "source": "Twitter/@AnthropicAI",
+          "summary": "As part of our Responsible Scaling Policy, we publish regular Risk Reports These share detailed information on the risks of our systems and how prepared we are to address them Our second Risk Report i",
+          "category": "breaking",
+          "published_at": "2026-08-14T18:00:12+00:00",
+          "author": "AnthropicAI",
+          "tags": [
+            "twitter",
+            "anthropicai"
+          ]
+        },
+        {
+          "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+          "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+          "source": "NVIDIA Blog",
+          "summary": "Indonesia is taking charge of its AI future This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM)",
+          "category": "breaking",
+          "published_at": "2026-08-14T17:13:05+00:00",
+          "author": "Shilpa Kolhatkar",
+          "tags": [
+            "AI",
+            "AI Infrastructure",
+            "Corporate",
+            "Economic Development",
+            "Nemotron"
+          ]
+        },
+        {
+          "title": "The State of Open Models, Summer 2026 ☀️ frontier models are getting larger, but small models still dominate real-world usage. Qwen leads local inference, followed by Gemma. AI agents are becoming a m",
+          "url": "https://nitter.net/huggingface/status/2088301795890044975#m",
+          "source": "Twitter/@HuggingFace",
+          "summary": "The State of Open Models, Summer 2026 ☀️ frontier models are getting larger, but small models still dominate real-world usage Qwen leads local inference, followed by Gemma AI agents are becoming a maj",
+          "category": "breaking",
+          "published_at": "2026-08-14T16:28:41+00:00",
+          "author": "HuggingFace",
+          "tags": [
+            "twitter",
+            "huggingface"
+          ]
+        },
+        {
+          "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+          "source": "r/MachineLearning",
+          "summary": "We introduce BDH-CQ, a reasoning system that brings these capabilities together Demonstrations of a previously unseen task update recurrent memory; the query is then solved through iterative computati",
+          "category": "research",
+          "published_at": "2026-08-15T06:18:15+00:00",
+          "author": "/u/moschles",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+          "url": "https://arxiv.org/abs/2608.12574",
+          "source": "arXiv AI/ML",
+          "summary": "12574v1 Announce Type: new Abstract: Large language models increasingly need to generate structured outputs that conform to predefined schemas, with one common constraint being selection from a finite",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Xingzi Xu, Karim Bouyarmane",
+          "tags": [
+            "cs.AI",
+            "cs.FL"
+          ]
+        },
+        {
+          "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+          "url": "https://arxiv.org/abs/2608.12585",
+          "source": "arXiv AI/ML",
+          "summary": "12585v1 Announce Type: new Abstract: Improving reasoning LLMs requires the ability to judge the quality of long reasoning traces for effective reasoning data curation, strong training signals during r",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Congchao Wang, Diwakar Singh, Qiaozi Gao, Spyros Matsoukas, Yang Liu, Mahdi Namazifar",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "DiG-bench: Discovery in Games",
+          "url": "https://arxiv.org/abs/2608.12593",
+          "source": "arXiv AI/ML",
+          "summary": "12593v1 Announce Type: new Abstract: Discovery---formulating novel generalizations---is a central part of the scientific process Despite its importance, there is a gap in the current AI benchmark land",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Ruairidh M. Battleday, Kai Sandbrink, Jimi Cullen-Drohan, Zihan Yan, Timothy Muller, Clare Maguire, Ales Kubicek, Fraser Greenlee-Scott, Sukrit Sumant, Tri Dao, J\\\"urgen Schmidhuber, Michal Valko, Joshua Tenenbaum, Thomas L. Griffiths, Zeb Kurth-Nelson, James C. R. Whittington",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+          "url": "https://arxiv.org/abs/2608.12599",
+          "source": "arXiv AI/ML",
+          "summary": "12599v1 Announce Type: new Abstract: Multi-turn dialogues let users revoke constraints as easily as impose them, but revocation does not reliably take effect: models keep enacting withdrawn requiremen",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Haoyuan Zhu",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "@skills: Attention is all you have",
+          "url": "https://arxiv.org/abs/2608.12610",
+          "source": "arXiv AI/ML",
+          "summary": "12610v1 Announce Type: new Abstract: There are 56,804 public agent skills today, and teams write many more privately The dominant delivery model is installation: once installed, a skill's description ",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Li Yin (Atlas), Zhi Li (Atlas), Zhan Shi (Atlas), Haoran Zhang (Atlas), Haebin Seong (Atlas),  Zhangyang (Atlas),  Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
+          "url": "https://arxiv.org/abs/2608.12645",
+          "source": "arXiv AI/ML",
+          "summary": "12645v1 Announce Type: new Abstract: LLM judges have become central infrastructure for model evaluations, online grading, and reward modeling Judges are typically validated by accuracy on golden data,",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Justin Zhao, Himaghna Bhattacharjee, Hannah Korevaar, Bhaktipriya Radharapu, Khalid El-Arini",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+          "url": "https://arxiv.org/abs/2608.12654",
+          "source": "arXiv AI/ML",
+          "summary": "12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment The steering decision is the pre-commit cho",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Oguz Serdar, Cuneyt Mertayak",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "General Probabilities of Causation with Causal Knowledge",
+          "url": "https://arxiv.org/abs/2608.12657",
+          "source": "arXiv AI/ML",
+          "summary": "12657v1 Announce Type: new Abstract: Probabilities of causation (PoCs) characterize individual causal responses that cannot be directly observed and therefore generally require partial identification ",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Xin Shu, Zhen Lei, Ang Li",
+          "tags": [
+            "cs.AI",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
+          "url": "https://arxiv.org/abs/2608.12670",
+          "source": "arXiv AI/ML",
+          "summary": "12670v1 Announce Type: new Abstract: IT service management (ITSM) systems accumulate large volumes of heterogeneous ticket data that are difficult for sales and executive stakeholders to convert into ",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Archan Dutta, Yash Dharmadhikari, Marat Valiullin, Rahul Guha, Alexander Liss",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "On the Expressive Power of Transformers",
+          "url": "https://arxiv.org/abs/2608.12671",
+          "source": "arXiv AI/ML",
+          "summary": "12671v1 Announce Type: new Abstract: Multi-layer transformers form the critical component of essentially all large language models (LLMs) in use today Because of their ubiquity and computational capab",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Phokion Kolaitis, Rik Sengupta",
+          "tags": [
+            "cs.AI",
+            "cs.CC"
+          ]
+        },
+        {
+          "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+          "url": "https://arxiv.org/abs/2608.12675",
+          "source": "arXiv AI/ML",
+          "summary": "12675v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries Existing privacy research ",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Saleh Almohaimeed, Saad Almohaimeed, Mousa Jari, Fahad Alotaibi, Khalid A. Alobaid",
+          "tags": [
+            "cs.AI",
+            "cs.CR"
+          ]
+        },
+        {
+          "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
+          "url": "https://arxiv.org/abs/2608.12677",
+          "source": "arXiv AI/ML",
+          "summary": "12677v1 Announce Type: new Abstract: Detecting infection-related behavioral changes in mosquitoes from video data is challenging because mosquitoes are small, move rapidly and irregularly, and are aff",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Danial Sharifrazi, Saadat Behzadi, Julakha Jahan Jui, Mojtaba Mohammadi, Nouman Javed, Roohallah Alizadehsani, Prasad N. Paradkar, Asim Bhatti",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
+          "url": "https://arxiv.org/abs/2608.12679",
+          "source": "arXiv AI/ML",
+          "summary": "12679v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science The usual approach is to present the problem to the model and ",
+          "category": "research",
+          "published_at": "2026-08-15T00:00:00-04:00",
+          "author": "Conor F. Hayes, Elliot Meyerson, Kajetan Schweighofer, Roberto Dailey, Babak Hodjat, Risto Miikkulainen, Xin Qiu",
+          "tags": [
+            "cs.AI",
+            "cs.NE"
+          ]
+        },
+        {
+          "title": "How much does adding an honest limitations section hurt the paper? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, How much does adding an honest limitations section hurt the paper (apart from making it better) Does it bias the reviewers Will they want you to fix the things in the limitations section",
+          "category": "research",
+          "published_at": "2026-08-14T21:55:55+00:00",
+          "author": "/u/strammerrammer",
+          "tags": [
+            "reddit"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "total": 50,
