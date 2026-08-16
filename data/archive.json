@@ -1,6 +1,206 @@
 {
-  "generated_at": "2026-08-15T06:38:28.408905+00:00",
+  "generated_at": "2026-08-16T06:39:57.835073+00:00",
   "archive": [
+    {
+      "date": "2026-08-16",
+      "total": 16,
+      "categories": {
+        "breaking": 1,
+        "research": 7,
+        "industry": 2,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+          "source": "r/MachineLearning",
+          "summary": "Repo with dataset links: https://github com/tesselwait/Starfield_Fauna Image classification dataset: 20,000 images from 50 fauna species in the video game Starfield Images were extracted from video ca",
+          "category": "breaking",
+          "published_at": "2026-08-15T18:06:57+00:00",
+          "author": "/u/eccLykta",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+          "source": "r/MachineLearning",
+          "summary": "Interpretability lenses get fitted to one exact checkpoint, and as far as I can tell nobody had tested what a version update does to one So this was my question: when a model line updates, does the fi",
+          "category": "research",
+          "published_at": "2026-08-15T18:24:00+00:00",
+          "author": "/u/imstilllearningthis",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+          "source": "r/MachineLearning",
+          "summary": "The date for NeurIPS 2026 author notifications is September 24th First of all, is it normal for AC and reviewer discussion phases to be this long This is particularly frustrating given that 5 out of t",
+          "category": "research",
+          "published_at": "2026-08-15T14:50:57+00:00",
+          "author": "/u/_Sarcastrophe_",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+          "source": "r/MachineLearning",
+          "summary": "Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually do with them And before the usual answers roll in: running local LLMs is banned for this thread It’",
+          "category": "research",
+          "published_at": "2026-08-15T07:26:32+00:00",
+          "author": "/u/BadOk2793",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Are there any theoretically-guided practices left in machine learning nowadays? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vohmy4/are_there_any_theoreticallyguided_practices_left/",
+          "source": "r/MachineLearning",
+          "summary": "There was a period in the development of machine learning where application seemed to be informed by theory Some of the best known theories include: If you train a model with too much data, then you g",
+          "category": "research",
+          "published_at": "2026-08-14T19:52:59+00:00",
+          "author": "/u/NeighborhoodFatCat",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "A linter for PyTorch 'torch-preflight' [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
+          "source": "r/MachineLearning",
+          "summary": "Been working on this for the last few months I've been working on PyTorch for the past few years and I always felt, many a times my work went into dump, because of some mistakes I made in the code tor",
+          "category": "research",
+          "published_at": "2026-08-14T14:30:56+00:00",
+          "author": "/u/LeJanbandhu",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
+          "source": "r/MachineLearning",
+          "summary": "Hello, I was curious about the differences you can get from the human reviewers and the llms Any insight is welcome, thank you submitted by /u/obliviousphoenix2003 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-08-14T12:26:29+00:00",
+          "author": "/u/obliviousphoenix2003",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Building text to ASCII diffusion model , need advice and guidance [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vo3m71/building_text_to_ascii_diffusion_model_need/",
+          "source": "r/MachineLearning",
+          "summary": "i wanna build a text diffusion model which interpret text and convert it into ascii images so like Text : build a cat Output : /\\\\\\_/\\\\ ( o o ) \\> \\^ < So , i have a decent background of ml algo ( com",
+          "category": "research",
+          "published_at": "2026-08-14T10:33:37+00:00",
+          "author": "/u/Udbhav96",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-08-13T17:04:18+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+          "source": "NVIDIA Blog",
+          "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season The native Linux app for GeForce NOW is officially out of beta GeForce NOW is also delivering new clou",
+          "category": "industry",
+          "published_at": "2026-08-13T13:00:33+00:00",
+          "author": "GeForce NOW Community",
+          "tags": [
+            "Gaming",
+            "Cloud Gaming",
+            "GeForce NOW"
+          ]
+        },
+        {
+          "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
+          "source": "r/MachineLearning",
+          "summary": "Can you tell me how you would go about building a recommendation engine for our question bank The idea is that it understands a student’s strengths and weaknesses and recommends questions accordingly ",
+          "category": "tools",
+          "published_at": "2026-08-14T18:54:26+00:00",
+          "author": "/u/whizzkidme",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+          "source": "r/MachineLearning",
+          "summary": "Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement They don't answer the question that actually matters at the point of care: how reliable is this model at the",
+          "category": "tools",
+          "published_at": "2026-08-14T17:06:09+00:00",
+          "author": "/u/adom2989",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+          "source": "r/MachineLearning",
+          "summary": "This is the project my last two posts were building towards (this is the last of this silliness) I ported the Doom rendering algorithm to run inside a transformer Instead of training a model, I used a",
+          "category": "tools",
+          "published_at": "2026-08-14T15:50:11+00:00",
+          "author": "/u/notforrob",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-08-14T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-08-13T17:16:04+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI Blog",
+          "summary": "Learn how startups use GPT-5 6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities",
+          "category": "tools",
+          "published_at": "2026-08-13T11:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Applied AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "total": 46,

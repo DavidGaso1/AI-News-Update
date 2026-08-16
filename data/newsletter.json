@@ -1,284 +1,58 @@
 {
-  "generated_at": "2026-08-15T06:38:28.410288+00:00",
-  "article_count": 46,
+  "generated_at": "2026-08-16T06:39:57.836619+00:00",
+  "article_count": 16,
   "categories": {
     "breaking": [
       {
-        "title": "AC comment and our reply disappeared on OpenReview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
+        "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
         "source": "r/MachineLearning",
-        "summary": "Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing The comment was made by the AC on the first day",
+        "summary": "Repo with dataset links: https://github com/tesselwait/Starfield_Fauna Image classification dataset: 20,000 images from 50 fauna species in the video game Starfield Images were extracted from video ca",
         "category": "breaking",
-        "published_at": "2026-08-15T00:32:25+00:00",
-        "fetched_at": "2026-08-15T06:37:52.193975+00:00",
-        "author": "/u/Terrible-Chicken-426",
+        "published_at": "2026-08-15T18:06:57+00:00",
+        "fetched_at": "2026-08-16T06:39:18.308513+00:00",
+        "author": "/u/eccLykta",
         "tags": [
           "reddit"
-        ]
-      },
-      {
-        "title": "We’ve written an FAQ to answer some of the questions we've received about watermarking. In summary: • We’re implementing watermarking to comply with the EU AI Act. Other major model developers have si",
-        "url": "https://nitter.net/AnthropicAI/status/2088343978873966687#m",
-        "source": "Twitter/@AnthropicAI",
-        "summary": "We’ve written an FAQ to answer some of the questions we've received about watermarking In summary: • We’re implementing watermarking to comply with the EU AI Act Other major model developers have sign",
-        "category": "breaking",
-        "published_at": "2026-08-14T19:16:18+00:00",
-        "fetched_at": "2026-08-15T06:38:15.580927+00:00",
-        "author": "AnthropicAI",
-        "tags": [
-          "twitter",
-          "anthropicai"
-        ]
-      },
-      {
-        "title": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk Report",
-        "url": "https://nitter.net/AnthropicAI/status/2088324824863236248#m",
-        "source": "Twitter/@AnthropicAI",
-        "summary": "As part of our Responsible Scaling Policy, we publish regular Risk Reports These share detailed information on the risks of our systems and how prepared we are to address them Our second Risk Report i",
-        "category": "breaking",
-        "published_at": "2026-08-14T18:00:12+00:00",
-        "fetched_at": "2026-08-15T06:38:15.613512+00:00",
-        "author": "AnthropicAI",
-        "tags": [
-          "twitter",
-          "anthropicai"
-        ]
-      },
-      {
-        "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-        "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-        "source": "NVIDIA Blog",
-        "summary": "Indonesia is taking charge of its AI future This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM)",
-        "category": "breaking",
-        "published_at": "2026-08-14T17:13:05+00:00",
-        "fetched_at": "2026-08-15T06:37:43.517808+00:00",
-        "author": "Shilpa Kolhatkar",
-        "tags": [
-          "AI",
-          "AI Infrastructure",
-          "Corporate",
-          "Economic Development",
-          "Nemotron"
-        ]
-      },
-      {
-        "title": "The State of Open Models, Summer 2026 ☀️ frontier models are getting larger, but small models still dominate real-world usage. Qwen leads local inference, followed by Gemma. AI agents are becoming a m",
-        "url": "https://nitter.net/huggingface/status/2088301795890044975#m",
-        "source": "Twitter/@HuggingFace",
-        "summary": "The State of Open Models, Summer 2026 ☀️ frontier models are getting larger, but small models still dominate real-world usage Qwen leads local inference, followed by Gemma AI agents are becoming a maj",
-        "category": "breaking",
-        "published_at": "2026-08-14T16:28:41+00:00",
-        "fetched_at": "2026-08-15T06:38:27.404036+00:00",
-        "author": "HuggingFace",
-        "tags": [
-          "twitter",
-          "huggingface"
         ]
       }
     ],
     "research": [
       {
-        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+        "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
         "source": "r/MachineLearning",
-        "summary": "We introduce BDH-CQ, a reasoning system that brings these capabilities together Demonstrations of a previously unseen task update recurrent memory; the query is then solved through iterative computati",
+        "summary": "Interpretability lenses get fitted to one exact checkpoint, and as far as I can tell nobody had tested what a version update does to one So this was my question: when a model line updates, does the fi",
         "category": "research",
-        "published_at": "2026-08-15T06:18:15+00:00",
-        "fetched_at": "2026-08-15T06:37:52.208170+00:00",
-        "author": "/u/moschles",
+        "published_at": "2026-08-15T18:24:00+00:00",
+        "fetched_at": "2026-08-16T06:39:18.393516+00:00",
+        "author": "/u/imstilllearningthis",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
-        "url": "https://arxiv.org/abs/2608.12574",
-        "source": "arXiv AI/ML",
-        "summary": "12574v1 Announce Type: new Abstract: Large language models increasingly need to generate structured outputs that conform to predefined schemas, with one common constraint being selection from a finite",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:34.947784+00:00",
-        "author": "Xingzi Xu, Karim Bouyarmane",
-        "tags": [
-          "cs.AI",
-          "cs.FL"
-        ]
-      },
-      {
-        "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
-        "url": "https://arxiv.org/abs/2608.12585",
-        "source": "arXiv AI/ML",
-        "summary": "12585v1 Announce Type: new Abstract: Improving reasoning LLMs requires the ability to judge the quality of long reasoning traces for effective reasoning data curation, strong training signals during r",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:34.959082+00:00",
-        "author": "Congchao Wang, Diwakar Singh, Qiaozi Gao, Spyros Matsoukas, Yang Liu, Mahdi Namazifar",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "DiG-bench: Discovery in Games",
-        "url": "https://arxiv.org/abs/2608.12593",
-        "source": "arXiv AI/ML",
-        "summary": "12593v1 Announce Type: new Abstract: Discovery---formulating novel generalizations---is a central part of the scientific process Despite its importance, there is a gap in the current AI benchmark land",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:34.978566+00:00",
-        "author": "Ruairidh M. Battleday, Kai Sandbrink, Jimi Cullen-Drohan, Zihan Yan, Timothy Muller, Clare Maguire, Ales Kubicek, Fraser Greenlee-Scott, Sukrit Sumant, Tri Dao, J\\\"urgen Schmidhuber, Michal Valko, Joshua Tenenbaum, Thomas L. Griffiths, Zeb Kurth-Nelson, James C. R. Whittington",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
-        "url": "https://arxiv.org/abs/2608.12599",
-        "source": "arXiv AI/ML",
-        "summary": "12599v1 Announce Type: new Abstract: Multi-turn dialogues let users revoke constraints as easily as impose them, but revocation does not reliably take effect: models keep enacting withdrawn requiremen",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:34.994537+00:00",
-        "author": "Haoyuan Zhu",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "@skills: Attention is all you have",
-        "url": "https://arxiv.org/abs/2608.12610",
-        "source": "arXiv AI/ML",
-        "summary": "12610v1 Announce Type: new Abstract: There are 56,804 public agent skills today, and teams write many more privately The dominant delivery model is installation: once installed, a skill's description ",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.000355+00:00",
-        "author": "Li Yin (Atlas), Zhi Li (Atlas), Zhan Shi (Atlas), Haoran Zhang (Atlas), Haebin Seong (Atlas),  Zhangyang (Atlas),  Wang",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
-        "url": "https://arxiv.org/abs/2608.12645",
-        "source": "arXiv AI/ML",
-        "summary": "12645v1 Announce Type: new Abstract: LLM judges have become central infrastructure for model evaluations, online grading, and reward modeling Judges are typically validated by accuracy on golden data,",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.012765+00:00",
-        "author": "Justin Zhao, Himaghna Bhattacharjee, Hannah Korevaar, Bhaktipriya Radharapu, Khalid El-Arini",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
-        "url": "https://arxiv.org/abs/2608.12654",
-        "source": "arXiv AI/ML",
-        "summary": "12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment The steering decision is the pre-commit cho",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.024083+00:00",
-        "author": "Oguz Serdar, Cuneyt Mertayak",
-        "tags": [
-          "cs.AI",
-          "cs.CL",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "General Probabilities of Causation with Causal Knowledge",
-        "url": "https://arxiv.org/abs/2608.12657",
-        "source": "arXiv AI/ML",
-        "summary": "12657v1 Announce Type: new Abstract: Probabilities of causation (PoCs) characterize individual causal responses that cannot be directly observed and therefore generally require partial identification ",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.033845+00:00",
-        "author": "Xin Shu, Zhen Lei, Ang Li",
-        "tags": [
-          "cs.AI",
-          "stat.ML"
-        ]
-      },
-      {
-        "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
-        "url": "https://arxiv.org/abs/2608.12670",
-        "source": "arXiv AI/ML",
-        "summary": "12670v1 Announce Type: new Abstract: IT service management (ITSM) systems accumulate large volumes of heterogeneous ticket data that are difficult for sales and executive stakeholders to convert into ",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.044695+00:00",
-        "author": "Archan Dutta, Yash Dharmadhikari, Marat Valiullin, Rahul Guha, Alexander Liss",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "On the Expressive Power of Transformers",
-        "url": "https://arxiv.org/abs/2608.12671",
-        "source": "arXiv AI/ML",
-        "summary": "12671v1 Announce Type: new Abstract: Multi-layer transformers form the critical component of essentially all large language models (LLMs) in use today Because of their ubiquity and computational capab",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.052364+00:00",
-        "author": "Phokion Kolaitis, Rik Sengupta",
-        "tags": [
-          "cs.AI",
-          "cs.CC"
-        ]
-      },
-      {
-        "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
-        "url": "https://arxiv.org/abs/2608.12675",
-        "source": "arXiv AI/ML",
-        "summary": "12675v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries Existing privacy research ",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.082623+00:00",
-        "author": "Saleh Almohaimeed, Saad Almohaimeed, Mousa Jari, Fahad Alotaibi, Khalid A. Alobaid",
-        "tags": [
-          "cs.AI",
-          "cs.CR"
-        ]
-      },
-      {
-        "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
-        "url": "https://arxiv.org/abs/2608.12677",
-        "source": "arXiv AI/ML",
-        "summary": "12677v1 Announce Type: new Abstract: Detecting infection-related behavioral changes in mosquitoes from video data is challenging because mosquitoes are small, move rapidly and irregularly, and are aff",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.097651+00:00",
-        "author": "Danial Sharifrazi, Saadat Behzadi, Julakha Jahan Jui, Mojtaba Mohammadi, Nouman Javed, Roohallah Alizadehsani, Prasad N. Paradkar, Asim Bhatti",
-        "tags": [
-          "cs.AI",
-          "cs.CV"
-        ]
-      },
-      {
-        "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
-        "url": "https://arxiv.org/abs/2608.12679",
-        "source": "arXiv AI/ML",
-        "summary": "12679v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science The usual approach is to present the problem to the model and ",
-        "category": "research",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.112443+00:00",
-        "author": "Conor F. Hayes, Elliot Meyerson, Kajetan Schweighofer, Roberto Dailey, Babak Hodjat, Risto Miikkulainen, Xin Qiu",
-        "tags": [
-          "cs.AI",
-          "cs.NE"
-        ]
-      },
-      {
-        "title": "How much does adding an honest limitations section hurt the paper? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
         "source": "r/MachineLearning",
-        "summary": "Hi, How much does adding an honest limitations section hurt the paper (apart from making it better) Does it bias the reviewers Will they want you to fix the things in the limitations section",
+        "summary": "The date for NeurIPS 2026 author notifications is September 24th First of all, is it normal for AC and reviewer discussion phases to be this long This is particularly frustrating given that 5 out of t",
         "category": "research",
-        "published_at": "2026-08-14T21:55:55+00:00",
-        "fetched_at": "2026-08-15T06:37:52.181605+00:00",
-        "author": "/u/strammerrammer",
+        "published_at": "2026-08-15T14:50:57+00:00",
+        "fetched_at": "2026-08-16T06:39:18.322420+00:00",
+        "author": "/u/_Sarcastrophe_",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
+        "summary": "Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually do with them And before the usual answers roll in: running local LLMs is banned for this thread It’",
+        "category": "research",
+        "published_at": "2026-08-15T07:26:32+00:00",
+        "fetched_at": "2026-08-16T06:39:18.345382+00:00",
+        "author": "/u/BadOk2793",
         "tags": [
           "reddit"
         ]
@@ -290,7 +64,7 @@
         "summary": "There was a period in the development of machine learning where application seemed to be informed by theory Some of the best known theories include: If you train a model with too much data, then you g",
         "category": "research",
         "published_at": "2026-08-14T19:52:59+00:00",
-        "fetched_at": "2026-08-15T06:37:52.381305+00:00",
+        "fetched_at": "2026-08-16T06:39:18.540734+00:00",
         "author": "/u/NeighborhoodFatCat",
         "tags": [
           "reddit"
@@ -303,7 +77,7 @@
         "summary": "Been working on this for the last few months I've been working on PyTorch for the past few years and I always felt, many a times my work went into dump, because of some mistakes I made in the code tor",
         "category": "research",
         "published_at": "2026-08-14T14:30:56+00:00",
-        "fetched_at": "2026-08-15T06:37:52.345276+00:00",
+        "fetched_at": "2026-08-16T06:39:18.494778+00:00",
         "author": "/u/LeJanbandhu",
         "tags": [
           "reddit"
@@ -316,7 +90,7 @@
         "summary": "Hello, I was curious about the differences you can get from the human reviewers and the llms Any insight is welcome, thank you submitted by /u/obliviousphoenix2003 [link] [comments]",
         "category": "research",
         "published_at": "2026-08-14T12:26:29+00:00",
-        "fetched_at": "2026-08-15T06:37:52.233504+00:00",
+        "fetched_at": "2026-08-16T06:39:18.438404+00:00",
         "author": "/u/obliviousphoenix2003",
         "tags": [
           "reddit"
@@ -329,130 +103,14 @@
         "summary": "i wanna build a text diffusion model which interpret text and convert it into ascii images so like Text : build a cat Output : /\\\\\\_/\\\\ ( o o ) \\> \\^ < So , i have a decent background of ml algo ( com",
         "category": "research",
         "published_at": "2026-08-14T10:33:37+00:00",
-        "fetched_at": "2026-08-15T06:37:52.361382+00:00",
+        "fetched_at": "2026-08-16T06:39:18.513132+00:00",
         "author": "/u/Udbhav96",
         "tags": [
           "reddit"
         ]
-      },
-      {
-        "title": "TMLR Relevance and Prestige [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
-        "source": "r/MachineLearning",
-        "summary": "I recently had a paper accepted to TMLR and was wondering how prestigious it is, in comparison to A* conferences (ie NeurIPS, ICLR, ICML), but also vs journals like JMLR submitted by /u/Awesome_Nerd10",
-        "category": "research",
-        "published_at": "2026-08-13T23:16:16+00:00",
-        "fetched_at": "2026-08-15T06:37:52.334329+00:00",
-        "author": "/u/Awesome_Nerd10",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
-        "source": "r/MachineLearning",
-        "summary": "I may have stumbled onto something interesting while trying to figure out a recurring artifact in ChatGPT image generation and editing (maybe applicable to other models as well It started with a very ",
-        "category": "research",
-        "published_at": "2026-08-13T22:52:35+00:00",
-        "fetched_at": "2026-08-15T06:37:52.414541+00:00",
-        "author": "/u/DickHorner",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
-        "source": "r/MachineLearning",
-        "summary": "I've been building an open-source tool for diagnosing world models, the kind that predict future frames from a starting context and a sequence of actions It compares a rollout against ground truth and",
-        "category": "research",
-        "published_at": "2026-08-13T19:58:03+00:00",
-        "fetched_at": "2026-08-15T06:37:52.455412+00:00",
-        "author": "/u/georgia_bucea",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
-        "source": "r/MachineLearning",
-        "summary": "I’m working on performance regression detection using machine learning/anomaly detection My setup is basically: Healthy runs are used to learn normal behaviour Regression runs are used to see whether ",
-        "category": "research",
-        "published_at": "2026-08-13T17:01:27+00:00",
-        "fetched_at": "2026-08-15T06:37:52.479351+00:00",
-        "author": "/u/ZeroDark_Hereford",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Neurips 2026: Modified date on reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
-        "source": "r/MachineLearning",
-        "summary": "Reviews modified dates are public, and some are recent I’m a bit confused as to how to interpret this In other conferences, reviewers were required to provide a final justification, which would practi",
-        "category": "research",
-        "published_at": "2026-08-13T13:48:01+00:00",
-        "fetched_at": "2026-08-15T06:37:52.425676+00:00",
-        "author": "/u/CantKillTheLifeless",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "What We Learned by Reproducing 2,200 papers from ICML",
-        "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "research",
-        "published_at": "2026-08-13T00:00:00+00:00",
-        "fetched_at": "2026-08-15T06:37:37.484911+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
-        "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-        "source": "Microsoft Research Blog",
-        "summary": "A path, a fence, a knot MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning The post Mi",
-        "category": "research",
-        "published_at": "2026-08-12T16:00:00+00:00",
-        "fetched_at": "2026-08-15T06:37:41.436701+00:00",
-        "author": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
-        "tags": [
-          "Research Blog"
-        ]
       }
     ],
     "industry": [
-      {
-        "title": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
-        "url": "https://arxiv.org/abs/2608.12674",
-        "source": "arXiv AI/ML",
-        "summary": "12674v1 Announce Type: new Abstract: Maintaining price consistency and executing an Every Day Low Price strategy is critical for global retailers However, with catalogs spanning millions of active ite",
-        "category": "industry",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:35.068549+00:00",
-        "author": "Ravi Teja Chunduri, Srikaran Reddy Boya, Deep Narayan Mishra, Ajay Kumar B, Karthik Kumaran, Pranay Kona",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key ann",
-        "url": "https://nitter.net/GoogleAI/status/2088332438753681700#m",
-        "source": "Twitter/@GoogleAI",
-        "summary": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices A few of the key anno",
-        "category": "industry",
-        "published_at": "2026-08-14T18:30:27+00:00",
-        "fetched_at": "2026-08-15T06:38:16.918083+00:00",
-        "author": "GoogleAI",
-        "tags": [
-          "twitter",
-          "googleai"
-        ]
-      },
       {
         "title": "Introducing Gemini 3.7 Flash",
         "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
@@ -460,7 +118,7 @@
         "summary": "",
         "category": "industry",
         "published_at": "2026-08-13T17:04:18+00:00",
-        "fetched_at": "2026-08-15T06:37:44.565432+00:00",
+        "fetched_at": "2026-08-16T06:39:08.941316+00:00",
         "author": "",
         "tags": []
       },
@@ -471,41 +129,16 @@
         "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season The native Linux app for GeForce NOW is officially out of beta GeForce NOW is also delivering new clou",
         "category": "industry",
         "published_at": "2026-08-13T13:00:33+00:00",
-        "fetched_at": "2026-08-15T06:37:43.531772+00:00",
+        "fetched_at": "2026-08-16T06:39:08.034929+00:00",
         "author": "GeForce NOW Community",
         "tags": [
           "Gaming",
           "Cloud Gaming",
           "GeForce NOW"
         ]
-      },
-      {
-        "title": "Putting sign language AI into users’ hands",
-        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-        "source": "Google DeepMind Blog",
-        "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users",
-        "category": "industry",
-        "published_at": "2026-08-12T14:01:59+00:00",
-        "fetched_at": "2026-08-15T06:37:44.575212+00:00",
-        "author": "",
-        "tags": []
       }
     ],
     "tools": [
-      {
-        "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
-        "url": "https://arxiv.org/abs/2608.12590",
-        "source": "arXiv AI/ML",
-        "summary": "12590v1 Announce Type: new Abstract: Thyroid ultrasound diagnosis requires coordinated lesion localization, measurement, risk stratification and reporting, yet most AI systems address these tasks in i",
-        "category": "tools",
-        "published_at": "2026-08-15T00:00:00-04:00",
-        "fetched_at": "2026-08-15T06:37:34.972241+00:00",
-        "author": "Haifan Gong, Shiyu Chen, Bodong Wang, Yuqi Wang, Shijie Wang, Guoliang You, Xinyu Xiong, Haowei Wang, Mingzhi Mao, Dexing Kong, Qinghua Liu, Wei Lou, Fei Chen, Guanbin Li",
-        "tags": [
-          "cs.AI",
-          "cs.CV"
-        ]
-      },
       {
         "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
@@ -513,7 +146,7 @@
         "summary": "Can you tell me how you would go about building a recommendation engine for our question bank The idea is that it understands a student’s strengths and weaknesses and recommends questions accordingly ",
         "category": "tools",
         "published_at": "2026-08-14T18:54:26+00:00",
-        "fetched_at": "2026-08-15T06:37:52.251616+00:00",
+        "fetched_at": "2026-08-16T06:39:18.457031+00:00",
         "author": "/u/whizzkidme",
         "tags": [
           "reddit"
@@ -526,7 +159,7 @@
         "summary": "Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement They don't answer the question that actually matters at the point of care: how reliable is this model at the",
         "category": "tools",
         "published_at": "2026-08-14T17:06:09+00:00",
-        "fetched_at": "2026-08-15T06:37:52.276521+00:00",
+        "fetched_at": "2026-08-16T06:39:18.483207+00:00",
         "author": "/u/adom2989",
         "tags": [
           "reddit"
@@ -539,7 +172,7 @@
         "summary": "This is the project my last two posts were building towards (this is the last of this silliness) I ported the Doom rendering algorithm to run inside a transformer Instead of training a model, I used a",
         "category": "tools",
         "published_at": "2026-08-14T15:50:11+00:00",
-        "fetched_at": "2026-08-15T06:37:52.166203+00:00",
+        "fetched_at": "2026-08-16T06:39:18.411959+00:00",
         "author": "/u/notforrob",
         "tags": [
           "reddit"
@@ -552,7 +185,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-08-14T00:00:00+00:00",
-        "fetched_at": "2026-08-15T06:37:37.457354+00:00",
+        "fetched_at": "2026-08-16T06:39:02.941960+00:00",
         "author": "",
         "tags": []
       },
@@ -563,22 +196,9 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-08-13T17:16:04+00:00",
-        "fetched_at": "2026-08-15T06:37:37.474645+00:00",
+        "fetched_at": "2026-08-16T06:39:02.960730+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
-        "source": "r/MachineLearning",
-        "summary": "City2Graph is a Python library I built that turns geospatial data into analysis-ready graphs (for spatial analysis, network analysis, and Graph Neural Networks as GeoAI), and the paper describing it h",
-        "category": "tools",
-        "published_at": "2026-08-13T11:59:58+00:00",
-        "fetched_at": "2026-08-15T06:37:52.325508+00:00",
-        "author": "/u/Tough_Ad_6598",
-        "tags": [
-          "reddit"
-        ]
       },
       {
         "title": "The builder’s guide to GPT‑5.6",
@@ -587,501 +207,66 @@
         "summary": "Learn how startups use GPT-5 6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities",
         "category": "tools",
         "published_at": "2026-08-13T11:00:00+00:00",
-        "fetched_at": "2026-08-15T06:37:38.524186+00:00",
+        "fetched_at": "2026-08-16T06:39:03.915723+00:00",
         "author": "",
         "tags": [
           "Applied AI"
         ]
-      },
-      {
-        "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-08-12T16:14:36+00:00",
-        "fetched_at": "2026-08-15T06:37:37.503029+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-08-12T14:00:51+00:00",
-        "fetched_at": "2026-08-15T06:37:37.515562+00:00",
-        "author": "",
-        "tags": []
       }
     ]
   },
   "all_articles": [
     {
-      "title": "AC comment and our reply disappeared on OpenReview [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
+      "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
       "source": "r/MachineLearning",
-      "summary": "Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing The comment was made by the AC on the first day",
+      "summary": "Repo with dataset links: https://github com/tesselwait/Starfield_Fauna Image classification dataset: 20,000 images from 50 fauna species in the video game Starfield Images were extracted from video ca",
       "category": "breaking",
-      "published_at": "2026-08-15T00:32:25+00:00",
-      "fetched_at": "2026-08-15T06:37:52.193975+00:00",
-      "author": "/u/Terrible-Chicken-426",
+      "published_at": "2026-08-15T18:06:57+00:00",
+      "fetched_at": "2026-08-16T06:39:18.308513+00:00",
+      "author": "/u/eccLykta",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "We’ve written an FAQ to answer some of the questions we've received about watermarking. In summary: • We’re implementing watermarking to comply with the EU AI Act. Other major model developers have si",
-      "url": "https://nitter.net/AnthropicAI/status/2088343978873966687#m",
-      "source": "Twitter/@AnthropicAI",
-      "summary": "We’ve written an FAQ to answer some of the questions we've received about watermarking In summary: • We’re implementing watermarking to comply with the EU AI Act Other major model developers have sign",
-      "category": "breaking",
-      "published_at": "2026-08-14T19:16:18+00:00",
-      "fetched_at": "2026-08-15T06:38:15.580927+00:00",
-      "author": "AnthropicAI",
-      "tags": [
-        "twitter",
-        "anthropicai"
-      ]
-    },
-    {
-      "title": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk Report",
-      "url": "https://nitter.net/AnthropicAI/status/2088324824863236248#m",
-      "source": "Twitter/@AnthropicAI",
-      "summary": "As part of our Responsible Scaling Policy, we publish regular Risk Reports These share detailed information on the risks of our systems and how prepared we are to address them Our second Risk Report i",
-      "category": "breaking",
-      "published_at": "2026-08-14T18:00:12+00:00",
-      "fetched_at": "2026-08-15T06:38:15.613512+00:00",
-      "author": "AnthropicAI",
-      "tags": [
-        "twitter",
-        "anthropicai"
-      ]
-    },
-    {
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-      "source": "NVIDIA Blog",
-      "summary": "Indonesia is taking charge of its AI future This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM)",
-      "category": "breaking",
-      "published_at": "2026-08-14T17:13:05+00:00",
-      "fetched_at": "2026-08-15T06:37:43.517808+00:00",
-      "author": "Shilpa Kolhatkar",
-      "tags": [
-        "AI",
-        "AI Infrastructure",
-        "Corporate",
-        "Economic Development",
-        "Nemotron"
-      ]
-    },
-    {
-      "title": "The State of Open Models, Summer 2026 ☀️ frontier models are getting larger, but small models still dominate real-world usage. Qwen leads local inference, followed by Gemma. AI agents are becoming a m",
-      "url": "https://nitter.net/huggingface/status/2088301795890044975#m",
-      "source": "Twitter/@HuggingFace",
-      "summary": "The State of Open Models, Summer 2026 ☀️ frontier models are getting larger, but small models still dominate real-world usage Qwen leads local inference, followed by Gemma AI agents are becoming a maj",
-      "category": "breaking",
-      "published_at": "2026-08-14T16:28:41+00:00",
-      "fetched_at": "2026-08-15T06:38:27.404036+00:00",
-      "author": "HuggingFace",
-      "tags": [
-        "twitter",
-        "huggingface"
-      ]
-    },
-    {
-      "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+      "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
       "source": "r/MachineLearning",
-      "summary": "We introduce BDH-CQ, a reasoning system that brings these capabilities together Demonstrations of a previously unseen task update recurrent memory; the query is then solved through iterative computati",
+      "summary": "Interpretability lenses get fitted to one exact checkpoint, and as far as I can tell nobody had tested what a version update does to one So this was my question: when a model line updates, does the fi",
       "category": "research",
-      "published_at": "2026-08-15T06:18:15+00:00",
-      "fetched_at": "2026-08-15T06:37:52.208170+00:00",
-      "author": "/u/moschles",
+      "published_at": "2026-08-15T18:24:00+00:00",
+      "fetched_at": "2026-08-16T06:39:18.393516+00:00",
+      "author": "/u/imstilllearningthis",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
-      "url": "https://arxiv.org/abs/2608.12574",
-      "source": "arXiv AI/ML",
-      "summary": "12574v1 Announce Type: new Abstract: Large language models increasingly need to generate structured outputs that conform to predefined schemas, with one common constraint being selection from a finite",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:34.947784+00:00",
-      "author": "Xingzi Xu, Karim Bouyarmane",
-      "tags": [
-        "cs.AI",
-        "cs.FL"
-      ]
-    },
-    {
-      "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
-      "url": "https://arxiv.org/abs/2608.12585",
-      "source": "arXiv AI/ML",
-      "summary": "12585v1 Announce Type: new Abstract: Improving reasoning LLMs requires the ability to judge the quality of long reasoning traces for effective reasoning data curation, strong training signals during r",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:34.959082+00:00",
-      "author": "Congchao Wang, Diwakar Singh, Qiaozi Gao, Spyros Matsoukas, Yang Liu, Mahdi Namazifar",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "DiG-bench: Discovery in Games",
-      "url": "https://arxiv.org/abs/2608.12593",
-      "source": "arXiv AI/ML",
-      "summary": "12593v1 Announce Type: new Abstract: Discovery---formulating novel generalizations---is a central part of the scientific process Despite its importance, there is a gap in the current AI benchmark land",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:34.978566+00:00",
-      "author": "Ruairidh M. Battleday, Kai Sandbrink, Jimi Cullen-Drohan, Zihan Yan, Timothy Muller, Clare Maguire, Ales Kubicek, Fraser Greenlee-Scott, Sukrit Sumant, Tri Dao, J\\\"urgen Schmidhuber, Michal Valko, Joshua Tenenbaum, Thomas L. Griffiths, Zeb Kurth-Nelson, James C. R. Whittington",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
-      "url": "https://arxiv.org/abs/2608.12599",
-      "source": "arXiv AI/ML",
-      "summary": "12599v1 Announce Type: new Abstract: Multi-turn dialogues let users revoke constraints as easily as impose them, but revocation does not reliably take effect: models keep enacting withdrawn requiremen",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:34.994537+00:00",
-      "author": "Haoyuan Zhu",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "@skills: Attention is all you have",
-      "url": "https://arxiv.org/abs/2608.12610",
-      "source": "arXiv AI/ML",
-      "summary": "12610v1 Announce Type: new Abstract: There are 56,804 public agent skills today, and teams write many more privately The dominant delivery model is installation: once installed, a skill's description ",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.000355+00:00",
-      "author": "Li Yin (Atlas), Zhi Li (Atlas), Zhan Shi (Atlas), Haoran Zhang (Atlas), Haebin Seong (Atlas),  Zhangyang (Atlas),  Wang",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
-      "url": "https://arxiv.org/abs/2608.12645",
-      "source": "arXiv AI/ML",
-      "summary": "12645v1 Announce Type: new Abstract: LLM judges have become central infrastructure for model evaluations, online grading, and reward modeling Judges are typically validated by accuracy on golden data,",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.012765+00:00",
-      "author": "Justin Zhao, Himaghna Bhattacharjee, Hannah Korevaar, Bhaktipriya Radharapu, Khalid El-Arini",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
-      "url": "https://arxiv.org/abs/2608.12654",
-      "source": "arXiv AI/ML",
-      "summary": "12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment The steering decision is the pre-commit cho",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.024083+00:00",
-      "author": "Oguz Serdar, Cuneyt Mertayak",
-      "tags": [
-        "cs.AI",
-        "cs.CL",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "General Probabilities of Causation with Causal Knowledge",
-      "url": "https://arxiv.org/abs/2608.12657",
-      "source": "arXiv AI/ML",
-      "summary": "12657v1 Announce Type: new Abstract: Probabilities of causation (PoCs) characterize individual causal responses that cannot be directly observed and therefore generally require partial identification ",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.033845+00:00",
-      "author": "Xin Shu, Zhen Lei, Ang Li",
-      "tags": [
-        "cs.AI",
-        "stat.ML"
-      ]
-    },
-    {
-      "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
-      "url": "https://arxiv.org/abs/2608.12670",
-      "source": "arXiv AI/ML",
-      "summary": "12670v1 Announce Type: new Abstract: IT service management (ITSM) systems accumulate large volumes of heterogeneous ticket data that are difficult for sales and executive stakeholders to convert into ",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.044695+00:00",
-      "author": "Archan Dutta, Yash Dharmadhikari, Marat Valiullin, Rahul Guha, Alexander Liss",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "On the Expressive Power of Transformers",
-      "url": "https://arxiv.org/abs/2608.12671",
-      "source": "arXiv AI/ML",
-      "summary": "12671v1 Announce Type: new Abstract: Multi-layer transformers form the critical component of essentially all large language models (LLMs) in use today Because of their ubiquity and computational capab",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.052364+00:00",
-      "author": "Phokion Kolaitis, Rik Sengupta",
-      "tags": [
-        "cs.AI",
-        "cs.CC"
-      ]
-    },
-    {
-      "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
-      "url": "https://arxiv.org/abs/2608.12675",
-      "source": "arXiv AI/ML",
-      "summary": "12675v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries Existing privacy research ",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.082623+00:00",
-      "author": "Saleh Almohaimeed, Saad Almohaimeed, Mousa Jari, Fahad Alotaibi, Khalid A. Alobaid",
-      "tags": [
-        "cs.AI",
-        "cs.CR"
-      ]
-    },
-    {
-      "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
-      "url": "https://arxiv.org/abs/2608.12677",
-      "source": "arXiv AI/ML",
-      "summary": "12677v1 Announce Type: new Abstract: Detecting infection-related behavioral changes in mosquitoes from video data is challenging because mosquitoes are small, move rapidly and irregularly, and are aff",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.097651+00:00",
-      "author": "Danial Sharifrazi, Saadat Behzadi, Julakha Jahan Jui, Mojtaba Mohammadi, Nouman Javed, Roohallah Alizadehsani, Prasad N. Paradkar, Asim Bhatti",
-      "tags": [
-        "cs.AI",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
-      "url": "https://arxiv.org/abs/2608.12679",
-      "source": "arXiv AI/ML",
-      "summary": "12679v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science The usual approach is to present the problem to the model and ",
-      "category": "research",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.112443+00:00",
-      "author": "Conor F. Hayes, Elliot Meyerson, Kajetan Schweighofer, Roberto Dailey, Babak Hodjat, Risto Miikkulainen, Xin Qiu",
-      "tags": [
-        "cs.AI",
-        "cs.NE"
-      ]
-    },
-    {
-      "title": "How much does adding an honest limitations section hurt the paper? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+      "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
       "source": "r/MachineLearning",
-      "summary": "Hi, How much does adding an honest limitations section hurt the paper (apart from making it better) Does it bias the reviewers Will they want you to fix the things in the limitations section",
+      "summary": "The date for NeurIPS 2026 author notifications is September 24th First of all, is it normal for AC and reviewer discussion phases to be this long This is particularly frustrating given that 5 out of t",
       "category": "research",
-      "published_at": "2026-08-14T21:55:55+00:00",
-      "fetched_at": "2026-08-15T06:37:52.181605+00:00",
-      "author": "/u/strammerrammer",
+      "published_at": "2026-08-15T14:50:57+00:00",
+      "fetched_at": "2026-08-16T06:39:18.322420+00:00",
+      "author": "/u/_Sarcastrophe_",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
-      "url": "https://arxiv.org/abs/2608.12674",
-      "source": "arXiv AI/ML",
-      "summary": "12674v1 Announce Type: new Abstract: Maintaining price consistency and executing an Every Day Low Price strategy is critical for global retailers However, with catalogs spanning millions of active ite",
-      "category": "industry",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:35.068549+00:00",
-      "author": "Ravi Teja Chunduri, Srikaran Reddy Boya, Deep Narayan Mishra, Ajay Kumar B, Karthik Kumaran, Pranay Kona",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key ann",
-      "url": "https://nitter.net/GoogleAI/status/2088332438753681700#m",
-      "source": "Twitter/@GoogleAI",
-      "summary": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices A few of the key anno",
-      "category": "industry",
-      "published_at": "2026-08-14T18:30:27+00:00",
-      "fetched_at": "2026-08-15T06:38:16.918083+00:00",
-      "author": "GoogleAI",
-      "tags": [
-        "twitter",
-        "googleai"
-      ]
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-08-13T17:04:18+00:00",
-      "fetched_at": "2026-08-15T06:37:44.565432+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-      "source": "NVIDIA Blog",
-      "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season The native Linux app for GeForce NOW is officially out of beta GeForce NOW is also delivering new clou",
-      "category": "industry",
-      "published_at": "2026-08-13T13:00:33+00:00",
-      "fetched_at": "2026-08-15T06:37:43.531772+00:00",
-      "author": "GeForce NOW Community",
-      "tags": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ]
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "Google DeepMind Blog",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users",
-      "category": "industry",
-      "published_at": "2026-08-12T14:01:59+00:00",
-      "fetched_at": "2026-08-15T06:37:44.575212+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
-      "url": "https://arxiv.org/abs/2608.12590",
-      "source": "arXiv AI/ML",
-      "summary": "12590v1 Announce Type: new Abstract: Thyroid ultrasound diagnosis requires coordinated lesion localization, measurement, risk stratification and reporting, yet most AI systems address these tasks in i",
-      "category": "tools",
-      "published_at": "2026-08-15T00:00:00-04:00",
-      "fetched_at": "2026-08-15T06:37:34.972241+00:00",
-      "author": "Haifan Gong, Shiyu Chen, Bodong Wang, Yuqi Wang, Shijie Wang, Guoliang You, Xinyu Xiong, Haowei Wang, Mingzhi Mao, Dexing Kong, Qinghua Liu, Wei Lou, Fei Chen, Guanbin Li",
-      "tags": [
-        "cs.AI",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
+      "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
       "source": "r/MachineLearning",
-      "summary": "Can you tell me how you would go about building a recommendation engine for our question bank The idea is that it understands a student’s strengths and weaknesses and recommends questions accordingly ",
-      "category": "tools",
-      "published_at": "2026-08-14T18:54:26+00:00",
-      "fetched_at": "2026-08-15T06:37:52.251616+00:00",
-      "author": "/u/whizzkidme",
+      "summary": "Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually do with them And before the usual answers roll in: running local LLMs is banned for this thread It’",
+      "category": "research",
+      "published_at": "2026-08-15T07:26:32+00:00",
+      "fetched_at": "2026-08-16T06:39:18.345382+00:00",
+      "author": "/u/BadOk2793",
       "tags": [
         "reddit"
       ]
-    },
-    {
-      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
-      "source": "r/MachineLearning",
-      "summary": "Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement They don't answer the question that actually matters at the point of care: how reliable is this model at the",
-      "category": "tools",
-      "published_at": "2026-08-14T17:06:09+00:00",
-      "fetched_at": "2026-08-15T06:37:52.276521+00:00",
-      "author": "/u/adom2989",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
-      "source": "r/MachineLearning",
-      "summary": "This is the project my last two posts were building towards (this is the last of this silliness) I ported the Doom rendering algorithm to run inside a transformer Instead of training a model, I used a",
-      "category": "tools",
-      "published_at": "2026-08-14T15:50:11+00:00",
-      "fetched_at": "2026-08-15T06:37:52.166203+00:00",
-      "author": "/u/notforrob",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "fetched_at": "2026-08-15T06:37:37.457354+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-08-13T17:16:04+00:00",
-      "fetched_at": "2026-08-15T06:37:37.474645+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
-      "source": "r/MachineLearning",
-      "summary": "City2Graph is a Python library I built that turns geospatial data into analysis-ready graphs (for spatial analysis, network analysis, and Graph Neural Networks as GeoAI), and the paper describing it h",
-      "category": "tools",
-      "published_at": "2026-08-13T11:59:58+00:00",
-      "fetched_at": "2026-08-15T06:37:52.325508+00:00",
-      "author": "/u/Tough_Ad_6598",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI Blog",
-      "summary": "Learn how startups use GPT-5 6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities",
-      "category": "tools",
-      "published_at": "2026-08-13T11:00:00+00:00",
-      "fetched_at": "2026-08-15T06:37:38.524186+00:00",
-      "author": "",
-      "tags": [
-        "Applied AI"
-      ]
-    },
-    {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-08-12T16:14:36+00:00",
-      "fetched_at": "2026-08-15T06:37:37.503029+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-08-12T14:00:51+00:00",
-      "fetched_at": "2026-08-15T06:37:37.515562+00:00",
-      "author": "",
-      "tags": []
     },
     {
       "title": "Are there any theoretically-guided practices left in machine learning nowadays? [D]",
@@ -1090,7 +275,7 @@
       "summary": "There was a period in the development of machine learning where application seemed to be informed by theory Some of the best known theories include: If you train a model with too much data, then you g",
       "category": "research",
       "published_at": "2026-08-14T19:52:59+00:00",
-      "fetched_at": "2026-08-15T06:37:52.381305+00:00",
+      "fetched_at": "2026-08-16T06:39:18.540734+00:00",
       "author": "/u/NeighborhoodFatCat",
       "tags": [
         "reddit"
@@ -1103,7 +288,7 @@
       "summary": "Been working on this for the last few months I've been working on PyTorch for the past few years and I always felt, many a times my work went into dump, because of some mistakes I made in the code tor",
       "category": "research",
       "published_at": "2026-08-14T14:30:56+00:00",
-      "fetched_at": "2026-08-15T06:37:52.345276+00:00",
+      "fetched_at": "2026-08-16T06:39:18.494778+00:00",
       "author": "/u/LeJanbandhu",
       "tags": [
         "reddit"
@@ -1116,7 +301,7 @@
       "summary": "Hello, I was curious about the differences you can get from the human reviewers and the llms Any insight is welcome, thank you submitted by /u/obliviousphoenix2003 [link] [comments]",
       "category": "research",
       "published_at": "2026-08-14T12:26:29+00:00",
-      "fetched_at": "2026-08-15T06:37:52.233504+00:00",
+      "fetched_at": "2026-08-16T06:39:18.438404+00:00",
       "author": "/u/obliviousphoenix2003",
       "tags": [
         "reddit"
@@ -1129,99 +314,110 @@
       "summary": "i wanna build a text diffusion model which interpret text and convert it into ascii images so like Text : build a cat Output : /\\\\\\_/\\\\ ( o o ) \\> \\^ < So , i have a decent background of ml algo ( com",
       "category": "research",
       "published_at": "2026-08-14T10:33:37+00:00",
-      "fetched_at": "2026-08-15T06:37:52.361382+00:00",
+      "fetched_at": "2026-08-16T06:39:18.513132+00:00",
       "author": "/u/Udbhav96",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "TMLR Relevance and Prestige [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
-      "source": "r/MachineLearning",
-      "summary": "I recently had a paper accepted to TMLR and was wondering how prestigious it is, in comparison to A* conferences (ie NeurIPS, ICLR, ICML), but also vs journals like JMLR submitted by /u/Awesome_Nerd10",
-      "category": "research",
-      "published_at": "2026-08-13T23:16:16+00:00",
-      "fetched_at": "2026-08-15T06:37:52.334329+00:00",
-      "author": "/u/Awesome_Nerd10",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
-      "source": "r/MachineLearning",
-      "summary": "I may have stumbled onto something interesting while trying to figure out a recurring artifact in ChatGPT image generation and editing (maybe applicable to other models as well It started with a very ",
-      "category": "research",
-      "published_at": "2026-08-13T22:52:35+00:00",
-      "fetched_at": "2026-08-15T06:37:52.414541+00:00",
-      "author": "/u/DickHorner",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
-      "source": "r/MachineLearning",
-      "summary": "I've been building an open-source tool for diagnosing world models, the kind that predict future frames from a starting context and a sequence of actions It compares a rollout against ground truth and",
-      "category": "research",
-      "published_at": "2026-08-13T19:58:03+00:00",
-      "fetched_at": "2026-08-15T06:37:52.455412+00:00",
-      "author": "/u/georgia_bucea",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
-      "source": "r/MachineLearning",
-      "summary": "I’m working on performance regression detection using machine learning/anomaly detection My setup is basically: Healthy runs are used to learn normal behaviour Regression runs are used to see whether ",
-      "category": "research",
-      "published_at": "2026-08-13T17:01:27+00:00",
-      "fetched_at": "2026-08-15T06:37:52.479351+00:00",
-      "author": "/u/ZeroDark_Hereford",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Neurips 2026: Modified date on reviews [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
-      "source": "r/MachineLearning",
-      "summary": "Reviews modified dates are public, and some are recent I’m a bit confused as to how to interpret this In other conferences, reviewers were required to provide a final justification, which would practi",
-      "category": "research",
-      "published_at": "2026-08-13T13:48:01+00:00",
-      "fetched_at": "2026-08-15T06:37:52.425676+00:00",
-      "author": "/u/CantKillTheLifeless",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind Blog",
       "summary": "",
-      "category": "research",
-      "published_at": "2026-08-13T00:00:00+00:00",
-      "fetched_at": "2026-08-15T06:37:37.484911+00:00",
+      "category": "industry",
+      "published_at": "2026-08-13T17:04:18+00:00",
+      "fetched_at": "2026-08-16T06:39:08.941316+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
-      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
-      "source": "Microsoft Research Blog",
-      "summary": "A path, a fence, a knot MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning The post Mi",
-      "category": "research",
-      "published_at": "2026-08-12T16:00:00+00:00",
-      "fetched_at": "2026-08-15T06:37:41.436701+00:00",
-      "author": "Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li",
+      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+      "source": "NVIDIA Blog",
+      "summary": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season The native Linux app for GeForce NOW is officially out of beta GeForce NOW is also delivering new clou",
+      "category": "industry",
+      "published_at": "2026-08-13T13:00:33+00:00",
+      "fetched_at": "2026-08-16T06:39:08.034929+00:00",
+      "author": "GeForce NOW Community",
       "tags": [
-        "Research Blog"
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ]
+    },
+    {
+      "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
+      "source": "r/MachineLearning",
+      "summary": "Can you tell me how you would go about building a recommendation engine for our question bank The idea is that it understands a student’s strengths and weaknesses and recommends questions accordingly ",
+      "category": "tools",
+      "published_at": "2026-08-14T18:54:26+00:00",
+      "fetched_at": "2026-08-16T06:39:18.457031+00:00",
+      "author": "/u/whizzkidme",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+      "source": "r/MachineLearning",
+      "summary": "Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement They don't answer the question that actually matters at the point of care: how reliable is this model at the",
+      "category": "tools",
+      "published_at": "2026-08-14T17:06:09+00:00",
+      "fetched_at": "2026-08-16T06:39:18.483207+00:00",
+      "author": "/u/adom2989",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+      "source": "r/MachineLearning",
+      "summary": "This is the project my last two posts were building towards (this is the last of this silliness) I ported the Doom rendering algorithm to run inside a transformer Instead of training a model, I used a",
+      "category": "tools",
+      "published_at": "2026-08-14T15:50:11+00:00",
+      "fetched_at": "2026-08-16T06:39:18.411959+00:00",
+      "author": "/u/notforrob",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "fetched_at": "2026-08-16T06:39:02.941960+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-08-13T17:16:04+00:00",
+      "fetched_at": "2026-08-16T06:39:02.960730+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI Blog",
+      "summary": "Learn how startups use GPT-5 6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities",
+      "category": "tools",
+      "published_at": "2026-08-13T11:00:00+00:00",
+      "fetched_at": "2026-08-16T06:39:03.915723+00:00",
+      "author": "",
+      "tags": [
+        "Applied AI"
       ]
     }
   ]
