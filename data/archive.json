@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-08-17T06:55:18.927940+00:00",
+  "generated_at": "2026-08-18T06:42:56.536853+00:00",
   "archive": [
+    {
+      "date": "2026-08-18",
+      "total": 50,
+      "categories": {
+        "breaking": 4,
+        "research": 38,
+        "industry": 3,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "Valid Per-Field Selective Risk Control for Document Extraction: Three Failure Modes, a Validity Ladder, and When Conditioning Pays",
+          "url": "https://arxiv.org/abs/2608.14639",
+          "source": "arXiv ML",
+          "summary": "14639v1 Announce Type: new Abstract: Per-field accept/review with selective risk at most alpha -- accept a field only if the error rate among accepted fields is controlled -- is the trust contract doc",
+          "category": "breaking",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Bhaskar Gurram",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI Blog",
+          "summary": "AI is reshaping cybersecurity for attackers and defenders alike Learn how OpenAI is strengthening its defenses and what security teams can do now",
+          "category": "breaking",
+          "published_at": "2026-08-17T05:30:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+          "category": "breaking",
+          "published_at": "2026-08-17T05:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age",
+          "category": "breaking",
+          "published_at": "2026-08-17T03:15:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+          "url": "https://arxiv.org/abs/2608.14550",
+          "source": "arXiv AI/ML",
+          "summary": "14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs While reporti",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Enrique Barba Roque, Lu\\'is Cruz",
+          "tags": [
+            "cs.AI",
+            "cs.PF"
+          ]
+        },
+        {
+          "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+          "url": "https://arxiv.org/abs/2608.14552",
+          "source": "arXiv AI/ML",
+          "summary": "14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evid",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Ahmad Nazzal",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+          "url": "https://arxiv.org/abs/2608.14558",
+          "source": "arXiv AI/ML",
+          "summary": "14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content However, their capacity for abstract perceptua",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Garima Arya Yadav, Nilay Yilmaz, Yezhou Yang",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+          "url": "https://arxiv.org/abs/2608.14559",
+          "source": "arXiv AI/ML",
+          "summary": "14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when Existing approaches either ",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Teoman Kaman",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+          "url": "https://arxiv.org/abs/2608.14562",
+          "source": "arXiv AI/ML",
+          "summary": "14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for opera",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Aasish Kumar Sharma, Dimitar Koysev, Christopher Anich, Roshni Kumari Ojha, Julian Kunkel",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+          "url": "https://arxiv.org/abs/2608.14565",
+          "source": "arXiv AI/ML",
+          "summary": "14565v1 Announce Type: new Abstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of generative AI's s",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Jaeho Kim, Seokhyun Lee, Jieun Lee, Changhee Lee",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+          "url": "https://arxiv.org/abs/2608.14566",
+          "source": "arXiv AI/ML",
+          "summary": "14566v1 Announce Type: new Abstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i , whether model out",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Aidan Kierans, Ritam Dutt, Kaley Rittichier, Shiri Dori-Hacohen, Avijit Ghosh",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+          "url": "https://arxiv.org/abs/2608.14567",
+          "source": "arXiv AI/ML",
+          "summary": "14567v1 Announce Type: new Abstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief change implementation Seeded by Do",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Yuri Almeida, Arthur Casals",
+          "tags": [
+            "cs.AI",
+            "cs.LO"
+          ]
+        },
+        {
+          "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+          "url": "https://arxiv.org/abs/2608.14569",
+          "source": "arXiv AI/ML",
+          "summary": "14569v1 Announce Type: new Abstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fundamental limitation persistent con",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Shufeng Kong, Xiaochuan Zhang, Caihua Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+          "url": "https://arxiv.org/abs/2608.14571",
+          "source": "arXiv AI/ML",
+          "summary": "14571v1 Announce Type: new Abstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and without the offsetting pressure of publi",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Shaochen Zhong",
+          "tags": [
+            "cs.AI",
+            "cs.DL"
+          ]
+        },
+        {
+          "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+          "url": "https://arxiv.org/abs/2608.14578",
+          "source": "arXiv AI/ML",
+          "summary": "14578v1 Announce Type: new Abstract: Early identification of adolescent substance-use risk is an important prevention challenge, yet the relative value of baseline characteristics, longitudinal trajec",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Yixuan He, Jinni Su, Yun Kang",
+          "tags": [
+            "cs.AI",
+            "cs.CY",
+            "cs.LG",
+            "stat.AP"
+          ]
+        },
+        {
+          "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+          "url": "https://arxiv.org/abs/2608.14579",
+          "source": "arXiv AI/ML",
+          "summary": "14579v1 Announce Type: new Abstract: Logic synthesis optimization poses significant challenges due to exponentially growing search spaces, sparse reward signals, and diverse logic structures Tradition",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Rui Yang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Euclid-Omni : A Unified Neuro-Symbolic Framework for Plane Geometry",
+          "url": "https://arxiv.org/abs/2608.14585",
+          "source": "arXiv AI/ML",
+          "summary": "14585v1 Announce Type: new Abstract: Euclidean geometry is a compelling testbed for AI reasoning, as it demands the combination of intuitive diagram understanding, axiomatic deduction, and algebraic c",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Zhaoyu Li, Hangrui Bi, Youyuan Zhang, Wenjie Ma, Zenan Li, Zhaolei Zhang, Xujie Si, Kaiyu Yang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+          "url": "https://arxiv.org/abs/2608.14588",
+          "source": "arXiv AI/ML",
+          "summary": "14588v1 Announce Type: new Abstract: Sequential multi-agent LLM pipelines chain specialized agents without verification at handoffs, creating a structural flaw with measurable and severe consequences ",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Prabhjot Singh, Bhushan Pawar",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+          "url": "https://arxiv.org/abs/2608.14590",
+          "source": "arXiv AI/ML",
+          "summary": "14590v1 Announce Type: new Abstract: LLM agents increasingly perform irreversible real-world actions, including database updates, API calls, file operations, and autonomous use of tools However, no ex",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Pierre Dantas, Lucas Cordeiro, Ehsan Nowroozi, Tihanyi Norbert",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: Medical AI Neglects Real Treatment Outcomes",
+          "url": "https://arxiv.org/abs/2608.14598",
+          "source": "arXiv AI/ML",
+          "summary": "14598v1 Announce Type: new Abstract: Medical AI has rapidly improved its ability to perform diagnostic and prognostic tasks that lead to treatment decisions But understanding of treatment itself is st",
+          "category": "research",
+          "published_at": "2026-08-18T00:00:00-04:00",
+          "author": "Shiva Kaul, Anjum Khurshid",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "total": 50,
