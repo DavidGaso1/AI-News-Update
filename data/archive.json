@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-08-19T06:42:54.030513+00:00",
+  "generated_at": "2026-08-20T06:45:22.004571+00:00",
   "archive": [
+    {
+      "date": "2026-08-20",
+      "total": 50,
+      "categories": {
+        "breaking": 3,
+        "research": 40,
+        "industry": 2,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "JSL-DC: A Word-Level Japanese Sign Language Dataset with Linguist-Derived Descriptions for Distinguishing Confusable Signs",
+          "url": "https://arxiv.org/abs/2608.18412",
+          "source": "arXiv CV",
+          "summary": "18412v1 Announce Type: new Abstract: Effective sign language (SL) acquisition is crucial for deaf children, yet 95% are born to hearing parents who often lack proficiency in SL SL recognition can powe",
+          "category": "breaking",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Ken Takaki, Asuka Ando, Misa Suzuki, Uiko Yano, Masaya Tsujimoto, Bill Neubauer, Ananay Vikram Gupta, Rose Shao, Matthias Hoppe, Sahir Shahryar, Celeste Mason, Kai Kunze, Yohei Oseki, Yoshihiro Kawahara, Thad Starner",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy",
+          "category": "breaking",
+          "published_at": "2026-08-19T19:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI Blog",
+          "summary": "Replit introduces Free Mode, powered by GPT-5 6 Luna, so anyone can turn ideas into working software without worrying about token costs",
+          "category": "breaking",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+          "url": "https://arxiv.org/abs/2608.18078",
+          "source": "arXiv AI/ML",
+          "summary": "18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obta",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Matthew Riemer, Tommaso Tosato, Amin Memarian, Maximilian Puelma Touzel, Glen Berseth, Irina Rish, Guillaume Dumas",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: Profiling Game Worlds by Transition Complexity",
+          "url": "https://arxiv.org/abs/2608.18079",
+          "source": "arXiv AI/ML",
+          "summary": "18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition pred",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Lele Cao",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+          "url": "https://arxiv.org/abs/2608.18080",
+          "source": "arXiv AI/ML",
+          "summary": "18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e , social media analysis, clinical conversational agents, therapy support tools",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Yisong Chen, Yifan Gao, Sijing Yu, Chuqing Zhao, Yang Lu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: Behavioral Systems Require Behavioral Tests",
+          "url": "https://arxiv.org/abs/2608.18081",
+          "source": "arXiv AI/ML",
+          "summary": "18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time Yet, current",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Manuel Cherep, Nikhil Singh, Pattie Maes",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+          "url": "https://arxiv.org/abs/2608.18086",
+          "source": "arXiv AI/ML",
+          "summary": "18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance Although model card",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Sungwon Chae, Keonwoo Kim, Hoki Kim, Jaeyeon Ju, Sangchul Park",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+          "url": "https://arxiv.org/abs/2608.18088",
+          "source": "arXiv AI/ML",
+          "summary": "18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a si",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Seyma Yaman Kayadibi",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+          "url": "https://arxiv.org/abs/2608.18092",
+          "source": "arXiv AI/ML",
+          "summary": "18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability This position paper argues that many MAS failures a",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Xin Yang, Letian Li, Zimo Ji, Terry Jingchen Zhang, Wenyuan Jiang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+          "url": "https://arxiv.org/abs/2608.18099",
+          "source": "arXiv AI/ML",
+          "summary": "18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text They must retrieve point-in-time data, assemble",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Jermyn Zhen Yong Bek, Zhuang Qiang Bok, Zhongtian Sun",
+          "tags": [
+            "cs.AI",
+            "q-fin.PM"
+          ]
+        },
+        {
+          "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+          "url": "https://arxiv.org/abs/2608.18104",
+          "source": "arXiv AI/ML",
+          "summary": "18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire ski",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Yuanyuan Xu, Wenjie Zhang, Yin Chen, Xuemin Lin, Ying Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+          "url": "https://arxiv.org/abs/2608.18110",
+          "source": "arXiv AI/ML",
+          "summary": "18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across ",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "AKM Bahalul Haque, Al Amin Islam Ridoy, Mohammad Rayhan, Ivan Porres",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+          "url": "https://arxiv.org/abs/2608.18111",
+          "source": "arXiv AI/ML",
+          "summary": "18111v1 Announce Type: new Abstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geometry problem solving has become a st",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Hsien Xin Peng, Anthony Kim, Alvin Li, Calvin Supasanya, Shivank Garg, Kevin Zhu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+          "url": "https://arxiv.org/abs/2608.18117",
+          "source": "arXiv AI/ML",
+          "summary": "18117v1 Announce Type: new Abstract: This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack independent governance, conflict-of-inter",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Sourav Banerjee, Saikat Saha",
+          "tags": [
+            "cs.AI",
+            "econ.GN",
+            "q-fin.EC"
+          ]
+        },
+        {
+          "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+          "url": "https://arxiv.org/abs/2608.18131",
+          "source": "arXiv AI/ML",
+          "summary": "18131v1 Announce Type: new Abstract: Current safety alignment training for Large Language Models (LLMs) are heavily English-centric When such safety filters fail for non-English languages, the consequ",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Namya Bhatnagar",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "Optimized Fuzzy Logic Approach with the IEEE Key Gas Method for Diagnosing Power Transformer Faults Using Dissolved Gas Analysis",
+          "url": "https://arxiv.org/abs/2608.18133",
+          "source": "arXiv AI/ML",
+          "summary": "18133v1 Announce Type: new Abstract: Reliable transformer fault diagnosis is essential for maintaining power system stability The IEEE Key Gas Method (KGM), a widely utilized approach in Dissolved Gas",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Kim-Anh Nguyen, Huy Hoang Le, Ba Tu Phung",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Improving Rural Medication Safety with AI: A Scoping Review",
+          "url": "https://arxiv.org/abs/2608.18135",
+          "source": "arXiv AI/ML",
+          "summary": "18135v1 Announce Type: new Abstract: Introduction: Medication errors (MEs) represent a significant threat to global healthcare systems, contributing to patient harm Introducing artificial intelligence",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Jeong-ah Kim, Muhammad Ashad Kabir, Daniel Terry, Maryam Rouhi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
+          "url": "https://arxiv.org/abs/2608.18136",
+          "source": "arXiv AI/ML",
+          "summary": "18136v1 Announce Type: new Abstract: Conversational agents now act for end users through tools while holding access to customer databases and internal policy documents that a caller can reach through ",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Dheeraj Mohandas Pai, Lu Xian",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu",
+          "url": "https://arxiv.org/abs/2608.18142",
+          "source": "arXiv AI/ML",
+          "summary": "18142v1 Announce Type: new Abstract: It is challenging to detect hate speech in Low Resource Languages (LRLs) because of the absence of annotated data, the informality of its language structure, and t",
+          "category": "research",
+          "published_at": "2026-08-20T00:00:00-04:00",
+          "author": "Toneema Zubair, Muhammad Junaid Asif, Faisal Kamiran, Hafiz Hassan Saeed, Rana Fayyaz Ahmad",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "total": 50,
