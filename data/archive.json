@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-08-20T06:45:22.004571+00:00",
+  "generated_at": "2026-08-21T06:46:41.491185+00:00",
   "archive": [
+    {
+      "date": "2026-08-21",
+      "total": 50,
+      "categories": {
+        "breaking": 4,
+        "research": 39,
+        "industry": 1,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "Resizing images from Flutter Camera Stream for TFLite modle [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vth6d9/resizing_images_from_flutter_camera_stream_for/",
+          "source": "r/MachineLearning",
+          "summary": "So I built a CNN modle using MobileNetv3 then converted it into TFLite It performed well during training but once I integrated it into my application, it is making large errors From flutter, the camer",
+          "category": "breaking",
+          "published_at": "2026-08-20T11:45:15+00:00",
+          "author": "/u/Defiant-Ad3530",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
+          "source": "r/MachineLearning",
+          "summary": "Discussion thread for EMNLP 2026 notifications/results which should be released today Wishing everybody to be in Budapest submitted by /u/sweetsalt10 [link] [comments]",
+          "category": "breaking",
+          "published_at": "2026-08-20T08:37:17+00:00",
+          "author": "/u/sweetsalt10",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "source": "OpenAI Blog",
+          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom",
+          "category": "breaking",
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "AI Futures"
+          ]
+        },
+        {
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI Blog",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days",
+          "category": "breaking",
+          "published_at": "2026-08-20T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Active Inference as Context Acquisition for AI Agents",
+          "url": "https://arxiv.org/abs/2608.19202",
+          "source": "arXiv AI/ML",
+          "summary": "19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible When a user omits a constraint, preference, file, or task variable, an agent can pr",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Sanchayan Dutta, Sai Niranjan Ramachandran, Suvrit Sra",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+          "url": "https://arxiv.org/abs/2608.19214",
+          "source": "arXiv AI/ML",
+          "summary": "19214v1 Announce Type: new Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistic",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Yang Li, Peilan Xu, Wenjian Luo",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "How to Navigate Uncertainty About AI Consciousness",
+          "url": "https://arxiv.org/abs/2608.19215",
+          "source": "arXiv AI/ML",
+          "summary": "19215v1 Announce Type: new Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI On the one hand, we could assum",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Dr Tom McClelland",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+          "url": "https://arxiv.org/abs/2608.19216",
+          "source": "arXiv AI/ML",
+          "summary": "19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Zhen Wen Lim",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+          "url": "https://arxiv.org/abs/2608.19222",
+          "source": "arXiv AI/ML",
+          "summary": "19222v1 Announce Type: new Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Sibi Parivendan, Suresh Raja Neethirajan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+          "url": "https://arxiv.org/abs/2608.19299",
+          "source": "arXiv AI/ML",
+          "summary": "19299v1 Announce Type: new Abstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been sem",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Mahyar Ghazanfari, Matthias Casanova, Jordan Kam, Alex Zongo, Peng Wei, Torsten Darrell, Alexandre Bayen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
+          "url": "https://arxiv.org/abs/2608.19303",
+          "source": "arXiv AI/ML",
+          "summary": "19303v1 Announce Type: new Abstract: When a tool call times out, the agent sees the failure and can route around it A cached error page or negative price can instead arrive in the expected format and ",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Sugam Panthi, Rabab Abdelfattah",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+          "url": "https://arxiv.org/abs/2608.19408",
+          "source": "arXiv AI/ML",
+          "summary": "19408v1 Announce Type: new Abstract: On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-lev",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Chen Yang, Haiyuan Wan, Rengrong Xiong, Yize Chen, Danny H. K. Tsang",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+          "url": "https://arxiv.org/abs/2608.19511",
+          "source": "arXiv AI/ML",
+          "summary": "19511v1 Announce Type: new Abstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities Symposium provi",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Dexter Pratt",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+          "url": "https://arxiv.org/abs/2608.19535",
+          "source": "arXiv AI/ML",
+          "summary": "19535v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes with overhead: retrieved context l",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Zlatan Feric, Amir Taherin, Yanzhi Wang, David Kaeli",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.DC",
+            "cs.IR",
+            "cs.PF"
+          ]
+        },
+        {
+          "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+          "url": "https://arxiv.org/abs/2608.19579",
+          "source": "arXiv AI/ML",
+          "summary": "19579v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content pose",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Mohamed Akrout, Olivera Kotevska, Dan Wilson",
+          "tags": [
+            "cs.AI",
+            "math.DS"
+          ]
+        },
+        {
+          "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+          "url": "https://arxiv.org/abs/2608.19625",
+          "source": "arXiv AI/ML",
+          "summary": "19625v1 Announce Type: new Abstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous discovery, interpretation, and invo",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Xiaohan Huang, Qingqing Long, Xiaolei Du, Siyu Pu, Jiawen Xu, Haotian Chen, Chenyang Zhao, Jinbiao Liu, Xuezhi Wang, Hao Wang, Hengshu Zhu, Yuanchun Zhou",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Can Agent Memory Systems Track Evolving State?",
+          "url": "https://arxiv.org/abs/2608.19652",
+          "source": "arXiv AI/ML",
+          "summary": "19652v1 Announce Type: new Abstract: As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps While existing memory benchmarks focus larg",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Xinyi Fan, Miri Liu, Ruozhen Yang, Siru Ouyang, Jiawei Han",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Frequency-Aware Continual Learning for Smart Contract Vulnerability Detection with Large Language Models",
+          "url": "https://arxiv.org/abs/2608.19680",
+          "source": "arXiv AI/ML",
+          "summary": "19680v1 Announce Type: new Abstract: Smart contract vulnerability detection with Large Language Models (LLMs) faces three causally linked challenges First, new vulnerability categories demand paramete",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Tenghui Huang, Jiawen Kang, Dongning Liu, Changyan Yi, Chengjun Cai, Anjia Yang, Li Li, Dong In Kim",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Learning Hierarchical Skill Policies with Offline Quality-Diversity Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2608.19684",
+          "source": "arXiv AI/ML",
+          "summary": "19684v1 Announce Type: new Abstract: Recent studies investigate how to leverage pre-collected datasets to improve the policy performance and sample efficiency of RL One promising approach to achieve t",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Tanachai Anakewat, Takayuki Osa, Tatsuya Harada",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "Rethinking the Evaluation and Optimization of LLM-Based Social Simulation",
+          "url": "https://arxiv.org/abs/2608.19689",
+          "source": "arXiv AI/ML",
+          "summary": "19689v1 Announce Type: new Abstract: LLM-based social simulation is a promising complement to traditional methods such as surveys and behavioral experiments A core question is how to evaluate the fide",
+          "category": "research",
+          "published_at": "2026-08-21T00:00:00-04:00",
+          "author": "Pei Wang, Xu Chen, Ji-Rong Wen",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "total": 50,
