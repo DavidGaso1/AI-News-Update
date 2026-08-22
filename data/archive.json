@@ -1,6 +1,254 @@
 {
-  "generated_at": "2026-08-21T06:46:41.491185+00:00",
+  "generated_at": "2026-08-22T06:40:07.104671+00:00",
   "archive": [
+    {
+      "date": "2026-08-22",
+      "total": 24,
+      "categories": {
+        "breaking": 1,
+        "research": 13,
+        "industry": 4,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "repo2nb 0.2.0, convert a GitHub repo into a Kaggle/Colab notebook (dependency resolution, reverse mode, incremental sync) [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/",
+          "source": "r/MachineLearning",
+          "summary": "repo2nb is an open-source CLI that converts a GitHub repo into a runnable Kaggle or Colab notebook: walks the file tree, resolves dependencies, and generates cells, instead of you doing that by hand f",
+          "category": "breaking",
+          "published_at": "2026-08-21T17:53:36+00:00",
+          "author": "/u/PolarIceBear_",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+          "source": "r/MachineLearning",
+          "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb It’s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run Runs around 400 tok/s on a",
+          "category": "research",
+          "published_at": "2026-08-22T04:39:18+00:00",
+          "author": "/u/Final-Data-1410",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What coding practices are you adopting for development today? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
+          "source": "r/MachineLearning",
+          "summary": "I have been reflecting on this while working on a project recently Every time we start a new model, we rewrite roughly same scaffolding, data validation checks, feature transformation logic ; all of t",
+          "category": "research",
+          "published_at": "2026-08-21T17:10:38+00:00",
+          "author": "/u/Wrong_City2251",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Research internship at MSR [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
+          "source": "r/MachineLearning",
+          "summary": "So got selected for a research internship at MSR, how good is the quality of work and how useful is it to move to Applied sciences or research sciences position at other FAANG companies after the inte",
+          "category": "research",
+          "published_at": "2026-08-21T16:47:52+00:00",
+          "author": "/u/Fuzzy-Pool2415",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+          "source": "r/MachineLearning",
+          "summary": "LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back Yesterday Claude Code shipped a \"concise output style\" where Claude keeps",
+          "category": "research",
+          "published_at": "2026-08-21T16:38:15+00:00",
+          "author": "/u/ibubbles34",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
+          "source": "r/MachineLearning",
+          "summary": "I have built an on-prem GPU cluster, 8 nvidia 16GB GPU's and 256GB CPU RAM, 50TB HDD and several TBs of SSDs I have used it, and currently use it, for ML/AI research But that research is not constantl",
+          "category": "research",
+          "published_at": "2026-08-21T16:37:16+00:00",
+          "author": "/u/redwat3r",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "EMNLP26 Cost [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
+          "source": "r/MachineLearning",
+          "summary": "What is up with the EMNLP prices What is the actual price for attending as a student with one accepted paper If I register now in August, is it $350 or $550",
+          "category": "research",
+          "published_at": "2026-08-21T16:24:00+00:00",
+          "author": "/u/No_Sky9786",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Safety critical systems (SCS) are the only real benchmark for ML systems. Thoughts? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vukv7j/safety_critical_systems_scs_are_the_only_real/",
+          "source": "r/MachineLearning",
+          "summary": "What are real-world safety critical systems (SCS) A flight controller for a commercial airplane carrying 300 passengers A braking system for a bullet train that operates at 320km/hour",
+          "category": "research",
+          "published_at": "2026-08-21T16:17:37+00:00",
+          "author": "/u/NeighborhoodFatCat",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Epistemic Intelligence in Machine Learning Neurips Workshop page limit? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vujk2p/epistemic_intelligence_in_machine_learning/",
+          "source": "r/MachineLearning",
+          "summary": "I'm aiming to submit a paper to The 3rd Workshop on Epistemic Intelligence in Machine Learning at Neurips https://eiml cc/ I can't find a page limit anywhere on their website and I've emailed the orga",
+          "category": "research",
+          "published_at": "2026-08-21T15:29:10+00:00",
+          "author": "/u/aglet_factorial",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
+          "source": "r/MachineLearning",
+          "summary": "So I got rejected at EMNLP with scores:- Meta: 3 (very positive in the review) Reviewers: OA(conf) 3(4) 3(4) 2 67) Track: multimodality Rebuttals never got any acknowledgements Most weaknesses were al",
+          "category": "research",
+          "published_at": "2026-08-21T08:54:41+00:00",
+          "author": "/u/Lumpy-Background5641",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "EMNLP 2026 Findings : worth attending in person?[D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
+          "source": "r/MachineLearning",
+          "summary": "Do u think it is worth attending the conference for findings But when I saw that it is not mandatory for findings, I was a bit hesitant This is my first time having a paper accepted at an AI conferenc",
+          "category": "research",
+          "published_at": "2026-08-21T07:04:51+00:00",
+          "author": "/u/i_minus",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Broadening access to Skala creates a faster path to predictive DFT",
+          "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+          "source": "Microsoft Research Blog",
+          "summary": "1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living bench",
+          "category": "research",
+          "published_at": "2026-08-20T16:00:00+00:00",
+          "author": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+          "tags": [
+            "Research Blog"
+          ]
+        },
+        {
+          "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/",
+          "source": "r/MachineLearning",
+          "summary": "Worked some time ago on one of the ad teams at Yahoo, and this grew out of a question I kept returning to while there are there \"simple\" models that are both simple, scalable, interpretable, and contr",
+          "category": "research",
+          "published_at": "2026-08-20T10:20:47+00:00",
+          "author": "/u/alexsht1",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "About the impact of grouping classes in multiclass classification [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vtctaz/about_the_impact_of_grouping_classes_in/",
+          "source": "r/MachineLearning",
+          "summary": "A premise: I hope this question is \"worth\" of this subreddit, I did a decent amount of research before posting, I thought it was potentially interesting enough for it, but possibly not basic enough fo",
+          "category": "research",
+          "published_at": "2026-08-20T07:42:20+00:00",
+          "author": "/u/neonhexe",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "source": "Google DeepMind Blog",
+          "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "category": "industry",
+          "published_at": "2026-08-21T11:59:48+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "GLM-5.3 vs. GPT-5.6 Sol on DeepSWE: Cost, Coding, and Routing",
+          "url": "https://www.together.ai/blog/glm-5-3-vs-gpt-5-6-sol-on-deepswe-cost-coding-and-routing",
+          "source": "Together AI Blog",
+          "summary": "We ran 904 DeepSWE rollouts on GLM-5 Sol leads pass@1 by 3 3 wins pass@4 at half the cost, and a GLM-first cascade hits 85",
+          "category": "industry",
+          "published_at": "2026-08-21T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "GLM-5.3 vs. Claude Fable 5 on DeepSWE: Cost, Coding, and Routing",
+          "url": "https://www.together.ai/blog/glm-5-3-vs-claude-fable-5-on-deepswe-cost-coding-and-routing",
+          "source": "Together AI Blog",
+          "summary": "We ran 904 DeepSWE rollouts on GLM-5 A tie on pass@1, but GLM-5 3 wins pass@4 and costs 5",
+          "category": "industry",
+          "published_at": "2026-08-21T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+          "source": "NVIDIA Blog",
+          "summary": "It’s a new way into the cloud GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today Whether on a s",
+          "category": "industry",
+          "published_at": "2026-08-20T13:00:24+00:00",
+          "author": "GeForce NOW Community",
+          "tags": [
+            "Gaming",
+            "Cloud Gaming",
+            "GeForce NOW"
+          ]
+        },
+        {
+          "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation/",
+          "source": "r/MachineLearning",
+          "summary": "Howdy y'all, In an effort to un-rust my SWE skills and learn more about Recommendation Systems, I decided to try my hand at developing one called By-Its-Cover TLDR: Check out the site and roast me: ht",
+          "category": "tools",
+          "published_at": "2026-08-21T20:42:41+00:00",
+          "author": "/u/LaidbyKool-aid",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "BMVC 2026 orals [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vur05y/bmvc_2026_orals_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, Did anyone here got an oral at BMVC If yes, then what are the scores submitted by /u/dn8034 [link] [comments]",
+          "category": "tools",
+          "published_at": "2026-08-21T20:01:44+00:00",
+          "author": "/u/dn8034",
+          "tags": [
+            "reddit"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "total": 50,
