@@ -1,6 +1,98 @@
 {
-  "generated_at": "2026-08-22T06:40:07.104671+00:00",
+  "generated_at": "2026-08-23T06:41:23.632859+00:00",
   "archive": [
+    {
+      "date": "2026-08-23",
+      "total": 7,
+      "categories": {
+        "breaking": 1,
+        "research": 4,
+        "industry": 0,
+        "tools": 2
+      },
+      "articles": [
+        {
+          "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+          "source": "r/MachineLearning",
+          "summary": "I wanted to share something I’ve been working on I was inspired by projects from DeepMind and OpenAI, but noticed that most games are prohibitively difficult to integrate with an agent harness So I bu",
+          "category": "breaking",
+          "published_at": "2026-08-22T17:32:17+00:00",
+          "author": "/u/SnyderConsulting",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How to grow a project? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d/",
+          "source": "r/MachineLearning",
+          "summary": "I recently got my first paper accepted at EMNLP and open-sourced the code The core idea is fundamental change, so I’ve been expanding it into a larger system with chatbot agents and extra components M",
+          "category": "research",
+          "published_at": "2026-08-23T00:31:31+00:00",
+          "author": "/u/No_Sky9786",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
+          "source": "r/MachineLearning",
+          "summary": "The preprint can be accessed via the following link: https://arxiv And for the code: https://github com/nilsleut/evaluation-resolution-rsa The following assertion is frequently made in model-brain com",
+          "category": "research",
+          "published_at": "2026-08-22T14:30:28+00:00",
+          "author": "/u/ConfusionSpiritual19",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "acl arr august 2026 (desk rejected ) [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
+          "source": "r/MachineLearning",
+          "summary": "I have got two papers which got desk rejected by PC saying they are previously got reviewed in arr But those paper never got submitted ever Any idea what can be done",
+          "category": "research",
+          "published_at": "2026-08-22T14:02:34+00:00",
+          "author": "/u/malakulmout347",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
+          "source": "r/MachineLearning",
+          "summary": "I am trying understand how tree-based regression model handle the dependencies of the target variables on the interaction of explanatory variables However my experiment revealed that my understanding ",
+          "category": "research",
+          "published_at": "2026-08-22T09:37:05+00:00",
+          "author": "/u/Phunfactory",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-08-21T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-08-20T16:52:57+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-08-22",
       "total": 24,
