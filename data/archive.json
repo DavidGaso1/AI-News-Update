@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-08-23T06:41:23.632859+00:00",
+  "generated_at": "2026-08-24T06:58:36.180878+00:00",
   "archive": [
+    {
+      "date": "2026-08-24",
+      "total": 50,
+      "categories": {
+        "breaking": 4,
+        "research": 28,
+        "industry": 3,
+        "tools": 15
+      },
+      "articles": [
+        {
+          "title": "Learning Exact NVIDIA SASS Encoders with $\\mathbb{F}_2$ Linear Algebra",
+          "url": "https://arxiv.org/abs/2608.20532",
+          "source": "arXiv ML",
+          "summary": "20532v1 Announce Type: new Abstract: NVIDIA provides a SASS disassembler but no public SASS assembler for recent data-center GPUs, limiting controlled machine-code rewriting We present F2Asm, which le",
+          "category": "breaking",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Jiading Gai",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "COLM 2026 registration sold out as an author [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
+          "source": "r/MachineLearning",
+          "summary": "Never attended a conference before, so apologies if these are dumb questions I’m an author of an accepted paper at COLM 2026 One of my coauthors registered during the author-only registration period, ",
+          "category": "breaking",
+          "published_at": "2026-08-23T18:44:50+00:00",
+          "author": "/u/mziycfh",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Implementing Watermarking for Language Models [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
+          "source": "r/MachineLearning",
+          "summary": "I recently implemented a minimal, educational version of SynthID-Text-style watermarking for language models I saw anthropic post about how they'll start adding watermarks to their model responses and",
+          "category": "breaking",
+          "published_at": "2026-08-23T08:09:02+00:00",
+          "author": "/u/Saad_ahmed04",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B is a game changer.",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
+          "source": "r/LocalLLaMA",
+          "summary": "Our devs got their hands on it a few days ago One wired it into Codex to compare with GPT Luna, our usual workhorse right now for its cost effectiveness Another tried it out on one of our OCR pipeline",
+          "category": "breaking",
+          "published_at": "2026-08-23T05:19:48+00:00",
+          "author": "/u/Cold_Specialist_3656",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+          "source": "r/MachineLearning",
+          "summary": "Recently, the AAAI 2027 organizers sent an email regarding collusion occurring during the review process, especially in the 2-cycles category (i , an author of Paper A reviews Paper B, while an author",
+          "category": "research",
+          "published_at": "2026-08-24T06:11:03+00:00",
+          "author": "/u/Fragrant_Fan_6751",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "BMVC 2026 IJCV recommendation? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d/",
+          "source": "r/MachineLearning",
+          "summary": "Does anyone know how the BMVC to IJCV special issue recommendation works Is it mainly based on the review scores, or is it a separate decision by the ACs/program chairs (e based on oral/highlight sele",
+          "category": "research",
+          "published_at": "2026-08-24T05:39:57+00:00",
+          "author": "/u/Secondhanded_PhD",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
+          "source": "r/LocalLLaMA",
+          "summary": "My first attempt didn't work I built on Genie's architecture and the videos looked great, but the controls barely did anything The effect of a keypress was basically zero",
+          "category": "research",
+          "published_at": "2026-08-24T03:19:01+00:00",
+          "author": "/u/OtherRaisin3426",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ConvRot Quant method now in llama-cpp-turboquant",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwoseh/convrot_quant_method_now_in_llamacppturboquant/",
+          "source": "r/LocalLLaMA",
+          "summary": "It started here , and now https://github com/TheTom/llama-cpp-turboquant/ has it Imagine a Q6 quant with nearly Q8 KLD/PPL",
+          "category": "research",
+          "published_at": "2026-08-24T01:16:57+00:00",
+          "author": "/u/giveen",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+          "url": "https://arxiv.org/abs/2608.20341",
+          "source": "arXiv AI/ML",
+          "summary": "20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Develop",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Vu Hung Nguyen, Thanh Nguyen",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+          "url": "https://arxiv.org/abs/2608.20342",
+          "source": "arXiv AI/ML",
+          "summary": "20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work We present PrimeAgentOrc",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Myron Koch (Peak Summit Labs)",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+          "url": "https://arxiv.org/abs/2608.20378",
+          "source": "arXiv AI/ML",
+          "summary": "20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without er",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Md. Hasib Ur Rahman",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+          "url": "https://arxiv.org/abs/2608.20379",
+          "source": "arXiv AI/ML",
+          "summary": "20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act This effort has produced agentic framewor",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Neel Mokaria, Rishie Raj, Dheeraj Baiju, Xiaoqian Shen, Shraman Pramanick, Kevin Qinghong Lin, Arda Senocak, Mike Zheng Shou, Philip Torr, Mohamed Elhoseiny, Yapeng Tian, Ruohan Gao, Salman Khan, Sayan Nag, Sanjoy Chowdhury, Dinesh Manocha",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+          "url": "https://arxiv.org/abs/2608.20384",
+          "source": "arXiv AI/ML",
+          "summary": "20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce hu",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Mojtaba Moattari",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+          "url": "https://arxiv.org/abs/2608.20397",
+          "source": "arXiv AI/ML",
+          "summary": "20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dom",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Mustafa Arslan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Environmental Slow AI: Design Principles for Generative Systems",
+          "url": "https://arxiv.org/abs/2608.20398",
+          "source": "arXiv AI/ML",
+          "summary": "20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design Once identified, these value",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Vanessa Utz",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+          "url": "https://arxiv.org/abs/2608.20400",
+          "source": "arXiv AI/ML",
+          "summary": "20400v1 Announce Type: new Abstract: Agentic memory under a fixed budget involves two stages: retention and retrieval Existing retrieval-centered paradigms implicitly assume necessary evidence survive",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Minkyu Song",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "World models of environment, agent and joint agent-environment systems",
+          "url": "https://arxiv.org/abs/2608.20401",
+          "source": "arXiv AI/ML",
+          "summary": "20401v1 Announce Type: new Abstract: World models are a central component of model-based reinforcement learning They are usually discussed in terms of what variables they predict, such as observations",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Manuel Baltieri, Filippo Torresan, Yivan Zhang, Alexander Boyd, Fernando E. Rosas",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2608.20414",
+          "source": "arXiv AI/ML",
+          "summary": "20414v1 Announce Type: new Abstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remai",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Michelle Lin",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Categorical AI phenomenology: A first-person approach",
+          "url": "https://arxiv.org/abs/2608.20420",
+          "source": "arXiv AI/ML",
+          "summary": "20420v1 Announce Type: new Abstract: This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's i",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Robert Prentner",
+          "tags": [
+            "cs.AI",
+            "q-bio.NC"
+          ]
+        },
+        {
+          "title": "STCO: Conditional Neural Operators for Time-Dependent PDEs",
+          "url": "https://arxiv.org/abs/2608.20477",
+          "source": "arXiv AI/ML",
+          "summary": "20477v1 Announce Type: new Abstract: Neural operators have emerged as efficient surrogates for time-dependent physical systems governed by partial differential equations (PDEs), but their future-state",
+          "category": "research",
+          "published_at": "2026-08-24T00:00:00-04:00",
+          "author": "Xingxin Yang, Zhan Zhang, Juan Li",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "total": 7,
