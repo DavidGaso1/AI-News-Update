@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-08-27T17:23:22.113212+00:00",
+  "generated_at": "2026-08-28T18:16:30.424100+00:00",
   "archive": [
+    {
+      "date": "2026-08-28",
+      "total": 50,
+      "categories": {
+        "breaking": 1,
+        "research": 36,
+        "industry": 6,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products",
+          "category": "breaking",
+          "published_at": "2026-08-28T02:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Where to submit stat/prob ML [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+          "source": "r/MachineLearning",
+          "summary": "I'm a researcher in statistical and probabilistic ML, I have a steady record of top ML publications and really used to enjoy going to conferences Over the last few years LLM based works have completel",
+          "category": "research",
+          "published_at": "2026-08-28T08:16:25+00:00",
+          "author": "/u/didimoney",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+          "url": "https://arxiv.org/abs/2608.26107",
+          "source": "arXiv AI/ML",
+          "summary": "26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes However, exist",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Yu Fu, Yongqi Kang, Yong Zhao, Rongfang Bie",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+          "url": "https://arxiv.org/abs/2608.26109",
+          "source": "arXiv AI/ML",
+          "summary": "26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use La",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Di Zhu, Chen Xie, Haoyun Zhang, Zihan Wei, Ziwei Wang, Jiazhao Shi, Ziyu Wang, Qiyang Xie",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+          "url": "https://arxiv.org/abs/2608.26111",
+          "source": "arXiv AI/ML",
+          "summary": "26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, g",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Jiale Liu, Huan Wang, Weicheng Wang, Rong Zhu, Qiqi Wang, Min Xie",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+          "url": "https://arxiv.org/abs/2608.26113",
+          "source": "arXiv AI/ML",
+          "summary": "26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language s",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Deepak Vungarala, Deniz Najafi, Abdulrahman Aljoudi, Zahra Ghanaatian, Navid Khoshavi, Gourav Datta, Arman Roohi, Mahdi Nikdast, Shaahin Angizi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "url": "https://arxiv.org/abs/2608.26114",
+          "source": "arXiv AI/ML",
+          "summary": "26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constrai",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Kunjesh Parekh, Anil Kumar Tiwari, Divya Saxena",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "q-fin.CP"
+          ]
+        },
+        {
+          "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2608.26116",
+          "source": "arXiv AI/ML",
+          "summary": "26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Marko Cvjetko, Benedikt Hartl, Michael Levin, Cl\\'ement Moulin-Frier, Pierre-Yves Oudeyer",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+          "url": "https://arxiv.org/abs/2608.26134",
+          "source": "arXiv AI/ML",
+          "summary": "26134v1 Announce Type: new Abstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for m",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Jaeik Jeong, Tai-Yeon Ku, Wan-Ki Park",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+          "url": "https://arxiv.org/abs/2608.26145",
+          "source": "arXiv AI/ML",
+          "summary": "26145v1 Announce Type: new Abstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of con",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Muhammad Ali Chaudhry, Xinyuan Hao, Haifa Alwahaby",
+          "tags": [
+            "cs.AI",
+            "cs.HC",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+          "url": "https://arxiv.org/abs/2608.26149",
+          "source": "arXiv AI/ML",
+          "summary": "26149v1 Announce Type: new Abstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems Relational data combine several sources of ",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Edouard Lansiaux, Hugo Kazzi, Aur\\'elien Loison, Slim Hammadi, Emmanuel Chazard",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+          "url": "https://arxiv.org/abs/2608.26150",
+          "source": "arXiv AI/ML",
+          "summary": "26150v1 Announce Type: new Abstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including system",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Orhan Yagizer Cinar, Timur Emre Ozkose, Emma Von Hoene, Amira Roess, Taylor Anderson, Hamdi Kavak",
+          "tags": [
+            "cs.AI",
+            "cs.DL",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+          "url": "https://arxiv.org/abs/2608.26151",
+          "source": "arXiv AI/ML",
+          "summary": "26151v1 Announce Type: new Abstract: Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1 9% in mature markets eroding billions in r",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Sandeep Gaddamwar",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+          "url": "https://arxiv.org/abs/2608.26153",
+          "source": "arXiv AI/ML",
+          "summary": "26153v1 Announce Type: new Abstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems do not produce the structured EEG-te",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Xuan-The Tran, Le Trung Kien Nguyen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Selection Bias Correction in Retail Intelligence",
+          "url": "https://arxiv.org/abs/2608.26156",
+          "source": "arXiv AI/ML",
+          "summary": "26156v1 Announce Type: new Abstract: Retail intelligence often relies on monitoring popular, high-velocity products, potentially biasing economic indicators by ignoring the \"long tail\" of niche items ",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Spandan Ghose Chowdhury",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
+          "url": "https://arxiv.org/abs/2608.26157",
+          "source": "arXiv AI/ML",
+          "summary": "26157v1 Announce Type: new Abstract: Natural-language analytics over enterprise data warehouses is increasingly important, but production use is limited by hallucinated metrics, invalid joins, wrong g",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Aravind Sasidharan Pillai",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
+          "url": "https://arxiv.org/abs/2608.26160",
+          "source": "arXiv AI/ML",
+          "summary": "26160v1 Announce Type: new Abstract: Nowadays semantic models provide limited support for representing distributed AI workflows and their execution across heterogeneous edge, fog, and cloud environmen",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Viorica Rozina Chifu, Tudor Cioara, Vasile Ofrim, Liana Toderean, Ionut Anghel, Laura Daniele, Cornelis Bouter",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+          "url": "https://arxiv.org/abs/2608.26162",
+          "source": "arXiv AI/ML",
+          "summary": "26162v1 Announce Type: new Abstract: Safety-critical mental-health support systems must distinguish when supportive conversation is appropriate from when free-form generation should be blocked This pa",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Lei Wang, Xiao Wang, Lei Li",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving",
+          "url": "https://arxiv.org/abs/2608.26164",
+          "source": "arXiv AI/ML",
+          "summary": "26164v1 Announce Type: new Abstract: Large language models can interpret natural-language chemistry questions, but their internal reasoning is difficult to inspect, constrain, and validate This paper ",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Ibrokhimsho Abduchaborov",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
+          "url": "https://arxiv.org/abs/2608.26167",
+          "source": "arXiv AI/ML",
+          "summary": "26167v1 Announce Type: new Abstract: Hallucination and abstention benchmarks rarely establish that a model could not have known the correct answer, making it difficult to distinguish appropriate abste",
+          "category": "research",
+          "published_at": "2026-08-28T00:00:00-04:00",
+          "author": "Sagnik De, Sreenija Pavuluri",
+          "tags": [
+            "cs.AI",
+            "cs.ET",
+            "cs.LG",
+            "eess.AS"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "total": 50,
