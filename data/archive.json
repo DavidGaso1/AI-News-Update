@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-08-28T18:16:30.424100+00:00",
+  "generated_at": "2026-08-29T12:24:16.255062+00:00",
   "archive": [
+    {
+      "date": "2026-08-29",
+      "total": 29,
+      "categories": {
+        "breaking": 2,
+        "research": 14,
+        "industry": 6,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "WTF is a World Model? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
+          "source": "r/MachineLearning",
+          "summary": "I'm trying to understand what a world model is I understand it has cognitive science and reinforcement learning I understand at least at the moment what most people are building which they call world ",
+          "category": "breaking",
+          "published_at": "2026-08-28T23:37:24+00:00",
+          "author": "/u/neutrino_boy",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "OpenAI Blog",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX",
+          "category": "breaking",
+          "published_at": "2026-08-28T06:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+          "source": "r/MachineLearning",
+          "summary": "Hey everyone, I'm an international student studying in the US I'm on track to graduate late next year My research is not exactly ML, it is in 3D computer vision but have decent exposure to ML as well",
+          "category": "research",
+          "published_at": "2026-08-29T02:09:05+00:00",
+          "author": "/u/Fit-Raccoon4534",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Knowledge Cards: Structured Knowledge for AI Systems",
+          "url": "https://arxiv.org/abs/2608.26176",
+          "source": "arXiv AI/ML",
+          "summary": "26176v1 Announce Type: new Abstract: AI systems whose outputs inform real decisions, and increasingly consequential ones, require something that current documentation practice does not provide: a stru",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Liliana Ferreira",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "AI Revealed Preferences",
+          "url": "https://arxiv.org/abs/2608.26178",
+          "source": "arXiv AI/ML",
+          "summary": "26178v1 Announce Type: new Abstract: There is growing interest in whether language models have stable preferences, for technical, safety, and philosophical reasons We test 20 language models and find ",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Sam Wang, Sofiia Lobanova, Yonathan Arbel, Simon Goldstein, Peter Salib",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI",
+          "url": "https://arxiv.org/abs/2608.26182",
+          "source": "arXiv AI/ML",
+          "summary": "26182v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for verbal interaction in social robots, yet prompt design in human-robot interaction (HRI) remains underspecifi",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Ashita Ashok, Franziska Babel, Patrick Holthaus, Rucha Khot, Karla Bransky, Fethiye Irmak Dogan, Karsten Berns, Silvia Rossi, Minha Lee, Guy Laban",
+          "tags": [
+            "cs.AI",
+            "cs.HC",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education",
+          "url": "https://arxiv.org/abs/2608.26184",
+          "source": "arXiv AI/ML",
+          "summary": "26184v1 Announce Type: new Abstract: AI programming tutors provide scalable support, yet lack the behavioral context human tutors rely on to adapt support to learners' needs We present TutorTrace, a d",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "David Barron, Xiaohang Tang, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, Yan Chen",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Can You Say This for Me? Speaking Up by Proxy in Co-Located Discussion",
+          "url": "https://arxiv.org/abs/2608.26185",
+          "source": "arXiv AI/ML",
+          "summary": "26185v1 Announce Type: new Abstract: Equal participation in co-located discussion is important for effective collaboration, yet people often hold back when they anticipate negative interpersonal or pr",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Yue Shen, Rehema Abulikemu, Ryan P. McMahan, Yan Chen",
+          "tags": [
+            "cs.AI",
+            "cs.ET",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Is Your Neighborhood Safe? Place-based Stigma in Large Language Models' Urban Safety Judgments",
+          "url": "https://arxiv.org/abs/2608.26188",
+          "source": "arXiv AI/ML",
+          "summary": "26188v1 Announce Type: new Abstract: Large language models are increasingly used to inform safety decisions in cities, such as where it is safe to walk, rent, or travel We ask whether such judgments t",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Huy Nguyen, Yue Lin",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Invocation-Level Reliability of Tool-Using Agents",
+          "url": "https://arxiv.org/abs/2608.26189",
+          "source": "arXiv AI/ML",
+          "summary": "26189v1 Announce Type: new Abstract: Tool-using agents fail two ways: choosing the wrong tool, or forming wrong arguments, and an early failure of either kind can silently corrupt everything downstrea",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Afiya Noorain, Subhranshu Mohanty, Amritesh Banerjee, Abhijit Dasgupta",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Predicting Consequences and Reinforcing Navigation Policies with Latent World Models",
+          "url": "https://arxiv.org/abs/2608.26190",
+          "source": "arXiv AI/ML",
+          "summary": "26190v1 Announce Type: new Abstract: World models enable agents to reason about future outcomes and learn policies from their knowledge of state transition, but existing approaches primarily focus on ",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Zengmao Wang, Wei Gao, Shuhan Shen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Structured Evidence Routing for Incident Risk Prediction from Multimodal Longitudinal EHRs",
+          "url": "https://arxiv.org/abs/2608.26191",
+          "source": "arXiv AI/ML",
+          "summary": "26191v1 Announce Type: new Abstract: Incident risk prediction from longitudinal electronic health records (EHRs) is challenging because relevant signals are multimodal, weak in isolation, and distribu",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Animesh Agarwal, Meysam Ghaffari, Nina Fatehi, Carlos Morato",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes",
+          "url": "https://arxiv.org/abs/2608.26193",
+          "source": "arXiv AI/ML",
+          "summary": "26193v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance on VQA and scene understanding, yet affective reasoning remains vulnerable to shortcut behavior",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Yibo Wang, Rui Yang, Jisheng Dang, Bimei Wang, Yitao Wu, Pengfei Cao, Wencan Zhang, Hong Peng, Bin Hu, Tat-Seng Chua",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Agentic AI for operating scientific instruments for nanoscale characterization",
+          "url": "https://arxiv.org/abs/2608.26198",
+          "source": "arXiv AI/ML",
+          "summary": "26198v1 Announce Type: new Abstract: Operating a scientific instrument such as an atomic force microscope (AFM) requires continuous expert decision-making A trained user defines the experimental inten",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Zahra Ayar, Marcos Penedo, Mahdi Mehdikhani, Nahid Hosseini, Prabhu Prasad Swain, Georg E. Fantner",
+          "tags": [
+            "cs.AI",
+            "physics.ins-det"
+          ]
+        },
+        {
+          "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
+          "url": "https://arxiv.org/abs/2608.26199",
+          "source": "arXiv AI/ML",
+          "summary": "26199v1 Announce Type: new Abstract: We ask whether AI agents powered by locally deployed large language models can reliably automate expert-defined hardware design workflows in an industry-realistic ",
+          "category": "research",
+          "published_at": "2026-08-29T00:00:00-04:00",
+          "author": "Leonardo Liparulo, Francesco Pierri",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Best ML papers to pick up writing skills [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
+          "source": "r/MachineLearning",
+          "summary": "Which research papers (old or new) do you think a PhD student/early researcher must read to improve their writing skills Do you have a personal favorite researcher whose papers tend to be well-written",
+          "category": "research",
+          "published_at": "2026-08-27T21:30:31+00:00",
+          "author": "/u/fakeaccountlegitme",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-08-27T16:11:32+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud 5 technology cont",
+          "category": "industry",
+          "published_at": "2026-08-27T13:00:33+00:00",
+          "author": "GeForce NOW Community",
+          "tags": [
+            "Gaming",
+            "Cloud Gaming",
+            "GeForce NOW"
+          ]
+        },
+        {
+          "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+          "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale",
+          "category": "industry",
+          "published_at": "2026-08-27T13:00:17+00:00",
+          "author": "Ian Finder",
+          "tags": [
+            "AI Infrastructure",
+            "Corporate",
+            "Agentic AI",
+            "AI Training",
+            "NVIDIA Vera"
+          ]
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "source": "Google DeepMind Blog",
+          "summary": "Piloting the world's first double-blind AI evaluations",
+          "category": "industry",
+          "published_at": "2026-08-27T12:59:16+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "total": 50,
