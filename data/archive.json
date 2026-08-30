@@ -1,6 +1,148 @@
 {
-  "generated_at": "2026-08-29T12:24:16.255062+00:00",
+  "generated_at": "2026-08-30T11:23:24.640211+00:00",
   "archive": [
+    {
+      "date": "2026-08-30",
+      "total": 11,
+      "categories": {
+        "breaking": 0,
+        "research": 3,
+        "industry": 1,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "*ACL Findings or TMLR? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+          "source": "r/MachineLearning",
+          "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2 Trying to decide between ARR vs TMLR, but thinking NAACL findings are more likely than main conference",
+          "category": "research",
+          "published_at": "2026-08-30T01:23:36+00:00",
+          "author": "/u/Pure-Ad9079",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Do you use a whiteboard when thinking? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hello all, here is a chill post When I was an undergrad, I really liked working things out on a whiteboard Drawing stuff, talking through ideas out loud, testing little hypotheses",
+          "category": "research",
+          "published_at": "2026-08-29T21:39:44+00:00",
+          "author": "/u/Huge-Leek844",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+          "source": "r/MachineLearning",
+          "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc Many (perh",
+          "category": "research",
+          "published_at": "2026-08-29T20:16:17+00:00",
+          "author": "/u/eamonnkeogh",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+          "category": "industry",
+          "published_at": "2026-08-30T07:28:13+00:00",
+          "author": "/u/Winter_Mistake_3185",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Have there been any interesting polls among ML academics lately? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w2cdu8/have_there_been_any_interesting_polls_among_ml/",
+          "source": "r/MachineLearning",
+          "summary": "I remember that maybe 3 years ago they polled NeurIPS attendees about how far LLMs would go Would be interested in seeing more recent polls (limited to people with relevant expertise) Have there been ",
+          "category": "tools",
+          "published_at": "2026-08-30T08:57:28+00:00",
+          "author": "/u/we_are_mammals",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Open-source access-control checker for retrieval-based AI applications [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+          "source": "r/MachineLearning",
+          "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to It supports offline test cases and live HTTP API testing with beare",
+          "category": "tools",
+          "published_at": "2026-08-29T22:11:26+00:00",
+          "author": "/u/Lostboy_journey",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+          "source": "r/MachineLearning",
+          "summary": "width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system used to collect and analyze this data Both the frontend and bac",
+          "category": "tools",
+          "published_at": "2026-08-29T11:08:03+00:00",
+          "author": "/u/ionutvi",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "PhD Internship in smaller lab [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/",
+          "source": "r/MachineLearning",
+          "summary": "How much of a disadvantage is it if your only internship is not at one of the big frontier labs when it comes to post-phd opportunities in robotics/ML My PhD is at a top university (UK) and my interns",
+          "category": "tools",
+          "published_at": "2026-08-29T10:20:12+00:00",
+          "author": "/u/IgneousPutorius",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
+          "source": "r/MachineLearning",
+          "summary": "4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation The generated image will then be displayed on a monitor or transfe",
+          "category": "tools",
+          "published_at": "2026-08-28T19:48:27+00:00",
+          "author": "/u/cpldcpu",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Google CS PhD Fellowship 2026 [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
+          "source": "r/MachineLearning",
+          "summary": "Has anyone got the decision notification yet Please mention decision (e , approved/rejected) and geographical area (e",
+          "category": "tools",
+          "published_at": "2026-08-28T13:38:49+00:00",
+          "author": "/u/RevolutionaryIssue59",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-08-28T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "total": 29,
