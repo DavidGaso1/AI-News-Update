@@ -1,6 +1,274 @@
 {
-  "generated_at": "2026-08-30T11:23:24.640211+00:00",
+  "generated_at": "2026-08-31T12:52:31.196120+00:00",
   "archive": [
+    {
+      "date": "2026-08-31",
+      "total": 50,
+      "categories": {
+        "breaking": 0,
+        "research": 46,
+        "industry": 1,
+        "tools": 3
+      },
+      "articles": [
+        {
+          "title": "Cold emailing profs about PhD positions? Read this [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
+          "source": "r/MachineLearning",
+          "summary": "This is the time of year where the cold emails I receive about PhD positions tends to ramp up quite a bit In many countries, this cold emailing is essentially part of the normal recruitment process, s",
+          "category": "research",
+          "published_at": "2026-08-31T12:09:24+00:00",
+          "author": "/u/tariban",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+          "url": "https://arxiv.org/abs/2608.27507",
+          "source": "arXiv ML",
+          "summary": "27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replicated copies ",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Junhao Cao, Hongyi Xia, Jianian Wu, Xiaopeng Yi, Lixia Huang, Ping Guo",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+          "url": "https://arxiv.org/abs/2608.27512",
+          "source": "arXiv ML",
+          "summary": "27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models When a full-precision source checkp",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Jacopo Dardini, Claudio Stanzione, Giordano Col\\`o, Giuseppe Fenza",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.CL",
+            "cs.CR"
+          ]
+        },
+        {
+          "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+          "url": "https://arxiv.org/abs/2608.27513",
+          "source": "arXiv ML",
+          "summary": "27513v1 Announce Type: new Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length Recent language models incorporatin",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Tao Zhang, Jianchao Tan, Pingwei Sun, Yanqi Yu, Zixu Jiang, Yuchen Xie, Xunliang Cai, Ziqian Zeng",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Deeper Analysis of Block-Sparse Featurizers",
+          "url": "https://arxiv.org/abs/2608.27515",
+          "source": "arXiv ML",
+          "summary": "27515v1 Announce Type: new Abstract: The recently introduced block-sparse featurizer (BSF; Fel et al , 2026) is similar to a sparse autoencoder (SAE), but its atomic unit is a small subspace (a block ",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Alexandru-Iulius Jerpelea, Amith Ananthram",
+          "tags": [
+            "cs.LG",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+          "url": "https://arxiv.org/abs/2608.27518",
+          "source": "arXiv ML",
+          "summary": "27518v1 Announce Type: new Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by catastrophic ",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Shangge Liu, Yuehan Yin, Yinghuan Shi, Lei Wang, Wenbin Li",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+          "url": "https://arxiv.org/abs/2608.27521",
+          "source": "arXiv ML",
+          "summary": "27521v1 Announce Type: new Abstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean Applying these architectures on a regular lat",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Till Muser, Giovanni Abati, Ivan Dokmani\\'c",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+          "url": "https://arxiv.org/abs/2608.27574",
+          "source": "arXiv ML",
+          "summary": "27574v1 Announce Type: new Abstract: Multi-label graph learning intends to capture the intrinsic complexity of real-world applications, where one sample is often related to multiple groups or consists",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Yingqi Feng, Yufei Tang, Min Shi, Xingquan Zhu",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+          "url": "https://arxiv.org/abs/2608.27634",
+          "source": "arXiv ML",
+          "summary": "27634v1 Announce Type: new Abstract: Nearest neighbor classification relies fundamentally on how locality is defined, yet conventional $k$-NN imposes the same neighborhood cardinality throughout the f",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Alexandre L. M. Levada",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.CV",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+          "url": "https://arxiv.org/abs/2608.27651",
+          "source": "arXiv ML",
+          "summary": "27651v1 Announce Type: new Abstract: Unsupervised representational alignment recovers a stimulus-by-stimulus correspondence from geometry alone, but the automorphism group of the stimulus geometry bou",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Jing Xu, Christopher Kanan",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+          "url": "https://arxiv.org/abs/2608.27662",
+          "source": "arXiv ML",
+          "summary": "27662v1 Announce Type: new Abstract: This work presents a generative continual learning framework based on growing self-organizing maps (GSOMs) that are augmented with learned distributional statistic",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Pujan Thapa, Alexander Ororbia, Travis Desell",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2608.27678",
+          "source": "arXiv ML",
+          "summary": "27678v1 Announce Type: new Abstract: Offline goal-conditioned reinforcement learning (GCRL) often uses trajectory structure for future-goal sampling and multi-step targets, yet logged trajectories may",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Musa Shams",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+          "url": "https://arxiv.org/abs/2608.27688",
+          "source": "arXiv ML",
+          "summary": "27688v1 Announce Type: new Abstract: In this paper, we develop SafeStep, an interactive browser-based semantic communication platform for live pedestrian safety monitoring SafeStep extracts pedestrian",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Christian McDowell, Andrea Panebianco, Jeremiah Yang, Sirin Chakraborty, Samuel Chamoun, Travis Ross, Yin Sun",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+          "url": "https://arxiv.org/abs/2608.27704",
+          "source": "arXiv ML",
+          "summary": "27704v1 Announce Type: new Abstract: When machine learning classifiers are retrained, inputs correctly classified by the previous model version may be misclassified by the updated version, creating re",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Madhusudan Srinivasan, Namith Nishal Raphae",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge",
+          "url": "https://arxiv.org/abs/2608.27713",
+          "source": "arXiv ML",
+          "summary": "27713v1 Announce Type: new Abstract: Edge intelligence systems increasingly require model training and online inference to coexist on resource-constrained devices, while inference demand can vary subs",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Yiming Xie, Pinrui Yu, Geng Yuan, Xue Lin, Ningfang Mi",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+          "url": "https://arxiv.org/abs/2608.27715",
+          "source": "arXiv ML",
+          "summary": "27715v1 Announce Type: new Abstract: Federated learning systems are increasingly deployed to facilitate collaborative model training across a heterogeneous client population Existing practice mostly i",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Yiming Xie, Lili Su, Ningfang Mi",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+          "url": "https://arxiv.org/abs/2608.27719",
+          "source": "arXiv ML",
+          "summary": "27719v1 Announce Type: new Abstract: Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-li",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung",
+          "tags": [
+            "cs.LG",
+            "q-bio.NC"
+          ]
+        },
+        {
+          "title": "Diffusion Distillation for Efficient Weather Ensembles",
+          "url": "https://arxiv.org/abs/2608.27728",
+          "source": "arXiv ML",
+          "summary": "27728v1 Announce Type: new Abstract: Diffusion models generate skillful weather ensembles but require costly iterative sampling We introduce a supervised energy-distance distillation method that compr",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Yiming Yang, Valentin Brekke, James Briant, Serge Guillas",
+          "tags": [
+            "cs.LG",
+            "stat.AP"
+          ]
+        },
+        {
+          "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+          "url": "https://arxiv.org/abs/2608.27750",
+          "source": "arXiv ML",
+          "summary": "27750v1 Announce Type: new Abstract: The hidden states of large language models (LLMs) are known to capture rich information relating to model knowledge and behavior that can be hard to extract from e",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Eric Yeats, Brendan Kennedy, Loc Truong, John Buckheit, Jung Lee, Jesse Friedbaum, John Emanuello, Henry Kvinge",
+          "tags": [
+            "cs.LG",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess",
+          "url": "https://arxiv.org/abs/2608.27757",
+          "source": "arXiv ML",
+          "summary": "27757v1 Announce Type: new Abstract: Searchless chess networks reach human master strength from a single forward pass by imitating a stronger teacher: the strongest, Leela Chess Zero's (Lc0) released ",
+          "category": "research",
+          "published_at": "2026-08-31T00:00:00-04:00",
+          "author": "Szymon Mi{\\l}osz, Piotr Duch, Szymon Grabowski",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "total": 11,

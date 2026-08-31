@@ -1,59 +1,650 @@
 {
-  "generated_at": "2026-08-30T11:23:24.645559+00:00",
-  "article_count": 11,
+  "generated_at": "2026-08-31T12:52:31.201832+00:00",
+  "article_count": 50,
   "categories": {
     "breaking": [],
     "research": [
       {
-        "title": "*ACL Findings or TMLR? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+        "title": "Cold emailing profs about PhD positions? Read this [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
         "source": "r/MachineLearning",
-        "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2 Trying to decide between ARR vs TMLR, but thinking NAACL findings are more likely than main conference",
+        "summary": "This is the time of year where the cold emails I receive about PhD positions tends to ramp up quite a bit In many countries, this cold emailing is essentially part of the normal recruitment process, s",
         "category": "research",
-        "published_at": "2026-08-30T01:23:36+00:00",
-        "fetched_at": "2026-08-30T11:22:17.796135+00:00",
-        "author": "/u/Pure-Ad9079",
+        "published_at": "2026-08-31T12:09:24+00:00",
+        "fetched_at": "2026-08-31T12:51:25.497460+00:00",
+        "author": "/u/tariban",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Do you use a whiteboard when thinking? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
-        "source": "r/MachineLearning",
-        "summary": "Hello all, here is a chill post When I was an undergrad, I really liked working things out on a whiteboard Drawing stuff, talking through ideas out loud, testing little hypotheses",
+        "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+        "url": "https://arxiv.org/abs/2608.27507",
+        "source": "arXiv ML",
+        "summary": "27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replicated copies ",
         "category": "research",
-        "published_at": "2026-08-29T21:39:44+00:00",
-        "fetched_at": "2026-08-30T11:22:17.822362+00:00",
-        "author": "/u/Huge-Leek844",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.184125+00:00",
+        "author": "Junhao Cao, Hongyi Xia, Jianian Wu, Xiaopeng Yi, Lixia Huang, Ping Guo",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "cs.AI"
         ]
       },
       {
-        "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
-        "source": "r/MachineLearning",
-        "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc Many (perh",
+        "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+        "url": "https://arxiv.org/abs/2608.27512",
+        "source": "arXiv ML",
+        "summary": "27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models When a full-precision source checkp",
         "category": "research",
-        "published_at": "2026-08-29T20:16:17+00:00",
-        "fetched_at": "2026-08-30T11:22:17.709561+00:00",
-        "author": "/u/eamonnkeogh",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.248420+00:00",
+        "author": "Jacopo Dardini, Claudio Stanzione, Giordano Col\\`o, Giuseppe Fenza",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "cs.AI",
+          "cs.CL",
+          "cs.CR"
+        ]
+      },
+      {
+        "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+        "url": "https://arxiv.org/abs/2608.27513",
+        "source": "arXiv ML",
+        "summary": "27513v1 Announce Type: new Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length Recent language models incorporatin",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.289075+00:00",
+        "author": "Tao Zhang, Jianchao Tan, Pingwei Sun, Yanqi Yu, Zixu Jiang, Yuchen Xie, Xunliang Cai, Ziqian Zeng",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "A Deeper Analysis of Block-Sparse Featurizers",
+        "url": "https://arxiv.org/abs/2608.27515",
+        "source": "arXiv ML",
+        "summary": "27515v1 Announce Type: new Abstract: The recently introduced block-sparse featurizer (BSF; Fel et al , 2026) is similar to a sparse autoencoder (SAE), but its atomic unit is a small subspace (a block ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.321465+00:00",
+        "author": "Alexandru-Iulius Jerpelea, Amith Ananthram",
+        "tags": [
+          "cs.LG",
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+        "url": "https://arxiv.org/abs/2608.27518",
+        "source": "arXiv ML",
+        "summary": "27518v1 Announce Type: new Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by catastrophic ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.382159+00:00",
+        "author": "Shangge Liu, Yuehan Yin, Yinghuan Shi, Lei Wang, Wenbin Li",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+        "url": "https://arxiv.org/abs/2608.27521",
+        "source": "arXiv ML",
+        "summary": "27521v1 Announce Type: new Abstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean Applying these architectures on a regular lat",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.428529+00:00",
+        "author": "Till Muser, Giovanni Abati, Ivan Dokmani\\'c",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+        "url": "https://arxiv.org/abs/2608.27574",
+        "source": "arXiv ML",
+        "summary": "27574v1 Announce Type: new Abstract: Multi-label graph learning intends to capture the intrinsic complexity of real-world applications, where one sample is often related to multiple groups or consists",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.482695+00:00",
+        "author": "Yingqi Feng, Yufei Tang, Min Shi, Xingquan Zhu",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+        "url": "https://arxiv.org/abs/2608.27634",
+        "source": "arXiv ML",
+        "summary": "27634v1 Announce Type: new Abstract: Nearest neighbor classification relies fundamentally on how locality is defined, yet conventional $k$-NN imposes the same neighborhood cardinality throughout the f",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.531956+00:00",
+        "author": "Alexandre L. M. Levada",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CV",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+        "url": "https://arxiv.org/abs/2608.27651",
+        "source": "arXiv ML",
+        "summary": "27651v1 Announce Type: new Abstract: Unsupervised representational alignment recovers a stimulus-by-stimulus correspondence from geometry alone, but the automorphism group of the stimulus geometry bou",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.572832+00:00",
+        "author": "Jing Xu, Christopher Kanan",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+        "url": "https://arxiv.org/abs/2608.27662",
+        "source": "arXiv ML",
+        "summary": "27662v1 Announce Type: new Abstract: This work presents a generative continual learning framework based on growing self-organizing maps (GSOMs) that are augmented with learned distributional statistic",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.626698+00:00",
+        "author": "Pujan Thapa, Alexander Ororbia, Travis Desell",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.27678",
+        "source": "arXiv ML",
+        "summary": "27678v1 Announce Type: new Abstract: Offline goal-conditioned reinforcement learning (GCRL) often uses trajectory structure for future-goal sampling and multi-step targets, yet logged trajectories may",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.691116+00:00",
+        "author": "Musa Shams",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+        "url": "https://arxiv.org/abs/2608.27688",
+        "source": "arXiv ML",
+        "summary": "27688v1 Announce Type: new Abstract: In this paper, we develop SafeStep, an interactive browser-based semantic communication platform for live pedestrian safety monitoring SafeStep extracts pedestrian",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.751947+00:00",
+        "author": "Christian McDowell, Andrea Panebianco, Jeremiah Yang, Sirin Chakraborty, Samuel Chamoun, Travis Ross, Yin Sun",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+        "url": "https://arxiv.org/abs/2608.27704",
+        "source": "arXiv ML",
+        "summary": "27704v1 Announce Type: new Abstract: When machine learning classifiers are retrained, inputs correctly classified by the previous model version may be misclassified by the updated version, creating re",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.816763+00:00",
+        "author": "Madhusudan Srinivasan, Namith Nishal Raphae",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.SE"
+        ]
+      },
+      {
+        "title": "DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge",
+        "url": "https://arxiv.org/abs/2608.27713",
+        "source": "arXiv ML",
+        "summary": "27713v1 Announce Type: new Abstract: Edge intelligence systems increasingly require model training and online inference to coexist on resource-constrained devices, while inference demand can vary subs",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.875818+00:00",
+        "author": "Yiming Xie, Pinrui Yu, Geng Yuan, Xue Lin, Ningfang Mi",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+        "url": "https://arxiv.org/abs/2608.27715",
+        "source": "arXiv ML",
+        "summary": "27715v1 Announce Type: new Abstract: Federated learning systems are increasingly deployed to facilitate collaborative model training across a heterogeneous client population Existing practice mostly i",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.925800+00:00",
+        "author": "Yiming Xie, Lili Su, Ningfang Mi",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+        "url": "https://arxiv.org/abs/2608.27719",
+        "source": "arXiv ML",
+        "summary": "27719v1 Announce Type: new Abstract: Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-li",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:03.979041+00:00",
+        "author": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung",
+        "tags": [
+          "cs.LG",
+          "q-bio.NC"
+        ]
+      },
+      {
+        "title": "Diffusion Distillation for Efficient Weather Ensembles",
+        "url": "https://arxiv.org/abs/2608.27728",
+        "source": "arXiv ML",
+        "summary": "27728v1 Announce Type: new Abstract: Diffusion models generate skillful weather ensembles but require costly iterative sampling We introduce a supervised energy-distance distillation method that compr",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.015359+00:00",
+        "author": "Yiming Yang, Valentin Brekke, James Briant, Serge Guillas",
+        "tags": [
+          "cs.LG",
+          "stat.AP"
+        ]
+      },
+      {
+        "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+        "url": "https://arxiv.org/abs/2608.27750",
+        "source": "arXiv ML",
+        "summary": "27750v1 Announce Type: new Abstract: The hidden states of large language models (LLMs) are known to capture rich information relating to model knowledge and behavior that can be hard to extract from e",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.083877+00:00",
+        "author": "Eric Yeats, Brendan Kennedy, Loc Truong, John Buckheit, Jung Lee, Jesse Friedbaum, John Emanuello, Henry Kvinge",
+        "tags": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess",
+        "url": "https://arxiv.org/abs/2608.27757",
+        "source": "arXiv ML",
+        "summary": "27757v1 Announce Type: new Abstract: Searchless chess networks reach human master strength from a single forward pass by imitating a stronger teacher: the strongest, Leela Chess Zero's (Lc0) released ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.130710+00:00",
+        "author": "Szymon Mi{\\l}osz, Piotr Duch, Szymon Grabowski",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Fast Weight Attention for Continual Learning",
+        "url": "https://arxiv.org/abs/2608.27763",
+        "source": "arXiv ML",
+        "summary": "27763v1 Announce Type: new Abstract: Recurrent fast-weight memories and selective state-space models compress an expanding context into a fixed-size recurrent state, making the state transition an onl",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.162319+00:00",
+        "author": "Yifan Zhang, Steve Ta, Jasper Zhang, Jichen Feng, Shuzhen Li, Yongxin Zhang, Yifeng Liu, Huizhuo Yuan, Mengdi Wang, Quanquan Gu, Andrew Chi-Chih Yao",
+        "tags": [
+          "cs.LG",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "Initialization Is Critical: Advancing Federated Short-Term Load Forecasting under Load Heterogeneity via Model Initialization",
+        "url": "https://arxiv.org/abs/2608.27791",
+        "source": "arXiv ML",
+        "summary": "27791v1 Announce Type: new Abstract: Short-term load forecasting (STLF) provides essential information for numerous applications in modern power systems However, accurate STLF often relies on fine-gra",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.235084+00:00",
+        "author": "Jianing Chen, Vajiheh Farhadi, Yan Li, Thomas La Porta",
+        "tags": [
+          "cs.LG",
+          "cs.SY",
+          "eess.SY"
+        ]
+      },
+      {
+        "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+        "url": "https://arxiv.org/abs/2608.27794",
+        "source": "arXiv ML",
+        "summary": "27794v1 Announce Type: new Abstract: As neural networks are increasingly deployed on resource constrained edge devices, accurate prediction of latency and energy is critical for efficient neural archi",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.277292+00:00",
+        "author": "Matthew Grenier, William Hammer, Andrew Heuer, Nikhil Krishna, Yi Wang, Ramtin Zand",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Actionable CBFI: Integrating Structural Decomposition and Causal Counterfactual Recourse for Tabular Machine Learning",
+        "url": "https://arxiv.org/abs/2608.27821",
+        "source": "arXiv ML",
+        "summary": "27821v1 Announce Type: new Abstract: Explainable artificial intelligence (XAI) increasingly calls for actionable counterfactual recourse, yet current methodologies face challenges related to causal in",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.347812+00:00",
+        "author": "Sejong Oh",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+        "url": "https://arxiv.org/abs/2608.27856",
+        "source": "arXiv ML",
+        "summary": "27856v1 Announce Type: new Abstract: Recent advances in large language models are enabling autonomous clinical agents to perform increasingly complex electronic health record (EHR) modeling workflows ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.394500+00:00",
+        "author": "Jun Bai, Ruilin Wang, Yue Li",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.MA"
+        ]
+      },
+      {
+        "title": "SOMTab: Set-Order Mamba for Efficient Tabular In-Context Learning",
+        "url": "https://arxiv.org/abs/2608.27882",
+        "source": "arXiv ML",
+        "summary": "27882v1 Announce Type: new Abstract: Tabular foundation models based on in-context learning have recently emerged as strong alternatives to task-specific model fitting However, the current performance",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.439588+00:00",
+        "author": "Hao Wang, Siyu Zhang, Wei Ma",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Beyond Pairwise Graphs in Science: Hypergraph Adaptive Wavelet Operators for Parametric PDEs",
+        "url": "https://arxiv.org/abs/2608.27883",
+        "source": "arXiv ML",
+        "summary": "27883v1 Announce Type: new Abstract: Physical systems are often modeled by solution operators that map input fields, parameters, geometries, or past states to steady or future physical states Learning",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.498615+00:00",
+        "author": "Rajat Sarkar, Venkataramana Runkana, Souvik Chakraborty",
+        "tags": [
+          "cs.LG",
+          "physics.comp-ph"
+        ]
+      },
+      {
+        "title": "There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation",
+        "url": "https://arxiv.org/abs/2608.27885",
+        "source": "arXiv ML",
+        "summary": "27885v1 Announce Type: new Abstract: Multimodality translation (e , text-to-image) is a core generative AI task However, existing approaches (1) follow generative paths that do not directly represent ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.551118+00:00",
+        "author": "Gabe Guo, Elon Litman, Thanawat Sornwanee, Jose Blanchet, Stefano Ermon",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "TACIT-Switch: Cost-Aware Model Escalation for LLM Agents from Censored Supervision",
+        "url": "https://arxiv.org/abs/2608.27911",
+        "source": "arXiv ML",
+        "summary": "27911v1 Announce Type: new Abstract: Agents with smaller language-model backbones are less expensive but can drift into persistent failure modes, whereas those with larger backbones are generally more",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.605340+00:00",
+        "author": "Ji'an Lei, Jian Huang",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "TI$^2$PS: A Topology-Informed Inverse Design Framework for Stochastic Multicellular Pattern Formation",
+        "url": "https://arxiv.org/abs/2608.27931",
+        "source": "arXiv ML",
+        "summary": "27931v1 Announce Type: new Abstract: This study proposes a novel framework to estimate parameters for reproducing target multicellular patterns using an agent-based model (ABM) Two major challenges in",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.668289+00:00",
+        "author": "Kenji Komiya, Andrew Kailiang Jin, Ryo Nishikimi, Kunio Kashino",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs",
+        "url": "https://arxiv.org/abs/2608.27948",
+        "source": "arXiv ML",
+        "summary": "27948v1 Announce Type: new Abstract: Test-time adaptation (TTA) on graphs aims to adapt a graph neural network (GNN) that is well-trained on the training graph to the test graph, which involves potent",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:04.715907+00:00",
+        "author": "Bo Li, Xin Zheng, Ming Jin, Can Wang, Shirui Pan",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "FVeinSyn: Synthetic Finger Vein Image Generator",
+        "url": "https://arxiv.org/abs/2608.27527",
+        "source": "arXiv CV",
+        "summary": "27527v1 Announce Type: new Abstract: A major challenge in finger vein recognition is the lack of large-scale public datasets Existing datasets contain few identities and limited samples per finger, re",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.339340+00:00",
+        "author": "Yifan Wang, Jie Gui, Adams Wai Kin Kong, Baosheng Yu, Changsheng Chen, Qi Li, Zhenan Sun, James Tin-Yau Kwok, Alex Kot",
+        "tags": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+        "url": "https://arxiv.org/abs/2608.27529",
+        "source": "arXiv CV",
+        "summary": "27529v1 Announce Type: new Abstract: Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation Early strea",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.388301+00:00",
+        "author": "Jiarong Han, Jincheng Xiong, Yuzhou Liu, Linzhe Shi, Changjie Wu, Ning Guo, Mu Xu, Hang Zhang, Ming Qian",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
+        "url": "https://arxiv.org/abs/2608.27549",
+        "source": "arXiv CV",
+        "summary": "27549v1 Announce Type: new Abstract: Physical understanding and reasoning depend on forming compact and generalizable representations of the world While modern vision-language models can recognize and",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.448613+00:00",
+        "author": "Hanyang Wang, Yimo Cai, Weiliang Chen, Jiawei Chi, Haowen Sun, Qiyu Dai, Yi-Hsin Hung, Xingzhuo Guo, Jinshan Ren, Runmao Yao, Ziwei Liu, Mingsheng Long, Yueqi Duan, Jun Gao, Jiangran Lyu, Fangfu Liu, Jialong Wu",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "VidParse: Online Parsing of Egocentric Procedures Like a Pro",
+        "url": "https://arxiv.org/abs/2608.27562",
+        "source": "arXiv CV",
+        "summary": "27562v1 Announce Type: new Abstract: Translating continuous, noisy egocentric video streams into discrete, temporally ordered action steps is fraught with visual challenges Heavy ego-motion, transient",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.494167+00:00",
+        "author": "Anubhav Gupta, Archit Kambhamettu, Vatsal Agarwal, Pulkit Kumar, Abhinav Shrivastava",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Quanta Perception as Probabilistic Events",
+        "url": "https://arxiv.org/abs/2608.27584",
+        "source": "arXiv CV",
+        "summary": "27584v1 Announce Type: new Abstract: Autonomous systems rely on extracting information from light, yet remain brittle in extreme environments, from nighttime navigation to high-speed robotics Conventi",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.526839+00:00",
+        "author": "Varun Sundar, Pavan Thodima, Sacha Jungerman, Mohit Gupta",
+        "tags": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection",
+        "url": "https://arxiv.org/abs/2608.27610",
+        "source": "arXiv CV",
+        "summary": "27610v1 Announce Type: new Abstract: Visual anomaly detectors based on frozen foundation-model features commonly score distances from test patches to a memory of normal features Benign acquisition cha",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.594562+00:00",
+        "author": "Muhamathu Ameer Ali Aacaas Muhamath",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge",
+        "url": "https://arxiv.org/abs/2608.27633",
+        "source": "arXiv CV",
+        "summary": "27633v1 Announce Type: new Abstract: Pothole detection and its severity measurement is still an important challenges in urban infrastructure management, where late maintenance directly contributes to ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.642925+00:00",
+        "author": "Md Monjurul Ahsan Prodhan, Md Nour Hossain",
+        "tags": [
+          "cs.CV",
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Report Supervision",
+        "url": "https://arxiv.org/abs/2608.27668",
+        "source": "arXiv CV",
+        "summary": "27668v1 Announce Type: new Abstract: Segmentation models can surpass radiologists, classification models, and vision-language models in tumor detection Importantly, segmentation models outline tumors,",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.660073+00:00",
+        "author": "Pedro R. A. S. Bassia, Wenxuan Li, Jakob Wasserthal, Jieneng Chen, Xinze Zhou, Zheren Zhu, Chuntung Zhuanga, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "ABCD: Alpha-Composited Block Coordinate Descent: Constant-VRAM Training for Large Radiance Fields",
+        "url": "https://arxiv.org/abs/2608.27735",
+        "source": "arXiv CV",
+        "summary": "27735v1 Announce Type: new Abstract: We present ABCD (Alpha-Composited Block Coordinate Descent), an out-of-core training framework for alpha-composited radiance fields, instantiated here for 3D Gauss",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.726803+00:00",
+        "author": "Ka Heng Shiu, Kartic Subr",
+        "tags": [
+          "cs.CV",
+          "cs.GR"
+        ]
+      },
+      {
+        "title": "What Can Low Resource Languages Learn From Each Other?",
+        "url": "https://arxiv.org/abs/2608.27753",
+        "source": "arXiv CV",
+        "summary": "27753v1 Announce Type: new Abstract: Despite the rapid advancement of Vision-Language Models (VLMs), their linguistic reach remains largely confined to high-resource languages, leaving the majority of",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.767390+00:00",
+        "author": "Achyuth P, Kahaan Shah, Chetan Arora",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception",
+        "url": "https://arxiv.org/abs/2608.27795",
+        "source": "arXiv CV",
+        "summary": "27795v1 Announce Type: new Abstract: Robust perception is essential for the deployment of autonomous underwater robots However, optical cameras become unreliable under poor illumination and backscatte",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.823103+00:00",
+        "author": "Trung Tien Dong, Zhenqi Wu, Aditya Penumarti, Zi-Hao Zhang, Micaiah Bartlett, Jane Shin, Xiaomin Lin",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation",
+        "url": "https://arxiv.org/abs/2608.27860",
+        "source": "arXiv CV",
+        "summary": "27860v1 Announce Type: new Abstract: Vision foundation models are capable of generalizing across 3-dimensional (3D) scenes with high-fidelity estimates; their empirical success can be attributed to tr",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.879921+00:00",
+        "author": "Rit Gangopadhyay, Alex Wong",
+        "tags": [
+          "cs.CV",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents",
+        "url": "https://arxiv.org/abs/2608.27866",
+        "source": "arXiv CV",
+        "summary": "27866v1 Announce Type: new Abstract: Achieving virtual agents capable of automating tasks across diverse digital environments remains a pivotal challenge in Embodied AI While Multimodal Large Language",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:05.947585+00:00",
+        "author": "Jiahe Ying, Wendong Bu, Kaihang Pan, Bingchen Miao, Siyu Chen, Wen Wang, Xueming Jiang, Juncheng Li, Siliang Tang",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Temporal Tree of Thought: Reasoning-Guided Visual Cue Search for Long-Video Understanding",
+        "url": "https://arxiv.org/abs/2608.27871",
+        "source": "arXiv CV",
+        "summary": "27871v1 Announce Type: new Abstract: Long-video understanding remains challenging for Multimodal Large Language Models (MLLMs) due to limited context length Uniform sampling may miss crucial moments, ",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:06.008955+00:00",
+        "author": "Ziling Huang, Shin'ichi Satoh",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Relational Knowledge Distillation Brings DNN Representations Close Enough to Humans to Be Aligned Without Supervision",
+        "url": "https://arxiv.org/abs/2608.27877",
+        "source": "arXiv CV",
+        "summary": "27877v1 Announce Type: new Abstract: Linking the internal representations of deep neural networks (DNNs) to human mental representations is important for using DNNs as computational models of human vi",
+        "category": "research",
+        "published_at": "2026-08-31T00:00:00-04:00",
+        "fetched_at": "2026-08-31T12:51:06.085389+00:00",
+        "author": "Yuria Shimizu, Soh Takahashi, Takato Horii, Masafumi Oizumi",
+        "tags": [
+          "cs.CV",
+          "q-bio.NC"
         ]
       }
     ],
     "industry": [
       {
-        "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
         "source": "r/MachineLearning",
-        "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+        "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
         "category": "industry",
-        "published_at": "2026-08-30T07:28:13+00:00",
-        "fetched_at": "2026-08-30T11:22:17.738017+00:00",
-        "author": "/u/Winter_Mistake_3185",
+        "published_at": "2026-08-31T02:30:17+00:00",
+        "fetched_at": "2026-08-31T12:51:25.427689+00:00",
+        "author": "/u/AutoModerator",
         "tags": [
           "reddit"
         ]
@@ -61,237 +652,728 @@
     ],
     "tools": [
       {
-        "title": "Have there been any interesting polls among ML academics lately? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2cdu8/have_there_been_any_interesting_polls_among_ml/",
+        "title": "How to assess if there is a strong signal in your dirty data [Project]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
         "source": "r/MachineLearning",
-        "summary": "I remember that maybe 3 years ago they polled NeurIPS attendees about how far LLMs would go Would be interested in seeing more recent polls (limited to people with relevant expertise) Have there been ",
+        "summary": "I'm sharing this new tabular data diagnostic tool (Entropic Scree) It can be used to estimate these properties of your high-d, real-world, dirty dataset: The informational volume of the signal (i , he",
         "category": "tools",
-        "published_at": "2026-08-30T08:57:28+00:00",
-        "fetched_at": "2026-08-30T11:22:17.778675+00:00",
-        "author": "/u/we_are_mammals",
+        "published_at": "2026-08-31T12:02:54+00:00",
+        "fetched_at": "2026-08-31T12:51:25.594300+00:00",
+        "author": "/u/Chocolate_Milk_Son",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Open-source access-control checker for retrieval-based AI applications [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+        "title": "Good Machine Learning Posters [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
         "source": "r/MachineLearning",
-        "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to It supports offline test cases and live HTTP API testing with beare",
+        "summary": "Hi, I'm making posters for ECCV 2026 Does anyone have any ML/CV posters they thought were really well done Would love to see some cool examples",
         "category": "tools",
-        "published_at": "2026-08-29T22:11:26+00:00",
-        "fetched_at": "2026-08-30T11:22:17.934823+00:00",
-        "author": "/u/Lostboy_journey",
+        "published_at": "2026-08-31T10:04:08+00:00",
+        "fetched_at": "2026-08-31T12:51:25.657233+00:00",
+        "author": "/u/National-Resident244",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+        "title": "Is anyone esle going to ECCV and wants to get in a groupchat for socials? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2xy7z/is_anyone_esle_going_to_eccv_and_wants_to_get_in/",
         "source": "r/MachineLearning",
-        "summary": "width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system used to collect and analyze this data Both the frontend and bac",
+        "summary": "Hey I'm going to ECCV but since I'm from a small lab dont know anyone else going, looking for people to chill with and setup a groupchat for setting up some impromptu small group socials If you are in",
         "category": "tools",
-        "published_at": "2026-08-29T11:08:03+00:00",
-        "fetched_at": "2026-08-30T11:22:18.003771+00:00",
-        "author": "/u/ionutvi",
+        "published_at": "2026-08-31T00:17:33+00:00",
+        "fetched_at": "2026-08-31T12:51:25.723594+00:00",
+        "author": "/u/_Pattern_Recognition",
         "tags": [
           "reddit"
         ]
-      },
-      {
-        "title": "PhD Internship in smaller lab [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/",
-        "source": "r/MachineLearning",
-        "summary": "How much of a disadvantage is it if your only internship is not at one of the big frontier labs when it comes to post-phd opportunities in robotics/ML My PhD is at a top university (UK) and my interns",
-        "category": "tools",
-        "published_at": "2026-08-29T10:20:12+00:00",
-        "fetched_at": "2026-08-30T11:22:18.048275+00:00",
-        "author": "/u/IgneousPutorius",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
-        "source": "r/MachineLearning",
-        "summary": "4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation The generated image will then be displayed on a monitor or transfe",
-        "category": "tools",
-        "published_at": "2026-08-28T19:48:27+00:00",
-        "fetched_at": "2026-08-30T11:22:17.890000+00:00",
-        "author": "/u/cpldcpu",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Google CS PhD Fellowship 2026 [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
-        "source": "r/MachineLearning",
-        "summary": "Has anyone got the decision notification yet Please mention decision (e , approved/rejected) and geographical area (e",
-        "category": "tools",
-        "published_at": "2026-08-28T13:38:49+00:00",
-        "fetched_at": "2026-08-30T11:22:18.025327+00:00",
-        "author": "/u/RevolutionaryIssue59",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-08-28T00:00:00+00:00",
-        "fetched_at": "2026-08-30T11:22:00.823394+00:00",
-        "author": "",
-        "tags": []
       }
     ]
   },
   "all_articles": [
     {
-      "title": "*ACL Findings or TMLR? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+      "title": "Cold emailing profs about PhD positions? Read this [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
       "source": "r/MachineLearning",
-      "summary": "Expecting a rejection from NeurIPS given our scores of 5/2/2 Trying to decide between ARR vs TMLR, but thinking NAACL findings are more likely than main conference",
+      "summary": "This is the time of year where the cold emails I receive about PhD positions tends to ramp up quite a bit In many countries, this cold emailing is essentially part of the normal recruitment process, s",
       "category": "research",
-      "published_at": "2026-08-30T01:23:36+00:00",
-      "fetched_at": "2026-08-30T11:22:17.796135+00:00",
-      "author": "/u/Pure-Ad9079",
+      "published_at": "2026-08-31T12:09:24+00:00",
+      "fetched_at": "2026-08-31T12:51:25.497460+00:00",
+      "author": "/u/tariban",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Do you use a whiteboard when thinking? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
-      "source": "r/MachineLearning",
-      "summary": "Hello all, here is a chill post When I was an undergrad, I really liked working things out on a whiteboard Drawing stuff, talking through ideas out loud, testing little hypotheses",
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "source": "arXiv ML",
+      "summary": "27507v1 Announce Type: new Abstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameterized policies in replicated copies ",
       "category": "research",
-      "published_at": "2026-08-29T21:39:44+00:00",
-      "fetched_at": "2026-08-30T11:22:17.822362+00:00",
-      "author": "/u/Huge-Leek844",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.184125+00:00",
+      "author": "Junhao Cao, Hongyi Xia, Jianian Wu, Xiaopeng Yi, Lixia Huang, Ping Guo",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "cs.AI"
       ]
     },
     {
-      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
-      "source": "r/MachineLearning",
-      "summary": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc Many (perh",
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "source": "arXiv ML",
+      "summary": "27512v1 Announce Type: new Abstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models When a full-precision source checkp",
       "category": "research",
-      "published_at": "2026-08-29T20:16:17+00:00",
-      "fetched_at": "2026-08-30T11:22:17.709561+00:00",
-      "author": "/u/eamonnkeogh",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.248420+00:00",
+      "author": "Jacopo Dardini, Claudio Stanzione, Giordano Col\\`o, Giuseppe Fenza",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CR"
       ]
     },
     {
-      "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "source": "arXiv ML",
+      "summary": "27513v1 Announce Type: new Abstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length Recent language models incorporatin",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.289075+00:00",
+      "author": "Tao Zhang, Jianchao Tan, Pingwei Sun, Yanqi Yu, Zixu Jiang, Yuchen Xie, Xunliang Cai, Ziqian Zeng",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "A Deeper Analysis of Block-Sparse Featurizers",
+      "url": "https://arxiv.org/abs/2608.27515",
+      "source": "arXiv ML",
+      "summary": "27515v1 Announce Type: new Abstract: The recently introduced block-sparse featurizer (BSF; Fel et al , 2026) is similar to a sparse autoencoder (SAE), but its atomic unit is a small subspace (a block ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.321465+00:00",
+      "author": "Alexandru-Iulius Jerpelea, Amith Ananthram",
+      "tags": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "url": "https://arxiv.org/abs/2608.27518",
+      "source": "arXiv ML",
+      "summary": "27518v1 Announce Type: new Abstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, challenged respectively by catastrophic ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.382159+00:00",
+      "author": "Shangge Liu, Yuehan Yin, Yinghuan Shi, Lei Wang, Wenbin Li",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+      "url": "https://arxiv.org/abs/2608.27521",
+      "source": "arXiv ML",
+      "summary": "27521v1 Announce Type: new Abstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean Applying these architectures on a regular lat",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.428529+00:00",
+      "author": "Till Muser, Giovanni Abati, Ivan Dokmani\\'c",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+      "url": "https://arxiv.org/abs/2608.27574",
+      "source": "arXiv ML",
+      "summary": "27574v1 Announce Type: new Abstract: Multi-label graph learning intends to capture the intrinsic complexity of real-world applications, where one sample is often related to multiple groups or consists",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.482695+00:00",
+      "author": "Yingqi Feng, Yufei Tang, Min Shi, Xingquan Zhu",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+      "url": "https://arxiv.org/abs/2608.27634",
+      "source": "arXiv ML",
+      "summary": "27634v1 Announce Type: new Abstract: Nearest neighbor classification relies fundamentally on how locality is defined, yet conventional $k$-NN imposes the same neighborhood cardinality throughout the f",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.531956+00:00",
+      "author": "Alexandre L. M. Levada",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+      "url": "https://arxiv.org/abs/2608.27651",
+      "source": "arXiv ML",
+      "summary": "27651v1 Announce Type: new Abstract: Unsupervised representational alignment recovers a stimulus-by-stimulus correspondence from geometry alone, but the automorphism group of the stimulus geometry bou",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.572832+00:00",
+      "author": "Jing Xu, Christopher Kanan",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+      "url": "https://arxiv.org/abs/2608.27662",
+      "source": "arXiv ML",
+      "summary": "27662v1 Announce Type: new Abstract: This work presents a generative continual learning framework based on growing self-organizing maps (GSOMs) that are augmented with learned distributional statistic",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.626698+00:00",
+      "author": "Pujan Thapa, Alexander Ororbia, Travis Desell",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.27678",
+      "source": "arXiv ML",
+      "summary": "27678v1 Announce Type: new Abstract: Offline goal-conditioned reinforcement learning (GCRL) often uses trajectory structure for future-goal sampling and multi-step targets, yet logged trajectories may",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.691116+00:00",
+      "author": "Musa Shams",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+      "url": "https://arxiv.org/abs/2608.27688",
+      "source": "arXiv ML",
+      "summary": "27688v1 Announce Type: new Abstract: In this paper, we develop SafeStep, an interactive browser-based semantic communication platform for live pedestrian safety monitoring SafeStep extracts pedestrian",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.751947+00:00",
+      "author": "Christian McDowell, Andrea Panebianco, Jeremiah Yang, Sirin Chakraborty, Samuel Chamoun, Travis Ross, Yin Sun",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+      "url": "https://arxiv.org/abs/2608.27704",
+      "source": "arXiv ML",
+      "summary": "27704v1 Announce Type: new Abstract: When machine learning classifiers are retrained, inputs correctly classified by the previous model version may be misclassified by the updated version, creating re",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.816763+00:00",
+      "author": "Madhusudan Srinivasan, Namith Nishal Raphae",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge",
+      "url": "https://arxiv.org/abs/2608.27713",
+      "source": "arXiv ML",
+      "summary": "27713v1 Announce Type: new Abstract: Edge intelligence systems increasingly require model training and online inference to coexist on resource-constrained devices, while inference demand can vary subs",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.875818+00:00",
+      "author": "Yiming Xie, Pinrui Yu, Geng Yuan, Xue Lin, Ningfang Mi",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "r/MachineLearning",
-      "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
       "category": "industry",
-      "published_at": "2026-08-30T07:28:13+00:00",
-      "fetched_at": "2026-08-30T11:22:17.738017+00:00",
-      "author": "/u/Winter_Mistake_3185",
+      "published_at": "2026-08-31T02:30:17+00:00",
+      "fetched_at": "2026-08-31T12:51:25.427689+00:00",
+      "author": "/u/AutoModerator",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Have there been any interesting polls among ML academics lately? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2cdu8/have_there_been_any_interesting_polls_among_ml/",
+      "title": "How to assess if there is a strong signal in your dirty data [Project]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
       "source": "r/MachineLearning",
-      "summary": "I remember that maybe 3 years ago they polled NeurIPS attendees about how far LLMs would go Would be interested in seeing more recent polls (limited to people with relevant expertise) Have there been ",
+      "summary": "I'm sharing this new tabular data diagnostic tool (Entropic Scree) It can be used to estimate these properties of your high-d, real-world, dirty dataset: The informational volume of the signal (i , he",
       "category": "tools",
-      "published_at": "2026-08-30T08:57:28+00:00",
-      "fetched_at": "2026-08-30T11:22:17.778675+00:00",
-      "author": "/u/we_are_mammals",
+      "published_at": "2026-08-31T12:02:54+00:00",
+      "fetched_at": "2026-08-31T12:51:25.594300+00:00",
+      "author": "/u/Chocolate_Milk_Son",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Open-source access-control checker for retrieval-based AI applications [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+      "title": "Good Machine Learning Posters [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
       "source": "r/MachineLearning",
-      "summary": "Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to It supports offline test cases and live HTTP API testing with beare",
+      "summary": "Hi, I'm making posters for ECCV 2026 Does anyone have any ML/CV posters they thought were really well done Would love to see some cool examples",
       "category": "tools",
-      "published_at": "2026-08-29T22:11:26+00:00",
-      "fetched_at": "2026-08-30T11:22:17.934823+00:00",
-      "author": "/u/Lostboy_journey",
+      "published_at": "2026-08-31T10:04:08+00:00",
+      "fetched_at": "2026-08-31T12:51:25.657233+00:00",
+      "author": "/u/National-Resident244",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+      "title": "Is anyone esle going to ECCV and wants to get in a groupchat for socials? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2xy7z/is_anyone_esle_going_to_eccv_and_wants_to_get_in/",
       "source": "r/MachineLearning",
-      "summary": "width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system used to collect and analyze this data Both the frontend and bac",
+      "summary": "Hey I'm going to ECCV but since I'm from a small lab dont know anyone else going, looking for people to chill with and setup a groupchat for setting up some impromptu small group socials If you are in",
       "category": "tools",
-      "published_at": "2026-08-29T11:08:03+00:00",
-      "fetched_at": "2026-08-30T11:22:18.003771+00:00",
-      "author": "/u/ionutvi",
+      "published_at": "2026-08-31T00:17:33+00:00",
+      "fetched_at": "2026-08-31T12:51:25.723594+00:00",
+      "author": "/u/_Pattern_Recognition",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "PhD Internship in smaller lab [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/",
-      "source": "r/MachineLearning",
-      "summary": "How much of a disadvantage is it if your only internship is not at one of the big frontier labs when it comes to post-phd opportunities in robotics/ML My PhD is at a top university (UK) and my interns",
-      "category": "tools",
-      "published_at": "2026-08-29T10:20:12+00:00",
-      "fetched_at": "2026-08-30T11:22:18.048275+00:00",
-      "author": "/u/IgneousPutorius",
+      "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+      "url": "https://arxiv.org/abs/2608.27715",
+      "source": "arXiv ML",
+      "summary": "27715v1 Announce Type: new Abstract: Federated learning systems are increasingly deployed to facilitate collaborative model training across a heterogeneous client population Existing practice mostly i",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.925800+00:00",
+      "author": "Yiming Xie, Lili Su, Ningfang Mi",
       "tags": [
-        "reddit"
+        "cs.LG"
       ]
     },
     {
-      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
-      "source": "r/MachineLearning",
-      "summary": "4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation The generated image will then be displayed on a monitor or transfe",
-      "category": "tools",
-      "published_at": "2026-08-28T19:48:27+00:00",
-      "fetched_at": "2026-08-30T11:22:17.890000+00:00",
-      "author": "/u/cpldcpu",
+      "title": "Leveraging a Foundation Model for the EEG-Based Diagnosis of Alzheimer's Disease",
+      "url": "https://arxiv.org/abs/2608.27719",
+      "source": "arXiv ML",
+      "summary": "27719v1 Announce Type: new Abstract: Biological heterogeneity in Alzheimer's Disease (AD) poses a critical diagnostic challenge, particularly for traditional linear methods that fail to capture non-li",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:03.979041+00:00",
+      "author": "Maggie Lin, Chung-Lin Hou, Tzyy-Ping Jung",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "q-bio.NC"
       ]
     },
     {
-      "title": "Google CS PhD Fellowship 2026 [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
-      "source": "r/MachineLearning",
-      "summary": "Has anyone got the decision notification yet Please mention decision (e , approved/rejected) and geographical area (e",
-      "category": "tools",
-      "published_at": "2026-08-28T13:38:49+00:00",
-      "fetched_at": "2026-08-30T11:22:18.025327+00:00",
-      "author": "/u/RevolutionaryIssue59",
+      "title": "Diffusion Distillation for Efficient Weather Ensembles",
+      "url": "https://arxiv.org/abs/2608.27728",
+      "source": "arXiv ML",
+      "summary": "27728v1 Announce Type: new Abstract: Diffusion models generate skillful weather ensembles but require costly iterative sampling We introduce a supervised energy-distance distillation method that compr",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.015359+00:00",
+      "author": "Yiming Yang, Valentin Brekke, James Briant, Serge Guillas",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "stat.AP"
       ]
     },
     {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-08-28T00:00:00+00:00",
-      "fetched_at": "2026-08-30T11:22:00.823394+00:00",
-      "author": "",
-      "tags": []
+      "title": "The Calls are Coming from Inside the Model: Investigating Probe-based Detection of Tool-Calling Errors in LLMs",
+      "url": "https://arxiv.org/abs/2608.27750",
+      "source": "arXiv ML",
+      "summary": "27750v1 Announce Type: new Abstract: The hidden states of large language models (LLMs) are known to capture rich information relating to model knowledge and behavior that can be hard to extract from e",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.083877+00:00",
+      "author": "Eric Yeats, Brendan Kennedy, Loc Truong, John Buckheit, Jung Lee, Jesse Friedbaum, John Emanuello, Henry Kvinge",
+      "tags": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess",
+      "url": "https://arxiv.org/abs/2608.27757",
+      "source": "arXiv ML",
+      "summary": "27757v1 Announce Type: new Abstract: Searchless chess networks reach human master strength from a single forward pass by imitating a stronger teacher: the strongest, Leela Chess Zero's (Lc0) released ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.130710+00:00",
+      "author": "Szymon Mi{\\l}osz, Piotr Duch, Szymon Grabowski",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Fast Weight Attention for Continual Learning",
+      "url": "https://arxiv.org/abs/2608.27763",
+      "source": "arXiv ML",
+      "summary": "27763v1 Announce Type: new Abstract: Recurrent fast-weight memories and selective state-space models compress an expanding context into a fixed-size recurrent state, making the state transition an onl",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.162319+00:00",
+      "author": "Yifan Zhang, Steve Ta, Jasper Zhang, Jichen Feng, Shuzhen Li, Yongxin Zhang, Yifeng Liu, Huizhuo Yuan, Mengdi Wang, Quanquan Gu, Andrew Chi-Chih Yao",
+      "tags": [
+        "cs.LG",
+        "cs.CL",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "Initialization Is Critical: Advancing Federated Short-Term Load Forecasting under Load Heterogeneity via Model Initialization",
+      "url": "https://arxiv.org/abs/2608.27791",
+      "source": "arXiv ML",
+      "summary": "27791v1 Announce Type: new Abstract: Short-term load forecasting (STLF) provides essential information for numerous applications in modern power systems However, accurate STLF often relies on fine-gra",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.235084+00:00",
+      "author": "Jianing Chen, Vajiheh Farhadi, Yan Li, Thomas La Porta",
+      "tags": [
+        "cs.LG",
+        "cs.SY",
+        "eess.SY"
+      ]
+    },
+    {
+      "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+      "url": "https://arxiv.org/abs/2608.27794",
+      "source": "arXiv ML",
+      "summary": "27794v1 Announce Type: new Abstract: As neural networks are increasingly deployed on resource constrained edge devices, accurate prediction of latency and energy is critical for efficient neural archi",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.277292+00:00",
+      "author": "Matthew Grenier, William Hammer, Andrew Heuer, Nikhil Krishna, Yi Wang, Ramtin Zand",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Actionable CBFI: Integrating Structural Decomposition and Causal Counterfactual Recourse for Tabular Machine Learning",
+      "url": "https://arxiv.org/abs/2608.27821",
+      "source": "arXiv ML",
+      "summary": "27821v1 Announce Type: new Abstract: Explainable artificial intelligence (XAI) increasingly calls for actionable counterfactual recourse, yet current methodologies face challenges related to causal in",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.347812+00:00",
+      "author": "Sejong Oh",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+      "url": "https://arxiv.org/abs/2608.27856",
+      "source": "arXiv ML",
+      "summary": "27856v1 Announce Type: new Abstract: Recent advances in large language models are enabling autonomous clinical agents to perform increasingly complex electronic health record (EHR) modeling workflows ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.394500+00:00",
+      "author": "Jun Bai, Ruilin Wang, Yue Li",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    {
+      "title": "SOMTab: Set-Order Mamba for Efficient Tabular In-Context Learning",
+      "url": "https://arxiv.org/abs/2608.27882",
+      "source": "arXiv ML",
+      "summary": "27882v1 Announce Type: new Abstract: Tabular foundation models based on in-context learning have recently emerged as strong alternatives to task-specific model fitting However, the current performance",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.439588+00:00",
+      "author": "Hao Wang, Siyu Zhang, Wei Ma",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Beyond Pairwise Graphs in Science: Hypergraph Adaptive Wavelet Operators for Parametric PDEs",
+      "url": "https://arxiv.org/abs/2608.27883",
+      "source": "arXiv ML",
+      "summary": "27883v1 Announce Type: new Abstract: Physical systems are often modeled by solution operators that map input fields, parameters, geometries, or past states to steady or future physical states Learning",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.498615+00:00",
+      "author": "Rajat Sarkar, Venkataramana Runkana, Souvik Chakraborty",
+      "tags": [
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    {
+      "title": "There and Back Again: Bidirectional Diffusion Bridges for Multimodality Translation",
+      "url": "https://arxiv.org/abs/2608.27885",
+      "source": "arXiv ML",
+      "summary": "27885v1 Announce Type: new Abstract: Multimodality translation (e , text-to-image) is a core generative AI task However, existing approaches (1) follow generative paths that do not directly represent ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.551118+00:00",
+      "author": "Gabe Guo, Elon Litman, Thanawat Sornwanee, Jose Blanchet, Stefano Ermon",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "TACIT-Switch: Cost-Aware Model Escalation for LLM Agents from Censored Supervision",
+      "url": "https://arxiv.org/abs/2608.27911",
+      "source": "arXiv ML",
+      "summary": "27911v1 Announce Type: new Abstract: Agents with smaller language-model backbones are less expensive but can drift into persistent failure modes, whereas those with larger backbones are generally more",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.605340+00:00",
+      "author": "Ji'an Lei, Jian Huang",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "TI$^2$PS: A Topology-Informed Inverse Design Framework for Stochastic Multicellular Pattern Formation",
+      "url": "https://arxiv.org/abs/2608.27931",
+      "source": "arXiv ML",
+      "summary": "27931v1 Announce Type: new Abstract: This study proposes a novel framework to estimate parameters for reproducing target multicellular patterns using an agent-based model (ABM) Two major challenges in",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.668289+00:00",
+      "author": "Kenji Komiya, Andrew Kailiang Jin, Ryo Nishikimi, Kunio Kashino",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs",
+      "url": "https://arxiv.org/abs/2608.27948",
+      "source": "arXiv ML",
+      "summary": "27948v1 Announce Type: new Abstract: Test-time adaptation (TTA) on graphs aims to adapt a graph neural network (GNN) that is well-trained on the training graph to the test graph, which involves potent",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:04.715907+00:00",
+      "author": "Bo Li, Xin Zheng, Ming Jin, Can Wang, Shirui Pan",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "FVeinSyn: Synthetic Finger Vein Image Generator",
+      "url": "https://arxiv.org/abs/2608.27527",
+      "source": "arXiv CV",
+      "summary": "27527v1 Announce Type: new Abstract: A major challenge in finger vein recognition is the lack of large-scale public datasets Existing datasets contain few identities and limited samples per finger, re",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.339340+00:00",
+      "author": "Yifan Wang, Jie Gui, Adams Wai Kin Kong, Baosheng Yu, Changsheng Chen, Qi Li, Zhenan Sun, James Tin-Yau Kwok, Alex Kot",
+      "tags": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2608.27529",
+      "source": "arXiv CV",
+      "summary": "27529v1 Announce Type: new Abstract: Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation Early strea",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.388301+00:00",
+      "author": "Jiarong Han, Jincheng Xiong, Yuzhou Liu, Linzhe Shi, Changjie Wu, Ning Guo, Mu Xu, Hang Zhang, Ming Qian",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "url": "https://arxiv.org/abs/2608.27549",
+      "source": "arXiv CV",
+      "summary": "27549v1 Announce Type: new Abstract: Physical understanding and reasoning depend on forming compact and generalizable representations of the world While modern vision-language models can recognize and",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.448613+00:00",
+      "author": "Hanyang Wang, Yimo Cai, Weiliang Chen, Jiawei Chi, Haowen Sun, Qiyu Dai, Yi-Hsin Hung, Xingzhuo Guo, Jinshan Ren, Runmao Yao, Ziwei Liu, Mingsheng Long, Yueqi Duan, Jun Gao, Jiangran Lyu, Fangfu Liu, Jialong Wu",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "VidParse: Online Parsing of Egocentric Procedures Like a Pro",
+      "url": "https://arxiv.org/abs/2608.27562",
+      "source": "arXiv CV",
+      "summary": "27562v1 Announce Type: new Abstract: Translating continuous, noisy egocentric video streams into discrete, temporally ordered action steps is fraught with visual challenges Heavy ego-motion, transient",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.494167+00:00",
+      "author": "Anubhav Gupta, Archit Kambhamettu, Vatsal Agarwal, Pulkit Kumar, Abhinav Shrivastava",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Quanta Perception as Probabilistic Events",
+      "url": "https://arxiv.org/abs/2608.27584",
+      "source": "arXiv CV",
+      "summary": "27584v1 Announce Type: new Abstract: Autonomous systems rely on extracting information from light, yet remain brittle in extreme environments, from nighttime navigation to high-speed robotics Conventi",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.526839+00:00",
+      "author": "Varun Sundar, Pavan Thodima, Sacha Jungerman, Mohit Gupta",
+      "tags": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "ShiftSplit-AD: Separating Domain Shift from Defects in Foundation-Feature Visual Anomaly Detection",
+      "url": "https://arxiv.org/abs/2608.27610",
+      "source": "arXiv CV",
+      "summary": "27610v1 Announce Type: new Abstract: Visual anomaly detectors based on frozen foundation-model features commonly score distances from test patches to a memory of normal features Benign acquisition cha",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.594562+00:00",
+      "author": "Muhamathu Ameer Ali Aacaas Muhamath",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge",
+      "url": "https://arxiv.org/abs/2608.27633",
+      "source": "arXiv CV",
+      "summary": "27633v1 Announce Type: new Abstract: Pothole detection and its severity measurement is still an important challenges in urban infrastructure management, where late maintenance directly contributes to ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.642925+00:00",
+      "author": "Md Monjurul Ahsan Prodhan, Md Nour Hossain",
+      "tags": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Report Supervision",
+      "url": "https://arxiv.org/abs/2608.27668",
+      "source": "arXiv CV",
+      "summary": "27668v1 Announce Type: new Abstract: Segmentation models can surpass radiologists, classification models, and vision-language models in tumor detection Importantly, segmentation models outline tumors,",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.660073+00:00",
+      "author": "Pedro R. A. S. Bassia, Wenxuan Li, Jakob Wasserthal, Jieneng Chen, Xinze Zhou, Zheren Zhu, Chuntung Zhuanga, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "ABCD: Alpha-Composited Block Coordinate Descent: Constant-VRAM Training for Large Radiance Fields",
+      "url": "https://arxiv.org/abs/2608.27735",
+      "source": "arXiv CV",
+      "summary": "27735v1 Announce Type: new Abstract: We present ABCD (Alpha-Composited Block Coordinate Descent), an out-of-core training framework for alpha-composited radiance fields, instantiated here for 3D Gauss",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.726803+00:00",
+      "author": "Ka Heng Shiu, Kartic Subr",
+      "tags": [
+        "cs.CV",
+        "cs.GR"
+      ]
+    },
+    {
+      "title": "What Can Low Resource Languages Learn From Each Other?",
+      "url": "https://arxiv.org/abs/2608.27753",
+      "source": "arXiv CV",
+      "summary": "27753v1 Announce Type: new Abstract: Despite the rapid advancement of Vision-Language Models (VLMs), their linguistic reach remains largely confined to high-resource languages, leaving the majority of",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.767390+00:00",
+      "author": "Achyuth P, Kahaan Shah, Chetan Arora",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception",
+      "url": "https://arxiv.org/abs/2608.27795",
+      "source": "arXiv CV",
+      "summary": "27795v1 Announce Type: new Abstract: Robust perception is essential for the deployment of autonomous underwater robots However, optical cameras become unreliable under poor illumination and backscatte",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.823103+00:00",
+      "author": "Trung Tien Dong, Zhenqi Wu, Aditya Penumarti, Zi-Hao Zhang, Micaiah Bartlett, Jane Shin, Xiaomin Lin",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation",
+      "url": "https://arxiv.org/abs/2608.27860",
+      "source": "arXiv CV",
+      "summary": "27860v1 Announce Type: new Abstract: Vision foundation models are capable of generalizing across 3-dimensional (3D) scenes with high-fidelity estimates; their empirical success can be attributed to tr",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.879921+00:00",
+      "author": "Rit Gangopadhyay, Alex Wong",
+      "tags": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents",
+      "url": "https://arxiv.org/abs/2608.27866",
+      "source": "arXiv CV",
+      "summary": "27866v1 Announce Type: new Abstract: Achieving virtual agents capable of automating tasks across diverse digital environments remains a pivotal challenge in Embodied AI While Multimodal Large Language",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:05.947585+00:00",
+      "author": "Jiahe Ying, Wendong Bu, Kaihang Pan, Bingchen Miao, Siyu Chen, Wen Wang, Xueming Jiang, Juncheng Li, Siliang Tang",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Temporal Tree of Thought: Reasoning-Guided Visual Cue Search for Long-Video Understanding",
+      "url": "https://arxiv.org/abs/2608.27871",
+      "source": "arXiv CV",
+      "summary": "27871v1 Announce Type: new Abstract: Long-video understanding remains challenging for Multimodal Large Language Models (MLLMs) due to limited context length Uniform sampling may miss crucial moments, ",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:06.008955+00:00",
+      "author": "Ziling Huang, Shin'ichi Satoh",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Relational Knowledge Distillation Brings DNN Representations Close Enough to Humans to Be Aligned Without Supervision",
+      "url": "https://arxiv.org/abs/2608.27877",
+      "source": "arXiv CV",
+      "summary": "27877v1 Announce Type: new Abstract: Linking the internal representations of deep neural networks (DNNs) to human mental representations is important for using DNNs as computational models of human vi",
+      "category": "research",
+      "published_at": "2026-08-31T00:00:00-04:00",
+      "fetched_at": "2026-08-31T12:51:06.085389+00:00",
+      "author": "Yuria Shimizu, Soh Takahashi, Takato Horii, Masafumi Oizumi",
+      "tags": [
+        "cs.CV",
+        "q-bio.NC"
+      ]
     }
   ]
 }
