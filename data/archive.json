@@ -1,6 +1,262 @@
 {
-  "generated_at": "2026-08-31T12:52:31.196120+00:00",
+  "generated_at": "2026-09-01T11:12:24.841071+00:00",
   "archive": [
+    {
+      "date": "2026-09-01",
+      "total": 50,
+      "categories": {
+        "breaking": 4,
+        "research": 41,
+        "industry": 1,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "SNF-Bench: Separating Static Drift from Natural Flow in Long-Horizon Fixed-Camera Video Generation",
+          "url": "https://arxiv.org/abs/2608.28694",
+          "source": "arXiv CV",
+          "summary": "28694v1 Announce Type: new Abstract: Long-horizon video generation is evaluated with whole-frame metrics that reward motion and temporal consistency For fixed-camera nature scenes this creates an ambi",
+          "category": "breaking",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Matiur Rahman Minar, Seunghun Oh, Ganghyeon Jeong, Unsang Park",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "OpenAI supports California’s bill to advance youth AI safety",
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore",
+          "category": "breaking",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI Blog",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development",
+          "category": "breaking",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "A milestone in expanding access to AI",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "source": "OpenAI Blog",
+          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options",
+          "category": "breaking",
+          "published_at": "2026-08-31T04:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "Are HMMs still used for unsupervised tasks? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
+          "source": "r/MachineLearning",
+          "summary": "I'm exploring Hidden Markov Models (HMMs) as a baseline method for \"dataset exploration/discovery\" where I have a bunch of unstructured data with no annotations, and wish to gain insights about the st",
+          "category": "research",
+          "published_at": "2026-09-01T08:15:57+00:00",
+          "author": "/u/fullgoopy_alchemist",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+          "url": "https://arxiv.org/abs/2608.28590",
+          "source": "arXiv AI/ML",
+          "summary": "28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harnes",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Fan Liu, Hao Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Expert-validated STEM QA",
+          "url": "https://arxiv.org/abs/2608.28591",
+          "source": "arXiv AI/ML",
+          "summary": "28591v1 Announce Type: new Abstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences New evaluation datasets for ",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Kihwan Han, Saurabh Patil, Chinmayee Shukla, Abhinav Sharma, Marko Pavlovic, Anshuman Lall, Mahesh Joshi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+          "url": "https://arxiv.org/abs/2608.28592",
+          "source": "arXiv AI/ML",
+          "summary": "28592v1 Announce Type: new Abstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Zhang Sheng, Jinming Li, Wangyang Chen, Zhiwei Bao, Yu YoSean Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+          "url": "https://arxiv.org/abs/2608.28593",
+          "source": "arXiv AI/ML",
+          "summary": "28593v1 Announce Type: new Abstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance w",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Cindy Delage, St\\'ephane Canu, Marc D\\'ecombas, Jonathan Foureur",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+          "url": "https://arxiv.org/abs/2608.28594",
+          "source": "arXiv AI/ML",
+          "summary": "28594v1 Announce Type: new Abstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise sche",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Harmohit Singh, Rahul Sharma",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+          "url": "https://arxiv.org/abs/2608.28595",
+          "source": "arXiv AI/ML",
+          "summary": "28595v1 Announce Type: new Abstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing harbour pervasive OCR-like artifact",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Moustafa Yehia Hassan, Sharon Wong, Woh Kai Xuan",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
+          "url": "https://arxiv.org/abs/2608.28596",
+          "source": "arXiv AI/ML",
+          "summary": "28596v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly embedded in scientific workflows for literature analysis, drafting, and review Existing systems advance autonomo",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Nidhi Jha, Siddharth Chaudhary, Ajinkya Kulkarni",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+          "url": "https://arxiv.org/abs/2608.28597",
+          "source": "arXiv AI/ML",
+          "summary": "28597v1 Announce Type: new Abstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality Howeve",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Sourav Panda, Hillmer Chona, Rupak Kumar Das, Shreyash Kale, Shikha Soneji, Jonathan Dodge",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
+          "url": "https://arxiv.org/abs/2608.28599",
+          "source": "arXiv AI/ML",
+          "summary": "28599v1 Announce Type: new Abstract: Clinical diagnosis is a step-by-step, cost-aware process: a physician orders examinations one at a time, observes the results, and updates the diagnosis before rea",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Qi Peng, Yi Cai, Changmeng Zheng, Xin Wu, Jiayuan Xie, Qing Li",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+          "url": "https://arxiv.org/abs/2608.28600",
+          "source": "arXiv AI/ML",
+          "summary": "28600v1 Announce Type: new Abstract: Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning r",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Jonghyun Song, Sangjun Song, Minjae Oh, Haesung Pyun, Sungsik Lee, Yohan Jo",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Leveraging Generative AI to Design Accessible Interactive Visualizations for Undergraduate Mathematics: A Six-Phase Workflow",
+          "url": "https://arxiv.org/abs/2608.28601",
+          "source": "arXiv AI/ML",
+          "summary": "28601v1 Announce Type: new Abstract: Interactive visualizations support conceptual understanding in undergraduate mathematics, but building them has required programming expertise most instructors lac",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Mahesh Sunkula, Kuan-Hua Chen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Integrating Triaxial IMU Sensors and Ensemble Learning for Effective Parkinson Disease Severity Classification",
+          "url": "https://arxiv.org/abs/2608.28602",
+          "source": "arXiv AI/ML",
+          "summary": "28602v1 Announce Type: new Abstract: Parkinson disease PD is a progressive neurodegenerative disease that can have a significant impact on motor performance resulting in the appearance of symptoms suc",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Rehan Khan, Muhammad Junaid Asif, Rana Fayyaz Ahmad",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "C3-UniMM: Causal Cycle-Consistent Unified Multimodal Modeling via Super Alignment and Shared Decoding Space",
+          "url": "https://arxiv.org/abs/2608.28603",
+          "source": "arXiv AI/ML",
+          "summary": "28603v1 Announce Type: new Abstract: Unified Multimodal Models aim to achieve any-to-any understanding and generation across arbitrary modalities However, existing methods primarily rely on modeling i",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Yujie Shen, Lianlei Shan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MedTVL: Harnessing Vision and Language for Medical Time Series Classification",
+          "url": "https://arxiv.org/abs/2608.28605",
+          "source": "arXiv AI/ML",
+          "summary": "28605v1 Announce Type: new Abstract: Recent advancements in multimodal learning for medical time series (MedTS) classification highlight the benefits of integrating complementary modalities for clinic",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Jiexia Ye, Jia Li, Fugee Tsung",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "RegDivergence-101: An LLM Benchmark for Cross-Jurisdiction Regulatory Contradiction Detection in Life Sciences",
+          "url": "https://arxiv.org/abs/2608.28607",
+          "source": "arXiv AI/ML",
+          "summary": "28607v1 Announce Type: new Abstract: Pharmaceutical sponsors developing a drug for both the United States and the European Union must reconcile guidance issued independently by the FDA and the EMA Whe",
+          "category": "research",
+          "published_at": "2026-09-01T00:00:00-04:00",
+          "author": "Chuchu Wu, Zhiyin Zhou, Jingzhuo Hu, Liang You",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "total": 50,
