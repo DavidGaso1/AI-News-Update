@@ -1,6 +1,277 @@
 {
-  "generated_at": "2026-09-01T11:12:24.841071+00:00",
+  "generated_at": "2026-09-02T10:45:46.637693+00:00",
   "archive": [
+    {
+      "date": "2026-09-02",
+      "total": 50,
+      "categories": {
+        "breaking": 2,
+        "research": 38,
+        "industry": 3,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI Blog",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release",
+          "category": "breaking",
+          "published_at": "2026-09-01T13:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Safety"
+          ]
+        },
+        {
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI Blog",
+          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more",
+          "category": "breaking",
+          "published_at": "2026-09-01T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "MIR with AudioMuse-AI-SAE [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
+          "source": "r/MachineLearning",
+          "summary": "Hi all, I recently read this paper: Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas Steering dense music retrieval with open-vocabulary concept discovery 08757 There is multiple model where yo",
+          "category": "research",
+          "published_at": "2026-09-02T08:47:36+00:00",
+          "author": "/u/Old_Rock_9457",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I regret reviewing for AAAI [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
+          "source": "r/MachineLearning",
+          "summary": "Why did I sign up to review when it’s not reciprocal Am I dumb to sacrifice some of my precious time outside of work to review these papers when I don’t even have to I tell myself I’m giving something",
+          "category": "research",
+          "published_at": "2026-09-02T03:44:41+00:00",
+          "author": "/u/OptimalOptimizer",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+          "url": "https://arxiv.org/abs/2609.00002",
+          "source": "arXiv AI/ML",
+          "summary": "00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting In text environments, the model must learn symbolic action effects",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Yun-Jian Zhang, Chen-Wei Liang, Tian-Yi Zhang, Jian Ding, Yi-Lun Wu, Ao-Bo Li, Wei-Cong Su,  Saifullah, Hong-Yu An, Mu-Jiang-Shan Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+          "url": "https://arxiv.org/abs/2609.00003",
+          "source": "arXiv AI/ML",
+          "summary": "00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned Despite rapid progress in generative",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Leonardo Santiago Benitez Pereira, Marcos Escudero Vi\\~nolo, Luis Herranz Arribas",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+          "url": "https://arxiv.org/abs/2609.00004",
+          "source": "arXiv AI/ML",
+          "summary": "00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stocha",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "L\\'ea Bayati, Mohamed Dahmoune, Melek Rodoplu",
+          "tags": [
+            "cs.AI",
+            "cs.NE",
+            "math.OC"
+          ]
+        },
+        {
+          "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+          "url": "https://arxiv.org/abs/2609.00005",
+          "source": "arXiv AI/ML",
+          "summary": "00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversation",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Parviz Ghafariasl, Weimin Fu, Xiaolong Guo, Shing I. Chang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+          "url": "https://arxiv.org/abs/2609.00012",
+          "source": "arXiv AI/ML",
+          "summary": "00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks exc",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Dheeraj Mohandas Pai, Lu Xian",
+          "tags": [
+            "cs.AI",
+            "cs.CR",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+          "url": "https://arxiv.org/abs/2609.00015",
+          "source": "arXiv AI/ML",
+          "summary": "00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and ex",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Dongsheng Chen, Xiangyu Zhao, Xin Yao, Xuetao Wei",
+          "tags": [
+            "cs.AI",
+            "cs.CR"
+          ]
+        },
+        {
+          "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+          "url": "https://arxiv.org/abs/2609.00018",
+          "source": "arXiv AI/ML",
+          "summary": "00018v1 Announce Type: new Abstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Ranjit Raut, Aarav Subedi, Sagun Rai, Sudan Jha",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "UI-Venus-2 Technical Report",
+          "url": "https://arxiv.org/abs/2609.00028",
+          "source": "arXiv AI/ML",
+          "summary": "00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world a",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Venus Team, Zhuohan Cai, Haoxing Chen, Jiaxuan Chen, Weizhi Chen, Changlong Gao, Zhangxuan Gu, Yuan Guo, Yusong Hu, Jianrong Jiang, Jianguo Li, Runze Li, Jinzhen Lin, Zhenyu Ma, Changhua Meng, Han Peng, Xinyu Qiu, Shuheng Shen, Zhongyi Shui, Weiqiang Wang, Ming Wen, Zhuoer Xu, Hang Yan, Kaiwen Yang, Ruilin Yao, Nanjun Yu, Zhengwen Zeng, Lianrui Zhang, Yunzhu Zhang, Zhe Zhao, Beitong Zhou",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CV",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+          "url": "https://arxiv.org/abs/2609.00032",
+          "source": "arXiv AI/ML",
+          "summary": "00032v1 Announce Type: new Abstract: Mathematical communities work with different objects, invariants, and tools, so transferring a problem across them is expensive and often skipped We present EULER,",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Ren Zhenzhuo",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+          "url": "https://arxiv.org/abs/2609.00071",
+          "source": "arXiv AI/ML",
+          "summary": "00071v1 Announce Type: new Abstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal estimator performance may differ acr",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Cong Cao",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "stat.ME"
+          ]
+        },
+        {
+          "title": "MiNER: Fine-Tuned Biomedical Natural Language Processing for Malaria Disease Entity Recognition in Clinical Texts",
+          "url": "https://arxiv.org/abs/2609.00073",
+          "source": "arXiv AI/ML",
+          "summary": "00073v1 Announce Type: new Abstract: Malaria remains a significant global health burden, necessitating continuous research efforts to understand its complex molecular mechanisms, epidemiology, and pot",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "V. S. Anoop, Devika N",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "AI Morbidity and Mortality: A Framework for Clinical AI Failure Review",
+          "url": "https://arxiv.org/abs/2609.00076",
+          "source": "arXiv AI/ML",
+          "summary": "00076v1 Announce Type: new Abstract: Clinical artificial intelligence is increasingly embedded in real-world care, yet existing safety mechanisms are poorly suited to reconstructing and learning from ",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Paulius Mui, Dean F. Sittig, Steve Labkoff, Sanjay Basu",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Different representation learning objectives recover distinct latent structures from the same psychometric data",
+          "url": "https://arxiv.org/abs/2609.00100",
+          "source": "arXiv AI/ML",
+          "summary": "00100v1 Announce Type: new Abstract: Psychometric questionnaires contain rich item-level information, yet it remains unclear whether different representation learning objectives recover the same laten",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Cong Cao, Tassos C. Kyriakides, Pambos Vrasidas",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "stat.ME"
+          ]
+        },
+        {
+          "title": "Deploying and Evaluating a Smart-Agriculture Agentic Engine for Full-Season Soybean Farm Operations",
+          "url": "https://arxiv.org/abs/2609.00106",
+          "source": "arXiv AI/ML",
+          "summary": "00106v1 Announce Type: new Abstract: This paper presents FAIRY, a full-stack smart-agriculture agent system developed for and deployed to an operating soybean research farm at Harbin Institute of Tech",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Ao Qu, Panagiotis Michelakis, Linyuan Han, Yiannis Hadjiyianni, Kun Ouyang, Konstantinos Siskos, Feng Li, Ran Meng, Jingchi Jiang, Dimitrios Stamoulis, Jie Liu",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "Recursive Criticality of AI Self-Improvement",
+          "url": "https://arxiv.org/abs/2609.00137",
+          "source": "arXiv AI/ML",
+          "summary": "00137v1 Announce Type: new Abstract: AI is increasingly used in the R\\&D process that produces future AI systems We study the conditions under which this feedback becomes self-amplifying Our model des",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Mikhail Burtsev",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training",
+          "url": "https://arxiv.org/abs/2609.00161",
+          "source": "arXiv AI/ML",
+          "summary": "00161v1 Announce Type: new Abstract: World models have made remarkable progress in action-conditioned future prediction for embodied agents, yet still struggle to model physically plausible interactio",
+          "category": "research",
+          "published_at": "2026-09-02T00:00:00-04:00",
+          "author": "Rongze Tang, Jianjie Fang, Zhaolu Wang, Ziyou Wang, Xvyuan Liu, Haisheng Su, Xin Zhang, Wei Wu, Chen Gao, Yong Li, Zhibo Chen",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "total": 50,
