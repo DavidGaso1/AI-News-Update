@@ -1,6 +1,256 @@
 {
-  "generated_at": "2026-09-04T10:44:58.612025+00:00",
+  "generated_at": "2026-09-05T10:02:24.414921+00:00",
   "archive": [
+    {
+      "date": "2026-09-05",
+      "total": 22,
+      "categories": {
+        "breaking": 1,
+        "research": 8,
+        "industry": 6,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "source": "OpenAI Blog",
+          "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science",
+          "category": "breaking",
+          "published_at": "2026-09-03T11:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "NeurIPS 2026 Automatic Reference Checker [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
+          "source": "r/MachineLearning",
+          "summary": "Just received an email about the automatic reference/citation checker Did anyone receive a follow up email about whether the checker was included in the paper's decision making too, along with the gen",
+          "category": "research",
+          "published_at": "2026-09-05T06:14:53+00:00",
+          "author": "/u/Emergency_Plate241",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Language Models Can Control Their Own Attention [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+          "source": "r/MachineLearning",
+          "summary": "Abstract Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter If the user asks about a previous detail in ",
+          "category": "research",
+          "published_at": "2026-09-05T06:07:09+00:00",
+          "author": "/u/eigenlaplace",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What is the general design of these new math solving systems? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
+          "source": "r/MachineLearning",
+          "summary": "From what I've seen online so far, the description of these systems is roughly: They asked the model (often Aster) to generate statements in LEAN and then submit those to a LEAN compiler to be checked",
+          "category": "research",
+          "published_at": "2026-09-04T20:55:18+00:00",
+          "author": "/u/tough-dance",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
+          "source": "r/MachineLearning",
+          "summary": "Has anyone else received an AAAI-27 desk rejection related to modifications to the title or abstract between the abstract-registration deadline and the full-paper deadline What I’m trying to understan",
+          "category": "research",
+          "published_at": "2026-09-03T21:12:36+00:00",
+          "author": "/u/Dansilly",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
+          "source": "r/MachineLearning",
+          "summary": "Hi everyone, I just quickly wanted to share a paper I was working on for around a year now I created this summary website with key results: https://flogrammer io/moljepa/ TL;DR: its a multimodal JEPA ",
+          "category": "research",
+          "published_at": "2026-09-03T19:56:27+00:00",
+          "author": "/u/TerribleAntelope9348",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+          "source": "r/MachineLearning",
+          "summary": "Three weeks from decisions even I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit submitted by /u/alrojo [link] [comments]",
+          "category": "research",
+          "published_at": "2026-09-03T19:09:48+00:00",
+          "author": "/u/alrojo",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "research",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Safety overview: GPT-6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "source": "OpenAI Blog",
+          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework",
+          "category": "research",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Safety"
+          ]
+        },
+        {
+          "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
+          "source": "r/MachineLearning",
+          "summary": "an observation : GPT-5-class models are genuinely capable(They are) of doing a substantial fraction of knowledge work, why haven’t we seen a noticeable productivity shock in the real economy yet Is AI",
+          "category": "industry",
+          "published_at": "2026-09-04T20:02:03+00:00",
+          "author": "/u/Same-Club4925",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-09-03T15:02:08+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+          "source": "NVIDIA Blog",
+          "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature Through NVIDIA’s close collaboration wi",
+          "category": "industry",
+          "published_at": "2026-09-03T13:00:35+00:00",
+          "author": "GeForce NOW Community",
+          "tags": [
+            "Gaming",
+            "Cloud Gaming",
+            "GeForce NOW"
+          ]
+        },
+        {
+          "title": "NVIDIA to Acquire Hugging Face",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+          "source": "NVIDIA Blog",
+          "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000 Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for de",
+          "category": "industry",
+          "published_at": "2026-09-03T11:56:49+00:00",
+          "author": "黄仁勋",
+          "tags": [
+            "AI",
+            "Corporate",
+            "Software",
+            "Artificial Intelligence",
+            "High-Performance Computing"
+          ]
+        },
+        {
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-09-02T16:24:24+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-09-02T16:18:31+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+          "category": "tools",
+          "published_at": "2026-09-05T06:01:57+00:00",
+          "author": "/u/Winter_Mistake_3185",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+          "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+          "source": "NVIDIA Blog",
+          "summary": "Frontier intelligence is going local At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDI",
+          "category": "tools",
+          "published_at": "2026-09-03T16:00:59+00:00",
+          "author": "Gerardo Delgado",
+          "tags": [
+            "AI",
+            "Agentic AI",
+            "Artificial Intelligence",
+            "DGX Spark",
+            "Local AI"
+          ]
+        },
+        {
+          "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+          "source": "r/MachineLearning",
+          "summary": "LLMs describe physics well but don't \"understand\" it in any grounded sense — they've learned statistical relationships between tokens like \"falls\" and \"gravity\", not actual physical intuition This is ",
+          "category": "tools",
+          "published_at": "2026-09-03T14:45:53+00:00",
+          "author": "/u/Full_Promotion4522",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-09-03T13:13:48+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Give Your Coding Agents a Memory You Own",
+          "url": "https://huggingface.co/blog/funes",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-09-03T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-09-04",
       "total": 50,
