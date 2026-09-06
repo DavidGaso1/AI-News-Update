@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-09-05T10:02:24.414921+00:00",
+  "generated_at": "2026-09-06T10:23:18.012020+00:00",
   "archive": [
+    {
+      "date": "2026-09-06",
+      "total": 5,
+      "categories": {
+        "breaking": 0,
+        "research": 5,
+        "industry": 0,
+        "tools": 0
+      },
+      "articles": [
+        {
+          "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
+          "source": "r/MachineLearning",
+          "summary": "I've been working on a practical implementation of Sliding Window Attention (SWA) for pretrained Hugging Face causal LLMs The idea is simple: instead of allowing every generated token to attend to the",
+          "category": "research",
+          "published_at": "2026-09-06T09:23:59+00:00",
+          "author": "/u/ahsaor8",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+          "source": "r/MachineLearning",
+          "summary": "building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo) I know the data looks like: people, facts, claims, events, timestamps, relations So I extract ",
+          "category": "research",
+          "published_at": "2026-09-06T07:33:50+00:00",
+          "author": "/u/chaachans",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "AIStats 2027 Questions [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks Does anyone know where to find the LaTex template for 2027 It seems like very little information is availab",
+          "category": "research",
+          "published_at": "2026-09-06T03:33:12+00:00",
+          "author": "/u/d_edge_sword",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+          "source": "r/MachineLearning",
+          "summary": "I ran a side-by-side ML text-processing and model-training workflow using Fable 5 Astra (both on xhigh), and the results could not have been more different TL;DR -- Astra codes more agentically, Fable",
+          "category": "research",
+          "published_at": "2026-09-05T23:33:49+00:00",
+          "author": "/u/returnity",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+          "source": "r/MachineLearning",
+          "summary": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techni",
+          "category": "research",
+          "published_at": "2026-09-05T19:11:16+00:00",
+          "author": "/u/Asleep-Requirement13",
+          "tags": [
+            "reddit"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "total": 22,
