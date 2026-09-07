@@ -1,6 +1,269 @@
 {
-  "generated_at": "2026-09-06T10:23:18.012020+00:00",
+  "generated_at": "2026-09-07T11:43:43.544431+00:00",
   "archive": [
+    {
+      "date": "2026-09-07",
+      "total": 50,
+      "categories": {
+        "breaking": 5,
+        "research": 42,
+        "industry": 0,
+        "tools": 3
+      },
+      "articles": [
+        {
+          "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+          "source": "r/MachineLearning",
+          "summary": "We just released Rustuna (GitHub: https://github com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust Optuna-Compatible Design: Keeps the familiar API and conce",
+          "category": "breaking",
+          "published_at": "2026-09-07T10:01:24+00:00",
+          "author": "/u/c-bata",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism",
+          "category": "breaking",
+          "published_at": "2026-09-07T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+          "source": "r/MachineLearning",
+          "summary": "AACL-IJCNLP 2026 acceptance results will be released in a few hours Feel free to share your thoughts and feelings submitted by /u/Starscream-11813 [link] [comments]",
+          "category": "breaking",
+          "published_at": "2026-09-06T15:59:50+00:00",
+          "author": "/u/Starscream-11813",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "source": "OpenAI Blog",
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned He calls for stronger safeguards and international coordination",
+          "category": "breaking",
+          "published_at": "2026-09-06T09:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Safety"
+          ]
+        },
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI Blog",
+          "summary": "Inside OpenAI, coding agents are reshaping AI research Explore early data on agent usage, experiment velocity, task complexity, and research acceleration",
+          "category": "breaking",
+          "published_at": "2026-09-06T08:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "KV cache as an agent runtime [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+          "source": "r/MachineLearning",
+          "summary": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems One of the team members wrote up a post about it: https://research co",
+          "category": "research",
+          "published_at": "2026-09-07T09:03:48+00:00",
+          "author": "/u/_puhsu",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Automotive Radar Object Classification [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
+          "source": "r/MachineLearning",
+          "summary": "Hello all, I'm a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds The input vector ",
+          "category": "research",
+          "published_at": "2026-09-07T08:10:55+00:00",
+          "author": "/u/bruno_pinto90",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+          "source": "r/MachineLearning",
+          "summary": "Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs Or is research in LfD and BC sort of going along in an independent direction from these Are you seeing any use fro",
+          "category": "research",
+          "published_at": "2026-09-07T07:56:38+00:00",
+          "author": "/u/moschles",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
+          "source": "r/MachineLearning",
+          "summary": "One thing that has bothered me about LLM benchmarks for a while is that most of them are essentially snapshots A model is evaluated, a score is published, and we tend to talk about that score as if it",
+          "category": "research",
+          "published_at": "2026-09-07T07:44:34+00:00",
+          "author": "/u/ionutvi",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "EXAONE Forecast for Finance",
+          "url": "https://arxiv.org/abs/2609.04239",
+          "source": "arXiv AI/ML",
+          "summary": "04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Seunghan Lee, Jaehoon Lee, Jun Seo, Tae Yoon Lim, Dongwan Kang, Hwanil Choi, Minjae Kim, Sungdong Yoo, Junhyeok Kang, Sangjun Han, Soonyoung Lee, Wonbin Ahn",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+          "url": "https://arxiv.org/abs/2609.04298",
+          "source": "arXiv AI/ML",
+          "summary": "04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations We introduce Ha",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Lin Shi (Audrey), Haowei Lin (Audrey), Zixuan Zhu (Audrey), Xiaoyue Zhou (Audrey), Xiang Li (Audrey), Xiangning Lin (Audrey), Yaxuan Deng (Audrey), Han Xu (Audrey), Yuangang Li (Audrey), Shanda Li (Audrey), Zizhao Chen (Audrey), Hanwen Xing (Audrey), Harsh Raj (Audrey), Bo Chen (Audrey), Quan Shi (Audrey), Steven Dillmann (Audrey), Yipeng Gao (Audrey), Puneesh Khanna (Audrey), Ruofan Lu (Audrey), Chao Beyond Zhou (Audrey), Michael Yang (Audrey), Robert Zhang (Audrey), Siyuan Chai (Audrey), Jiayu Chang (Audrey), Yizhao Chen (Audrey), Xiaokun Chen (Audrey), Yiwei Dai (Audrey), Wenting Yang (Audrey), Hange Liu (Audrey), Minghao Liu (Audrey), Zihan Wang (Audrey), Adnan El Assadi (Audrey), Benedikt Stroebl (Audrey), E. Kelly Buchanan (Audrey), Han Meng (Audrey), Junwei He (Audrey), Longxuan Yu (Audrey), Radin Shayanfar (Audrey), Yukyung Lee (Audrey), Zhikang Dong (Audrey), Allen G Hart (Audrey), Anjiang Wei (Audrey), Anurag Kashyap (Audrey), Arpandeep Khatua (Audrey), Audrey Jixin Zheng (Audrey), Chengrui Ma (Audrey), David Heineman (Audrey), Dubing Chen (Audrey), Hai-Anh Trinh (Audrey), Haishuo Fang (Audrey), Hefan Zhang (Audrey), Hui Shen (Audrey), Issa Sugiura (Audrey), Jiankai Sun (Audrey), Jiechao Gao (Audrey), Junhong Lin (Audrey), Junnan Li (Audrey), Kai Yang (Audrey), Lei Hsiung (Audrey), Maoyu Wang (Audrey), Mengze Tang (Audrey), Nabil Omi (Audrey), Negin Raoof (Audrey), Nicholas Edwards (Audrey), Octavia Guo (Audrey), Orfeas Menis Mastromichalakis (Audrey), Pengliang Ji (Audrey), Przemys{\\l}aw Hejman (Audrey), Qi Qi (Audrey), Qunshu Lin (Audrey), Richard Zhuang (Audrey), Rui Yang (Audrey), Ruichen Zheng (Audrey), Ryan Marten (Audrey), Shaghayegh Fazliani (Audrey), Shizheng Hou (Audrey), Sicong Jiang (Audrey), Sijie Li (Audrey), Song Bian (Audrey), Terry Yue Zhuo (Audrey), Tianqing Wu (Audrey), Tom Tang (Audrey), Wanjia Zhao (Audrey), Weihao Xuan (Audrey), Wenhua Liang (Audrey), Xian Liu (Audrey), Xin Lan (Audrey), Xuan Zhang (Audrey), Xuandong Zhao (Audrey), Yanchuan Tang (Audrey), Yifan Jiang (Audrey), Yijiang Li (Audrey), Yitong Guan (Audrey), Yizhi Li (Audrey), Yonghui Liu (Audrey), Yuheng Tang (Audrey),  Yujun (Audrey),  Mao, Yunfei Zhao, Yuxin Wang, Yuxuan Tang, Zhenheng Tang, Zhifei Li, Ziruo Wang, Ziyu She, Kaiyuan Liu, Iheb Chaabane, Yuxin Tang, Xiangyi Li, Andy Konwinski, Boxuan Li, Leon Liangyu Chen, Alex Dimakis, Nicholas Carlini, Soroush Vosoughi, Di He, Etash Guha, Benjamin Feuer, Mike Merrill, Ludwig Schmidt, Alex Shaw",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+          "url": "https://arxiv.org/abs/2609.04300",
+          "source": "arXiv AI/ML",
+          "summary": "04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption Effective classification of contingency",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Joshua Salako, Folajimi Osikomaiya, Olakorede Olamiju",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Iris: Climbing to the Search Frontier",
+          "url": "https://arxiv.org/abs/2609.04304",
+          "source": "arXiv AI/ML",
+          "summary": "04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them T",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Ziyuan Liu, Hengqi Liu, Zichuan Wang, Yang Qin, Jiachen Liang, Xu Chu, Shaowei Chen, Yuantao Gu, Mu Chuan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+          "url": "https://arxiv.org/abs/2609.04343",
+          "source": "arXiv AI/ML",
+          "summary": "04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior Unfortunate",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Qinglan Luo, S M A Nahian, John Guttag, S. Mazdak Abulnaga, Katie Matton",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+          "url": "https://arxiv.org/abs/2609.04373",
+          "source": "arXiv AI/ML",
+          "summary": "04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring We show that i",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Jillian Ross, Eric So, Zoe De Simone, Charles Pozniak, Andrew W. Lo",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+          "url": "https://arxiv.org/abs/2609.04377",
+          "source": "arXiv AI/ML",
+          "summary": "04377v1 Announce Type: new Abstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute Ge",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Fabricio C. Avini, Guilherme Trez",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+          "url": "https://arxiv.org/abs/2609.04444",
+          "source": "arXiv AI/ML",
+          "summary": "04444v1 Announce Type: new Abstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Jasmine Brazilek, Miles Tidmarsh, Matthias Endres, Anshuman Singh, Jeremiah Miller",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+          "url": "https://arxiv.org/abs/2609.04476",
+          "source": "arXiv AI/ML",
+          "summary": "04476v1 Announce Type: new Abstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured reasoning about computation, data r",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Dan Zhao, Karthikeyan Sankaralingam, Christos Kozyrakis, Qijing Huang",
+          "tags": [
+            "cs.AI",
+            "cs.PF"
+          ]
+        },
+        {
+          "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+          "url": "https://arxiv.org/abs/2609.04490",
+          "source": "arXiv AI/ML",
+          "summary": "04490v1 Announce Type: new Abstract: Quantization is widely used to reduce the computational and memory demands of neural-network inference In recurrent networks, however, the quantized state is store",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Ismail Erbas, Xavier Intes, Vikas Pandey",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "physics.optics",
+            "q-bio.QM"
+          ]
+        },
+        {
+          "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
+          "url": "https://arxiv.org/abs/2609.04493",
+          "source": "arXiv AI/ML",
+          "summary": "04493v1 Announce Type: new Abstract: We present ResLearn-XR, a residual learning framework for predicting eXtended Reality (XR) network traffic and estimating Quality-of-Experience (QoE) risk ResLearn",
+          "category": "research",
+          "published_at": "2026-09-07T00:00:00-04:00",
+          "author": "Yoga Suhas Kuruba Manjunath, Jie Gao, Lian Zhao",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.NI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "total": 5,
