@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-09-07T11:43:43.544431+00:00",
+  "generated_at": "2026-09-08T10:43:01.569358+00:00",
   "archive": [
+    {
+      "date": "2026-09-08",
+      "total": 10,
+      "categories": {
+        "breaking": 0,
+        "research": 5,
+        "industry": 0,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+          "source": "r/MachineLearning",
+          "summary": "the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18 4% of all submissions no human review, no appeal process, just out",
+          "category": "research",
+          "published_at": "2026-09-08T10:19:04+00:00",
+          "author": "/u/tughanbulut",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What if competitive games (such as Rocket League) had a Stockfish-like accuracy system? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wadyz7/what_if_competitive_games_such_as_rocket_league/",
+          "source": "r/MachineLearning",
+          "summary": "I was wondering why dynamic competitive games like Rocket League don't have a decision-quality engine like chess has with Stockfish Something that doesn't just measure your boost usage or speed, but a",
+          "category": "research",
+          "published_at": "2026-09-08T04:11:58+00:00",
+          "author": "/u/Ligras",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+          "source": "r/MachineLearning",
+          "summary": "I'm testing a new approach for reducing the cost of image-based LLM inference I evaluated it on the MOMA Graph benchmark , using 1,315 questions Compared with using GPT-4o to process the original imag",
+          "category": "research",
+          "published_at": "2026-09-08T01:57:19+00:00",
+          "author": "/u/angelinusbread",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+          "source": "r/MachineLearning",
+          "summary": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of ",
+          "category": "research",
+          "published_at": "2026-09-07T16:54:55+00:00",
+          "author": "/u/SIGH_I_CALL",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+          "source": "r/MachineLearning",
+          "summary": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even en",
+          "category": "research",
+          "published_at": "2026-09-06T17:29:39+00:00",
+          "author": "/u/NeighborhoodFatCat",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+          "source": "r/MachineLearning",
+          "summary": "this is the kinda debugging case i find rlly annoying/ everything says success no exceptions no failed tool calls no obvious timeout the workflow completes but the final result is still wrong when tha",
+          "category": "tools",
+          "published_at": "2026-09-08T05:01:04+00:00",
+          "author": "/u/Sensitive-Parsnip-12",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+          "source": "r/MachineLearning",
+          "summary": "So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with They are useful for rag, especially in a localllm sense because you can ground y",
+          "category": "tools",
+          "published_at": "2026-09-08T02:16:23+00:00",
+          "author": "/u/Potential_Low_1183",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+          "source": "r/MachineLearning",
+          "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel That got me curious about a slightly different formu",
+          "category": "tools",
+          "published_at": "2026-09-08T00:05:37+00:00",
+          "author": "/u/SEBADA321",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
+          "source": "r/MachineLearning",
+          "summary": "Background : Our T-PAMI submission was rejected despite receiving three highly favorable reviews The AE inadvertently revealed that the decision relied on negative comments attributed to a “fourth rev",
+          "category": "tools",
+          "published_at": "2026-09-07T15:22:35+00:00",
+          "author": "/u/cussealin",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
+          "source": "r/MachineLearning",
+          "summary": "When I first started working in scientific machine learning, I understood the physics much better than the coding Every time I wanted to try a new physics-informed neural network problem, I had to sta",
+          "category": "tools",
+          "published_at": "2026-09-06T22:19:27+00:00",
+          "author": "/u/Impossible-Jello2749",
+          "tags": [
+            "reddit"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "total": 50,
