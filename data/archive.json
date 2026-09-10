@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-09-09T10:51:33.584890+00:00",
+  "generated_at": "2026-09-10T10:45:26.622721+00:00",
   "archive": [
+    {
+      "date": "2026-09-10",
+      "total": 50,
+      "categories": {
+        "breaking": 5,
+        "research": 38,
+        "industry": 3,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "Lensless Gaze Is Not Private by Default: Auditing Identity Leakage Across Disclosure Surfaces",
+          "url": "https://arxiv.org/abs/2609.09188",
+          "source": "arXiv CV",
+          "summary": "09188v1 Announce Type: new Abstract: Lensless near-eye sensing is often described as privacy-friendly because its coded measurements are visually unintelligible Yet visual unintelligibility reflects h",
+          "category": "breaking",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Rahul Vimalkanth, Kaushik Mitra",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "source": "OpenAI Blog",
+          "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards",
+          "category": "breaking",
+          "published_at": "2026-09-09T17:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
+          "source": "r/MachineLearning",
+          "summary": "width=1171&format=png&auto=webp&s=4e22c69855ec509bd63a038a24f765caeaafa59c Ant Ling reports 83 83 on DiagnosisArena-MCQ for Ling-3 0-flash-Sante, its new medical reasoning model",
+          "category": "breaking",
+          "published_at": "2026-09-09T13:01:01+00:00",
+          "author": "/u/Expert_Coffee_203",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "source": "OpenAI Blog",
+          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment",
+          "category": "breaking",
+          "published_at": "2026-09-09T11:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "The Open Source AI Stack",
+          "url": "https://www.together.ai/blog/the-open-source-ai-stack",
+          "source": "Together AI Blog",
+          "summary": "",
+          "category": "breaking",
+          "published_at": "2026-09-09T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+          "source": "r/MachineLearning",
+          "summary": "Hello this is my fifth small language model I've made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22 7B tokens**, then fine-tuned into a math model ",
+          "category": "research",
+          "published_at": "2026-09-10T03:28:41+00:00",
+          "author": "/u/nkthebass",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+          "url": "https://arxiv.org/abs/2609.05437",
+          "source": "arXiv AI/ML",
+          "summary": "05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e However, social ",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Sunny Rai, Jinyi Kuang, Reyhan Jamalova, Annie Lou, Cristina Bicchieri, Niyati Malhotra, Victor Hugo Orozco-Olvera, Ana Maria Munoz-Boudet, Lyle H Ungar, Sharath C Guntuku",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+          "url": "https://arxiv.org/abs/2609.05439",
+          "source": "arXiv AI/ML",
+          "summary": "05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionab",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Huifang Du, Zecheng Zuo, Sen Wang, Chenghao Fan, Haofen Wang, Yehui Yang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+          "url": "https://arxiv.org/abs/2609.05441",
+          "source": "arXiv AI/ML",
+          "summary": "05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue histor",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Shweta Mishra, Shashank Mishra",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+          "url": "https://arxiv.org/abs/2609.05446",
+          "source": "arXiv AI/ML",
+          "summary": "05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from ver",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Adib Hasan, Daniel Schaffield, Akashnil Dutta, Tarik Adnan Moon",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+          "url": "https://arxiv.org/abs/2609.05448",
+          "source": "arXiv AI/ML",
+          "summary": "05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation We formulate structured-",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Salem Ameen, Sunil Vadera",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Compiling VGDL into Causal Models",
+          "url": "https://arxiv.org/abs/2609.05459",
+          "source": "arXiv AI/ML",
+          "summary": "05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments Standard reinforcement learning age",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Mohit Jiwatode, Bodo Rosenhahn, Alexander Dockhorn",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+          "url": "https://arxiv.org/abs/2609.05461",
+          "source": "arXiv AI/ML",
+          "summary": "05461v1 Announce Type: new Abstract: Reward-free latent world models plan by scoring candidate actions with distances in a frozen latent space: an action is preferred if its predicted future embedding",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Zhengshu Zhang, Zhiyuan Li",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+          "url": "https://arxiv.org/abs/2609.05481",
+          "source": "arXiv AI/ML",
+          "summary": "05481v1 Announce Type: new Abstract: Inter example relational distillation transfers a teacher's representation geometry by matching relations among examples within a mini batch Computing all pairs ha",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Ali Mahdavi, Azadeh Zamanifar, Amirfarhad Farhadi, Omid Kashefi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+          "url": "https://arxiv.org/abs/2609.05488",
+          "source": "arXiv AI/ML",
+          "summary": "05488v1 Announce Type: new Abstract: Clinical deterioration unfolds through coupled, partially observed trajectories, not a single diagnostic label We introduce PGP-Clinical-TimeKAN, a trajectory-firs",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Weizhi Nie, Rihao Chang, Weijie Wang, Yuting Su",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+          "url": "https://arxiv.org/abs/2609.05505",
+          "source": "arXiv AI/ML",
+          "summary": "05505v1 Announce Type: new Abstract: Systematic reviews require sustained human judgment across thousands of records, yet existing evaluations of large language models (LLMs) typically examine review ",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Miguel Zabaleta, Baihan Lin",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+          "url": "https://arxiv.org/abs/2609.05511",
+          "source": "arXiv AI/ML",
+          "summary": "05511v1 Announce Type: new Abstract: Web agents need to navigate visually rich, long-horizon interfaces that change across sites, yet most previous agents still learn each task in isolation and discar",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Bowei He, Xiaokun Zhang, Meng Ding, Xue Liu",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+          "url": "https://arxiv.org/abs/2609.05512",
+          "source": "arXiv AI/ML",
+          "summary": "05512v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) impose substantial energy costs during deployment, yet current compression methods apply uniform quantization across all components, ",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Leonard Twagirayezu, Prasenjit Mitra",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.PF"
+          ]
+        },
+        {
+          "title": "When and What to Teach: Budget-Aware Online Adaptation for Web Agents",
+          "url": "https://arxiv.org/abs/2609.05513",
+          "source": "arXiv AI/ML",
+          "summary": "05513v1 Announce Type: new Abstract: Web agents have achieved significant success in automating complex internet tasks but deploying them in real-world environments requires continuous online adaptati",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Jianwei Zhang, Sihan Cao, Pengcheng Zheng, Ya Wen, Pei Ke, Kuien Liu, Shen Gao, Wei Dong, Yang Yang, Chaoning Zhang",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+          "url": "https://arxiv.org/abs/2609.05514",
+          "source": "arXiv AI/ML",
+          "summary": "05514v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents are increasingly used as proxies for human participants in social science research, yet it remains unclear whether they can",
+          "category": "research",
+          "published_at": "2026-09-10T00:00:00-04:00",
+          "author": "Farah Atif, Sougata Saha, Monojit Choudhury",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "total": 12,
