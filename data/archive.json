@@ -1,6 +1,268 @@
 {
-  "generated_at": "2026-09-11T10:43:13.803549+00:00",
+  "generated_at": "2026-09-12T10:12:52.420732+00:00",
   "archive": [
+    {
+      "date": "2026-09-12",
+      "total": 46,
+      "categories": {
+        "breaking": 2,
+        "research": 33,
+        "industry": 6,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI Blog",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models",
+          "category": "breaking",
+          "published_at": "2026-09-14T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "source": "OpenAI Blog",
+          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more",
+          "category": "breaking",
+          "published_at": "2026-09-11T16:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+          "url": "https://arxiv.org/abs/2609.10584",
+          "source": "arXiv AI/ML",
+          "summary": "10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort Focal Search (FS) uses heuristic guidance within FOCAL, the ",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Minh Vu Duc, Trung Le Huu, H\\`a Minh Ho\\`ang, Trung Thanh Nguyen, Phuong Khanh Nguyen, Huynh Thi Thanh Binh",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+          "url": "https://arxiv.org/abs/2609.10629",
+          "source": "arXiv AI/ML",
+          "summary": "10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibi",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Niloy Kumar Mondal, Md Rizwan Parvez",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+          "url": "https://arxiv.org/abs/2609.10654",
+          "source": "arXiv AI/ML",
+          "summary": "10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples This paper pres",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Deblina Kar",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+          "url": "https://arxiv.org/abs/2609.10656",
+          "source": "arXiv AI/ML",
+          "summary": "10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Iman Khazrak, Narges Nejad, Mostafa M. Rezaee, Robert C. Green II",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+          "url": "https://arxiv.org/abs/2609.10657",
+          "source": "arXiv AI/ML",
+          "summary": "10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking Despite theoretical progress on",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Anish Kataria",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+          "url": "https://arxiv.org/abs/2609.10712",
+          "source": "arXiv AI/ML",
+          "summary": "10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics Starting from Nemotron 3 Ult",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Ivan Moshkov, Stephen Ge, George Armstrong, Wei Du, Sadegh Mahdavi, Igor Gitman",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+          "url": "https://arxiv.org/abs/2609.10724",
+          "source": "arXiv AI/ML",
+          "summary": "10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success Agents must remain useful across repeated interactions, changing conditions, ",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Yuanchen Bai, Zijian Ding, Angelique Taylor",
+          "tags": [
+            "cs.AI",
+            "cs.HC",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+          "url": "https://arxiv.org/abs/2609.10824",
+          "source": "arXiv AI/ML",
+          "summary": "10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or pr",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Vinay Samuel, Varun Ursekar, Vijay S. Kalmath, Apaar Shanker, Veronica Chatrath, Yuan Xue",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+          "url": "https://arxiv.org/abs/2609.10873",
+          "source": "arXiv AI/ML",
+          "summary": "10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning We argue that update admission must be assessed through both er",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Qinzhen Ma, Ruihai Wu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+          "url": "https://arxiv.org/abs/2609.10964",
+          "source": "arXiv AI/ML",
+          "summary": "10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference spe",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Bochao Feng, Jianjiang Li, Haojie Wang, Lin Qiao, Yinghui Li, Yukun Yan, Jidong Zhai",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+          "url": "https://arxiv.org/abs/2609.10992",
+          "source": "arXiv AI/ML",
+          "summary": "10992v1 Announce Type: new Abstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive user information Current privacy-prese",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Zhenhua Liu, Zhanxu Xie, Junjie Yu, Tong Zhu, Lijun Li, Wenliang Chen",
+          "tags": [
+            "cs.AI",
+            "cs.CR"
+          ]
+        },
+        {
+          "title": "Defining AI Agents: A Compendium of Criteria, Metrics, and Benchmarks",
+          "url": "https://arxiv.org/abs/2609.11018",
+          "source": "arXiv AI/ML",
+          "summary": "11018v1 Announce Type: new Abstract: The term agent in artificial intelligence lacks a standard definition, complicating the evaluation, comparison, and reproducibility of AI agent research We address",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Mia Lassiter, Brinnae Bent",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+          "url": "https://arxiv.org/abs/2609.11030",
+          "source": "arXiv AI/ML",
+          "summary": "11030v1 Announce Type: new Abstract: AI agents increasingly act through tools and delegated authority, but general incident repositories rarely capture the mechanisms needed to compare public failures",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Divyanshu Kumar, Rohith HN, Nitin Aravind Birur, Sahil Agarwal, Prashanth Harshangi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Fork Where the Model Changes Its Mind: Belief-Shift Branching for Tree-Structured Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2609.11061",
+          "source": "arXiv AI/ML",
+          "summary": "11061v1 Announce Type: new Abstract: Tree-structured rollouts give critic-free reinforcement learning with verifiable rewards (RLVR) step-level credit: fork a chain at an intermediate point, and sibli",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Bin Lei, Yu Li, Prafulla Kumar Choubey, Jiaxin Zhang, Becky Xiangyu Peng, Qinyuan Ye, Kartik Narayan, Caiwen Ding, Silvio Savarese, Chien-Sheng Wu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG",
+          "url": "https://arxiv.org/abs/2609.11065",
+          "source": "arXiv AI/ML",
+          "summary": "11065v1 Announce Type: new Abstract: Graph Retrieval-Augmented Generation (GraphRAG) can connect evidence distributed across a corpus graph, but most systems use largely shared exploration procedures ",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "EunKyeong Lee, Kyeong-Jin Oh, Jinwon Kim, Hye Woo Lee, Minsang Song, Hyeongjun Jang, Junyoung Youn",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+          "url": "https://arxiv.org/abs/2609.11115",
+          "source": "arXiv AI/ML",
+          "summary": "11115v1 Announce Type: new Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and co",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Koutian Wu, Junjie Zhou, Ergan Shang, Jiayu Wang, Pengqian Han, Junkai Wang, Wanghan Xu",
+          "tags": [
+            "cs.AI",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "KuaiRP Series Role-playing Models Technical Report",
+          "url": "https://arxiv.org/abs/2609.11127",
+          "source": "arXiv AI/ML",
+          "summary": "11127v1 Announce Type: new Abstract: This paper introduces the complete technical solution for the KuaiRP series of role-playing models We aim to achieve four core objectives for a dedicated role-play",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "Yipeng Wang, Ziwei Zhang, Jiahui Zhang, Qi Gan, Kai Sheng",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Same Day, Same Story; One Day Ahead, a Different Signal: The Dual Validity of Financial Sentiment",
+          "url": "https://arxiv.org/abs/2609.11144",
+          "source": "arXiv AI/ML",
+          "summary": "11144v1 Announce Type: new Abstract: Financial NLP has a standard workflow: validate a sentiment tool against human labels, then trust it to extract market signal This assumes the two evaluations meas",
+          "category": "research",
+          "published_at": "2026-09-12T00:00:00-04:00",
+          "author": "AS Aravinthkakshan, Laven Srivastava, Harsh Nandwani",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.SI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "total": 50,
