@@ -1,6 +1,180 @@
 {
-  "generated_at": "2026-09-12T10:12:52.420732+00:00",
+  "generated_at": "2026-09-13T11:12:28.836736+00:00",
   "archive": [
+    {
+      "date": "2026-09-13",
+      "total": 13,
+      "categories": {
+        "breaking": 0,
+        "research": 9,
+        "industry": 3,
+        "tools": 1
+      },
+      "articles": [
+        {
+          "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
+          "source": "r/MachineLearning",
+          "summary": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs This is many times more papers than what a human being or even a sizeable reading group could feasibly read a",
+          "category": "research",
+          "published_at": "2026-09-13T10:42:53+00:00",
+          "author": "/u/NeighborhoodFatCat",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "When NeurIPS'26 final decision release? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
+          "source": "r/MachineLearning",
+          "summary": "Will it be strictly Sep'24 AoE Is there any possibility for releasing before Sep'18 AoE, ICLR abstract submission date submitted by /u/No_Fig_3372 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-09-13T10:38:50+00:00",
+          "author": "/u/No_Fig_3372",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, I’m working on generating ~128×128 pixel art and trying to generate different poses of the same character My current approach is roughly: Start with a reference image and preprocess it into cleane",
+          "category": "research",
+          "published_at": "2026-09-12T21:45:25+00:00",
+          "author": "/u/Unfair-Walk-9805",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How much do tech reports matter for a PhD application? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
+          "source": "r/MachineLearning",
+          "summary": "The title, by tech reports I don't mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc Is it much above, above, much below, below or equal ",
+          "category": "research",
+          "published_at": "2026-09-12T14:40:54+00:00",
+          "author": "/u/simple-Flat0263",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
+          "source": "r/MachineLearning",
+          "summary": "Note: this declaration was drafted by Mathematicians, and is mostly addressed to the mathematical community It'd be interesting to discuss, among others, if what is written in the declaration may also",
+          "category": "research",
+          "published_at": "2026-09-12T11:23:51+00:00",
+          "author": "/u/hihey54",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Confusion regarding EMNLP registration [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, I posted some months ago and got some very helpful responses (for another conference), but I have some confusions regarding EMNLP (and the way registration works here) To give some context, I used",
+          "category": "research",
+          "published_at": "2026-09-11T23:24:01+00:00",
+          "author": "/u/Batman_beyond123",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How to handle cofound variables? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
+          "source": "r/MachineLearning",
+          "summary": "edit: confound Hello all, I am working on a object classification with a automotive radar point clouds I compared many models and feature vectors Once i used range as feature, all models scored higher",
+          "category": "research",
+          "published_at": "2026-09-11T18:57:40+00:00",
+          "author": "/u/Huge-Leek844",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+          "source": "r/MachineLearning",
+          "summary": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3 5 days, one RTX PRO 6000, 4 2M images at 256²) mainly to understand the recipe end to end",
+          "category": "research",
+          "published_at": "2026-09-11T13:00:11+00:00",
+          "author": "/u/IvanMikhnenkov",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Together AI expands fine-tuning service with more models, live metrics, and finer controls",
+          "url": "https://www.together.ai/blog/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls",
+          "source": "Together AI Blog",
+          "summary": "Together Fine-Tuning adds the latest open-weight models, live experiment tracking, Expert LoRA, early stopping, tokenized dataset previews, pre-flight validation, and lower training prices on selected",
+          "category": "research",
+          "published_at": "2026-09-11T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+          "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+          "source": "NVIDIA Blog",
+          "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming Skild AI’",
+          "category": "industry",
+          "published_at": "2026-09-10T16:30:35+00:00",
+          "author": "Sasa Docca",
+          "tags": [
+            "Robotics",
+            "Artificial Intelligence",
+            "Cosmos",
+            "Customer Stories",
+            "Industrial and Manufacturing"
+          ]
+        },
+        {
+          "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+          "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+          "source": "NVIDIA Blog",
+          "summary": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are alr",
+          "category": "industry",
+          "published_at": "2026-09-10T16:00:04+00:00",
+          "author": "Ali Kani",
+          "tags": [
+            "Driving",
+            "Artificial Intelligence",
+            "Cosmos",
+            "Customer Stories",
+            "Mobility"
+          ]
+        },
+        {
+          "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+          "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+          "source": "NVIDIA Blog",
+          "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem part",
+          "category": "industry",
+          "published_at": "2026-09-10T13:00:21+00:00",
+          "author": "Jesse Clayton",
+          "tags": [
+            "Corporate"
+          ]
+        },
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI Blog",
+          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second",
+          "category": "tools",
+          "published_at": "2026-09-11T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Engineering"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "total": 46,
