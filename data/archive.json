@@ -1,6 +1,269 @@
 {
-  "generated_at": "2026-09-13T11:12:28.836736+00:00",
+  "generated_at": "2026-09-14T12:01:18.410944+00:00",
   "archive": [
+    {
+      "date": "2026-09-14",
+      "total": 50,
+      "categories": {
+        "breaking": 0,
+        "research": 47,
+        "industry": 1,
+        "tools": 2
+      },
+      "articles": [
+        {
+          "title": "PhD branding question [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
+          "source": "r/MachineLearning",
+          "summary": "I'm starting a PhD where I will be doing Graph ML (somewhere along the lines of graph signal processing/ graph deep learning ) My eventual goal is research scientist at big tech, or whichever company ",
+          "category": "research",
+          "published_at": "2026-09-14T04:26:46+00:00",
+          "author": "/u/legoWolf13",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
+          "url": "https://arxiv.org/abs/2609.11934",
+          "source": "arXiv ML",
+          "summary": "11934v1 Announce Type: new Abstract: In networked dynamical systems, the parameter of primary mechanistic interest is signed interaction structure Recovering this structure from perturbation time-seri",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Nima Nouri",
+          "tags": [
+            "cs.LG",
+            "physics.comp-ph"
+          ]
+        },
+        {
+          "title": "Physics-Informed Conformal Prediction: Embedding PDE Consistency into Distribution-Free Uncertainty Quantification for Neural Operators",
+          "url": "https://arxiv.org/abs/2609.11935",
+          "source": "arXiv ML",
+          "summary": "11935v1 Announce Type: new Abstract: Neural operators such as the Fourier Neural Operator (FNO) achieve remarkable accuracy in approximating solutions to partial differential equations (PDEs) However,",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Michael Chin",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning",
+          "url": "https://arxiv.org/abs/2609.11937",
+          "source": "arXiv ML",
+          "summary": "11937v1 Announce Type: new Abstract: The deployment of Federated Learning (FL) in multi-center clinical networks faces the challenge of \"knowledge dominance,\" where high-volume hubs naturally overwhel",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Ting Xu, Henry Leung",
+          "tags": [
+            "cs.LG",
+            "cs.DC"
+          ]
+        },
+        {
+          "title": "Efficient AI Model Deployment Using Quantization Analysis Tool",
+          "url": "https://arxiv.org/abs/2609.11954",
+          "source": "arXiv ML",
+          "summary": "11954v1 Announce Type: new Abstract: As deep learning models are increasingly deployed on resource constrained devices, the demand for efficient model optimization techniques continues to grow Effecti",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Dwith Chenna, Kanishka Macherla",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Performance, Efficiency and Collapse -- Advantages and Challenges in Offline Post-training of Code LLMs",
+          "url": "https://arxiv.org/abs/2609.11956",
+          "source": "arXiv ML",
+          "summary": "11956v1 Announce Type: new Abstract: Post-training with reinforcement learning (RL) is a critical phase in the development of code-generating large language models (LLMs), as it ensures adherence to i",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Abhinav Anand, Sanjana Reddy Pachika, Shweta Verma, Mira Mezini",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Look Before You Leap: Pre-Action Verification for LLM Agents",
+          "url": "https://arxiv.org/abs/2609.11957",
+          "source": "arXiv ML",
+          "summary": "11957v1 Announce Type: new Abstract: An LLM agent acts on the world by emitting actions: shell commands to run, edits to apply A wrong action does not always fail loudly; it can fail silently, produci",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Asaad Althoubi",
+          "tags": [
+            "cs.LG",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Decoding Mixture Perception through Computational Modeling of Component Interactions",
+          "url": "https://arxiv.org/abs/2609.11958",
+          "source": "arXiv ML",
+          "summary": "11958v1 Announce Type: new Abstract: Olfaction played an indispensable role throughout human evolution and civilization Even in the contemporary era of advanced technology, olfaction remains a critica",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Fei Wang, Xiaoya Xie, Junfei Liu, Huihao Wang, Yixiao Wang, Yintao Wang, Yi Li, Hao Dong, Xing Chen",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Space as an Interventional Invariant: Cross-Modal Predictive Geometry for Stratified Cities and Em-Spaced Intelligence",
+          "url": "https://arxiv.org/abs/2609.11959",
+          "source": "arXiv ML",
+          "summary": "11959v1 Announce Type: new Abstract: Space is a foundational concept across mathematics, physics, spatial cognition, urban science, and embodied intelligence, yet these fields often treat spatial stru",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Tao Yang, Xuhui Lin, Kunyao Li, Haijiang Li",
+          "tags": [
+            "cs.LG",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "On-Device Language Models for Privacy-Preserving Stress Prediction: A Multimodal Evaluation on Mobile Health",
+          "url": "https://arxiv.org/abs/2609.11961",
+          "source": "arXiv ML",
+          "summary": "11961v1 Announce Type: new Abstract: Stress is a pervasive determinant of mental health and a key target for mobile health interventions On-device language models (ODLMs) offer privacy-preserving infe",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Ibukunoluwa Soyebo, Alyssa Donawa, Rodrigo Aguilar Barrios, Brice Patchou, Corey E. Baker",
+          "tags": [
+            "cs.LG",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences",
+          "url": "https://arxiv.org/abs/2609.11993",
+          "source": "arXiv ML",
+          "summary": "11993v1 Announce Type: new Abstract: Machine learning research in financial services is limited by the scarcity of representative open-source datasets Existing resources are often narrowly focused on ",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Tyler Farnan, Benjamin Eng, Adam Abate, Xirui Hou, Rizal Fathony, Nam H. Nguyen, Senthil Kumar",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Explainable Prediction from Mobile Sensing Data through LLM-guided Concept Integration",
+          "url": "https://arxiv.org/abs/2609.11995",
+          "source": "arXiv ML",
+          "summary": "11995v1 Announce Type: new Abstract: Mobile sensing enables longitudinal monitoring of behavioral and physiological patterns in everyday settings However, accurate prediction remains challenging in sm",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Yuning Wang, Iman Azimi, Amir M. Rahmani, Pasi Liljeberg",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "DCRA: Diffusion-Conditioned Representation Alignment for Robust Time-Series Learning",
+          "url": "https://arxiv.org/abs/2609.11997",
+          "source": "arXiv ML",
+          "summary": "11997v1 Announce Type: new Abstract: Learning robust representations for time-series signals under noise and distribution shifts remains challenging, especially in clinical applications such as electr",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Wenrui Xu, Anas Enanaa, Keshab K. Parhi",
+          "tags": [
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "Fixed State, Long Reach: What a Constant-Size Cache Buys Block Diffusion at Scale",
+          "url": "https://arxiv.org/abs/2609.11998",
+          "source": "arXiv ML",
+          "summary": "11998v1 Announce Type: new Abstract: Diffusion language models decode tokens in parallel, but their bidirectional denoiser rules out the naive key--value (KV) cache behind fast autoregressive inferenc",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Vaibhav Singh, Pierre-Andr\\'e No\\\"el, Torsten Scholak, Eugene Belilovsky, Oleksiy Ostapenko",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
+          "url": "https://arxiv.org/abs/2609.12002",
+          "source": "arXiv ML",
+          "summary": "12002v1 Announce Type: new Abstract: LLMs are increasingly used as automated judges for model training and evaluation, yet individual judges exhibit systematic biases that undermine reliability Much o",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Gemma Zhang, Prachi Badarayani, Asmi Kumar, Sadid Hasan, Sulaiman Vesal",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "QTrans: A Quantum Transformer for Sentiment Classification",
+          "url": "https://arxiv.org/abs/2609.12011",
+          "source": "arXiv ML",
+          "summary": "12011v1 Announce Type: new Abstract: In small-scale binary sentiment classification scenarios, factors such as negation, contrastive shifts, and cross-word dependencies lead to the non-linear coupling",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Ren-Xin Zhao, Xinjie Huang, Yahong Liu, Maoyu Ye, Jinjing Shi, Shi Wang, Yaonan Wang",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Certified Safety Curation: Distribution-Free Guarantees for Safe Offline Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2609.12014",
+          "source": "arXiv ML",
+          "summary": "12014v1 Announce Type: new Abstract: Safe offline reinforcement learning assumes a cost function on every transition We ask what remains possible when safety can be judged only by comparing short clip",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Adam Haroon, Cody Fleming",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Inverting Self-Triggered Control: Adversarial Reinforcement Learning for Sparse Denial-of-Service Attacks",
+          "url": "https://arxiv.org/abs/2609.12016",
+          "source": "arXiv ML",
+          "summary": "12016v1 Announce Type: new Abstract: Self-triggered reinforcement learning control (RL-STC) learns the sparsest control schedule that preserves Lyapunov-decreasing stability under a Run-Time Assurance",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Adam Haroon, Erick J. Rodr\\'iguez-Seda, Tristan Schuler, Cody Fleming",
+          "tags": [
+            "cs.LG",
+            "cs.SY",
+            "eess.SY"
+          ]
+        },
+        {
+          "title": "Toward Reliable Railway-Bogie Response Prediction Using Multifidelity TDNN and Physics-Informed Residual Learning",
+          "url": "https://arxiv.org/abs/2609.12018",
+          "source": "arXiv ML",
+          "summary": "12018v1 Announce Type: new Abstract: Railway engineers need simulation models that predict vehicle responses across operating scenarios that cannot be tested exhaustively Agreement with representative",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "Gyeolhee Lee, Moosun Kim, Taewook Kwon, Jaehun Kim, Dongjin Lee",
+          "tags": [
+            "cs.LG",
+            "physics.app-ph"
+          ]
+        },
+        {
+          "title": "Reinforcement Learning for Syndrome Extraction",
+          "url": "https://arxiv.org/abs/2609.12020",
+          "source": "arXiv ML",
+          "summary": "12020v1 Announce Type: new Abstract: A key subtask of quantum error correction is to extract a syndrome that, if nontrivial, signals an error The number of possible ways to extract a syndrome grows ex",
+          "category": "research",
+          "published_at": "2026-09-14T00:00:00-04:00",
+          "author": "John Zhuoyang Ye, Aarav Pabla, Jens Palsberg",
+          "tags": [
+            "cs.LG",
+            "quant-ph"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "total": 13,
