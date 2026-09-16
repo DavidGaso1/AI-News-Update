@@ -1,6 +1,281 @@
 {
-  "generated_at": "2026-09-15T11:13:45.774477+00:00",
+  "generated_at": "2026-09-16T10:56:54.791944+00:00",
   "archive": [
+    {
+      "date": "2026-09-16",
+      "total": 50,
+      "categories": {
+        "breaking": 2,
+        "research": 36,
+        "industry": 6,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "url": "https://arxiv.org/abs/2609.16338",
+          "source": "arXiv AI/ML",
+          "summary": "16338v1 Announce Type: new Abstract: Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally referenced to the in",
+          "category": "breaking",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Evangelos Georganas, Alexander Heinecke, Pradeep Dubey",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Differentially Private Semantic Plans for Aggregate Insight Generation",
+          "url": "https://arxiv.org/abs/2609.16283",
+          "source": "arXiv ML",
+          "summary": "16283v1 Announce Type: new Abstract: \\texttt{URANIA} provides end-to-end differential privacy (DP) for summaries of data-dependent clusters However, its cluster--keyword release does not directly prov",
+          "category": "breaking",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Behrooz Razeghi",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+          "url": "https://arxiv.org/abs/2609.16129",
+          "source": "arXiv AI/ML",
+          "summary": "16129v1 Announce Type: new Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space Pruning a parameter sets its value to zero, repre",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "David S. Berman, Yen-Yu Fu, Edward Hirst, Thelma Chiwete Obirai",
+          "tags": [
+            "cs.AI",
+            "cs.IT",
+            "math.DG",
+            "math.IT"
+          ]
+        },
+        {
+          "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+          "url": "https://arxiv.org/abs/2609.16145",
+          "source": "arXiv AI/ML",
+          "summary": "16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities We propose CRN",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Gautam Kishore",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG",
+            "cs.NE"
+          ]
+        },
+        {
+          "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+          "url": "https://arxiv.org/abs/2609.16163",
+          "source": "arXiv AI/ML",
+          "summary": "16163v1 Announce Type: new Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time An effective evacuation system must minimize ",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Daniel Perkins, Subhadeep Chakraborty",
+          "tags": [
+            "cs.AI",
+            "cs.CY",
+            "cs.LG",
+            "cs.MA",
+            "cs.SY"
+          ]
+        },
+        {
+          "title": "Position: AI Is Not Ready for Strategic Conflicts",
+          "url": "https://arxiv.org/abs/2609.16189",
+          "source": "arXiv AI/ML",
+          "summary": "16189v1 Announce Type: new Abstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan brittleness, doctrine, and crisis",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Mark Riedl, Glenn Matlin",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+          "url": "https://arxiv.org/abs/2609.16206",
+          "source": "arXiv AI/ML",
+          "summary": "16206v1 Announce Type: new Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools Systems such as DistServe, Splitwise, and Mooncake make this s",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Srikanta Datta Tumkur, Jay Iyer, Mehar Simhadri, Sai Pavan Kumar, Sai Kapil Kumar, Ramesh Nampelly",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+          "url": "https://arxiv.org/abs/2609.16213",
+          "source": "arXiv AI/ML",
+          "summary": "16213v1 Announce Type: new Abstract: Artificial intelligence is reshaping biological research across an increasingly connected digital-to-physical workflow General-purpose large language models can re",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Candace S. Y. Chan, Aris Karatzikos, Ilias Georgakopoulos-Soares",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+          "url": "https://arxiv.org/abs/2609.16215",
+          "source": "arXiv AI/ML",
+          "summary": "16215v1 Announce Type: new Abstract: GPU high bandwidth memory is scarce and expensive, and KV caches consume much of it as chats, agent loops, and document question answering accumulate state Systems",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Srikanta Datta Tumkur, Jay Iyer, Mehar Simhadri, Sai Pavan Kumar, Sai Kapil Kumar, Ramesh Nampelly",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+          "url": "https://arxiv.org/abs/2609.16232",
+          "source": "arXiv AI/ML",
+          "summary": "16232v1 Announce Type: new Abstract: Geospatial artificial intelligence (GeoAI) powered by large language models (LLMs) is expanding the capacity to query, generate, and interpret spatial information ",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Maya Subramanian, Devika Jain",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+          "url": "https://arxiv.org/abs/2609.16245",
+          "source": "arXiv AI/ML",
+          "summary": "16245v1 Announce Type: new Abstract: Long-horizon scientific discovery requires agents to alternate between exploration, disciplined execution, and critical reassessment as evidence changes Current la",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Vincent Karpf, Joseph Reth, Eike Gerhardt, Audrey Wang, Anna Butz, Jiehao Xing, Jialing Song, Larry Callahan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+          "url": "https://arxiv.org/abs/2609.16247",
+          "source": "arXiv AI/ML",
+          "summary": "16247v1 Announce Type: new Abstract: Large language models sometimes behave in ways resembling human emotional responses, and recent work has identified internal representations that may explain this ",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Valen Tagliabue, Leonard Dung, Cameron Berg",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+          "url": "https://arxiv.org/abs/2609.16251",
+          "source": "arXiv AI/ML",
+          "summary": "16251v1 Announce Type: new Abstract: Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited coverage of professional engineering work",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Zihan Dong, Yuanzhe Liu, Zhiyuan Ma, Qishi Zhan, Dehan Kong, Guohao Li, Kaixin Li",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The AI-Enabled Scientific Frontier",
+          "url": "https://arxiv.org/abs/2609.16258",
+          "source": "arXiv AI/ML",
+          "summary": "16258v1 Announce Type: new Abstract: As artificial intelligence's capabilities improve, it is increasingly viewed as a general scientific method But how true are these claims Does AI outperform all te",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Gabriel Manso, Emma Fu, Neil Thompson",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.PF",
+            "econ.GN",
+            "q-fin.EC"
+          ]
+        },
+        {
+          "title": "Closing the Loop: Branch-and-Bound for Scalable Verification of Nonlinear Neural Feedback Systems",
+          "url": "https://arxiv.org/abs/2609.16298",
+          "source": "arXiv AI/ML",
+          "summary": "16298v1 Announce Type: new Abstract: Despite recent advances in the verification of nonlinear neural feedback systems, scalability remains the central obstacle, as state-of-the-art solvers do not yet ",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "I. Samuel Akinwande, Mykel J. Kochenderfer, Clark Barrett",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "CLEAR: Cross-Source Evidence Adjudication for Large Language Models in Medicine",
+          "url": "https://arxiv.org/abs/2609.16301",
+          "source": "arXiv AI/ML",
+          "summary": "16301v1 Announce Type: new Abstract: Medical knowledge evolves continuously, whereas the parametric knowledge encoded in large language models (LLMs) is fixed at training time External retrieval, incl",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Shuai Wang, Yize Zhao, Qingyu Chen",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "BLINDSPOT: A Benchmark for Safety and Refusal Calibration in Long-Horizon Tool-Using Agents",
+          "url": "https://arxiv.org/abs/2609.16305",
+          "source": "arXiv AI/ML",
+          "summary": "16305v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly operate over long-horizon interactions involving tool use, persistent state, evolving authorization, and external en",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Sadia Asif, Mohammad Mohammadi Amiri, Momin Abbas, Tejaswini Pedapati, Prasanna Sattigeri",
+          "tags": [
+            "cs.AI",
+            "cs.CE",
+            "cs.CL",
+            "cs.LG",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Cross-Anatomy Transfer Versus Sparse Interpolation in Digital-Twin-Oriented Aortic Fluid-Structure Interaction Surrogates",
+          "url": "https://arxiv.org/abs/2609.16322",
+          "source": "arXiv AI/ML",
+          "summary": "16322v1 Announce Type: new Abstract: Surrogate credibility for fluid-structure interac- tion (FSI) requires distinguishing transfer across independent anatomies from interpolation within an already sa",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Ali Nourbakhsh, Mohammad Reza Niroomand, Erfan Nourbakhsh",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs",
+          "url": "https://arxiv.org/abs/2609.16454",
+          "source": "arXiv AI/ML",
+          "summary": "16454v1 Announce Type: new Abstract: Recent work by Doshi and Hauser (2024), Bisbee et al (2024), and Xie et al (2026) raises concerns that outputs from large language models (LLMs) tend to be under-d",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Kirill Skobelev, Eric Fithian, X. Y. Han",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Skill-based Agentic Evaluation for Real-time Data Science Tasks",
+          "url": "https://arxiv.org/abs/2609.16487",
+          "source": "arXiv AI/ML",
+          "summary": "16487v1 Announce Type: new Abstract: We present a framework for evaluating data-science agents on live, continuously updated data using executable ground truth and format-agnostic factoid scoring Cons",
+          "category": "research",
+          "published_at": "2026-09-16T00:00:00-04:00",
+          "author": "Aniruddha Tamhane, Raghavendra Addanki, Ayushi Aggarwal, Aditya Bansal, Rui Wang, Charles Menguy, Swati Jain",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.MA"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "total": 50,
