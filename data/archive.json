@@ -1,6 +1,268 @@
 {
-  "generated_at": "2026-09-16T10:56:54.791944+00:00",
+  "generated_at": "2026-09-17T11:06:17.126526+00:00",
   "archive": [
+    {
+      "date": "2026-09-17",
+      "total": 50,
+      "categories": {
+        "breaking": 7,
+        "research": 19,
+        "industry": 15,
+        "tools": 9
+      },
+      "articles": [
+        {
+          "title": "TabPFN-3.5: Technical Report",
+          "url": "https://arxiv.org/abs/2609.17895",
+          "source": "arXiv ML",
+          "summary": "17895v1 Announce Type: new Abstract: We introduce TabPFN-3 5, our new flagship Tabular Foundation Model It significantly outperforms its predecessor, TabPFN-3, and all existing baselines across a broa",
+          "category": "breaking",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Benjamin J\\\"ager, Nick Erickson, L\\'eo Grinsztajn, Felix Birkel, Klemens Fl\\\"oge, Oscar Key, K\\\"ur\\c{s}at Kaya, Jonas K\\\"ubler, Ad\\`ele Frankel, Tobias Schr\\\"oder, Anurag Garg, Jan Hendrik Metzen, David Salinas, Simon Bing, Kristina Collins, Tuana \\c{C}elik, Vahid Balazadeh, Lydia Sidhoum, Tom\\'as Pereda, Brendan Roof, Andrej Tschalzev, Siyuan Guo, Philipp Singer, Lennart Purucker, Jake Robertson, Marie Salmon, Philipp Jund, Jerry Chen, Diana Kriuchkova, Arthur Cahu, Eliott Kalfon, Adrian Hayler, Georg Grab, Vitor Monteiro, Lilly Wehrhahn, Dominik Safaric, Clara Cornu, Alan Arazi, Rylee Grace, Simone Alessi, Mihir Manium, Bernhard Sch\\\"olkopf, Yann LeCun, Madelon Hulsebos, Sauraj Gambhir, Noah Hollmann, Frank Hutter",
+          "tags": [
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior",
+          "category": "breaking",
+          "published_at": "2026-09-16T17:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U cities to build practical AI skills safely",
+          "category": "breaking",
+          "published_at": "2026-09-16T16:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+          "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+          "source": "NVIDIA Blog",
+          "summary": "AI factories are the infrastructure of the intelligence era Scaling them responsibly will depend as much on innovation across the grid as inside the data center Today, Emerald AI, Google and NVIDIA an",
+          "category": "breaking",
+          "published_at": "2026-09-16T13:00:33+00:00",
+          "author": "Josh Parker",
+          "tags": [
+            "AI Infrastructure",
+            "Corporate",
+            "Energy"
+          ]
+        },
+        {
+          "title": "How to connect AI usage to business value",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI Blog",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes",
+          "category": "breaking",
+          "published_at": "2026-09-16T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "How workers are unlocking new ways of working",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI Blog",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work",
+          "category": "breaking",
+          "published_at": "2026-09-16T09:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "Migrating from closed to open source models, Together",
+          "url": "https://www.together.ai/blog/migrating-from-closed-to-open-source-models",
+          "source": "Together AI Blog",
+          "summary": "Moving from closed to open source models can take weeks, not years A five-stage playbook: discover, evaluate, adapt, decide, and production",
+          "category": "breaking",
+          "published_at": "2026-09-16T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "ICLR 2027 table font sizes [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wiou0h/iclr_2027_table_font_sizes_d/",
+          "source": "r/MachineLearning",
+          "summary": "I am preparing an ICLR 2027 submission using the official LaTeX style Some main-text tables use \\footnotesize, and two wide tables also use \\resizebox{\\linewidth}{ I have not modified the style file, ",
+          "category": "research",
+          "published_at": "2026-09-17T09:09:28+00:00",
+          "author": "/u/TennisFan155",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+          "url": "https://arxiv.org/abs/2609.17631",
+          "source": "arXiv AI/ML",
+          "summary": "17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states Provenance",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Torsten Olivi Tiltack, Yifei Dong, Kun Yu, Xu Wang, Wei Liu, Jianlong Zhou, Ren Ping Liu, Fang Chen",
+          "tags": [
+            "cs.AI",
+            "cs.CR",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+          "url": "https://arxiv.org/abs/2609.17632",
+          "source": "arXiv AI/ML",
+          "summary": "17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written too",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Sehee Kim, Yumin Choi, Minki Kang, Sung Ju Hwang",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "One Color Preprocessing Improves DSATUR",
+          "url": "https://arxiv.org/abs/2609.17633",
+          "source": "arXiv AI/ML",
+          "summary": "17633v1 Announce Type: new Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors th",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Adam Nouira, Lucas Isenmann",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+          "url": "https://arxiv.org/abs/2609.17635",
+          "source": "arXiv AI/ML",
+          "summary": "17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stre",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Oscar Mogollon Gutierrez, Fatemeh Ghasemi, Mohammadhossein Homaei, Andres Caro, Mar Avila",
+          "tags": [
+            "cs.AI",
+            "cs.CR"
+          ]
+        },
+        {
+          "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+          "url": "https://arxiv.org/abs/2609.17637",
+          "source": "arXiv AI/ML",
+          "summary": "17637v1 Announce Type: new Abstract: Restricting what a module can read may improve what a system learns to compute We test this in a preregistered confirmation with sixty four-cell systems sharing a ",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Narcis Marincat",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+          "url": "https://arxiv.org/abs/2609.17688",
+          "source": "arXiv AI/ML",
+          "summary": "17688v1 Announce Type: new Abstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets, growing visual-token costs, and l",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Dingli Liang, Yiqiao Xie, Yukai Huang, Zhaokai Wang, Weitong Cai, Guangwen Feng, Jifei Song, Zhensong Zhang, Hang Zhang",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+          "url": "https://arxiv.org/abs/2609.17695",
+          "source": "arXiv AI/ML",
+          "summary": "17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence GraphEcho tests whether agents mistake these repeated en",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Sikun Wang, Yixi Zhou, Lei Fan, Fan Zhang",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
+          "url": "https://arxiv.org/abs/2609.17696",
+          "source": "arXiv AI/ML",
+          "summary": "17696v1 Announce Type: new Abstract: Document repositories evolve continuously Guidelines and policies are revised, superseded, and re-uploaded, so the same content recurs in different wording and new",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Mohammadreza Sediqin, Shivali Dalmia, Sumukha Thoppanahalli, Abhishek Mukherji",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
+          "url": "https://arxiv.org/abs/2609.17699",
+          "source": "arXiv AI/ML",
+          "summary": "17699v1 Announce Type: new Abstract: We present NeMo Data Designer (NDD), an open-source, general-purpose framework for multi-modal synthetic data generation (SDG) Designed to be intuitive to use, NDD",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Johnny Greco, Nabin Mulepati, Andre Manoel, Eric Tramel, Kirit Thadaka, Mike Knepper, Dhruv Nathawani, Dane Corneil, Yev Meyer, Alex Watson, Maarten Van Segbroeck",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
+          "url": "https://arxiv.org/abs/2609.17731",
+          "source": "arXiv AI/ML",
+          "summary": "17731v1 Announce Type: new Abstract: High-resolution land use and land cover (LULC) products derived from Sentinel-2 imagery are widely used for environmental monitoring and land management, yet their",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "\\'Etienne Clabaut, Samuel Foucher, Yacine Bouroubi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Imitation Learning for Autonomous Driving in CARLA",
+          "url": "https://arxiv.org/abs/2609.17757",
+          "source": "arXiv AI/ML",
+          "summary": "17757v1 Announce Type: new Abstract: Behavioral cloning trains a policy offline on expert demonstrations, but deployment is closed loop: each action affects the observations the policy receives next W",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Jordy Kieto",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "SAGE: Governed Artifact Generation from Enterprise Guidelines",
+          "url": "https://arxiv.org/abs/2609.17775",
+          "source": "arXiv AI/ML",
+          "summary": "17775v1 Announce Type: new Abstract: Enterprise guideline documents mix narrative text, complex tables, and embedded images, and converting them into structured work artifacts still takes two to three",
+          "category": "research",
+          "published_at": "2026-09-17T00:00:00-04:00",
+          "author": "Mohammadreza Sediqin, Shivali Dalmia, Sumukha Thoppanahalli, Srinivasa Karthikeya Reddy Kovvuri, Abhishek Mukherji",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "total": 50,
