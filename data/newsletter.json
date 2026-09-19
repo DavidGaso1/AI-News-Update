@@ -1,508 +1,181 @@
 {
-  "generated_at": "2026-09-18T10:41:39.620304+00:00",
-  "article_count": 50,
+  "generated_at": "2026-09-19T10:26:04.505305+00:00",
+  "article_count": 17,
   "categories": {
     "breaking": [
       {
-        "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
-        "url": "https://arxiv.org/abs/2609.19513",
-        "source": "arXiv AI/ML",
-        "summary": "19513v1 Announce Type: new Abstract: High-quality pre-training data is a critical bottleneck for educational and STEM-specific language models targeting edge AI and on-device deployment where token bu",
-        "category": "breaking",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.299088+00:00",
-        "author": "Davide Vitabile, N. Ranjan, Akshay Nambiar, Kamal K. Gupta, Amril Nazir",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "XGBoost vs Human Markets [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
+        "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
         "source": "r/MachineLearning",
-        "summary": "What is the generally thought of as the upper limit of the predictive power of XGBoost vs an aggregate of humans Right now I feed the model the same information that the human market has access to, an",
+        "summary": "Github repo : https://github com/YouCele/nhanes-chd-classification I built a project that predicts self-reported, physician-diagnosed coronary heart disease using four cycles of NHANES data (2011-2012",
         "category": "breaking",
-        "published_at": "2026-09-17T15:59:49+00:00",
-        "fetched_at": "2026-09-18T10:40:34.499351+00:00",
-        "author": "/u/TravalonTom",
+        "published_at": "2026-09-18T12:36:07+00:00",
+        "fetched_at": "2026-09-19T10:24:46.571910+00:00",
+        "author": "/u/YouJonaa",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-        "source": "NVIDIA Blog",
-        "summary": "A new creature-catching adventure is ready to stream from the cloud this week Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll acros",
-        "category": "breaking",
-        "published_at": "2026-09-17T13:00:55+00:00",
-        "fetched_at": "2026-09-18T10:40:23.825134+00:00",
-        "author": "GeForce NOW Community",
-        "tags": [
-          "Gaming",
-          "Cloud Gaming",
-          "GeForce NOW"
-        ]
-      },
-      {
-        "title": "How Cooley is accelerating IPO work with ChatGPT",
-        "url": "https://openai.com/index/cooley-gopublic",
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
         "source": "OpenAI Blog",
-        "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most",
+        "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people",
         "category": "breaking",
-        "published_at": "2026-09-17T12:00:00+00:00",
-        "fetched_at": "2026-09-18T10:40:17.738013+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Introducing Astra for Law",
-        "url": "https://openai.com/index/astra-for-law",
-        "source": "OpenAI Blog",
-        "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work",
-        "category": "breaking",
-        "published_at": "2026-09-17T00:00:00+00:00",
-        "fetched_at": "2026-09-18T10:40:17.756773+00:00",
+        "published_at": "2026-09-18T12:00:00+00:00",
+        "fetched_at": "2026-09-19T10:24:30.211340+00:00",
         "author": "",
         "tags": [
           "Company"
+        ]
+      },
+      {
+        "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+        "url": "https://openai.com/index/hex-gpt-6-astra",
+        "source": "OpenAI Blog",
+        "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share",
+        "category": "breaking",
+        "published_at": "2026-09-16T12:00:00+00:00",
+        "fetched_at": "2026-09-19T10:24:30.256140+00:00",
+        "author": "",
+        "tags": [
+          "Startup"
         ]
       }
     ],
     "research": [
       {
-        "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
+        "title": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wkgx2y/acm_taps_moved_my_cameraready_to_support_deadline/",
         "source": "r/MachineLearning",
-        "summary": "I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget — and I'd rather hear that it's already set",
+        "summary": "My paper got accepted at an ACM conference and I'm doing the camera-ready through TAPS The PDF compiled fine, but TAPS flagged a \"source to HTML conversion issue\" and moved the file to TAPS Support No",
         "category": "research",
-        "published_at": "2026-09-18T10:01:58+00:00",
-        "fetched_at": "2026-09-18T10:40:34.220841+00:00",
-        "author": "/u/breadstickdingdong",
+        "published_at": "2026-09-19T08:45:58+00:00",
+        "fetched_at": "2026-09-19T10:24:46.473610+00:00",
+        "author": "/u/channel_hopper_",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-        "url": "https://arxiv.org/abs/2609.19170",
-        "source": "arXiv AI/ML",
-        "summary": "19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines const",
+        "title": "JMLR submission experience [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
+        "source": "r/MachineLearning",
+        "summary": "Hi just wondering has anyone submitted anything to JMLR before Especially in the last 2 years What is the experience like",
         "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:08.904355+00:00",
-        "author": "Xingguo Chen, Zhaohui Wu, Jinguo Ye, Chao Li, Shangdong Yang, Guang Yang, Skylar Liang, Wenhao Wang",
+        "published_at": "2026-09-19T02:11:32+00:00",
+        "fetched_at": "2026-09-19T10:24:46.386064+00:00",
+        "author": "/u/d_edge_sword",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-        "url": "https://arxiv.org/abs/2609.19180",
-        "source": "arXiv AI/ML",
-        "summary": "19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature In biophysics research, faithful answers require grounding obs",
+        "title": "ICLR SUBMISSION 47647 how that possible? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
+        "source": "r/MachineLearning",
+        "summary": "I just submitted my paper number to ICLR, and my id number is 47k submitted by /u/Practical_Pomelo_636 [link] [comments]",
         "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:08.946085+00:00",
-        "author": "Qingyang Xu",
+        "published_at": "2026-09-18T19:12:42+00:00",
+        "fetched_at": "2026-09-19T10:24:46.349505+00:00",
+        "author": "/u/Practical_Pomelo_636",
         "tags": [
-          "cs.AI",
-          "q-bio.QM"
+          "reddit"
         ]
       },
       {
-        "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-        "url": "https://arxiv.org/abs/2609.19182",
-        "source": "arXiv AI/ML",
-        "summary": "19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated Yet model rankings alone reveal little about how evaluation req",
+        "title": "How competitive are journals compared to top ai conferences? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+        "source": "r/MachineLearning",
+        "summary": "Hi everyone, The NeurIPS results aren’t out yet, but I’m expecting my paper to be rejected, so I’m considering submitting it to a journal instead My scores were 2/3/3 (3/4/4) I feel like I would proba",
         "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:08.973139+00:00",
-        "author": "Chao Wang (Independent Researcher)",
+        "published_at": "2026-09-18T11:36:57+00:00",
+        "fetched_at": "2026-09-19T10:24:46.505074+00:00",
+        "author": "/u/ATHii-127",
         "tags": [
-          "cs.AI",
-          "cs.CL"
+          "reddit"
         ]
       },
       {
-        "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-        "url": "https://arxiv.org/abs/2609.19212",
-        "source": "arXiv AI/ML",
-        "summary": "19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigoro",
+        "title": "augmenting large datasets to have more edge case data for training [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
+        "source": "r/MachineLearning",
+        "summary": "I have this idea I'd like feedback on most camera footage for training, is sunny daytime, because that's what cameras record most of the time The edge cases models actually struggles with, like night,",
         "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.045128+00:00",
-        "author": "Chengwen Qi, Deheng Ye, Yatao Bian",
+        "published_at": "2026-09-18T11:24:11+00:00",
+        "fetched_at": "2026-09-19T10:24:46.604558+00:00",
+        "author": "/u/danson729",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-        "url": "https://arxiv.org/abs/2609.19244",
-        "source": "arXiv AI/ML",
-        "summary": "19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood We present the first study of W",
+        "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
+        "source": "r/MachineLearning",
+        "summary": "I'm at a crossroads with two grad school options that would take me in somewhat different research directions, and I wanted some general advice on these fields, their growth, and industry alignment I'",
         "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.090818+00:00",
-        "author": "Mahsa Amani, Seungeon Lee, Abhisek Dash, Asmaa El Fraihi, Yunah Jang, Elisabeth Kirsten, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander, Muhammad Bilal Zafar, Soumi Das",
+        "published_at": "2026-09-17T21:55:47+00:00",
+        "fetched_at": "2026-09-19T10:24:46.650775+00:00",
+        "author": "/u/haze_q",
         "tags": [
-          "cs.AI",
-          "cs.IR"
+          "reddit"
         ]
       },
       {
-        "title": "Do AI Agents Understand Computer Architecture?",
-        "url": "https://arxiv.org/abs/2609.19387",
-        "source": "arXiv AI/ML",
-        "summary": "19387v1 Announce Type: new Abstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed Such reports establish that a design improved; they cannot establish why An ",
+        "title": "ICLR 2027 Edits Allowance [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
+        "source": "r/MachineLearning",
+        "summary": "Can we edit our title, abstract and other details till the main paper submission deadline submitted by /u/CplusplusSupremacy [link] [comments]",
         "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.112026+00:00",
-        "author": "Ambika Sharan, Grigory Chirkov, Soheil Abbasloo",
+        "published_at": "2026-09-17T11:25:00+00:00",
+        "fetched_at": "2026-09-19T10:24:46.666383+00:00",
+        "author": "/u/CplusplusSupremacy",
         "tags": [
-          "cs.AI",
-          "cs.AR"
-        ]
-      },
-      {
-        "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-        "url": "https://arxiv.org/abs/2609.19391",
-        "source": "arXiv AI/ML",
-        "summary": "19391v1 Announce Type: new Abstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the risk of safety and security failure",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.143153+00:00",
-        "author": "Albert Wu, Nicholas Roberts, Tzu-Heng Huang, Haoran Lin, Gil Friedman, Sungjun Cho, Gabriel Orlanski, Frederic Sala",
-        "tags": [
-          "cs.AI",
-          "cs.CR",
-          "cs.SE"
-        ]
-      },
-      {
-        "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-        "url": "https://arxiv.org/abs/2609.19425",
-        "source": "arXiv AI/ML",
-        "summary": "19425v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass argu",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.172555+00:00",
-        "author": "Laxmipriya Ganesh Iyer",
-        "tags": [
-          "cs.AI",
-          "cs.CR",
-          "cs.SE"
-        ]
-      },
-      {
-        "title": "The syntax and semantics of goals",
-        "url": "https://arxiv.org/abs/2609.19448",
-        "source": "arXiv AI/ML",
-        "summary": "19448v1 Announce Type: new Abstract: In both cognitive science and computer science, goals are conceptualized as cognitive states that flexibly combine with world knowledge to organize and specify pur",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.188732+00:00",
-        "author": "David M. Abel, Mark K. Ho",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
-        "url": "https://arxiv.org/abs/2609.19465",
-        "source": "arXiv AI/ML",
-        "summary": "19465v1 Announce Type: new Abstract: Compositional reasoning is critical for real-world problem solving: since training data is necessarily limited, models must generalize by composing learned skills ",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.221390+00:00",
-        "author": "Yu He, Yingxi Li, Yifei Wang, Ellen Vitercik",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
-        "url": "https://arxiv.org/abs/2609.19472",
-        "source": "arXiv AI/ML",
-        "summary": "19472v1 Announce Type: new Abstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding these models introduces latency and compute overhead",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.256677+00:00",
-        "author": "Alizishaan Khatri, Chiquita Prabhu, Omkar Neogi",
-        "tags": [
-          "cs.AI",
-          "cs.CL",
-          "cs.CR",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
-        "url": "https://arxiv.org/abs/2609.19515",
-        "source": "arXiv AI/ML",
-        "summary": "19515v1 Announce Type: new Abstract: Verifier-based selection improves LLM performance by generating multiple candidate solutions and using a verifier to select the most promising one However, existin",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.325838+00:00",
-        "author": "Akiyoshi Tomihari, Yuma Ichikawa",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
-        "url": "https://arxiv.org/abs/2609.19519",
-        "source": "arXiv AI/ML",
-        "summary": "19519v1 Announce Type: new Abstract: Language-model agents are increasingly asked to carry out work spanning days or weeks, such as an operations remediation or a research programme Such a task outliv",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.357479+00:00",
-        "author": "Erik Nijkamp, Anurag Koul, Egor Pakhomov, Bo Pang",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
-        "url": "https://arxiv.org/abs/2609.19523",
-        "source": "arXiv AI/ML",
-        "summary": "19523v1 Announce Type: new Abstract: Web agents often revisit the same sites, yet most evaluations discard the procedures learned in earlier successful interactions We introduce EconSkills, a skill li",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.395144+00:00",
-        "author": "Yinzhu Quan, Zefang Liu",
-        "tags": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      {
-        "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
-        "url": "https://arxiv.org/abs/2609.19524",
-        "source": "arXiv AI/ML",
-        "summary": "19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems Large language models (LLMs), agenti",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.436155+00:00",
-        "author": "Shaina Raza, Ahmed Y. Radwan, Imran Liaquat, Kathryn Hume",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Self Improvement via Fast Tree-search",
-        "url": "https://arxiv.org/abs/2609.19526",
-        "source": "arXiv AI/ML",
-        "summary": "19526v1 Announce Type: new Abstract: Coding agents can recursively modify their own implementations, forming a loop of self-improvement While prior work shows this can boost performance on coding benc",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.455433+00:00",
-        "author": "Xinghong Fu, Aravinth Kulanthaivelu, Yutaro Yamada",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent R\\'esum\\'e Screening",
-        "url": "https://arxiv.org/abs/2609.19530",
-        "source": "arXiv AI/ML",
-        "summary": "19530v1 Announce Type: new Abstract: Hiring is bilateral: employers assess fit, while candidates present and defend evidence of their qualifications Yet r\\'esum\\'e screening, the first gate, is common",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.498362+00:00",
-        "author": "Jian Gao, Hang Jiang",
-        "tags": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      {
-        "title": "Agentic AI Networking for Heterogeneous Unmanned Aerial Systems in Low-Altitude Wireless Networks",
-        "url": "https://arxiv.org/abs/2609.19538",
-        "source": "arXiv AI/ML",
-        "summary": "19538v1 Announce Type: new Abstract: Low-altitude wireless networks (LAWNs) are emerging as a key infrastructure for heterogeneous unmanned aerial systems that support concurrent services within a sha",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.540397+00:00",
-        "author": "Nguyen Duc Minh Quang, Chang Liu, Shuangyang Li, Derrick Wing Kwan Ng",
-        "tags": [
-          "cs.AI",
-          "cs.MA"
-        ]
-      },
-      {
-        "title": "Continual Enterprise World Model Discovery in Dynamic Systems",
-        "url": "https://arxiv.org/abs/2609.19551",
-        "source": "arXiv AI/ML",
-        "summary": "19551v1 Announce Type: new Abstract: In an enterprise system, updating one field can set another, create a record, or start an approval These effects are produced by business rules that are not built ",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.568770+00:00",
-        "author": "Shambhavi Mishra, David Vazquez, Perouz Taslakian, Marco Pedersoli, Jose Dolz, Issam H. Laradji",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership",
-        "url": "https://arxiv.org/abs/2609.19610",
-        "source": "arXiv AI/ML",
-        "summary": "19610v1 Announce Type: new Abstract: Understanding humans over long horizons requires agents to infer not only what people need in the moment, but also how routines form, why they repeat, and when the",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.600176+00:00",
-        "author": "Run Peng, Zinnia Nie, Jing Ding, Yinpei Dai, Yichi Zhang, Zengqing Wu, Yao Fu, Ziqiao Ma, Jiayuan Mao, Joyce Chai",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
-        "url": "https://arxiv.org/abs/2609.19630",
-        "source": "arXiv AI/ML",
-        "summary": "19630v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into vehicle voice assistants But linking natural-language requests to vehicle functions creates a safety-",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.636490+00:00",
-        "author": "Diba Afroze, Xingli Zhang, Yazhou Tu, Xiali Hei",
-        "tags": [
-          "cs.AI",
-          "cs.CL",
-          "cs.RO"
-        ]
-      },
-      {
-        "title": "Reach or Solve? Attributing Agentic RL Gains with Checkpoint Handoffs",
-        "url": "https://arxiv.org/abs/2609.19636",
-        "source": "arXiv AI/ML",
-        "summary": "19636v1 Announce Type: new Abstract: Reinforcement learning now trains language-model agents that act over dozens of steps in live environments The gains are large, and they are read as better decisio",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.667202+00:00",
-        "author": "Xuan Liu, Jingbin Qian",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
-        "url": "https://arxiv.org/abs/2609.19644",
-        "source": "arXiv AI/ML",
-        "summary": "19644v1 Announce Type: new Abstract: Scientific discovery is defined by the ability to identify the boundaries of existing knowledge and venture into unexplored territory The ultimate vision for AI in",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.699593+00:00",
-        "author": "Jaehyun Nam, Jinsung Yoon, Yanzhou Pan, Yubo Wang, Rui Meng, Parthasarathy Ranganathan, Tomas Pfister",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions",
-        "url": "https://arxiv.org/abs/2609.19654",
-        "source": "arXiv AI/ML",
-        "summary": "19654v1 Announce Type: new Abstract: Travel-planning agents generate itineraries that may become infeasible after acceptance because of flight cancellations, hotel unavailability, or attraction closur",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.750768+00:00",
-        "author": "Xiaofei Yuan, Yan Zhang, Shaobo Qiao, Huangleshuai He, Leyan Ni, Mingchen Ju, Lujia Yang, Sijia Xu, Yifu Tang, Zhengyi Yang",
-        "tags": [
-          "cs.AI",
-          "cs.MA"
-        ]
-      },
-      {
-        "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
-        "url": "https://arxiv.org/abs/2609.19671",
-        "source": "arXiv AI/ML",
-        "summary": "19671v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) achieve strong performance on complex tasks but exhibit systematic inefficiency: they often overthink easy problems and underthink ha",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.790012+00:00",
-        "author": "Jaejun Shim, HyunJin Kim, Young Jin Kim, JinYeong Bak",
-        "tags": [
-          "cs.AI",
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
-        "url": "https://arxiv.org/abs/2609.19680",
-        "source": "arXiv AI/ML",
-        "summary": "19680v1 Announce Type: new Abstract: Financial QA systems are typically improved before deployment through better retrieval, prompting, or agent coordination, leaving their reliability behavior fixed ",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.819760+00:00",
-        "author": "Yanzhang Ma, Zhenghan Tai, Hanwei Wu, Sizhe Guan, Jianliang Lei, Hailin He, Chaolong Jiang, Jijun Chi, Tung Sum Thomas Kwok, Bohuai Xiao, Jingrui Tian, Xinlu Wu, Xingao Zhan, Peng Lu, Muzhi Li, Yihong Wu, Liheng Ma, Sicheng Lyu, Tianshuo Yan, Junhao Zhu, Yaqian Xu, Lei Ding, Yufei Cui, Ziquan Liu, Boyu Han, Hengli Liu, Ling Zhou, Xinyu Wang",
-        "tags": [
-          "cs.AI",
-          "cs.IR",
-          "cs.MA",
-          "cs.SE"
-        ]
-      },
-      {
-        "title": "AutoData: Agentic Search for Pre-training Data Selection",
-        "url": "https://arxiv.org/abs/2609.19754",
-        "source": "arXiv AI/ML",
-        "summary": "19754v1 Announce Type: new Abstract: LLM agents have recently shown promise in automating machine learning engineering by editing model and training code under execution feedback Data, however, remain",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.879616+00:00",
-        "author": "Yan Meng, Dhruv Srikanth, Bingchen Zhao, Zhengyao Jiang, Yuxiang Wu",
-        "tags": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      {
-        "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
-        "url": "https://arxiv.org/abs/2609.19209",
-        "source": "arXiv ML",
-        "summary": "19209v1 Announce Type: new Abstract: Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries A central challenge is to gene",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:10.553214+00:00",
-        "author": "Xinpeng Liu, Lu Ma, Jiayi Qiao, Mengyu Zhou, Linglong Li, Xiaofeng Bian, Haonan Chen, Xiaoxi Jiang, Guanjun Jiang",
-        "tags": [
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "Layer-wise Curriculum Learning for Efficient LLM Compression",
-        "url": "https://arxiv.org/abs/2609.19213",
-        "source": "arXiv ML",
-        "summary": "19213v1 Announce Type: new Abstract: In this paper, we introduce layer-wise curriculum learning for efficient LLM compression The proposed method facilitates the knowledge transfer from the teacher mo",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:10.583125+00:00",
-        "author": "Donggeon Lee, Dooyeon Na, Seungmin Oh, Jongbin Ryu",
-        "tags": [
-          "cs.LG",
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training",
-        "url": "https://arxiv.org/abs/2609.19242",
-        "source": "arXiv ML",
-        "summary": "19242v1 Announce Type: new Abstract: Block diffusion language models (BDLMs) combine autoregressive dependencies across blocks with parallel denoising within blocks, but long-context training is const",
-        "category": "research",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:10.624403+00:00",
-        "author": "Tarun Suresh, Pranshu Chaturvedi, Hangoo Kang, Parth Shroff, Ishan S. Khare, Hermann Kumbong, Azalia Mirhoseini",
-        "tags": [
-          "cs.LG"
+          "reddit"
         ]
       }
     ],
     "industry": [
+      {
+        "title": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
+        "source": "r/MachineLearning",
+        "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+        "category": "industry",
+        "published_at": "2026-09-19T05:41:20+00:00",
+        "fetched_at": "2026-09-19T10:24:46.418831+00:00",
+        "author": "/u/Winter_Mistake_3185",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "How is RLCD (jev) RL? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
+        "source": "r/MachineLearning",
+        "summary": "Just saw the YouTube presentation and I was left wondering this question If jev only outputs Choice, Score, or Noul … well those are all perfectly differentiable (Cross entropy or mse) I don’t know if",
+        "category": "industry",
+        "published_at": "2026-09-18T23:54:25+00:00",
+        "fetched_at": "2026-09-19T10:24:46.431359+00:00",
+        "author": "/u/Relative_Wallaby_823",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+        "source": "r/MachineLearning",
+        "summary": "I'm James Gung, a principal applied scientist at AWS I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistant for work) In that tim",
+        "category": "industry",
+        "published_at": "2026-09-18T16:13:30+00:00",
+        "fetched_at": "2026-09-19T10:24:46.330630+00:00",
+        "author": "/u/Amazon_Careers",
+        "tags": [
+          "reddit"
+        ]
+      },
       {
         "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
         "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
@@ -510,7 +183,7 @@
         "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics Higher system performance means more tokens generated, re",
         "category": "industry",
         "published_at": "2026-09-16T15:00:48+00:00",
-        "fetched_at": "2026-09-18T10:40:23.876143+00:00",
+        "fetched_at": "2026-09-19T10:24:35.658491+00:00",
         "author": "Zhihan Jiang",
         "tags": [
           "AI Infrastructure",
@@ -518,80 +191,6 @@
           "Networking",
           "Software",
           "Dynamo"
-        ]
-      },
-      {
-        "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-        "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-        "source": "NVIDIA Blog",
-        "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U Data-driven insights can help — but computing air quality with traditional chemistry-based models is ",
-        "category": "industry",
-        "published_at": "2026-09-16T05:00:42+00:00",
-        "fetched_at": "2026-09-18T10:40:23.925286+00:00",
-        "author": "Isha Salian",
-        "tags": [
-          "AI",
-          "AI for Good",
-          "Climate",
-          "Open Source",
-          "Science"
-        ]
-      },
-      {
-        "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-        "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-        "source": "NVIDIA Blog",
-        "summary": "That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Sales",
-        "category": "industry",
-        "published_at": "2026-09-15T22:24:34+00:00",
-        "fetched_at": "2026-09-18T10:40:23.969461+00:00",
-        "author": "Brian Caulfield",
-        "tags": [
-          "AI",
-          "Cloud",
-          "Corporate",
-          "Software",
-          "Agentic AI"
-        ]
-      },
-      {
-        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-        "source": "Google DeepMind Blog",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-09-15T17:05:57+00:00",
-        "fetched_at": "2026-09-18T10:40:25.012706+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-        "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-        "source": "NVIDIA Blog",
-        "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption Varun Sivara",
-        "category": "industry",
-        "published_at": "2026-09-15T16:55:59+00:00",
-        "fetched_at": "2026-09-18T10:40:24.008540+00:00",
-        "author": "Vishal Ganeriwala",
-        "tags": [
-          "AI Infrastructure"
-        ]
-      },
-      {
-        "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-        "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-        "source": "NVIDIA Blog",
-        "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed",
-        "category": "industry",
-        "published_at": "2026-09-15T16:55:40+00:00",
-        "fetched_at": "2026-09-18T10:40:24.072118+00:00",
-        "author": "NVIDIA Writers",
-        "tags": [
-          "AI Infrastructure",
-          "NVIDIA DSX",
-          "NVIDIA Vera Rubin",
-          "NVLink"
         ]
       }
     ],
@@ -603,80 +202,22 @@
         "summary": "AAAI-27 Phase 1 results are expected on September 24 Anyone else waiting for the decision Would be useful to keep this thread for updates when people start receiving notifications",
         "category": "tools",
         "published_at": "2026-09-18T05:36:32+00:00",
-        "fetched_at": "2026-09-18T10:40:34.143990+00:00",
+        "fetched_at": "2026-09-19T10:24:46.519748+00:00",
         "author": "/u/BeneficialFish04",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-        "url": "https://arxiv.org/abs/2609.19203",
-        "source": "arXiv AI/ML",
-        "summary": "19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems Yet today's stacks remain fragmented: even as protocols (e ",
+        "title": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+        "url": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+        "source": "Together AI Blog",
+        "summary": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing",
         "category": "tools",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.011508+00:00",
-        "author": "Suparna Bhattacharya, Tarun Kumar, Cong Xu, Satish Kumar Mopur, Jiahao Li, Ashish Mishra, Aalap Tripathy, Annmary Justine Koomthanam, Martin Foltin, Ian Foster",
-        "tags": [
-          "cs.AI",
-          "cs.LG",
-          "cs.MA",
-          "cs.OS"
-        ]
-      },
-      {
-        "title": "LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents",
-        "url": "https://arxiv.org/abs/2609.19721",
-        "source": "arXiv AI/ML",
-        "summary": "19721v1 Announce Type: new Abstract: Clinical coding agents repeatedly encounter the same failure modes, including unsupported codes, missed documented conditions, specificity errors, and procedure-co",
-        "category": "tools",
-        "published_at": "2026-09-18T00:00:00-04:00",
-        "fetched_at": "2026-09-18T10:40:09.852343+00:00",
-        "author": "Meysam Ghaffari, Bhaskar Sen, Nasim Sabetpour, Nina Fatehi, Animesh Agarwal, Carlos Morato",
-        "tags": [
-          "cs.AI",
-          "cs.MA"
-        ]
-      },
-      {
-        "title": "If you have leftover AI tokens/compute, there’s an open project working on the Twin Prime Conjecture [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wiggpg/if_you_have_leftover_ai_tokenscompute_theres_an/",
-        "source": "r/MachineLearning",
-        "summary": "Hey, I’ve been contributing some of my leftover tokens to this open project called solveathome The idea is pretty straightforward: people can send AI agents (and spare compute/tokens) to work on hard ",
-        "category": "tools",
-        "published_at": "2026-09-17T01:45:07+00:00",
-        "fetched_at": "2026-09-18T10:40:34.638177+00:00",
-        "author": "/u/Regular_Instruction",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Question about TMLR [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
-        "source": "r/MachineLearning",
-        "summary": "I have a submission under review in TMLR Less than a month after submission, I have already received 2 reviews However, a month has passed since those two reviews, and I still haven't received the thi",
-        "category": "tools",
-        "published_at": "2026-09-16T21:26:05+00:00",
-        "fetched_at": "2026-09-18T10:40:34.477516+00:00",
-        "author": "/u/Massive_Horror9038",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "GoBench: Evaluating LLMs on the game of Go [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
-        "source": "r/MachineLearning",
-        "summary": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0 83 correlation), a",
-        "category": "tools",
-        "published_at": "2026-09-16T18:54:35+00:00",
-        "fetched_at": "2026-09-18T10:40:34.459533+00:00",
-        "author": "/u/Roland31415",
-        "tags": [
-          "reddit"
-        ]
+        "published_at": "2026-09-18T00:00:00+00:00",
+        "fetched_at": "2026-09-19T10:24:44.956783+00:00",
+        "author": "",
+        "tags": []
       },
       {
         "title": "Reimagining advertising with AI",
@@ -685,300 +226,182 @@
         "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify",
         "category": "tools",
         "published_at": "2026-09-16T13:00:00+00:00",
-        "fetched_at": "2026-09-18T10:40:17.779351+00:00",
+        "fetched_at": "2026-09-19T10:24:30.227706+00:00",
         "author": "",
         "tags": [
           "Product"
         ]
-      },
-      {
-        "title": "Your Agent Aced the Task. Will It Do It Again?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-09-15T16:00:44+00:00",
-        "fetched_at": "2026-09-18T10:40:16.779957+00:00",
-        "author": "",
-        "tags": []
       }
     ]
   },
   "all_articles": [
     {
-      "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
-      "url": "https://arxiv.org/abs/2609.19513",
-      "source": "arXiv AI/ML",
-      "summary": "19513v1 Announce Type: new Abstract: High-quality pre-training data is a critical bottleneck for educational and STEM-specific language models targeting edge AI and on-device deployment where token bu",
-      "category": "breaking",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.299088+00:00",
-      "author": "Davide Vitabile, N. Ranjan, Akshay Nambiar, Kamal K. Gupta, Amril Nazir",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "XGBoost vs Human Markets [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
+      "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
       "source": "r/MachineLearning",
-      "summary": "What is the generally thought of as the upper limit of the predictive power of XGBoost vs an aggregate of humans Right now I feed the model the same information that the human market has access to, an",
+      "summary": "Github repo : https://github com/YouCele/nhanes-chd-classification I built a project that predicts self-reported, physician-diagnosed coronary heart disease using four cycles of NHANES data (2011-2012",
       "category": "breaking",
-      "published_at": "2026-09-17T15:59:49+00:00",
-      "fetched_at": "2026-09-18T10:40:34.499351+00:00",
-      "author": "/u/TravalonTom",
+      "published_at": "2026-09-18T12:36:07+00:00",
+      "fetched_at": "2026-09-19T10:24:46.571910+00:00",
+      "author": "/u/YouJonaa",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
-      "source": "NVIDIA Blog",
-      "summary": "A new creature-catching adventure is ready to stream from the cloud this week Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll acros",
-      "category": "breaking",
-      "published_at": "2026-09-17T13:00:55+00:00",
-      "fetched_at": "2026-09-18T10:40:23.825134+00:00",
-      "author": "GeForce NOW Community",
-      "tags": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ]
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI Blog",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people",
       "category": "breaking",
-      "published_at": "2026-09-17T12:00:00+00:00",
-      "fetched_at": "2026-09-18T10:40:17.738013+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI Blog",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work",
-      "category": "breaking",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "fetched_at": "2026-09-18T10:40:17.756773+00:00",
+      "published_at": "2026-09-18T12:00:00+00:00",
+      "fetched_at": "2026-09-19T10:24:30.211340+00:00",
       "author": "",
       "tags": [
         "Company"
       ]
     },
     {
-      "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI Blog",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share",
+      "category": "breaking",
+      "published_at": "2026-09-16T12:00:00+00:00",
+      "fetched_at": "2026-09-19T10:24:30.256140+00:00",
+      "author": "",
+      "tags": [
+        "Startup"
+      ]
+    },
+    {
+      "title": "ACM TAPS moved my camera-ready to support, deadline is in 2 days. Anyone been through this? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wkgx2y/acm_taps_moved_my_cameraready_to_support_deadline/",
       "source": "r/MachineLearning",
-      "summary": "I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget — and I'd rather hear that it's already set",
+      "summary": "My paper got accepted at an ACM conference and I'm doing the camera-ready through TAPS The PDF compiled fine, but TAPS flagged a \"source to HTML conversion issue\" and moved the file to TAPS Support No",
       "category": "research",
-      "published_at": "2026-09-18T10:01:58+00:00",
-      "fetched_at": "2026-09-18T10:40:34.220841+00:00",
-      "author": "/u/breadstickdingdong",
+      "published_at": "2026-09-19T08:45:58+00:00",
+      "fetched_at": "2026-09-19T10:24:46.473610+00:00",
+      "author": "/u/channel_hopper_",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-      "url": "https://arxiv.org/abs/2609.19170",
-      "source": "arXiv AI/ML",
-      "summary": "19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines const",
+      "title": "JMLR submission experience [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
+      "source": "r/MachineLearning",
+      "summary": "Hi just wondering has anyone submitted anything to JMLR before Especially in the last 2 years What is the experience like",
       "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:08.904355+00:00",
-      "author": "Xingguo Chen, Zhaohui Wu, Jinguo Ye, Chao Li, Shangdong Yang, Guang Yang, Skylar Liang, Wenhao Wang",
+      "published_at": "2026-09-19T02:11:32+00:00",
+      "fetched_at": "2026-09-19T10:24:46.386064+00:00",
+      "author": "/u/d_edge_sword",
       "tags": [
-        "cs.AI"
+        "reddit"
       ]
     },
     {
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "url": "https://arxiv.org/abs/2609.19180",
-      "source": "arXiv AI/ML",
-      "summary": "19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature In biophysics research, faithful answers require grounding obs",
+      "title": "ICLR SUBMISSION 47647 how that possible? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
+      "source": "r/MachineLearning",
+      "summary": "I just submitted my paper number to ICLR, and my id number is 47k submitted by /u/Practical_Pomelo_636 [link] [comments]",
       "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:08.946085+00:00",
-      "author": "Qingyang Xu",
+      "published_at": "2026-09-18T19:12:42+00:00",
+      "fetched_at": "2026-09-19T10:24:46.349505+00:00",
+      "author": "/u/Practical_Pomelo_636",
       "tags": [
-        "cs.AI",
-        "q-bio.QM"
+        "reddit"
       ]
     },
     {
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "url": "https://arxiv.org/abs/2609.19182",
-      "source": "arXiv AI/ML",
-      "summary": "19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated Yet model rankings alone reveal little about how evaluation req",
+      "title": "How competitive are journals compared to top ai conferences? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+      "source": "r/MachineLearning",
+      "summary": "Hi everyone, The NeurIPS results aren’t out yet, but I’m expecting my paper to be rejected, so I’m considering submitting it to a journal instead My scores were 2/3/3 (3/4/4) I feel like I would proba",
       "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:08.973139+00:00",
-      "author": "Chao Wang (Independent Researcher)",
+      "published_at": "2026-09-18T11:36:57+00:00",
+      "fetched_at": "2026-09-19T10:24:46.505074+00:00",
+      "author": "/u/ATHii-127",
       "tags": [
-        "cs.AI",
-        "cs.CL"
+        "reddit"
       ]
     },
     {
-      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-      "url": "https://arxiv.org/abs/2609.19212",
-      "source": "arXiv AI/ML",
-      "summary": "19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigoro",
+      "title": "augmenting large datasets to have more edge case data for training [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
+      "source": "r/MachineLearning",
+      "summary": "I have this idea I'd like feedback on most camera footage for training, is sunny daytime, because that's what cameras record most of the time The edge cases models actually struggles with, like night,",
       "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.045128+00:00",
-      "author": "Chengwen Qi, Deheng Ye, Yatao Bian",
+      "published_at": "2026-09-18T11:24:11+00:00",
+      "fetched_at": "2026-09-19T10:24:46.604558+00:00",
+      "author": "/u/danson729",
       "tags": [
-        "cs.AI"
+        "reddit"
       ]
     },
     {
-      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-      "url": "https://arxiv.org/abs/2609.19244",
-      "source": "arXiv AI/ML",
-      "summary": "19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood We present the first study of W",
+      "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
+      "source": "r/MachineLearning",
+      "summary": "I'm at a crossroads with two grad school options that would take me in somewhat different research directions, and I wanted some general advice on these fields, their growth, and industry alignment I'",
       "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.090818+00:00",
-      "author": "Mahsa Amani, Seungeon Lee, Abhisek Dash, Asmaa El Fraihi, Yunah Jang, Elisabeth Kirsten, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander, Muhammad Bilal Zafar, Soumi Das",
+      "published_at": "2026-09-17T21:55:47+00:00",
+      "fetched_at": "2026-09-19T10:24:46.650775+00:00",
+      "author": "/u/haze_q",
       "tags": [
-        "cs.AI",
-        "cs.IR"
+        "reddit"
       ]
     },
     {
-      "title": "Do AI Agents Understand Computer Architecture?",
-      "url": "https://arxiv.org/abs/2609.19387",
-      "source": "arXiv AI/ML",
-      "summary": "19387v1 Announce Type: new Abstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed Such reports establish that a design improved; they cannot establish why An ",
+      "title": "ICLR 2027 Edits Allowance [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
+      "source": "r/MachineLearning",
+      "summary": "Can we edit our title, abstract and other details till the main paper submission deadline submitted by /u/CplusplusSupremacy [link] [comments]",
       "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.112026+00:00",
-      "author": "Ambika Sharan, Grigory Chirkov, Soheil Abbasloo",
+      "published_at": "2026-09-17T11:25:00+00:00",
+      "fetched_at": "2026-09-19T10:24:46.666383+00:00",
+      "author": "/u/CplusplusSupremacy",
       "tags": [
-        "cs.AI",
-        "cs.AR"
+        "reddit"
       ]
     },
     {
-      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-      "url": "https://arxiv.org/abs/2609.19391",
-      "source": "arXiv AI/ML",
-      "summary": "19391v1 Announce Type: new Abstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the risk of safety and security failure",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.143153+00:00",
-      "author": "Albert Wu, Nicholas Roberts, Tzu-Heng Huang, Haoran Lin, Gil Friedman, Sungjun Cho, Gabriel Orlanski, Frederic Sala",
+      "title": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
+      "source": "r/MachineLearning",
+      "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+      "category": "industry",
+      "published_at": "2026-09-19T05:41:20+00:00",
+      "fetched_at": "2026-09-19T10:24:46.418831+00:00",
+      "author": "/u/Winter_Mistake_3185",
       "tags": [
-        "cs.AI",
-        "cs.CR",
-        "cs.SE"
+        "reddit"
       ]
     },
     {
-      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-      "url": "https://arxiv.org/abs/2609.19425",
-      "source": "arXiv AI/ML",
-      "summary": "19425v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call tools that do not exist and pass argu",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.172555+00:00",
-      "author": "Laxmipriya Ganesh Iyer",
+      "title": "How is RLCD (jev) RL? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
+      "source": "r/MachineLearning",
+      "summary": "Just saw the YouTube presentation and I was left wondering this question If jev only outputs Choice, Score, or Noul … well those are all perfectly differentiable (Cross entropy or mse) I don’t know if",
+      "category": "industry",
+      "published_at": "2026-09-18T23:54:25+00:00",
+      "fetched_at": "2026-09-19T10:24:46.431359+00:00",
+      "author": "/u/Relative_Wallaby_823",
       "tags": [
-        "cs.AI",
-        "cs.CR",
-        "cs.SE"
+        "reddit"
       ]
     },
     {
-      "title": "The syntax and semantics of goals",
-      "url": "https://arxiv.org/abs/2609.19448",
-      "source": "arXiv AI/ML",
-      "summary": "19448v1 Announce Type: new Abstract: In both cognitive science and computer science, goals are conceptualized as cognitive states that flexibly combine with world knowledge to organize and specify pur",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.188732+00:00",
-      "author": "David M. Abel, Mark K. Ho",
+      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+      "source": "r/MachineLearning",
+      "summary": "I'm James Gung, a principal applied scientist at AWS I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistant for work) In that tim",
+      "category": "industry",
+      "published_at": "2026-09-18T16:13:30+00:00",
+      "fetched_at": "2026-09-19T10:24:46.330630+00:00",
+      "author": "/u/Amazon_Careers",
       "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
-      "url": "https://arxiv.org/abs/2609.19465",
-      "source": "arXiv AI/ML",
-      "summary": "19465v1 Announce Type: new Abstract: Compositional reasoning is critical for real-world problem solving: since training data is necessarily limited, models must generalize by composing learned skills ",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.221390+00:00",
-      "author": "Yu He, Yingxi Li, Yifei Wang, Ellen Vitercik",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
-      "url": "https://arxiv.org/abs/2609.19472",
-      "source": "arXiv AI/ML",
-      "summary": "19472v1 Announce Type: new Abstract: Autonomous systems increasingly rely on Large Language Models (LLMs) yet the safety infrastructure surrounding these models introduces latency and compute overhead",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.256677+00:00",
-      "author": "Alizishaan Khatri, Chiquita Prabhu, Omkar Neogi",
-      "tags": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CR",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
-      "url": "https://arxiv.org/abs/2609.19515",
-      "source": "arXiv AI/ML",
-      "summary": "19515v1 Announce Type: new Abstract: Verifier-based selection improves LLM performance by generating multiple candidate solutions and using a verifier to select the most promising one However, existin",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.325838+00:00",
-      "author": "Akiyoshi Tomihari, Yuma Ichikawa",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
-      "url": "https://arxiv.org/abs/2609.19519",
-      "source": "arXiv AI/ML",
-      "summary": "19519v1 Announce Type: new Abstract: Language-model agents are increasingly asked to carry out work spanning days or weeks, such as an operations remediation or a research programme Such a task outliv",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.357479+00:00",
-      "author": "Erik Nijkamp, Anurag Koul, Egor Pakhomov, Bo Pang",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
-      "url": "https://arxiv.org/abs/2609.19523",
-      "source": "arXiv AI/ML",
-      "summary": "19523v1 Announce Type: new Abstract: Web agents often revisit the same sites, yet most evaluations discard the procedures learned in earlier successful interactions We introduce EconSkills, a skill li",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.395144+00:00",
-      "author": "Yinzhu Quan, Zefang Liu",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
+        "reddit"
       ]
     },
     {
@@ -988,7 +411,7 @@
       "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics Higher system performance means more tokens generated, re",
       "category": "industry",
       "published_at": "2026-09-16T15:00:48+00:00",
-      "fetched_at": "2026-09-18T10:40:23.876143+00:00",
+      "fetched_at": "2026-09-19T10:24:35.658491+00:00",
       "author": "Zhihan Jiang",
       "tags": [
         "AI Infrastructure",
@@ -999,160 +422,28 @@
       ]
     },
     {
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "source": "NVIDIA Blog",
-      "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U Data-driven insights can help — but computing air quality with traditional chemistry-based models is ",
-      "category": "industry",
-      "published_at": "2026-09-16T05:00:42+00:00",
-      "fetched_at": "2026-09-18T10:40:23.925286+00:00",
-      "author": "Isha Salian",
-      "tags": [
-        "AI",
-        "AI for Good",
-        "Climate",
-        "Open Source",
-        "Science"
-      ]
-    },
-    {
-      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "source": "NVIDIA Blog",
-      "summary": "That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Sales",
-      "category": "industry",
-      "published_at": "2026-09-15T22:24:34+00:00",
-      "fetched_at": "2026-09-18T10:40:23.969461+00:00",
-      "author": "Brian Caulfield",
-      "tags": [
-        "AI",
-        "Cloud",
-        "Corporate",
-        "Software",
-        "Agentic AI"
-      ]
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-09-15T17:05:57+00:00",
-      "fetched_at": "2026-09-18T10:40:25.012706+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-      "source": "NVIDIA Blog",
-      "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption Varun Sivara",
-      "category": "industry",
-      "published_at": "2026-09-15T16:55:59+00:00",
-      "fetched_at": "2026-09-18T10:40:24.008540+00:00",
-      "author": "Vishal Ganeriwala",
-      "tags": [
-        "AI Infrastructure"
-      ]
-    },
-    {
-      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-      "source": "NVIDIA Blog",
-      "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed",
-      "category": "industry",
-      "published_at": "2026-09-15T16:55:40+00:00",
-      "fetched_at": "2026-09-18T10:40:24.072118+00:00",
-      "author": "NVIDIA Writers",
-      "tags": [
-        "AI Infrastructure",
-        "NVIDIA DSX",
-        "NVIDIA Vera Rubin",
-        "NVLink"
-      ]
-    },
-    {
       "title": "AAAI-27 Phase 1 Results [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
       "source": "r/MachineLearning",
       "summary": "AAAI-27 Phase 1 results are expected on September 24 Anyone else waiting for the decision Would be useful to keep this thread for updates when people start receiving notifications",
       "category": "tools",
       "published_at": "2026-09-18T05:36:32+00:00",
-      "fetched_at": "2026-09-18T10:40:34.143990+00:00",
+      "fetched_at": "2026-09-19T10:24:46.519748+00:00",
       "author": "/u/BeneficialFish04",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "url": "https://arxiv.org/abs/2609.19203",
-      "source": "arXiv AI/ML",
-      "summary": "19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems Yet today's stacks remain fragmented: even as protocols (e ",
+      "title": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+      "url": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+      "source": "Together AI Blog",
+      "summary": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing",
       "category": "tools",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.011508+00:00",
-      "author": "Suparna Bhattacharya, Tarun Kumar, Cong Xu, Satish Kumar Mopur, Jiahao Li, Ashish Mishra, Aalap Tripathy, Annmary Justine Koomthanam, Martin Foltin, Ian Foster",
-      "tags": [
-        "cs.AI",
-        "cs.LG",
-        "cs.MA",
-        "cs.OS"
-      ]
-    },
-    {
-      "title": "LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents",
-      "url": "https://arxiv.org/abs/2609.19721",
-      "source": "arXiv AI/ML",
-      "summary": "19721v1 Announce Type: new Abstract: Clinical coding agents repeatedly encounter the same failure modes, including unsupported codes, missed documented conditions, specificity errors, and procedure-co",
-      "category": "tools",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.852343+00:00",
-      "author": "Meysam Ghaffari, Bhaskar Sen, Nasim Sabetpour, Nina Fatehi, Animesh Agarwal, Carlos Morato",
-      "tags": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "If you have leftover AI tokens/compute, there’s an open project working on the Twin Prime Conjecture [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wiggpg/if_you_have_leftover_ai_tokenscompute_theres_an/",
-      "source": "r/MachineLearning",
-      "summary": "Hey, I’ve been contributing some of my leftover tokens to this open project called solveathome The idea is pretty straightforward: people can send AI agents (and spare compute/tokens) to work on hard ",
-      "category": "tools",
-      "published_at": "2026-09-17T01:45:07+00:00",
-      "fetched_at": "2026-09-18T10:40:34.638177+00:00",
-      "author": "/u/Regular_Instruction",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Question about TMLR [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
-      "source": "r/MachineLearning",
-      "summary": "I have a submission under review in TMLR Less than a month after submission, I have already received 2 reviews However, a month has passed since those two reviews, and I still haven't received the thi",
-      "category": "tools",
-      "published_at": "2026-09-16T21:26:05+00:00",
-      "fetched_at": "2026-09-18T10:40:34.477516+00:00",
-      "author": "/u/Massive_Horror9038",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "GoBench: Evaluating LLMs on the game of Go [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
-      "source": "r/MachineLearning",
-      "summary": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0 83 correlation), a",
-      "category": "tools",
-      "published_at": "2026-09-16T18:54:35+00:00",
-      "fetched_at": "2026-09-18T10:40:34.459533+00:00",
-      "author": "/u/Roland31415",
-      "tags": [
-        "reddit"
-      ]
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-19T10:24:44.956783+00:00",
+      "author": "",
+      "tags": []
     },
     {
       "title": "Reimagining advertising with AI",
@@ -1161,241 +452,10 @@
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify",
       "category": "tools",
       "published_at": "2026-09-16T13:00:00+00:00",
-      "fetched_at": "2026-09-18T10:40:17.779351+00:00",
+      "fetched_at": "2026-09-19T10:24:30.227706+00:00",
       "author": "",
       "tags": [
         "Product"
-      ]
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-09-15T16:00:44+00:00",
-      "fetched_at": "2026-09-18T10:40:16.779957+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
-      "url": "https://arxiv.org/abs/2609.19524",
-      "source": "arXiv AI/ML",
-      "summary": "19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems Large language models (LLMs), agenti",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.436155+00:00",
-      "author": "Shaina Raza, Ahmed Y. Radwan, Imran Liaquat, Kathryn Hume",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Self Improvement via Fast Tree-search",
-      "url": "https://arxiv.org/abs/2609.19526",
-      "source": "arXiv AI/ML",
-      "summary": "19526v1 Announce Type: new Abstract: Coding agents can recursively modify their own implementations, forming a loop of self-improvement While prior work shows this can boost performance on coding benc",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.455433+00:00",
-      "author": "Xinghong Fu, Aravinth Kulanthaivelu, Yutaro Yamada",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent R\\'esum\\'e Screening",
-      "url": "https://arxiv.org/abs/2609.19530",
-      "source": "arXiv AI/ML",
-      "summary": "19530v1 Announce Type: new Abstract: Hiring is bilateral: employers assess fit, while candidates present and defend evidence of their qualifications Yet r\\'esum\\'e screening, the first gate, is common",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.498362+00:00",
-      "author": "Jian Gao, Hang Jiang",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Agentic AI Networking for Heterogeneous Unmanned Aerial Systems in Low-Altitude Wireless Networks",
-      "url": "https://arxiv.org/abs/2609.19538",
-      "source": "arXiv AI/ML",
-      "summary": "19538v1 Announce Type: new Abstract: Low-altitude wireless networks (LAWNs) are emerging as a key infrastructure for heterogeneous unmanned aerial systems that support concurrent services within a sha",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.540397+00:00",
-      "author": "Nguyen Duc Minh Quang, Chang Liu, Shuangyang Li, Derrick Wing Kwan Ng",
-      "tags": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "Continual Enterprise World Model Discovery in Dynamic Systems",
-      "url": "https://arxiv.org/abs/2609.19551",
-      "source": "arXiv AI/ML",
-      "summary": "19551v1 Announce Type: new Abstract: In an enterprise system, updating one field can set another, create a record, or start an approval These effects are produced by business rules that are not built ",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.568770+00:00",
-      "author": "Shambhavi Mishra, David Vazquez, Perouz Taslakian, Marco Pedersoli, Jose Dolz, Issam H. Laradji",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership",
-      "url": "https://arxiv.org/abs/2609.19610",
-      "source": "arXiv AI/ML",
-      "summary": "19610v1 Announce Type: new Abstract: Understanding humans over long horizons requires agents to infer not only what people need in the moment, but also how routines form, why they repeat, and when the",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.600176+00:00",
-      "author": "Run Peng, Zinnia Nie, Jing Ding, Yinpei Dai, Yichi Zhang, Zengqing Wu, Yao Fu, Ziqiao Ma, Jiayuan Mao, Joyce Chai",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
-      "url": "https://arxiv.org/abs/2609.19630",
-      "source": "arXiv AI/ML",
-      "summary": "19630v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into vehicle voice assistants But linking natural-language requests to vehicle functions creates a safety-",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.636490+00:00",
-      "author": "Diba Afroze, Xingli Zhang, Yazhou Tu, Xiali Hei",
-      "tags": [
-        "cs.AI",
-        "cs.CL",
-        "cs.RO"
-      ]
-    },
-    {
-      "title": "Reach or Solve? Attributing Agentic RL Gains with Checkpoint Handoffs",
-      "url": "https://arxiv.org/abs/2609.19636",
-      "source": "arXiv AI/ML",
-      "summary": "19636v1 Announce Type: new Abstract: Reinforcement learning now trains language-model agents that act over dozens of steps in live environments The gains are large, and they are read as better decisio",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.667202+00:00",
-      "author": "Xuan Liu, Jingbin Qian",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
-      "url": "https://arxiv.org/abs/2609.19644",
-      "source": "arXiv AI/ML",
-      "summary": "19644v1 Announce Type: new Abstract: Scientific discovery is defined by the ability to identify the boundaries of existing knowledge and venture into unexplored territory The ultimate vision for AI in",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.699593+00:00",
-      "author": "Jaehyun Nam, Jinsung Yoon, Yanzhou Pan, Yubo Wang, Rui Meng, Parthasarathy Ranganathan, Tomas Pfister",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions",
-      "url": "https://arxiv.org/abs/2609.19654",
-      "source": "arXiv AI/ML",
-      "summary": "19654v1 Announce Type: new Abstract: Travel-planning agents generate itineraries that may become infeasible after acceptance because of flight cancellations, hotel unavailability, or attraction closur",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.750768+00:00",
-      "author": "Xiaofei Yuan, Yan Zhang, Shaobo Qiao, Huangleshuai He, Leyan Ni, Mingchen Ju, Lujia Yang, Sijia Xu, Yifu Tang, Zhengyi Yang",
-      "tags": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
-      "url": "https://arxiv.org/abs/2609.19671",
-      "source": "arXiv AI/ML",
-      "summary": "19671v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) achieve strong performance on complex tasks but exhibit systematic inefficiency: they often overthink easy problems and underthink ha",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.790012+00:00",
-      "author": "Jaejun Shim, HyunJin Kim, Young Jin Kim, JinYeong Bak",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
-      "url": "https://arxiv.org/abs/2609.19680",
-      "source": "arXiv AI/ML",
-      "summary": "19680v1 Announce Type: new Abstract: Financial QA systems are typically improved before deployment through better retrieval, prompting, or agent coordination, leaving their reliability behavior fixed ",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.819760+00:00",
-      "author": "Yanzhang Ma, Zhenghan Tai, Hanwei Wu, Sizhe Guan, Jianliang Lei, Hailin He, Chaolong Jiang, Jijun Chi, Tung Sum Thomas Kwok, Bohuai Xiao, Jingrui Tian, Xinlu Wu, Xingao Zhan, Peng Lu, Muzhi Li, Yihong Wu, Liheng Ma, Sicheng Lyu, Tianshuo Yan, Junhao Zhu, Yaqian Xu, Lei Ding, Yufei Cui, Ziquan Liu, Boyu Han, Hengli Liu, Ling Zhou, Xinyu Wang",
-      "tags": [
-        "cs.AI",
-        "cs.IR",
-        "cs.MA",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "AutoData: Agentic Search for Pre-training Data Selection",
-      "url": "https://arxiv.org/abs/2609.19754",
-      "source": "arXiv AI/ML",
-      "summary": "19754v1 Announce Type: new Abstract: LLM agents have recently shown promise in automating machine learning engineering by editing model and training code under execution feedback Data, however, remain",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:09.879616+00:00",
-      "author": "Yan Meng, Dhruv Srikanth, Bingchen Zhao, Zhengyao Jiang, Yuxiang Wu",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
-      "url": "https://arxiv.org/abs/2609.19209",
-      "source": "arXiv ML",
-      "summary": "19209v1 Announce Type: new Abstract: Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries A central challenge is to gene",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:10.553214+00:00",
-      "author": "Xinpeng Liu, Lu Ma, Jiayi Qiao, Mengyu Zhou, Linglong Li, Xiaofeng Bian, Haonan Chen, Xiaoxi Jiang, Guanjun Jiang",
-      "tags": [
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Layer-wise Curriculum Learning for Efficient LLM Compression",
-      "url": "https://arxiv.org/abs/2609.19213",
-      "source": "arXiv ML",
-      "summary": "19213v1 Announce Type: new Abstract: In this paper, we introduce layer-wise curriculum learning for efficient LLM compression The proposed method facilitates the knowledge transfer from the teacher mo",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:10.583125+00:00",
-      "author": "Donggeon Lee, Dooyeon Na, Seungmin Oh, Jongbin Ryu",
-      "tags": [
-        "cs.LG",
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training",
-      "url": "https://arxiv.org/abs/2609.19242",
-      "source": "arXiv ML",
-      "summary": "19242v1 Announce Type: new Abstract: Block diffusion language models (BDLMs) combine autoregressive dependencies across blocks with parallel denoising within blocks, but long-context training is const",
-      "category": "research",
-      "published_at": "2026-09-18T00:00:00-04:00",
-      "fetched_at": "2026-09-18T10:40:10.624403+00:00",
-      "author": "Tarun Suresh, Pranshu Chaturvedi, Hangoo Kang, Parth Shroff, Ishan S. Khare, Hermann Kumbong, Azalia Mirhoseini",
-      "tags": [
-        "cs.LG"
       ]
     }
   ]
