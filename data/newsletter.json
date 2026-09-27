@@ -1,28 +1,17 @@
 {
-  "generated_at": "2026-09-26T10:55:21.286991+00:00",
-  "article_count": 21,
+  "generated_at": "2026-09-27T11:31:17.621808+00:00",
+  "article_count": 7,
   "categories": {
     "breaking": [
       {
-        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "url": "https://openai.com/index/proaction",
-        "source": "OpenAI Blog",
-        "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster",
-        "category": "breaking",
-        "published_at": "2026-09-25T19:00:00+00:00",
-        "fetched_at": "2026-09-26T10:53:49.845799+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "iclr 2027 de anonymization [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
+        "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
         "source": "r/MachineLearning",
-        "summary": "Wyhy this keeps happening to iclr net/forum/user%7Cstatement_regarding_iclr_2027_submission_exposure_to_program_committee_members submitted by /u/Striking-Warning9533 [link] [comments]",
+        "summary": "Hey r/MachineLearning I’ve been working on a new optimizer called Tauon (turns out there is already \"teon\" but well if you have better idea, - i will gladly accept it Anyway the core idea of optimizer",
         "category": "breaking",
-        "published_at": "2026-09-25T11:26:22+00:00",
-        "fetched_at": "2026-09-26T10:54:04.133504+00:00",
-        "author": "/u/Striking-Warning9533",
+        "published_at": "2026-09-27T03:38:07+00:00",
+        "fetched_at": "2026-09-27T11:30:43.835214+00:00",
+        "author": "/u/kkkrlklo",
         "tags": [
           "reddit"
         ]
@@ -30,523 +19,179 @@
     ],
     "research": [
       {
-        "title": "Has anyone used the Forrester function?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
+        "title": "When do ICLR submissions and reviews become public? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
         "source": "r/MachineLearning",
-        "summary": "Hey guys, I came across the Forrester function recently while studying mathematics, and I started wondering if there’s more to it than just being a mathematical function I have a feeling I’ve seen it ",
+        "summary": "Hi everyone, I have a question about ICLR’s open review process I have experience with ICML/NeurIPS/AAAI, but this is my first time submitting to ICLR, and I understand that its public review process ",
         "category": "research",
-        "published_at": "2026-09-26T09:24:09+00:00",
-        "fetched_at": "2026-09-26T10:54:04.113246+00:00",
-        "author": "/u/Only-Dependent7024",
+        "published_at": "2026-09-27T06:27:37+00:00",
+        "fetched_at": "2026-09-27T11:30:43.685118+00:00",
+        "author": "/u/Feuilius",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
+        "title": "Teaching Neural Nets to Fight with RL [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
         "source": "r/MachineLearning",
-        "summary": "Distributed Training and Inference both involves having a fundamental understanding of how distributed systems work in general Distributed Parallelism Tensor Parallelism Pipeline Parallelism Model Par",
+        "summary": "In this project I wanted to see if any interesting emergent behaviors would appear if we trained two agents to play a streetfighter-like game using RL Maybe obvious in retrospect, but the agents are r",
         "category": "research",
-        "published_at": "2026-09-26T07:10:45+00:00",
-        "fetched_at": "2026-09-26T10:54:04.084146+00:00",
-        "author": "/u/East-Muffin-6472",
+        "published_at": "2026-09-27T03:10:39+00:00",
+        "fetched_at": "2026-09-27T11:30:43.581145+00:00",
+        "author": "/u/microscope1024",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
+        "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
         "source": "r/MachineLearning",
-        "summary": "This is how ridiculous things have become submitted by /u/Even-Inevitable-7243 [link] [comments]",
+        "summary": "Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS I would really like to come to Sydney to present my work However, I am not sure ",
         "category": "research",
-        "published_at": "2026-09-26T00:12:30+00:00",
-        "fetched_at": "2026-09-26T10:54:04.030469+00:00",
-        "author": "/u/Even-Inevitable-7243",
+        "published_at": "2026-09-27T02:16:26+00:00",
+        "fetched_at": "2026-09-27T11:30:43.763291+00:00",
+        "author": "/u/TheFoolIV",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Sydney or Atlanta for NeurIPS 2026[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpgsp0/sydney_or_atlanta_for_neurips_2026d/",
+        "title": "Publication potential [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
         "source": "r/MachineLearning",
-        "summary": "Got my first authored paper accepted at NeurIPS this year and trying to decide where to go Would I miss out a lot by skipping Sydney and just going to Atlanta Curious where most people are heading",
+        "summary": "Hi all, I may be being silly but I have just finished my masters thesis which benchmarked three deep learning architectures (one of which is novel), across varying preprocessing pipelines for the purp",
         "category": "research",
-        "published_at": "2026-09-24T23:21:33+00:00",
-        "fetched_at": "2026-09-26T10:54:04.371802+00:00",
-        "author": "/u/RedTea1997",
+        "published_at": "2026-09-26T18:23:31+00:00",
+        "fetched_at": "2026-09-27T11:30:43.780595+00:00",
+        "author": "/u/joekrry",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Registration for authors of accepted papers at NeurIPS [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpg672/registration_for_authors_of_accepted_papers_at/",
+        "title": "My paper got accepted at NeurIPS TAE Workshop 2026 — any advice on getting travel funding?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wquo3w/my_paper_got_accepted_at_neurips_tae_workshop/",
         "source": "r/MachineLearning",
-        "summary": "I tried registering on the neurips website but sydney and paris are already sold out We had filled the location preferences forms earlier What is the procedure for authors of accepted papers for regis",
+        "summary": "Hi everyone, I am happy to share that my paper has been selected for presentation at the TAE Workshop at NeurIPS 2026 , which will be held on December 11, 2026 I am really excited about the opportunit",
         "category": "research",
-        "published_at": "2026-09-24T22:53:12+00:00",
-        "fetched_at": "2026-09-26T10:54:04.409311+00:00",
-        "author": "/u/general_landur",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "NeurIPS Main Track Decision Emails are Sent [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
-        "source": "r/MachineLearning",
-        "summary": "Valid Main Track submissions: 30709, Accepted: 7900, Oral: 112, Spotlight: 292 submitted by /u/Invariant_n_Cauchy [link] [comments]",
-        "category": "research",
-        "published_at": "2026-09-24T19:02:21+00:00",
-        "fetched_at": "2026-09-26T10:54:04.344560+00:00",
-        "author": "/u/Invariant_n_Cauchy",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "NeurIPS reject final justification [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
-        "source": "r/MachineLearning",
-        "summary": "Do all the rejected or accepted papers get a \"Final Justification\" comment from the PC Mine got rejected with ratings 4-4-4 yet the meta review is the exact same as the one that was posted originally ",
-        "category": "research",
-        "published_at": "2026-09-24T18:49:31+00:00",
-        "fetched_at": "2026-09-26T10:54:04.263158+00:00",
-        "author": "/u/Lonely_Ostrich6165",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Publication venue recommendations [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
-        "source": "r/MachineLearning",
-        "summary": "I am 5th year and have no published research so far All my papers have been consistently rejected from top tier AI conferences even though they got good review scores in the process Since graduating i",
-        "category": "research",
-        "published_at": "2026-09-24T18:02:12+00:00",
-        "fetched_at": "2026-09-26T10:54:04.236163+00:00",
-        "author": "/u/academic-targaryen",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "NeurIPS Accepted Papers are now visible [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
-        "source": "r/MachineLearning",
-        "summary": "I haven't received a notification about this -- but my paper just became visible as \"accepted\" I expect an email to come some time soon submitted by /u/levydawg [link] [comments]",
-        "category": "research",
-        "published_at": "2026-09-24T16:41:33+00:00",
-        "fetched_at": "2026-09-26T10:54:04.189746+00:00",
-        "author": "/u/levydawg",
+        "published_at": "2026-09-26T16:22:59+00:00",
+        "fetched_at": "2026-09-27T11:30:43.889269+00:00",
+        "author": "/u/Vivek_Chauhan06",
         "tags": [
           "reddit"
         ]
       }
     ],
-    "industry": [
-      {
-        "title": "Confused About job title [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
-        "source": "r/MachineLearning",
-        "summary": "ML jobs are confusing nowadays,it wraps up as \"AI/ML\" engineer and they want you to have software engineering skill and DSA skill to and on top of that they want you to have Fast API with AI API wrapp",
-        "category": "industry",
-        "published_at": "2026-09-26T00:11:06+00:00",
-        "fetched_at": "2026-09-26T10:54:04.210906+00:00",
-        "author": "/u/Ishaat_Rahman",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Introducing Gemini 3.8 Live with Live Avatar",
-        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-        "source": "Google DeepMind Blog",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-09-24T16:20:39+00:00",
-        "fetched_at": "2026-09-26T10:53:55.031369+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-        "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-        "source": "NVIDIA Blog",
-        "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time The ne",
-        "category": "industry",
-        "published_at": "2026-09-24T14:00:50+00:00",
-        "fetched_at": "2026-09-26T10:53:54.209818+00:00",
-        "author": "Anthony Costa",
-        "tags": [
-          "AI",
-          "Research",
-          "AI for Good",
-          "Healthcare and Life Sciences",
-          "Open Source"
-        ]
-      },
-      {
-        "title": "Offloaded inference for real-world physical AI robotics",
-        "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-        "source": "Microsoft Research Blog",
-        "summary": "Robots are getting smarter, but how can their hardware match that growth New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and ",
-        "category": "industry",
-        "published_at": "2026-09-23T16:01:36+00:00",
-        "fetched_at": "2026-09-26T10:53:52.389459+00:00",
-        "author": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-        "tags": [
-          "Research Blog"
-        ]
-      },
-      {
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-        "source": "Google DeepMind Blog",
-        "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-        "category": "industry",
-        "published_at": "2026-09-23T16:00:57+00:00",
-        "fetched_at": "2026-09-26T10:53:55.070796+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Gemini 3.8 text-to-speech says hello",
-        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-        "source": "Google DeepMind Blog",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-09-23T15:25:14+00:00",
-        "fetched_at": "2026-09-26T10:53:55.097757+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-        "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-        "source": "NVIDIA Blog",
-        "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab “Validation engineers look in the shad",
-        "category": "industry",
-        "published_at": "2026-09-23T15:00:32+00:00",
-        "fetched_at": "2026-09-26T10:53:54.244995+00:00",
-        "author": "Matthew Leib",
-        "tags": [
-          "AI Infrastructure",
-          "Hardware",
-          "NVIDIA Life",
-          "NVIDIA Rubin"
-        ]
-      }
-    ],
+    "industry": [],
     "tools": [
       {
-        "title": "What are people building in computer vision, and what's still painful? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
+        "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
         "source": "r/MachineLearning",
-        "summary": "I've built a lot of ML systems over the years, mainly computer vision models optimised to run on mobile phones For example, my previous company built the food recognition model for MyFitnessPal I'm in",
+        "summary": "Hi everyone, I built an educational tool that shows what happens inside a small MLP while it trains, and I'd like some feedback from people who teach ML Everything is plain NumPy, no autograd: manual ",
         "category": "tools",
-        "published_at": "2026-09-25T18:21:22+00:00",
-        "fetched_at": "2026-09-26T10:54:04.310090+00:00",
-        "author": "/u/kells1986",
+        "published_at": "2026-09-26T18:38:38+00:00",
+        "fetched_at": "2026-09-27T11:30:43.651079+00:00",
+        "author": "/u/No-Brain-1655",
         "tags": [
           "reddit"
         ]
-      },
-      {
-        "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-09-24T14:08:57+00:00",
-        "fetched_at": "2026-09-26T10:53:48.756080+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-09-23T18:41:40+00:00",
-        "fetched_at": "2026-09-26T10:53:48.808062+00:00",
-        "author": "",
-        "tags": []
       }
     ]
   },
   "all_articles": [
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI Blog",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster",
+      "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
+      "source": "r/MachineLearning",
+      "summary": "Hey r/MachineLearning I’ve been working on a new optimizer called Tauon (turns out there is already \"teon\" but well if you have better idea, - i will gladly accept it Anyway the core idea of optimizer",
       "category": "breaking",
-      "published_at": "2026-09-25T19:00:00+00:00",
-      "fetched_at": "2026-09-26T10:53:49.845799+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "iclr 2027 de anonymization [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
-      "source": "r/MachineLearning",
-      "summary": "Wyhy this keeps happening to iclr net/forum/user%7Cstatement_regarding_iclr_2027_submission_exposure_to_program_committee_members submitted by /u/Striking-Warning9533 [link] [comments]",
-      "category": "breaking",
-      "published_at": "2026-09-25T11:26:22+00:00",
-      "fetched_at": "2026-09-26T10:54:04.133504+00:00",
-      "author": "/u/Striking-Warning9533",
+      "published_at": "2026-09-27T03:38:07+00:00",
+      "fetched_at": "2026-09-27T11:30:43.835214+00:00",
+      "author": "/u/kkkrlklo",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Has anyone used the Forrester function?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
+      "title": "When do ICLR submissions and reviews become public? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
       "source": "r/MachineLearning",
-      "summary": "Hey guys, I came across the Forrester function recently while studying mathematics, and I started wondering if there’s more to it than just being a mathematical function I have a feeling I’ve seen it ",
+      "summary": "Hi everyone, I have a question about ICLR’s open review process I have experience with ICML/NeurIPS/AAAI, but this is my first time submitting to ICLR, and I understand that its public review process ",
       "category": "research",
-      "published_at": "2026-09-26T09:24:09+00:00",
-      "fetched_at": "2026-09-26T10:54:04.113246+00:00",
-      "author": "/u/Only-Dependent7024",
+      "published_at": "2026-09-27T06:27:37+00:00",
+      "fetched_at": "2026-09-27T11:30:43.685118+00:00",
+      "author": "/u/Feuilius",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
+      "title": "Teaching Neural Nets to Fight with RL [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
       "source": "r/MachineLearning",
-      "summary": "Distributed Training and Inference both involves having a fundamental understanding of how distributed systems work in general Distributed Parallelism Tensor Parallelism Pipeline Parallelism Model Par",
+      "summary": "In this project I wanted to see if any interesting emergent behaviors would appear if we trained two agents to play a streetfighter-like game using RL Maybe obvious in retrospect, but the agents are r",
       "category": "research",
-      "published_at": "2026-09-26T07:10:45+00:00",
-      "fetched_at": "2026-09-26T10:54:04.084146+00:00",
-      "author": "/u/East-Muffin-6472",
+      "published_at": "2026-09-27T03:10:39+00:00",
+      "fetched_at": "2026-09-27T11:30:43.581145+00:00",
+      "author": "/u/microscope1024",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
+      "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
       "source": "r/MachineLearning",
-      "summary": "This is how ridiculous things have become submitted by /u/Even-Inevitable-7243 [link] [comments]",
+      "summary": "Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS I would really like to come to Sydney to present my work However, I am not sure ",
       "category": "research",
-      "published_at": "2026-09-26T00:12:30+00:00",
-      "fetched_at": "2026-09-26T10:54:04.030469+00:00",
-      "author": "/u/Even-Inevitable-7243",
+      "published_at": "2026-09-27T02:16:26+00:00",
+      "fetched_at": "2026-09-27T11:30:43.763291+00:00",
+      "author": "/u/TheFoolIV",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Sydney or Atlanta for NeurIPS 2026[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpgsp0/sydney_or_atlanta_for_neurips_2026d/",
+      "title": "Publication potential [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
       "source": "r/MachineLearning",
-      "summary": "Got my first authored paper accepted at NeurIPS this year and trying to decide where to go Would I miss out a lot by skipping Sydney and just going to Atlanta Curious where most people are heading",
+      "summary": "Hi all, I may be being silly but I have just finished my masters thesis which benchmarked three deep learning architectures (one of which is novel), across varying preprocessing pipelines for the purp",
       "category": "research",
-      "published_at": "2026-09-24T23:21:33+00:00",
-      "fetched_at": "2026-09-26T10:54:04.371802+00:00",
-      "author": "/u/RedTea1997",
+      "published_at": "2026-09-26T18:23:31+00:00",
+      "fetched_at": "2026-09-27T11:30:43.780595+00:00",
+      "author": "/u/joekrry",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Registration for authors of accepted papers at NeurIPS [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpg672/registration_for_authors_of_accepted_papers_at/",
+      "title": "My paper got accepted at NeurIPS TAE Workshop 2026 — any advice on getting travel funding?[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wquo3w/my_paper_got_accepted_at_neurips_tae_workshop/",
       "source": "r/MachineLearning",
-      "summary": "I tried registering on the neurips website but sydney and paris are already sold out We had filled the location preferences forms earlier What is the procedure for authors of accepted papers for regis",
+      "summary": "Hi everyone, I am happy to share that my paper has been selected for presentation at the TAE Workshop at NeurIPS 2026 , which will be held on December 11, 2026 I am really excited about the opportunit",
       "category": "research",
-      "published_at": "2026-09-24T22:53:12+00:00",
-      "fetched_at": "2026-09-26T10:54:04.409311+00:00",
-      "author": "/u/general_landur",
+      "published_at": "2026-09-26T16:22:59+00:00",
+      "fetched_at": "2026-09-27T11:30:43.889269+00:00",
+      "author": "/u/Vivek_Chauhan06",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "NeurIPS Main Track Decision Emails are Sent [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
+      "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
       "source": "r/MachineLearning",
-      "summary": "Valid Main Track submissions: 30709, Accepted: 7900, Oral: 112, Spotlight: 292 submitted by /u/Invariant_n_Cauchy [link] [comments]",
-      "category": "research",
-      "published_at": "2026-09-24T19:02:21+00:00",
-      "fetched_at": "2026-09-26T10:54:04.344560+00:00",
-      "author": "/u/Invariant_n_Cauchy",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "NeurIPS reject final justification [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
-      "source": "r/MachineLearning",
-      "summary": "Do all the rejected or accepted papers get a \"Final Justification\" comment from the PC Mine got rejected with ratings 4-4-4 yet the meta review is the exact same as the one that was posted originally ",
-      "category": "research",
-      "published_at": "2026-09-24T18:49:31+00:00",
-      "fetched_at": "2026-09-26T10:54:04.263158+00:00",
-      "author": "/u/Lonely_Ostrich6165",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Publication venue recommendations [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
-      "source": "r/MachineLearning",
-      "summary": "I am 5th year and have no published research so far All my papers have been consistently rejected from top tier AI conferences even though they got good review scores in the process Since graduating i",
-      "category": "research",
-      "published_at": "2026-09-24T18:02:12+00:00",
-      "fetched_at": "2026-09-26T10:54:04.236163+00:00",
-      "author": "/u/academic-targaryen",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "NeurIPS Accepted Papers are now visible [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
-      "source": "r/MachineLearning",
-      "summary": "I haven't received a notification about this -- but my paper just became visible as \"accepted\" I expect an email to come some time soon submitted by /u/levydawg [link] [comments]",
-      "category": "research",
-      "published_at": "2026-09-24T16:41:33+00:00",
-      "fetched_at": "2026-09-26T10:54:04.189746+00:00",
-      "author": "/u/levydawg",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Confused About job title [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
-      "source": "r/MachineLearning",
-      "summary": "ML jobs are confusing nowadays,it wraps up as \"AI/ML\" engineer and they want you to have software engineering skill and DSA skill to and on top of that they want you to have Fast API with AI API wrapp",
-      "category": "industry",
-      "published_at": "2026-09-26T00:11:06+00:00",
-      "fetched_at": "2026-09-26T10:54:04.210906+00:00",
-      "author": "/u/Ishaat_Rahman",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-09-24T16:20:39+00:00",
-      "fetched_at": "2026-09-26T10:53:55.031369+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-      "source": "NVIDIA Blog",
-      "summary": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time The ne",
-      "category": "industry",
-      "published_at": "2026-09-24T14:00:50+00:00",
-      "fetched_at": "2026-09-26T10:53:54.209818+00:00",
-      "author": "Anthony Costa",
-      "tags": [
-        "AI",
-        "Research",
-        "AI for Good",
-        "Healthcare and Life Sciences",
-        "Open Source"
-      ]
-    },
-    {
-      "title": "Offloaded inference for real-world physical AI robotics",
-      "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-      "source": "Microsoft Research Blog",
-      "summary": "Robots are getting smarter, but how can their hardware match that growth New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and ",
-      "category": "industry",
-      "published_at": "2026-09-23T16:01:36+00:00",
-      "fetched_at": "2026-09-26T10:53:52.389459+00:00",
-      "author": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "Google DeepMind Blog",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "category": "industry",
-      "published_at": "2026-09-23T16:00:57+00:00",
-      "fetched_at": "2026-09-26T10:53:55.070796+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-09-23T15:25:14+00:00",
-      "fetched_at": "2026-09-26T10:53:55.097757+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
-      "source": "NVIDIA Blog",
-      "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab “Validation engineers look in the shad",
-      "category": "industry",
-      "published_at": "2026-09-23T15:00:32+00:00",
-      "fetched_at": "2026-09-26T10:53:54.244995+00:00",
-      "author": "Matthew Leib",
-      "tags": [
-        "AI Infrastructure",
-        "Hardware",
-        "NVIDIA Life",
-        "NVIDIA Rubin"
-      ]
-    },
-    {
-      "title": "What are people building in computer vision, and what's still painful? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
-      "source": "r/MachineLearning",
-      "summary": "I've built a lot of ML systems over the years, mainly computer vision models optimised to run on mobile phones For example, my previous company built the food recognition model for MyFitnessPal I'm in",
+      "summary": "Hi everyone, I built an educational tool that shows what happens inside a small MLP while it trains, and I'd like some feedback from people who teach ML Everything is plain NumPy, no autograd: manual ",
       "category": "tools",
-      "published_at": "2026-09-25T18:21:22+00:00",
-      "fetched_at": "2026-09-26T10:54:04.310090+00:00",
-      "author": "/u/kells1986",
+      "published_at": "2026-09-26T18:38:38+00:00",
+      "fetched_at": "2026-09-27T11:30:43.651079+00:00",
+      "author": "/u/No-Brain-1655",
       "tags": [
         "reddit"
       ]
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-09-24T14:08:57+00:00",
-      "fetched_at": "2026-09-26T10:53:48.756080+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-09-23T18:41:40+00:00",
-      "fetched_at": "2026-09-26T10:53:48.808062+00:00",
-      "author": "",
-      "tags": []
     }
   ]
 }
