@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-09-29T12:15:25.956973+00:00",
+  "generated_at": "2026-09-30T12:01:50.908358+00:00",
   "archive": [
+    {
+      "date": "2026-09-30",
+      "total": 50,
+      "categories": {
+        "breaking": 3,
+        "research": 36,
+        "industry": 1,
+        "tools": 10
+      },
+      "articles": [
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "source": "OpenAI Blog",
+          "summary": "1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices",
+          "category": "breaking",
+          "published_at": "2026-09-29T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI Blog",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders",
+          "category": "breaking",
+          "published_at": "2026-09-29T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Introducing dots",
+          "url": "https://openai.com/index/introducing-dots",
+          "source": "OpenAI Blog",
+          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks Learn how dots help you stay in control while work moves forward",
+          "category": "breaking",
+          "published_at": "2026-09-29T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "How much compute are you using in LLM post training research? [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wu2lb5/how_much_compute_are_you_using_in_llm_post/",
+          "source": "r/MachineLearning",
+          "summary": "for any researcher here working on LLM rlhf or rlvr research, how much compute are you working with, and how much do you actually need submitted by /u/Relative_Wallaby_823 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-09-30T11:37:29+00:00",
+          "author": "/u/Relative_Wallaby_823",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/",
+          "source": "r/MachineLearning",
+          "summary": "io Hi everyone, I’m happy to share our recent NeurIPS 2026 paper, a collaboration across Google, Google DeepMind and Stony Brook University We study a mismatch in joint text and image generation: a mo",
+          "category": "research",
+          "published_at": "2026-09-30T07:28:34+00:00",
+          "author": "/u/Upstairs_Theme2785",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
+          "source": "r/MachineLearning",
+          "summary": "I post-trained Qwen3-4B to spend 44% fewer tokens on reasoning, keeping its knowledge and answer style The whole pipeline ran on one GPU folks, you can check it out on : https://5ivatej",
+          "category": "research",
+          "published_at": "2026-09-30T07:19:45+00:00",
+          "author": "/u/stey1r",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+          "url": "https://arxiv.org/abs/2609.35799",
+          "source": "arXiv AI/ML",
+          "summary": "35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure Could existing alignment",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Stewart Slocum, Malayandi Palan, Christopher Chute, Michael Kim, Benjamin Van Roy",
+          "tags": [
+            "cs.AI",
+            "cs.CR",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+          "url": "https://arxiv.org/abs/2609.35833",
+          "source": "arXiv AI/ML",
+          "summary": "35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such device",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Avyay Sadhu, Alvaro Velasquez, Lekai Chen",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+          "url": "https://arxiv.org/abs/2609.35868",
+          "source": "arXiv AI/ML",
+          "summary": "35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models We investigate whether model-conditioned training representations can preserve or",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Jinhao Zhang, Zeyu Liu, Zicheng Yan, Yunquan Zhang, Daning Cheng, Song Tang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+          "url": "https://arxiv.org/abs/2609.35869",
+          "source": "arXiv AI/ML",
+          "summary": "35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same ",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Yuhao Du, Shunian Chen",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+          "url": "https://arxiv.org/abs/2609.35873",
+          "source": "arXiv AI/ML",
+          "summary": "35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization Yet additional answer coverage can arise from repeated execution of",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Ziyang Xu, Haitian Zhong, Hao Zhou, Hao Qin, Chenhan Jin, Te Qi, Shengze Xu, Tieyong Zeng",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+          "url": "https://arxiv.org/abs/2609.35874",
+          "source": "arXiv AI/ML",
+          "summary": "35874v1 Announce Type: new Abstract: Online POMDP planners optimize the expected cumulative cost, which can mask dangerous states when the belief places significant mass on high-cost states Existing r",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Yaacov Pariente, Vadim Indelman",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+          "url": "https://arxiv.org/abs/2609.35875",
+          "source": "arXiv AI/ML",
+          "summary": "35875v1 Announce Type: new Abstract: Multi-agent debate (MAD) reportedly improves reasoning and factuality over single-model inference, but prior work treats agents as symmetric peers, leaving open wh",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Leonardo Ferreira, Gardenia Liu, Kaden Zheng",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+          "url": "https://arxiv.org/abs/2609.35890",
+          "source": "arXiv AI/ML",
+          "summary": "35890v1 Announce Type: new Abstract: Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a model's computation is easier to reverse-engine",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Adam Elimadi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+          "url": "https://arxiv.org/abs/2609.35897",
+          "source": "arXiv AI/ML",
+          "summary": "35897v1 Announce Type: new Abstract: The pursuit of recursive self-improvement (RSI) toward general intelligence is divided between macro-level language model scaling and the interaction-driven princi",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Haomin Luo (University of Cambridge, Models2 AI)",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+          "url": "https://arxiv.org/abs/2609.35924",
+          "source": "arXiv AI/ML",
+          "summary": "35924v1 Announce Type: new Abstract: Discrete diffusion models generate sequences by iteratively resolving multiple tokens in parallel, offering a flexible alternative to left-to-right generation Howe",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Hua (Edward),  Xu, Dongxin Li, Gwen Yidou-Weng, Guy Van den Broeck, Wei Wang, Anji Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT",
+          "url": "https://arxiv.org/abs/2609.35953",
+          "source": "arXiv AI/ML",
+          "summary": "35953v1 Announce Type: new Abstract: Young people increasingly turn to General-Purpose Conversational Agents (GPCAs), such as ChatGPT, in moments of distress We examine young adults' (ages 18-25) expe",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Marx Wang, Ella Zhang, Cameron Tan, Andrea Mock, Songling Ngo, Zijing Wang, Robert Wolfe, Shirin Amouei, Rachel A. Hanebutt, Desmond C. Ong, Caroline Figueroa, Katie Davis, Anind K. Dey, Alexis Hiniker",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
+          "url": "https://arxiv.org/abs/2609.36043",
+          "source": "arXiv AI/ML",
+          "summary": "36043v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encodes their workflow, tool-use rules, and decision l",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Yihao Wang, Linhan Xia, Rui Liu, Zhaofeng Zhang, Hongyu Wu, Yang Yang, Jinglu He, Yu Guo, Kai Lei",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PowerZooJax: A JAX-based Power System Benchmark for Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2609.36052",
+          "source": "arXiv AI/ML",
+          "summary": "36052v1 Announce Type: new Abstract: Power system operation is a safety-critical sequential decision-making problem, making it a natural testbed for reinforcement learning (RL) However, existing RL en",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Zhanhua Pan, Xiao Liu, Zhilong Cao, Jianhong Wang, Dawei Qiu",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.SY",
+            "eess.SY"
+          ]
+        },
+        {
+          "title": "GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning",
+          "url": "https://arxiv.org/abs/2609.36056",
+          "source": "arXiv AI/ML",
+          "summary": "36056v1 Announce Type: new Abstract: In urban low-altitude flight, buildings reshape ambient wind into spatially varying 3D flow, making unmanned aerial vehicle (UAV) energy depend on local wind expos",
+          "category": "research",
+          "published_at": "2026-09-30T00:00:00-04:00",
+          "author": "Shaoxiang Qin, Yucheng Zhao, Fuyuan Lyu, Di Zhou, Jiachen Yao, Xue Liu, Anima Anandkumar, Liangzhu Leon Wang, Xiongye Xiao",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "total": 50,
