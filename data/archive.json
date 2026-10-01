@@ -1,6 +1,265 @@
 {
-  "generated_at": "2026-09-30T12:01:50.908358+00:00",
+  "generated_at": "2026-10-01T12:33:50.207606+00:00",
   "archive": [
+    {
+      "date": "2026-10-01",
+      "total": 50,
+      "categories": {
+        "breaking": 3,
+        "research": 32,
+        "industry": 8,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "How should I follow up with TMLR submission once all review responses are submitted [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wud1fa/how_should_i_follow_up_with_tmlr_submission_once/",
+          "source": "r/MachineLearning",
+          "summary": "I have responded to all the reviewers with proper rebuttals and modified draft One interacted with me and after acknowledging the response kinda disappeared again after asking additional questions I h",
+          "category": "breaking",
+          "published_at": "2026-09-30T18:39:43+00:00",
+          "author": "/u/Living_Decision_6725",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI Blog",
+          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation",
+          "category": "breaking",
+          "published_at": "2026-09-30T10:30:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI",
+          "category": "breaking",
+          "published_at": "2026-09-30T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "Paper accepted to NeurIPS MusIML Workshop (Poster), but I can't afford to go. Any funding advice? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wupjq0/paper_accepted_to_neurips_musiml_workshop_poster/",
+          "source": "r/MachineLearning",
+          "summary": "Hi everyone, My paper just got accepted for a poster presentation at the Muslims in ML (MusIML) workshop at NeurIPS 2026 which will be held in Sydney, Australia I'm really proud, but I'm a UG student ",
+          "category": "research",
+          "published_at": "2026-10-01T03:58:17+00:00",
+          "author": "/u/imrancoder",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How to address novelty concerns in top ai conference? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, I’m a researcher working in computer vision Over the past few years, I’ve submitted several papers to top-tier conferences such as NeurIPS, ICLR, and CVPR, and one concern that seems to come up re",
+          "category": "research",
+          "published_at": "2026-10-01T01:20:35+00:00",
+          "author": "/u/ATHii-127",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+          "url": "https://arxiv.org/abs/2609.38282",
+          "source": "arXiv AI/ML",
+          "summary": "38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness Sequence-level t",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Baode Wang, Zuming Huang, Kexuan Ren, Jun Huang, Wei Chu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+          "url": "https://arxiv.org/abs/2609.38288",
+          "source": "arXiv AI/ML",
+          "summary": "38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time T",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Hongjin Qian, Chaofan Li, Kun Luo, Wenqing Wei, Jianlyu Chen, Shuqi Lu, Yuyang Hu, Hongwang Xiao, Hui Wang, Chaozhuo Li, Qiwei Ye, Zhicheng Dou, Defu Lian, Zheng Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+          "url": "https://arxiv.org/abs/2609.38294",
+          "source": "arXiv AI/ML",
+          "summary": "38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency Existing metho",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Yining Lu, Aurelie Lozano, Xi Yang, Naoki Abe, Yu Deng, Meng Jiang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AI Agents are Vulnerable to Radicalization",
+          "url": "https://arxiv.org/abs/2609.38296",
+          "source": "arXiv AI/ML",
+          "summary": "38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other To investigate this, we simul",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Ozgur Can Seckin, Shalmoli Ghosh, Alessandro Flammini, Kristina Lerman, Maria Elizabeth Grabe, Filippo Menczer",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "CARAT: Do Materials LLMs Reason or Recite?",
+          "url": "https://arxiv.org/abs/2609.38340",
+          "source": "arXiv AI/ML",
+          "summary": "38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input Accuracy cannot t",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Jiajun Wu, Jian Yang, Zixiang Ni, Zhenzhu Li, Bin Chong",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+          "url": "https://arxiv.org/abs/2609.38346",
+          "source": "arXiv AI/ML",
+          "summary": "38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Bakhtawar Ahtisham, Kirk Vanacore, Alessandra Napoli, Josh Arens, Ksenia Ionova, Clayton Cohn, Shima Salehi, Rene Kizilcec",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
+          "url": "https://arxiv.org/abs/2609.38359",
+          "source": "arXiv AI/ML",
+          "summary": "38359v1 Announce Type: new Abstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversatio",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Sumit Asthana, Michael Ion, Kevyn Collins Thompson",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+          "url": "https://arxiv.org/abs/2609.38369",
+          "source": "arXiv AI/ML",
+          "summary": "38369v1 Announce Type: new Abstract: We study generalized Blaschke curves as a controlled environment for AI-assisted mathematical rediscovery For one fixed degree-four Blaschke product, an agent rece",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Yunus E. Zeytuncu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
+          "url": "https://arxiv.org/abs/2609.38372",
+          "source": "arXiv AI/ML",
+          "summary": "38372v1 Announce Type: new Abstract: A harness is the code around a language-model agent that organizes prompts, calls tools, manages context, and controls execution As models grow stronger, recent wo",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Qiankai Xu",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Aligned Data Can Induce Misalignment via Context Confusion",
+          "url": "https://arxiv.org/abs/2609.38379",
+          "source": "arXiv AI/ML",
+          "summary": "38379v1 Announce Type: new Abstract: Large language models (LLMs) are frequently updated for various use cases, where filtering out misaligned training samples is a common practice for preventing post",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Yavuz Bakman, Duygu Nur Yaldiz, Baris Askin, Swastik Roy, Morteza Ziyadi, Salman Avestimehr, Sai Praneeth Karimireddy",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting",
+          "url": "https://arxiv.org/abs/2609.38385",
+          "source": "arXiv AI/ML",
+          "summary": "38385v1 Announce Type: new Abstract: Supervised fine-tuning of discrete diffusion language models masks some response tokens and trains the model to recover their original values from the visible cont",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Loay Mualem, Llu\\'is Pastor-P\\'erez, Vinh Tong, Andrei Manolache, Tanja Bien, Steffen Staab, Mathias Niepert",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Decode-Latency Feedback Prefill: A Model-Free Controller and Its Generalization Limits",
+          "url": "https://arxiv.org/abs/2609.38386",
+          "source": "arXiv AI/ML",
+          "summary": "38386v1 Announce Type: new Abstract: Concurrent autoregressive inference creates a fundamental interference problem: prefilling a newly arrived long prompt can delay tokens for requests that are alrea",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Gaurav Agarwal, Ashish Garg, Isha Singhal",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
+          "url": "https://arxiv.org/abs/2609.38392",
+          "source": "arXiv AI/ML",
+          "summary": "38392v1 Announce Type: new Abstract: Personas used to seed LLM social simulations face a cold-start problem: existing methods lack a principled basis for deciding which attributes to include and how t",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Jinyi Ye, Yuangang Li, Chenxiao Yu, Preyashi Poddar, Priyanka Dey, Longtian Ye, Zihan Wang, Xiyang Hu, Emilio Ferrara, Yue Zhao",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SimTrace: Grounded Multimodal User Trajectories Generation for Online User Modeling",
+          "url": "https://arxiv.org/abs/2609.38397",
+          "source": "arXiv AI/ML",
+          "summary": "38397v1 Announce Type: new Abstract: Virtual clients offer a cost-effective approach to support applications such as A/B testing, recommender system development, and interface evaluation However, buil",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "Yunan Lu, Shuang Xie, Meghna Allamudi, Mingyu Zhao, Han Li, Lingyun Wang, Zhou Yu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "ArgGYM: A Procedural, Engine-Verified Benchmark for Structured Defeasible Reasoning",
+          "url": "https://arxiv.org/abs/2609.38409",
+          "source": "arXiv AI/ML",
+          "summary": "38409v1 Announce Type: new Abstract: Recent progress in large language model reasoning has been driven by benchmarks and reinforcement learning environments with automatically verifiable rewards, part",
+          "category": "research",
+          "published_at": "2026-10-01T00:00:00-04:00",
+          "author": "\\.Ibrahim Ethem Deveci, Funda Tan \\c{C}al{\\i}k, Bar{\\i}\\c{s} Deniz Sa\\u{g}lam, Duygu Ataman",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "total": 50,
