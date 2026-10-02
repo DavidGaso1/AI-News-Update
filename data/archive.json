@@ -1,6 +1,265 @@
 {
-  "generated_at": "2026-10-01T12:33:50.207606+00:00",
+  "generated_at": "2026-10-02T11:59:26.082550+00:00",
   "archive": [
+    {
+      "date": "2026-10-02",
+      "total": 50,
+      "categories": {
+        "breaking": 3,
+        "research": 25,
+        "industry": 11,
+        "tools": 11
+      },
+      "articles": [
+        {
+          "title": "FlashDiffusion: Fused Tiled Kernel Spectral Decomposition",
+          "url": "https://arxiv.org/abs/2609.38198",
+          "source": "arXiv ML",
+          "summary": "38198v1 Announce Type: new Abstract: Diffusion maps, and kernel methods more generally, provide an interpretable nonlinear spectral representation basis for geometric learning In the geometric limit, ",
+          "category": "breaking",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Julio Candanedo",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "The eternal complement",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "source": "OpenAI Blog",
+          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas Explore why execution could shape the next economy and the pace of progress",
+          "category": "breaking",
+          "published_at": "2026-10-01T17:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Intelligence Age"
+          ]
+        },
+        {
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "url": "https://openai.com/index/the-den-family-social",
+          "source": "OpenAI Blog",
+          "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days",
+          "category": "breaking",
+          "published_at": "2026-10-01T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "A video about Adversarial Objectives [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/",
+          "source": "r/MachineLearning",
+          "summary": "I made this video about adversarial objectives, which I used to do research on back in the day I'm trying to explore how adversarial approaches transcend GANs and self-play into modern technology si=g",
+          "category": "research",
+          "published_at": "2026-10-02T04:02:56+00:00",
+          "author": "/u/manicman1999",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/Nunki08 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-10-02T00:47:10+00:00",
+          "author": "/u/Nunki08",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "For academia/industry, do HuggingFace model downloads mean anything for academic job market? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg09c/for_academiaindustry_do_huggingface_model/",
+          "source": "r/MachineLearning",
+          "summary": "I am applying to academic jobs We are told to include a section on \"impact\" I am wondering if the total number of HuggingFace downloads of custom models I have trained would be considered legit impact",
+          "category": "research",
+          "published_at": "2026-10-02T00:36:57+00:00",
+          "author": "/u/arc_in_tangent",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+          "url": "https://arxiv.org/abs/2610.00010",
+          "source": "arXiv AI/ML",
+          "summary": "00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or to",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Xinyuan Song, Zekun Cai",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When Do Causal World Models Help Modular LLM Agents",
+          "url": "https://arxiv.org/abs/2610.00012",
+          "source": "arXiv AI/ML",
+          "summary": "00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Xinyuan Song, Zekun Cai",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+          "url": "https://arxiv.org/abs/2610.00018",
+          "source": "arXiv AI/ML",
+          "summary": "00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, strong",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Jiameng Zhang, Hongqiu Wu",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+          "url": "https://arxiv.org/abs/2610.00025",
+          "source": "arXiv AI/ML",
+          "summary": "00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell ",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Jundong Hu, Shekar Ramachandran",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+          "url": "https://arxiv.org/abs/2610.00047",
+          "source": "arXiv AI/ML",
+          "summary": "00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a ch",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Khawaja Murad ul Hassan, Mehran Ebrahimi",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+          "url": "https://arxiv.org/abs/2610.00061",
+          "source": "arXiv AI/ML",
+          "summary": "00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality While Direct Preferen",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Ruoming Jin, Xinyu Li, Hao Zhou, Jianfeng Zhu, Ruixin Guo, Feodor Dragan, Lei Xu, Haixun Wang, Yang Zhou",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+          "url": "https://arxiv.org/abs/2610.00074",
+          "source": "arXiv AI/ML",
+          "summary": "00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer The research",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Aubrey M. Brueckner, Darshil Patel, Yuhuan He, Timothy Kassis",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+          "url": "https://arxiv.org/abs/2610.00197",
+          "source": "arXiv AI/ML",
+          "summary": "00197v1 Announce Type: new Abstract: We investigate automated rewards for training language models in conversational humor, focusing on reward exploits and countermeasures Two approaches aim to captur",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Sam Larson",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2610.00212",
+          "source": "arXiv AI/ML",
+          "summary": "00212v1 Announce Type: new Abstract: Public-service recommendations require evidence that matches the requested service, scope, and date Yet treating every missing detail as decisive can withhold usef",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Yixi Zhou, Sikun Wang, Lei Fan, Fan Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
+          "url": "https://arxiv.org/abs/2610.00224",
+          "source": "arXiv AI/ML",
+          "summary": "00224v1 Announce Type: new Abstract: Building automation systems are increasingly represented as semantic knowledge graphs (KGs) using ontologies such as Brick and ASHRAE 223P, creating a machine-read",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Wooyoung Jung",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+          "url": "https://arxiv.org/abs/2610.00233",
+          "source": "arXiv AI/ML",
+          "summary": "00233v1 Announce Type: new Abstract: When an informed adversary shares the audience of a constrained signalling channel, the signal that best protects the truth is the signal that best describes it On",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Cris Huynh",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.GT",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
+          "url": "https://arxiv.org/abs/2610.00234",
+          "source": "arXiv AI/ML",
+          "summary": "00234v1 Announce Type: new Abstract: \"Train a model on the same problems written under two incompatible conventions, both correct, and ask what the ordering of that data writes into the parameters The",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Wenhui Chen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+          "url": "https://arxiv.org/abs/2610.00282",
+          "source": "arXiv AI/ML",
+          "summary": "00282v1 Announce Type: new Abstract: How should an embodied agent respond when a person's correction may be wrong We formulate grounded correction arbitration as a choice among accepting, rejecting, i",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Yezhou Cheng, Runjia Du, Zeming Liu, Hang Lyu, Zehua Yang, Bojun Lin",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+          "url": "https://arxiv.org/abs/2610.00313",
+          "source": "arXiv AI/ML",
+          "summary": "00313v1 Announce Type: new Abstract: Scientific coding agents receive equations, boundary conditions, and output requirements in writing, then must assess the programs they revise Rules to Tools (R2T)",
+          "category": "research",
+          "published_at": "2026-10-02T00:00:00-04:00",
+          "author": "Jingjie Ning, Guojiang Zhao, Chen Xu, Shanshan Zhong, Xiaochuan Li, Ji Zeng, Guolin Ke",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "total": 50,
