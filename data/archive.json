@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-10-02T11:59:26.082550+00:00",
+  "generated_at": "2026-10-03T11:12:26.312073+00:00",
   "archive": [
+    {
+      "date": "2026-10-03",
+      "total": 44,
+      "categories": {
+        "breaking": 1,
+        "research": 31,
+        "industry": 9,
+        "tools": 3
+      },
+      "articles": [
+        {
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI Blog",
+          "summary": "Chatham Financial uses Codex and GPT-5 6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4",
+          "category": "breaking",
+          "published_at": "2026-10-02T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
+          "url": "https://arxiv.org/abs/2610.00002",
+          "source": "arXiv ML",
+          "summary": "00002v1 Announce Type: new Abstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"subjects\" with resistance ability and",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Jung Min Kang",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "How Far is Adam from Natural Gradient Descent?",
+          "url": "https://arxiv.org/abs/2610.00004",
+          "source": "arXiv ML",
+          "summary": "00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions We study Adam's ful",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Vihaan Paka-Hegde",
+          "tags": [
+            "cs.LG",
+            "cs.NE"
+          ]
+        },
+        {
+          "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+          "url": "https://arxiv.org/abs/2610.00009",
+          "source": "arXiv ML",
+          "summary": "00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inne",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Athanasios Zeris",
+          "tags": [
+            "cs.LG",
+            "cs.CL",
+            "eess.SP"
+          ]
+        },
+        {
+          "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
+          "url": "https://arxiv.org/abs/2610.00035",
+          "source": "arXiv ML",
+          "summary": "00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful interven",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Bente Hinkenhuis, Seyed Sahand Mohammadi Ziabari, Ali Mohammed Mansoor Alsahag",
+          "tags": [
+            "cs.LG",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Fast Polynomial Transcendentals for LLMs",
+          "url": "https://arxiv.org/abs/2610.00049",
+          "source": "arXiv ML",
+          "summary": "00049v1 Announce Type: new Abstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bottlenecks move as hardware evolves ",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Robert Hu",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
+          "url": "https://arxiv.org/abs/2610.00050",
+          "source": "arXiv ML",
+          "summary": "00050v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learnable univariate functions on edges,",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Amirhosein Azarpour, Seyyed Moein Kazemi",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Format-Aware Fusion for Fast FP4 Pretraining",
+          "url": "https://arxiv.org/abs/2610.00053",
+          "source": "arXiv ML",
+          "summary": "00053v1 Announce Type: new Abstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout construction, and saved backward state ",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Robert Hu",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
+          "url": "https://arxiv.org/abs/2610.00083",
+          "source": "arXiv ML",
+          "summary": "00083v1 Announce Type: new Abstract: Humans express uncertainty verbally via markers (e , \"possible,\" \"likely\"), yet most LLM uncertainty quantification (UQ) relies on costing likelihood- or consisten",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Jinhao Duan, Zicheng Liu, Zijie Liu, Kaidi Xu, Tianlong Chen",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
+          "url": "https://arxiv.org/abs/2610.00094",
+          "source": "arXiv ML",
+          "summary": "00094v1 Announce Type: new Abstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale Must a memory calibrate its sources before ",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Pranav Singh",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "One Mastery Threshold Does Not Fit All Knowledge Tracing Models",
+          "url": "https://arxiv.org/abs/2610.00095",
+          "source": "arXiv ML",
+          "summary": "00095v1 Announce Type: new Abstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshold can lead to very different decisi",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Xianghui Meng, Yujing Zhang, Jionghao Lin",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Uncertainty-Aware Learning from Multi-Expert Interval Targets",
+          "url": "https://arxiv.org/abs/2610.00102",
+          "source": "arXiv ML",
+          "summary": "00102v1 Announce Type: new Abstract: Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plausible interpretations of the same observation Su",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Samira Alkaee Taleghan, Younghyun Koo, Andrew P. Barrett, Farnoush Banaei-Kashani",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
+          "url": "https://arxiv.org/abs/2610.00118",
+          "source": "arXiv ML",
+          "summary": "00118v1 Announce Type: new Abstract: Customer churn prediction on the IBM Telco Customer Churn benchmark (n = 7,043) routinely reports test accuracies above 95%, with the most cited published study re",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Soumyadeep Roy",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Generalized Biomedicine Discovery",
+          "url": "https://arxiv.org/abs/2610.00120",
+          "source": "arXiv ML",
+          "summary": "00120v1 Announce Type: new Abstract: In real-world clinical practice, medical images face open-world shifts: (i) long-tailed rare diseases, (ii) subtle lesions dominated by normal anatomy, and (iii) h",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Luyao Tang, Yingkai Yang, Hanqi Chen, Jiewei Zheng, Chaoqi Chen, Cheng Chen",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Classification Based on Association Rules Algorithm for Breast Cancer",
+          "url": "https://arxiv.org/abs/2610.00174",
+          "source": "arXiv ML",
+          "summary": "00174v1 Announce Type: new Abstract: Breast cancer is a significant contributor to female mortality across the world, displaying one of the highest oc currence rates among the various cancer types In ",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Ali Alsalama, Ahmed Kubba, Ghaith Jamjoum, Zaher Al Aghbari",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Four Ways to Grow a Classifier and Why One of Them Cannot Learn",
+          "url": "https://arxiv.org/abs/2610.00180",
+          "source": "arXiv ML",
+          "summary": "00180v1 Announce Type: new Abstract: Constructive classifiers add structure while they train: a level to a tree, a unit to a hidden layer, a split at a leaf This paper asks what each of four such grow",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Cagri Temel",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Uncertainty-Aware RL-Controlled Adaptive 3D Mapping",
+          "url": "https://arxiv.org/abs/2610.00188",
+          "source": "arXiv ML",
+          "summary": "00188v1 Announce Type: new Abstract: Voxel-based volumetric mapping is fundamental to 3D reconstruction, yet fixed-resolution grids remain inherently inefficient - wasting memory in uniform regions an",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Alpay Ozkan, Tunc Ozan Aydin, Marc Pollefeys, Jelena Trisovic, Daniel Barath",
+          "tags": [
+            "cs.LG",
+            "cs.CV",
+            "cs.GR",
+            "eess.IV"
+          ]
+        },
+        {
+          "title": "Energy Time-Series Imputation with Differentially Private Diffusion Models via Clipping-Aware Objective Conditioning",
+          "url": "https://arxiv.org/abs/2610.00209",
+          "source": "arXiv ML",
+          "summary": "00209v1 Announce Type: new Abstract: Reliable recovery of missing measurements is important for monitoring and analysis in energy time-series systems, where fine-grained measurements may contain sensi",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Huizhen Huang, Yu Li, Tao Huang, Chen Hou",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Useful to Whom? Sample Value Is Defined Only Relative to the Learner",
+          "url": "https://arxiv.org/abs/2610.00221",
+          "source": "arXiv ML",
+          "summary": "00221v1 Announce Type: new Abstract: What kind of data does a model need in order to learn Coreset selection makes this question concrete: under a budget, keep the samples most useful for training Eas",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Yangze Liu, Xiao-Long Yin, Zhongyi Han",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Constant-Memory Recall: Learned Associations in a Fixed Matrix State",
+          "url": "https://arxiv.org/abs/2610.00232",
+          "source": "arXiv ML",
+          "summary": "00232v1 Announce Type: new Abstract: Fixed-size recurrent memory limits storage growth during inference, but successful recall depends on the task and training We study a small DeltaNet variant with f",
+          "category": "research",
+          "published_at": "2026-10-03T00:00:00-04:00",
+          "author": "Samuel Larson",
+          "tags": [
+            "cs.LG"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "total": 50,
