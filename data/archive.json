@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-10-04T11:52:13.775594+00:00",
+  "generated_at": "2026-10-05T13:46:36.426011+00:00",
   "archive": [
+    {
+      "date": "2026-10-05",
+      "total": 50,
+      "categories": {
+        "breaking": 3,
+        "research": 43,
+        "industry": 1,
+        "tools": 3
+      },
+      "articles": [
+        {
+          "title": "Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers",
+          "category": "breaking",
+          "published_at": "2026-10-05T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "When History Fails to Become Experience: Action Calibration in Language Agents",
+          "url": "https://arxiv.org/abs/2610.02769",
+          "source": "arXiv CL",
+          "summary": "02769v1 Announce Type: new Abstract: Language agents should draw on prior attempts and environmental feedback to improve subsequent decisions within the same task However, providing additional interac",
+          "category": "breaking",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Jingyu Liu, Zhiwen Wang, Yuxin Jing, Huanyu Zhou, Yong Liu",
+          "tags": [
+            "cs.CL",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
+          "source": "r/MachineLearning",
+          "summary": "please refresh if stuck, can be slow sometimes so need patience submitted by /u/big_hole_energy [link] [comments]",
+          "category": "breaking",
+          "published_at": "2026-10-04T18:03:08+00:00",
+          "author": "/u/big_hole_energy",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/",
+          "source": "r/MachineLearning",
+          "summary": "Hi everyone, I recently had a paper accepted at ACML 2026, but I just found out that I have absolutely no funding to cover the registration fee or travel expenses Because of this, I need to withdraw t",
+          "category": "research",
+          "published_at": "2026-10-05T07:40:27+00:00",
+          "author": "/u/Jealous_Key_4030",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
+          "source": "r/MachineLearning",
+          "summary": "In this project, I distilled the Stockfish value function into a ResNet/ViT model using 1 billion positions from the Gigafish dataset 9 billion position dataset is available on huggingface: https://hu",
+          "category": "research",
+          "published_at": "2026-10-05T04:11:48+00:00",
+          "author": "/u/microscope1024",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+          "url": "https://arxiv.org/abs/2610.02260",
+          "source": "arXiv AI/ML",
+          "summary": "02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measu",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Yesom Park, Kelvin Kan, Qifan Chen, Thomas Flynn, Hayden Schaeffer. Xihaier Luo",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+          "url": "https://arxiv.org/abs/2610.02267",
+          "source": "arXiv AI/ML",
+          "summary": "02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an ",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Jiawei Li",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CR",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+          "url": "https://arxiv.org/abs/2610.02281",
+          "source": "arXiv AI/ML",
+          "summary": "02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale wit",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Bart Jaworski",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+          "url": "https://arxiv.org/abs/2610.02300",
+          "source": "arXiv AI/ML",
+          "summary": "02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "NaHyeon Park, Minhyun Lee, Hyunjung Shim",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+          "url": "https://arxiv.org/abs/2610.02330",
+          "source": "arXiv AI/ML",
+          "summary": "02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequ",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Yu Li, Zheng Zhang, Xin Liu, Shengtian Yang, Guangfeng Cai, Lei Feng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+          "url": "https://arxiv.org/abs/2610.02331",
+          "source": "arXiv AI/ML",
+          "summary": "02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains ",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Max Ku, Nok-Kan Law, Yu-Chien Tang, Shih-Ying Yeh, Ping Nie, Andy Zheng, Tat Hei Lai, Fei-Yueh Chen, Nikko Yu, Wei-Chieh Sun, Suzy Huang, Chiao-Wei Hsu, Chih-Chuan Huang, Chak-Wing Mak, Ho Yin Sam Ng, Edisy Kin Wai Chan, Min-Hung Chen, Ho Kei Cheng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+          "url": "https://arxiv.org/abs/2610.02342",
+          "source": "arXiv AI/ML",
+          "summary": "02342v1 Announce Type: new Abstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties However, not",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Ali Melih Kanca, Ilker Turker",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+          "url": "https://arxiv.org/abs/2610.02351",
+          "source": "arXiv AI/ML",
+          "summary": "02351v1 Announce Type: new Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete This coupling makes ",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Ajay Vohra, Tao Chen, Neeti Narayan, Caron Zhang",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+          "url": "https://arxiv.org/abs/2610.02372",
+          "source": "arXiv AI/ML",
+          "summary": "02372v1 Announce Type: new Abstract: Text-to-image generation enables users to explore several images generated from the same prompt For these generated images to be useful, each one must reflect the ",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Kevin Zhai, Siva Rajesh Kasa, Soumya Roy, Sumit Negi, Mubarak Shah",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+          "url": "https://arxiv.org/abs/2610.02378",
+          "source": "arXiv AI/ML",
+          "summary": "02378v1 Announce Type: new Abstract: In Recirculating Aquaculture Systems (RAS), precision feeding is critical for minimizing costs and improving fish welfare However, existing methods lack cognitive ",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Meng Liang, Guanbo Feng, Haozhuang Chi, Shilong Zhao, Zhixin Xiong, Yuhang He, Wenfeng Han, Tianhao Zhao, Zhihong Ma, Ying Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+          "url": "https://arxiv.org/abs/2610.02395",
+          "source": "arXiv AI/ML",
+          "summary": "02395v1 Announce Type: new Abstract: Streaming GPU solvers for entropic optimal transport (EOT), such as FlashSinkhorn, avoid storing the dense kernel but still evaluate all $n\\times m$ point pairs in",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Felix X. -F. Ye, Yu Chin Fabian Lim, Naigang Wang, Davis Wertheimer",
+          "tags": [
+            "cs.AI",
+            "astro-ph.IM",
+            "cs.NA",
+            "math.NA"
+          ]
+        },
+        {
+          "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+          "url": "https://arxiv.org/abs/2610.02405",
+          "source": "arXiv AI/ML",
+          "summary": "02405v1 Announce Type: new Abstract: Using a frontier model like Claude Opus as a meta-agent to generate terminal tasks and verifiers for RL training is increasingly common Yet a runnable Docker image",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Xi Qin, Isabel Kurth, Xin Cui, Elin Park, Alexander Schaefer, Yaad Oren",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Reinforcement Learning Techniques for the Optimization of Target Polarization in Nuclear Physics Scattering Experiments",
+          "url": "https://arxiv.org/abs/2610.02452",
+          "source": "arXiv AI/ML",
+          "summary": "02452v1 Announce Type: new Abstract: The operation of dynamically polarized targets in nuclear physics experiments relies on continuous tuning of the microwave frequency to compensate for radiation da",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Armen Kasparian, Torri Jeske, Monibor Rahman, Chris Keith, James Maxwell, Thomas Britton, Malachi Schram, David Lawrence",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Tropical Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.02478",
+          "source": "arXiv AI/ML",
+          "summary": "02478v1 Announce Type: new Abstract: Reinforcement learning for large language models typically maximizes expected return, adding up the probabilities of all successful trajectories However, the class",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Arip Asadulaev, Aladin Djuhera, Karim Salta, Holger Boche, Fakhri Karray, Martin Takac",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations",
+          "url": "https://arxiv.org/abs/2610.02480",
+          "source": "arXiv AI/ML",
+          "summary": "02480v1 Announce Type: new Abstract: Recent years have seen the employment of a plethora of machine learning (ML) models in high-stakes domains, but they remain largely opaque to the practitioners who",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00-04:00",
+          "author": "Yuyang Cheng, Raghav Kaushik Ravi, Srivarshinee Sridhar, Sriparna Saha, Akash Ghosh, Chirag Agarwal",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "total": 22,
