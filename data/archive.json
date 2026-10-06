@@ -1,6 +1,162 @@
 {
-  "generated_at": "2026-10-05T13:46:36.426011+00:00",
+  "generated_at": "2026-10-06T12:52:11.836856+00:00",
   "archive": [
+    {
+      "date": "2026-10-06",
+      "total": 12,
+      "categories": {
+        "breaking": 1,
+        "research": 4,
+        "industry": 1,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI Blog",
+          "summary": "How OpenAI is approaching text watermarking under EU rules Learn where watermarks apply, how detection works, and why access starts with researchers",
+          "category": "breaking",
+          "published_at": "2026-10-05T15:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Safety"
+          ]
+        },
+        {
+          "title": "NeurIPS 2026 Financial Assistance [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wz0fzf/neurips_2026_financial_assistance_d/",
+          "source": "r/MachineLearning",
+          "summary": "Is anyone else unable to open the form for financial assistance despite the deadline still being in the future submitted by /u/lcj29 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-10-06T11:44:36+00:00",
+          "author": "/u/lcj29",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+          "source": "r/MachineLearning",
+          "summary": "Learning from data as we observe it is easy for humans, but most machine learning models have limited ability to learn from new data that they have not seen during training Prior-fitted networks (the ",
+          "category": "research",
+          "published_at": "2026-10-06T10:50:30+00:00",
+          "author": "/u/cbl007",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
+          "source": "r/MachineLearning",
+          "summary": "This is related to my previous post where I shared an encoder-only transformer model trained on ohiot1dm + shanghait1dm + azt1d datasets This time I trained the model on the outputs of my T1DM patient",
+          "category": "research",
+          "published_at": "2026-10-05T13:58:31+00:00",
+          "author": "/u/0xdeadf1sh",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Together Link: open models in the harness you already use. Start with one command today.",
+          "url": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use",
+          "source": "Together AI Blog",
+          "summary": "Together Link brings frontier open models like GLM 5 3 and Kimi K3 into the coding agent your team already uses, cutting model spend by over 50%",
+          "category": "research",
+          "published_at": "2026-10-05T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+          "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+          "source": "NVIDIA Blog",
+          "summary": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide A majority of women over age 40 skip the recommended annual screening Radiologists are reading ",
+          "category": "industry",
+          "published_at": "2026-10-05T13:00:57+00:00",
+          "author": "Chelsea Sumner",
+          "tags": [
+            "AI",
+            "AI for Good",
+            "Healthcare and Life Sciences",
+            "Inception",
+            "Physical AI"
+          ]
+        },
+        {
+          "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+          "source": "r/MachineLearning",
+          "summary": "We've been building a benchmark out of real concurrency bugs (race conditions, deadlocks, cancellation issues) taken from merged PRs in about 100 Python projects Each task gets graded by the project's",
+          "category": "tools",
+          "published_at": "2026-10-06T07:03:22+00:00",
+          "author": "/u/heyitsdannyle",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-06T06:44:39+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/",
+          "source": "r/MachineLearning",
+          "summary": "I've been working on a font searching tool for about a year now, and my investigations have centered around pre-training neural networks to produce embeddings of each font I usually then need to post-",
+          "category": "tools",
+          "published_at": "2026-10-06T00:51:26+00:00",
+          "author": "/u/Chroma-Crash",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "A chunking lib in Rust that is ~20x faster [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
+          "source": "r/MachineLearning",
+          "summary": "Hey, I wanted a faster chunking library for my system without affecting the overall accuracy Did not find many options So I've build https://github",
+          "category": "tools",
+          "published_at": "2026-10-05T18:11:15+00:00",
+          "author": "/u/Ok_Cartographer5609",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Language barrier, shadier terms and jargon fog [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wy9cty/language_barrier_shadier_terms_and_jargon_fog_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hey all, I don't know if you guys are experiencing the same thing, but there is this behaviour that i have been noticing on the latest models on openAI (since sol 5 6) and Anthropic since Fable 5 Basi",
+          "category": "tools",
+          "published_at": "2026-10-05T14:02:04+00:00",
+          "author": "/u/coriendercake",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
+          "source": "r/MachineLearning",
+          "summary": "Our production recommender at Yandex Music has 15+ candidate generators feeding pre-ranking and ranking models with hundreds of features LLMs showed that one end-to-end model can take over work that u",
+          "category": "tools",
+          "published_at": "2026-10-05T10:07:52+00:00",
+          "author": "/u/SettingAccording8986",
+          "tags": [
+            "reddit"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "total": 50,
