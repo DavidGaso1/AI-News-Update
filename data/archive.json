@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-10-06T12:52:11.836856+00:00",
+  "generated_at": "2026-10-07T12:46:06.427395+00:00",
   "archive": [
+    {
+      "date": "2026-10-07",
+      "total": 50,
+      "categories": {
+        "breaking": 5,
+        "research": 36,
+        "industry": 3,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "Saw this on Rednote, WTF [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wzpzh3/saw_this_on_rednote_wtf_d/",
+          "source": "r/MachineLearning",
+          "summary": "width=1314&format=png&auto=webp&s=0ba382fb88894c6e687d5bb9a4b14a85334eae67 Guess we have a dataset for sycophancy and AI content detection submitted by /u/Striking-Warning9533 [link] [comments]",
+          "category": "breaking",
+          "published_at": "2026-10-07T07:08:36+00:00",
+          "author": "/u/Striking-Warning9533",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Crop Yield Prediction for Punjab, Pakistan: A Tree-Ensemble and Leaf-Health Prototype, and What Random Validation Hides",
+          "url": "https://arxiv.org/abs/2610.07059",
+          "source": "arXiv CV",
+          "summary": "07059v1 Announce Type: new Abstract: Yield forecasts help planners and farmers decide on inputs, storage and imports, but small agricultural tables can make reported accuracy fail on a new season We b",
+          "category": "breaking",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Amina Asif, Qurat ul ain Asif, Noor Bakhat Asif",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI Blog",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work",
+          "category": "breaking",
+          "published_at": "2026-10-06T16:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI Blog",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research See how longer-running AI workflows combine multiple data sources with human review",
+          "category": "breaking",
+          "published_at": "2026-10-06T12:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Advancing computer use with Ironclad",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "source": "OpenAI Blog",
+          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work",
+          "category": "breaking",
+          "published_at": "2026-10-06T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Publication"
+          ]
+        },
+        {
+          "title": "NeurIPS 26 Event Metadata Deadline [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wzrj5l/neurips_26_event_metadata_deadline_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hi All, Does anyone know when is the deadline to fill in event metadata (the screenshot below) Is it the same time as camera-ready Or there is a deadline for it",
+          "category": "research",
+          "published_at": "2026-10-07T08:52:39+00:00",
+          "author": "/u/d_edge_sword",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Where to get started if you want to publish papers in Neurips,ACL,ICLR/A* conferences [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1wzp0yf/where_to_get_started_if_you_want_to_publish/",
+          "source": "r/MachineLearning",
+          "summary": "I'm a Ai engineer with about 2 years work experience, but let's just assume that I was a undergraduate student just starting out where would I begin so that I can publish a A* conference paper at some",
+          "category": "research",
+          "published_at": "2026-10-07T06:07:27+00:00",
+          "author": "/u/princenara24",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+          "url": "https://arxiv.org/abs/2610.06910",
+          "source": "arXiv AI/ML",
+          "summary": "06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging a",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Haoyue Yang, Jingyao Li, Zhengfan Wu, Jing Liu, Xuanle Zhao, Kang Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+          "url": "https://arxiv.org/abs/2610.06917",
+          "source": "arXiv AI/ML",
+          "summary": "06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Kartik Ramesh, Kaidi Fu, Zihan Zheng, Jiahuan Yu, Fabio Oliveira, Carlos Costa, Minjia Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+          "url": "https://arxiv.org/abs/2610.06919",
+          "source": "arXiv AI/ML",
+          "summary": "06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations Similarity is typically measured using cosine similarity, which prov",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Akash Kannan, Kiho Park, Victor Veitch",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+          "url": "https://arxiv.org/abs/2610.06923",
+          "source": "arXiv AI/ML",
+          "summary": "06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data ",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Caiwen Jiang, Shuoyang Wei, Songlin Zhao, Junyu Li, Jingyuan Chen, Wei Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+          "url": "https://arxiv.org/abs/2610.06928",
+          "source": "arXiv AI/ML",
+          "summary": "06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e , angry) when training data provide limited direct referential evidence We hypothesize a metonymic gro",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Jing Ding, Ziqiao Ma, Jiayuan Mao, Joyce Chai, Freda Shi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+          "url": "https://arxiv.org/abs/2610.06964",
+          "source": "arXiv AI/ML",
+          "summary": "06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remain",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Bowen Ye, Yongchao Xu, Junkai Ma, Xiang Yin, Wenzhao Li",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+          "url": "https://arxiv.org/abs/2610.06986",
+          "source": "arXiv AI/ML",
+          "summary": "06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs However, existing systems typically optimize evaluator fee",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Binjie Guo, Aisheng Mo, Ruitong Li, Xinle Deng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+          "url": "https://arxiv.org/abs/2610.06992",
+          "source": "arXiv AI/ML",
+          "summary": "06992v1 Announce Type: new Abstract: Improved traffic forecasts do not necessarily yield better signal-control decisions We investigate this gap through a layered diagnostic study using 29 days of rec",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Jianing Long, Xiaobin Li, Wuming Lei, Weiguang Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+          "url": "https://arxiv.org/abs/2610.06995",
+          "source": "arXiv AI/ML",
+          "summary": "06995v1 Announce Type: new Abstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear We evaluate this question with a frozen protocol that sep",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Jianing Long, Xiaobin Li, Wuming Lei, Weiguang Wang",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.07018",
+          "source": "arXiv AI/ML",
+          "summary": "07018v1 Announce Type: new Abstract: Vision-language models (VLMs) have achieved strong performance in multimodal reasoning, yet they remain prone to generating plausible but incorrect answers Self-ve",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Morris Yu-Chao Huang, Yicheng Lin, Wei Han, Tianlong Chen, Mingyuan Wu, Hanchao Yu, Gaojie Jin, Lu Liu, Bo Sun, Tianjin Huang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+          "url": "https://arxiv.org/abs/2610.07023",
+          "source": "arXiv AI/ML",
+          "summary": "07023v1 Announce Type: new Abstract: Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that elicit harmful or unsafe outputs Existing safety",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Jinghao Pang, Jitai Hao, Qiang Huang, Zhaochun Ren, Jun Yu",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+          "url": "https://arxiv.org/abs/2610.07026",
+          "source": "arXiv AI/ML",
+          "summary": "07026v1 Announce Type: new Abstract: The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline Designed f",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Sunday Afariogun, Odunolaoluwa Jenrola, Zeinab Nezami",
+          "tags": [
+            "cs.AI",
+            "cs.NI",
+            "cs.SY",
+            "eess.SY"
+          ]
+        },
+        {
+          "title": "JIVEAdapter: A Multi-Task Additive Low-Rank Adapter via Joint and Individual Variation Explained (JIVE)",
+          "url": "https://arxiv.org/abs/2610.07036",
+          "source": "arXiv AI/ML",
+          "summary": "07036v1 Announce Type: new Abstract: Parameter-efficient fine-tuning adapts pretrained models at a fraction of the cost of full fine-tuning, yet most low-rank adapters are single-task and represent ea",
+          "category": "research",
+          "published_at": "2026-10-07T00:00:00-04:00",
+          "author": "Sara Abdali, Pashmina Cameron",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "total": 12,
