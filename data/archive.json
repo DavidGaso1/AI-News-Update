@@ -1,6 +1,269 @@
 {
-  "generated_at": "2026-10-07T12:46:06.427395+00:00",
+  "generated_at": "2026-10-08T12:55:49.383450+00:00",
   "archive": [
+    {
+      "date": "2026-10-08",
+      "total": 50,
+      "categories": {
+        "breaking": 4,
+        "research": 31,
+        "industry": 5,
+        "tools": 10
+      },
+      "articles": [
+        {
+          "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
+          "source": "r/MachineLearning",
+          "summary": "width=2532&format=png&auto=webp&s=fdfed9fe7ed2cef8e45791110a5152ff163a0ce8 TLDR: The question we answer: how do you learn from experts with different objectives Pooling all their data can lose their t",
+          "category": "breaking",
+          "published_at": "2026-10-07T20:58:31+00:00",
+          "author": "/u/Yossarian_1234",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "source": "OpenAI Blog",
+          "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council",
+          "category": "breaking",
+          "published_at": "2026-10-07T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "url": "https://openai.com/index/radisson",
+          "source": "OpenAI Blog",
+          "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips",
+          "category": "breaking",
+          "published_at": "2026-10-07T07:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "source": "OpenAI Blog",
+          "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly",
+          "category": "breaking",
+          "published_at": "2026-10-07T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "[P] We re-ran NeurIPS's pre-LLM vs 2025 paper check with a second AI-text detector. Neither flags a 2022 paper; on 2025 papers they disagree [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x0oi2w/p_we_reran_neuripss_prellm_vs_2025_paper_check/",
+          "source": "r/MachineLearning",
+          "summary": "Disclosure: I build ParaTrace, a commercial AI-text detector with a free tier I'm posting because these results include a disagreement with Pangram that I can't settle on my own, and this sub is the r",
+          "category": "research",
+          "published_at": "2026-10-08T11:30:46+00:00",
+          "author": "/u/AltruisticCouple3491",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Best practices when running a benchmark on online models [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x0o8de/best_practices_when_running_a_benchmark_on_online/",
+          "source": "r/MachineLearning",
+          "summary": "I'm developing a benchmark for a low resource language and I don't want it to be leaked and used for training when it is being used to get predictions For locally run models it shouldn't be a problem,",
+          "category": "research",
+          "published_at": "2026-10-08T11:15:50+00:00",
+          "author": "/u/neuralbeans",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
+          "source": "r/MachineLearning",
+          "summary": "Here is the story: Nvidia has published this work (with source code available) called dreamDojo which is a world model for robotics based of their prior work Cosmos 2 5 which is cited about 100 times ",
+          "category": "research",
+          "published_at": "2026-10-08T04:58:15+00:00",
+          "author": "/u/Amazing-Fox-7295",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Inference-Time Projection for Physically Valid Biomolecular Diffusion Models",
+          "url": "https://arxiv.org/abs/2610.07037",
+          "source": "arXiv AI/ML",
+          "summary": "07037v1 Announce Type: new Abstract: AlphaFold 3-style cofolding models predict biomolecular complexes with high structural accuracy, yet a large fraction of their outputs are physically invalid: chai",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Qurat-ul-ain, Yee Whye Teh, Charlotte M. Deane, Matteo Cagiada",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "CuratorMAS: Automating Dataset Curation via Multi-Agent Orchestration",
+          "url": "https://arxiv.org/abs/2610.07075",
+          "source": "arXiv AI/ML",
+          "summary": "07075v1 Announce Type: new Abstract: High-quality datasets are essential for reliable machine learning, but dataset curation remains costly and hard to generalize across domains Existing methods typic",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Yixin Zhang, Wenjie Feng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Smart Content Ingestion for Generative AI Workloads",
+          "url": "https://arxiv.org/abs/2610.07091",
+          "source": "arXiv AI/ML",
+          "summary": "07091v1 Announce Type: new Abstract: The evolution of machine learning has progressively changed where intelligence resides in an AI system In conventional machine learning the task, data representati",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Abbas Raza Ali, Muhammad Ajmal Siddiqui, Moona Zahid",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CV",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
+          "url": "https://arxiv.org/abs/2610.07093",
+          "source": "arXiv AI/ML",
+          "summary": "07093v1 Announce Type: new Abstract: The rapid proliferation of heterogeneous data sources within the Internet of Things (IoT) across domains such as smart cities, energy management, and environmental",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Cristian Martella, Angelo Martella, Antonella Longo, Motaz Saad",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course",
+          "url": "https://arxiv.org/abs/2610.07097",
+          "source": "arXiv AI/ML",
+          "summary": "07097v1 Announce Type: new Abstract: Experimental studies of generative AI in education mostly report average effects, yet field evidence shows that AI can narrow attainment gaps or widen them We argu",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Canh Thien Dang, An Nguyen",
+          "tags": [
+            "cs.AI",
+            "econ.GN",
+            "q-fin.EC"
+          ]
+        },
+        {
+          "title": "When to Remember, When to Abstain: Category-Conditioned Retention for Reliable Agent Memory",
+          "url": "https://arxiv.org/abs/2610.07100",
+          "source": "arXiv AI/ML",
+          "summary": "07100v1 Announce Type: new Abstract: Persistent agent memory is only as reliable as its retention decision: an assertion weakly supported by its source can be stored and later reused as established fa",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Olukunle Owolabi, Pulkit Gupta, Fei Wang",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "AMBER: Training Long-Horizon Web Agents through Append-Only Memory",
+          "url": "https://arxiv.org/abs/2610.07118",
+          "source": "arXiv AI/ML",
+          "summary": "07118v1 Announce Type: new Abstract: Modern language-model agents increasingly interact with external environments over long-horizon, multi-step trajectories, where the accumulated interaction history",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lingyun Wang",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Is this machine playing?",
+          "url": "https://arxiv.org/abs/2610.07130",
+          "source": "arXiv AI/ML",
+          "summary": "07130v1 Announce Type: new Abstract: We placed a modern AI coding assistant in an unintended role: as the mind of a body on an unknown digital island With only a minimal instruction mentioning no spec",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Nathan Cloos, Antonio Norelli, Daniel Durbin, Jacob Andreas, Daniela Rus, Phillip Isola",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot",
+          "url": "https://arxiv.org/abs/2610.07192",
+          "source": "arXiv AI/ML",
+          "summary": "07192v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) enables robots to navigate through environments using natural language instructions, making human-robot interaction intuitive Trad",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Chalindu Abeywansa, Sahan Gunasekara, Devindi De Silva, Seniru Dissanayake, Ranga Rodrigo, Peshala Jayasekara",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "Energy-Conditioned Noise Schedule and Whitening for Spectral Diffusion",
+          "url": "https://arxiv.org/abs/2610.07206",
+          "source": "arXiv AI/ML",
+          "summary": "07206v1 Announce Type: new Abstract: This paper introduces an energy-adaptive noise scheduling and whitening strategy for transform-domain diffusion models Existing spectral diffusion methods account ",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Bata Vasic, Bane Vasic",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.ET"
+          ]
+        },
+        {
+          "title": "Cascadia: Resident 975B MoE Inference on Eleven AI PCs",
+          "url": "https://arxiv.org/abs/2610.07219",
+          "source": "arXiv AI/ML",
+          "summary": "07219v1 Announce Type: new Abstract: Mixture-of-experts models make nearly trillion-parameter capacity accessible with sparse per-token computation, provided that the serving system can distribute the",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Tate Berenbaum (Not Community Labs Inc.), Matias Parij (Not Community Labs Inc.), Muthaiah Venkatachalam (Intel Corporation)",
+          "tags": [
+            "cs.AI",
+            "cs.DC"
+          ]
+        },
+        {
+          "title": "SPECTRUM: Proximal Spectral Modulation for Looped Self-Distillation",
+          "url": "https://arxiv.org/abs/2610.07237",
+          "source": "arXiv AI/ML",
+          "summary": "07237v1 Announce Type: new Abstract: A model that learns from its own outputs inherits more than their correctness: it inherits which solutions it produces We formulate Looped Self-Distillation, a sel",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Yunbo Long, WenJie Chen, Jiaquan Zhang, Guangya Hao, Zihang Zeng, Pengze Li, Xi Chen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Can Semantic Geometry Teach an AI Judgement?",
+          "url": "https://arxiv.org/abs/2610.07249",
+          "source": "arXiv AI/ML",
+          "summary": "07249v1 Announce Type: new Abstract: How can an AI agent determine what rules to follow One rule permits an action Another imposes a condition, exception, or conflicting obligation",
+          "category": "research",
+          "published_at": "2026-10-08T00:00:00-04:00",
+          "author": "Thomson D. Nguy (Radiant Institute for Manifold Studies)",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "total": 50,
