@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-10T12:00:25.318990+00:00",
+  "generated_at": "2026-10-11T12:13:27.898983+00:00",
   "archive": [
+    {
+      "date": "2026-10-11",
+      "total": 6,
+      "categories": {
+        "breaking": 0,
+        "research": 4,
+        "industry": 1,
+        "tools": 1
+      },
+      "articles": [
+        {
+          "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
+          "source": "r/MachineLearning",
+          "summary": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation The input is structured context plus a typed question with a fixed set of options The o",
+          "category": "research",
+          "published_at": "2026-10-11T09:33:10+00:00",
+          "author": "/u/WebDevToday",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
+          "source": "r/MachineLearning",
+          "summary": "This is my first time ARR submission I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months If we want to commit to NAACL 2027 inst",
+          "category": "research",
+          "published_at": "2026-10-11T04:48:48+00:00",
+          "author": "/u/SillyNeuron",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Has machine learning research gotten more \"wordy\"? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+          "source": "r/MachineLearning",
+          "summary": "I feel like I am unable to digest most machine learning research these days The primary reason is because I feel like they have gotten tremendously wordy I find it not uncommon to find research papers",
+          "category": "research",
+          "published_at": "2026-10-11T00:39:07+00:00",
+          "author": "/u/NeighborhoodFatCat",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+          "source": "r/MachineLearning",
+          "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role I was told the round would be focused on ML coding/debugging Specifically, I was told to focus on Python fundamentals, PyTo",
+          "category": "research",
+          "published_at": "2026-10-10T01:45:08+00:00",
+          "author": "/u/sailor-goon-is-here",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+          "source": "r/MachineLearning",
+          "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used It takes less memory and SCALES much better VRAM with",
+          "category": "industry",
+          "published_at": "2026-10-10T18:08:33+00:00",
+          "author": "/u/Alarming-Emotion-894",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What ai is best to operate a system from screen video [p]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
+          "source": "r/MachineLearning",
+          "summary": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback The control/feedback loop is already done I need something that can learn from v",
+          "category": "tools",
+          "published_at": "2026-10-11T04:18:11+00:00",
+          "author": "/u/angrykirby",
+          "tags": [
+            "reddit"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-10",
       "total": 23,

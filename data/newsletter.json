@@ -1,606 +1,171 @@
 {
-  "generated_at": "2026-10-10T12:00:25.328649+00:00",
-  "article_count": 23,
+  "generated_at": "2026-10-11T12:13:27.914662+00:00",
+  "article_count": 6,
   "categories": {
-    "breaking": [
-      {
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
-        "source": "OpenAI Blog",
-        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models",
-        "category": "breaking",
-        "published_at": "2026-10-09T07:00:00+00:00",
-        "fetched_at": "2026-10-10T11:59:31.349864+00:00",
-        "author": "",
-        "tags": []
-      }
-    ],
+    "breaking": [],
     "research": [
       {
-        "title": "Help With Choosing Hardware [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
+        "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
         "source": "r/MachineLearning",
-        "summary": "​ I am going to fine-tune a satire model, with the base model being `Qwen3 The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they hav",
+        "summary": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation The input is structured context plus a typed question with a fixed set of options The o",
         "category": "research",
-        "published_at": "2026-10-10T08:00:41+00:00",
-        "fetched_at": "2026-10-10T11:59:47.421481+00:00",
-        "author": "/u/minedroid1",
+        "published_at": "2026-10-11T09:33:10+00:00",
+        "fetched_at": "2026-10-11T12:12:21.996726+00:00",
+        "author": "/u/WebDevToday",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Clarification ARR Commitment [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
+        "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
         "source": "r/MachineLearning",
-        "summary": "I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accept",
+        "summary": "This is my first time ARR submission I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months If we want to commit to NAACL 2027 inst",
         "category": "research",
-        "published_at": "2026-10-09T13:36:48+00:00",
-        "fetched_at": "2026-10-10T11:59:47.467846+00:00",
-        "author": "/u/Mundane_Slice_8621",
+        "published_at": "2026-10-11T04:48:48+00:00",
+        "fetched_at": "2026-10-11T12:12:22.044678+00:00",
+        "author": "/u/SillyNeuron",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/",
+        "title": "Has machine learning research gotten more \"wordy\"? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
         "source": "r/MachineLearning",
-        "summary": "Abstract: Recent AI systems have made rapid progress in scientific discovery when given well-defined metrics, but whether they can autonomously undertake open-ended scientific discovery remains unclea",
+        "summary": "I feel like I am unable to digest most machine learning research these days The primary reason is because I feel like they have gotten tremendously wordy I find it not uncommon to find research papers",
         "category": "research",
-        "published_at": "2026-10-09T13:26:15+00:00",
-        "fetched_at": "2026-10-10T11:59:47.592074+00:00",
-        "author": "/u/progenitor414",
+        "published_at": "2026-10-11T00:39:07+00:00",
+        "fetched_at": "2026-10-11T12:12:21.930990+00:00",
+        "author": "/u/NeighborhoodFatCat",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Should I optimize for ML conference publications? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x14lwj/should_i_optimize_for_ml_conference_publications_d/",
+        "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
         "source": "r/MachineLearning",
-        "summary": "I am a fourth year PhD student in USA and have not had much luck with top ML conference publications In the last two years of my PhD, I am wondering if I should optimize for ML publications at top ven",
+        "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role I was told the round would be focused on ML coding/debugging Specifically, I was told to focus on Python fundamentals, PyTo",
         "category": "research",
-        "published_at": "2026-10-08T22:21:08+00:00",
-        "fetched_at": "2026-10-10T11:59:47.652973+00:00",
-        "author": "/u/Hopeful-Reading-6774",
+        "published_at": "2026-10-10T01:45:08+00:00",
+        "fetched_at": "2026-10-11T12:12:22.165763+00:00",
+        "author": "/u/sailor-goon-is-here",
         "tags": [
           "reddit"
-        ]
-      },
-      {
-        "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
-        "source": "r/MachineLearning",
-        "summary": "UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, consistently outperform most standard Transformer-based Large Language models (LLMs) by a ",
-        "category": "research",
-        "published_at": "2026-10-08T20:28:20+00:00",
-        "fetched_at": "2026-10-10T11:59:47.632967+00:00",
-        "author": "/u/moschles",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Whatever happened to BABA is AI from 2024? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
-        "source": "r/MachineLearning",
-        "summary": "We test three state-of-the-art multi-modal large language models (GPT-4o, Gemini-1 5-Flash) and find that they fail dramatically when generalization requires that the rules of the game must be manipul",
-        "category": "research",
-        "published_at": "2026-10-08T20:00:11+00:00",
-        "fetched_at": "2026-10-10T11:59:47.525138+00:00",
-        "author": "/u/moschles",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Complimentary Registrations for Reviewers neurips 2026 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0xqx2/complimentary_registrations_for_reviewers_neurips/",
-        "source": "r/MachineLearning",
-        "summary": "Are they sending to all reviewers or some selected reviewers Just got an email about complimentary registration submitted by /u/Intrepid_Discount_67 [link] [comments]",
-        "category": "research",
-        "published_at": "2026-10-08T17:53:25+00:00",
-        "fetched_at": "2026-10-10T11:59:47.673745+00:00",
-        "author": "/u/Intrepid_Discount_67",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
-        "source": "Microsoft Research Blog",
-        "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks Agent Lightning connects existing agents to RL tra",
-        "category": "research",
-        "published_at": "2026-10-07T16:00:00+00:00",
-        "fetched_at": "2026-10-10T11:59:34.024806+00:00",
-        "author": "Zhiyuan He, Yuqing Yang",
-        "tags": [
-          "Research Blog"
         ]
       }
     ],
     "industry": [
       {
-        "title": "ARR Oct Discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
+        "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
         "source": "r/MachineLearning",
-        "summary": "Are there actually fewer submissions this cycle or are people waiting for ARR Aug Meta to be out 8k submission ID yesterday submitted by /u/StriderKing27 [link] [comments]",
+        "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used It takes less memory and SCALES much better VRAM with",
         "category": "industry",
-        "published_at": "2026-10-09T12:44:04+00:00",
-        "fetched_at": "2026-10-10T11:59:47.430697+00:00",
-        "author": "/u/StriderKing27",
+        "published_at": "2026-10-10T18:08:33+00:00",
+        "fetched_at": "2026-10-11T12:12:22.095967+00:00",
+        "author": "/u/Alarming-Emotion-894",
         "tags": [
           "reddit"
-        ]
-      },
-      {
-        "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-        "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-        "source": "NVIDIA Blog",
-        "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
-        "category": "industry",
-        "published_at": "2026-10-08T21:06:35+00:00",
-        "fetched_at": "2026-10-10T11:59:35.972322+00:00",
-        "author": "NVIDIA Writers",
-        "tags": [
-          "Robotics",
-          "Agentic AI",
-          "Into the Omniverse",
-          "NVIDIA Isaac Sim",
-          "Omniverse"
-        ]
-      },
-      {
-        "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-        "source": "NVIDIA Blog",
-        "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for A",
-        "category": "industry",
-        "published_at": "2026-10-07T18:45:28+00:00",
-        "fetched_at": "2026-10-10T11:59:36.001646+00:00",
-        "author": "Gerardo Delgado",
-        "tags": [
-          "AI",
-          "Agentic AI",
-          "Artificial Intelligence",
-          "Local AI",
-          "NVIDIA RTX"
         ]
       }
     ],
     "tools": [
       {
-        "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+        "title": "What ai is best to operate a system from screen video [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
         "source": "r/MachineLearning",
-        "summary": "I am a data scientist who started working in the industry before the LLM revolution Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep -> fit -> eval -> tu",
+        "summary": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback The control/feedback loop is already done I need something that can learn from v",
         "category": "tools",
-        "published_at": "2026-10-10T10:51:44+00:00",
-        "fetched_at": "2026-10-10T11:59:47.328177+00:00",
-        "author": "/u/Economy_Vacation_504",
+        "published_at": "2026-10-11T04:18:11+00:00",
+        "fetched_at": "2026-10-11T12:12:22.133660+00:00",
+        "author": "/u/angrykirby",
         "tags": [
           "reddit"
         ]
-      },
-      {
-        "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
-        "source": "r/MachineLearning",
-        "summary": "2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths) 4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched Pixel loss (L1+MS",
-        "category": "tools",
-        "published_at": "2026-10-10T04:02:27+00:00",
-        "fetched_at": "2026-10-10T11:59:47.409700+00:00",
-        "author": "/u/BlueCeAnd",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
-        "source": "r/MachineLearning",
-        "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope I",
-        "category": "tools",
-        "published_at": "2026-10-09T19:52:54+00:00",
-        "fetched_at": "2026-10-10T11:59:47.368757+00:00",
-        "author": "/u/Old_Cow_6636",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
-        "source": "r/MachineLearning",
-        "summary": "I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules It has a CLI so it is really easy to use (I hope It is open-source (MI",
-        "category": "tools",
-        "published_at": "2026-10-09T18:59:11+00:00",
-        "fetched_at": "2026-10-10T11:59:47.455267+00:00",
-        "author": "/u/nmilosev",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Impactful scheduling for GPU clusters",
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-09T15:20:29+00:00",
-        "fetched_at": "2026-10-10T11:59:30.389577+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
-        "source": "r/MachineLearning",
-        "summary": "ALHR - Adaptive Learnable Hierarchical Routing, uses static binary trees and learnable functions to minimize the amount of keys to be read It does use a dense teacher while phase 1 of training however",
-        "category": "tools",
-        "published_at": "2026-10-09T13:29:43+00:00",
-        "fetched_at": "2026-10-10T11:59:47.563112+00:00",
-        "author": "/u/Alarming-Emotion-894",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
-        "source": "r/MachineLearning",
-        "summary": "Figure 1b from our paper Disclosure: I'm one of the authors (Microsoft) The paper, code, dataset are public and ThinkingBox is on Hugging Face OpenEnv as well Raw evaluation trajectories are not relea",
-        "category": "tools",
-        "published_at": "2026-10-09T00:50:36+00:00",
-        "fetched_at": "2026-10-10T11:59:47.507557+00:00",
-        "author": "/u/tuhin_k",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "The model that didn't exist, so you made it yourself",
-        "url": "https://huggingface.co/blog/building-with-ml-intern",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-08T00:00:00+00:00",
-        "fetched_at": "2026-10-10T11:59:30.408482+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Multimodal open d1 decision models for the edge",
-        "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-07T16:54:33+00:00",
-        "fetched_at": "2026-10-10T11:59:30.425470+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Introducing Falcon ASR",
-        "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-07T13:21:03+00:00",
-        "fetched_at": "2026-10-10T11:59:30.434282+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-07T12:45:31+00:00",
-        "fetched_at": "2026-10-10T11:59:30.460989+00:00",
-        "author": "",
-        "tags": []
       }
     ]
   },
   "all_articles": [
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI Blog",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models",
-      "category": "breaking",
-      "published_at": "2026-10-09T07:00:00+00:00",
-      "fetched_at": "2026-10-10T11:59:31.349864+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Help With Choosing Hardware [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
+      "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
       "source": "r/MachineLearning",
-      "summary": "​ I am going to fine-tune a satire model, with the base model being `Qwen3 The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they hav",
+      "summary": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation The input is structured context plus a typed question with a fixed set of options The o",
       "category": "research",
-      "published_at": "2026-10-10T08:00:41+00:00",
-      "fetched_at": "2026-10-10T11:59:47.421481+00:00",
-      "author": "/u/minedroid1",
+      "published_at": "2026-10-11T09:33:10+00:00",
+      "fetched_at": "2026-10-11T12:12:21.996726+00:00",
+      "author": "/u/WebDevToday",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Clarification ARR Commitment [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
+      "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
       "source": "r/MachineLearning",
-      "summary": "I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accept",
+      "summary": "This is my first time ARR submission I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months If we want to commit to NAACL 2027 inst",
       "category": "research",
-      "published_at": "2026-10-09T13:36:48+00:00",
-      "fetched_at": "2026-10-10T11:59:47.467846+00:00",
-      "author": "/u/Mundane_Slice_8621",
+      "published_at": "2026-10-11T04:48:48+00:00",
+      "fetched_at": "2026-10-11T12:12:22.044678+00:00",
+      "author": "/u/SillyNeuron",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/",
+      "title": "Has machine learning research gotten more \"wordy\"? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
       "source": "r/MachineLearning",
-      "summary": "Abstract: Recent AI systems have made rapid progress in scientific discovery when given well-defined metrics, but whether they can autonomously undertake open-ended scientific discovery remains unclea",
+      "summary": "I feel like I am unable to digest most machine learning research these days The primary reason is because I feel like they have gotten tremendously wordy I find it not uncommon to find research papers",
       "category": "research",
-      "published_at": "2026-10-09T13:26:15+00:00",
-      "fetched_at": "2026-10-10T11:59:47.592074+00:00",
-      "author": "/u/progenitor414",
+      "published_at": "2026-10-11T00:39:07+00:00",
+      "fetched_at": "2026-10-11T12:12:21.930990+00:00",
+      "author": "/u/NeighborhoodFatCat",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Should I optimize for ML conference publications? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x14lwj/should_i_optimize_for_ml_conference_publications_d/",
+      "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
       "source": "r/MachineLearning",
-      "summary": "I am a fourth year PhD student in USA and have not had much luck with top ML conference publications In the last two years of my PhD, I am wondering if I should optimize for ML publications at top ven",
+      "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role I was told the round would be focused on ML coding/debugging Specifically, I was told to focus on Python fundamentals, PyTo",
       "category": "research",
-      "published_at": "2026-10-08T22:21:08+00:00",
-      "fetched_at": "2026-10-10T11:59:47.652973+00:00",
-      "author": "/u/Hopeful-Reading-6774",
+      "published_at": "2026-10-10T01:45:08+00:00",
+      "fetched_at": "2026-10-11T12:12:22.165763+00:00",
+      "author": "/u/sailor-goon-is-here",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
+      "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
       "source": "r/MachineLearning",
-      "summary": "UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, consistently outperform most standard Transformer-based Large Language models (LLMs) by a ",
-      "category": "research",
-      "published_at": "2026-10-08T20:28:20+00:00",
-      "fetched_at": "2026-10-10T11:59:47.632967+00:00",
-      "author": "/u/moschles",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Whatever happened to BABA is AI from 2024? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
-      "source": "r/MachineLearning",
-      "summary": "We test three state-of-the-art multi-modal large language models (GPT-4o, Gemini-1 5-Flash) and find that they fail dramatically when generalization requires that the rules of the game must be manipul",
-      "category": "research",
-      "published_at": "2026-10-08T20:00:11+00:00",
-      "fetched_at": "2026-10-10T11:59:47.525138+00:00",
-      "author": "/u/moschles",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Complimentary Registrations for Reviewers neurips 2026 [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0xqx2/complimentary_registrations_for_reviewers_neurips/",
-      "source": "r/MachineLearning",
-      "summary": "Are they sending to all reviewers or some selected reviewers Just got an email about complimentary registration submitted by /u/Intrepid_Discount_67 [link] [comments]",
-      "category": "research",
-      "published_at": "2026-10-08T17:53:25+00:00",
-      "fetched_at": "2026-10-10T11:59:47.673745+00:00",
-      "author": "/u/Intrepid_Discount_67",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
-      "source": "Microsoft Research Blog",
-      "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks Agent Lightning connects existing agents to RL tra",
-      "category": "research",
-      "published_at": "2026-10-07T16:00:00+00:00",
-      "fetched_at": "2026-10-10T11:59:34.024806+00:00",
-      "author": "Zhiyuan He, Yuqing Yang",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "ARR Oct Discussion [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
-      "source": "r/MachineLearning",
-      "summary": "Are there actually fewer submissions this cycle or are people waiting for ARR Aug Meta to be out 8k submission ID yesterday submitted by /u/StriderKing27 [link] [comments]",
+      "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used It takes less memory and SCALES much better VRAM with",
       "category": "industry",
-      "published_at": "2026-10-09T12:44:04+00:00",
-      "fetched_at": "2026-10-10T11:59:47.430697+00:00",
-      "author": "/u/StriderKing27",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
-      "category": "industry",
-      "published_at": "2026-10-08T21:06:35+00:00",
-      "fetched_at": "2026-10-10T11:59:35.972322+00:00",
-      "author": "NVIDIA Writers",
-      "tags": [
-        "Robotics",
-        "Agentic AI",
-        "Into the Omniverse",
-        "NVIDIA Isaac Sim",
-        "Omniverse"
-      ]
-    },
-    {
-      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "source": "NVIDIA Blog",
-      "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for A",
-      "category": "industry",
-      "published_at": "2026-10-07T18:45:28+00:00",
-      "fetched_at": "2026-10-10T11:59:36.001646+00:00",
-      "author": "Gerardo Delgado",
-      "tags": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Local AI",
-        "NVIDIA RTX"
-      ]
-    },
-    {
-      "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
-      "source": "r/MachineLearning",
-      "summary": "I am a data scientist who started working in the industry before the LLM revolution Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep -> fit -> eval -> tu",
-      "category": "tools",
-      "published_at": "2026-10-10T10:51:44+00:00",
-      "fetched_at": "2026-10-10T11:59:47.328177+00:00",
-      "author": "/u/Economy_Vacation_504",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
-      "source": "r/MachineLearning",
-      "summary": "2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths) 4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched Pixel loss (L1+MS",
-      "category": "tools",
-      "published_at": "2026-10-10T04:02:27+00:00",
-      "fetched_at": "2026-10-10T11:59:47.409700+00:00",
-      "author": "/u/BlueCeAnd",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
-      "source": "r/MachineLearning",
-      "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope I",
-      "category": "tools",
-      "published_at": "2026-10-09T19:52:54+00:00",
-      "fetched_at": "2026-10-10T11:59:47.368757+00:00",
-      "author": "/u/Old_Cow_6636",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
-      "source": "r/MachineLearning",
-      "summary": "I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules It has a CLI so it is really easy to use (I hope It is open-source (MI",
-      "category": "tools",
-      "published_at": "2026-10-09T18:59:11+00:00",
-      "fetched_at": "2026-10-10T11:59:47.455267+00:00",
-      "author": "/u/nmilosev",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-09T15:20:29+00:00",
-      "fetched_at": "2026-10-10T11:59:30.389577+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
-      "source": "r/MachineLearning",
-      "summary": "ALHR - Adaptive Learnable Hierarchical Routing, uses static binary trees and learnable functions to minimize the amount of keys to be read It does use a dense teacher while phase 1 of training however",
-      "category": "tools",
-      "published_at": "2026-10-09T13:29:43+00:00",
-      "fetched_at": "2026-10-10T11:59:47.563112+00:00",
+      "published_at": "2026-10-10T18:08:33+00:00",
+      "fetched_at": "2026-10-11T12:12:22.095967+00:00",
       "author": "/u/Alarming-Emotion-894",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
+      "title": "What ai is best to operate a system from screen video [p]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
       "source": "r/MachineLearning",
-      "summary": "Figure 1b from our paper Disclosure: I'm one of the authors (Microsoft) The paper, code, dataset are public and ThinkingBox is on Hugging Face OpenEnv as well Raw evaluation trajectories are not relea",
+      "summary": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback The control/feedback loop is already done I need something that can learn from v",
       "category": "tools",
-      "published_at": "2026-10-09T00:50:36+00:00",
-      "fetched_at": "2026-10-10T11:59:47.507557+00:00",
-      "author": "/u/tuhin_k",
+      "published_at": "2026-10-11T04:18:11+00:00",
+      "fetched_at": "2026-10-11T12:12:22.133660+00:00",
+      "author": "/u/angrykirby",
       "tags": [
         "reddit"
       ]
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-10T11:59:30.408482+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-07T16:54:33+00:00",
-      "fetched_at": "2026-10-10T11:59:30.425470+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-07T13:21:03+00:00",
-      "fetched_at": "2026-10-10T11:59:30.434282+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-07T12:45:31+00:00",
-      "fetched_at": "2026-10-10T11:59:30.460989+00:00",
-      "author": "",
-      "tags": []
     }
   ]
 }
