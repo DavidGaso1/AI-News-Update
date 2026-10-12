@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-10-11T12:13:27.898983+00:00",
+  "generated_at": "2026-10-12T14:35:44.144362+00:00",
   "archive": [
+    {
+      "date": "2026-10-12",
+      "total": 50,
+      "categories": {
+        "breaking": 1,
+        "research": 44,
+        "industry": 0,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
+          "source": "r/MachineLearning",
+          "summary": "project: https://2796gaurav io/shad0w/ If you use a local model for classification, you know the wait: seconds per message, for questions it has answered hundreds of times shad0w sits in front of any ",
+          "category": "breaking",
+          "published_at": "2026-10-12T07:33:46+00:00",
+          "author": "/u/gauravc2796",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
+          "source": "r/MachineLearning",
+          "summary": "CALL FOR CONTRIBUTIONS CL4SM session at ELLIs UnConference, a NeurIPS Paris pre-event: https://badulion io/cl4sm\\_2026/ Machine learning models of scientific and engineering systems can fit the data w",
+          "category": "research",
+          "published_at": "2026-10-12T07:46:00+00:00",
+          "author": "/u/cici118",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How's ICLR reviewing going for you? Any observations? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
+          "source": "r/MachineLearning",
+          "summary": "I know it's early but I've been browsing through ICLR OpenReview and I see a lot of good papers Maybe the first big conference with automated research submission and it is increasingly becoming harder",
+          "category": "research",
+          "published_at": "2026-10-12T07:22:41+00:00",
+          "author": "/u/ade17_in",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+          "url": "https://arxiv.org/abs/2610.12493",
+          "source": "arXiv AI/ML",
+          "summary": "12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algori",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Marco Zullich, Emily Schiller, Ivan Gentile, David Dembinsky, Adriano Lucieri, Kilian G\\\"oller, Steffen Seitz",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+          "url": "https://arxiv.org/abs/2610.12536",
+          "source": "arXiv AI/ML",
+          "summary": "12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide ",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Stuart Farmer",
+          "tags": [
+            "cs.AI",
+            "cs.NE"
+          ]
+        },
+        {
+          "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+          "url": "https://arxiv.org/abs/2610.12542",
+          "source": "arXiv AI/ML",
+          "summary": "12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Yuyu Zhang",
+          "tags": [
+            "cs.AI",
+            "cs.DC",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+          "url": "https://arxiv.org/abs/2610.12593",
+          "source": "arXiv AI/ML",
+          "summary": "12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not o",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Wei Yang, Qing Ping, Youzhi Luo, Yawei Wang, Abhishek Kumar, Panpan Xu, Jun Huan",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+          "url": "https://arxiv.org/abs/2610.12596",
+          "source": "arXiv AI/ML",
+          "summary": "12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Scott C. Lowe, Sander W. Keemink",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+          "url": "https://arxiv.org/abs/2610.12598",
+          "source": "arXiv AI/ML",
+          "summary": "12598v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary rewards fa",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Yiran Wu, Andrew Zhao, Yurui Chang, Qingyun Wu, Xuan Feng",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+          "url": "https://arxiv.org/abs/2610.12655",
+          "source": "arXiv AI/ML",
+          "summary": "12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave un",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Jiatan Huang, Zheyuan Zhang, Ziming Li, Tianyi Ma, Mingchen Li, Yanfang Ye, Chuxu Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+          "url": "https://arxiv.org/abs/2610.12659",
+          "source": "arXiv AI/ML",
+          "summary": "12659v1 Announce Type: new Abstract: Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems However, corpus size alone does not determine whether the dataset",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Ximing Lu, Aviral Kumar, Jan Kautz, Yejin Choi, David Acuna",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2610.12762",
+          "source": "arXiv AI/ML",
+          "summary": "12762v1 Announce Type: new Abstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification However, manu",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Haotian Qiao, Robert P. Dick",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+          "url": "https://arxiv.org/abs/2610.12781",
+          "source": "arXiv AI/ML",
+          "summary": "12781v1 Announce Type: new Abstract: Aligning two independently pretrained unimodal encoders typically demands millions of paired examples In this paper, we study the regime where only $N \\sim 100$--$",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Julien Kordes, Reuben Dorent",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+          "url": "https://arxiv.org/abs/2610.12789",
+          "source": "arXiv AI/ML",
+          "summary": "12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills Yet even procedurally capable agents can fail when th",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Janet Wang, Jiang Guo, Yi Xiang, Jiaqing Yuan, Mingwen Dong, Hideo Kobayashi, Shuaichen Chang, Chandan K. Reddy, Jiarong Jiang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+          "url": "https://arxiv.org/abs/2610.12822",
+          "source": "arXiv AI/ML",
+          "summary": "12822v1 Announce Type: new Abstract: Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans These agents are often optimized with reinforcemen",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Yuepeng Hu, Pegah Ghahremani, Reza Aghajani, Mahesh Pasupuleti, Himaghna Bhattacharjee",
+          "tags": [
+            "cs.AI",
+            "cs.CR",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Neural networks are more modular than single neurons suggest",
+          "url": "https://arxiv.org/abs/2610.12842",
+          "source": "arXiv AI/ML",
+          "summary": "12842v1 Announce Type: new Abstract: Neural networks routinely develop representations in which individual neurons contribute to multiple distinct functions, leading to the widespread view that such n",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Shreya Saha, Benjamin Bergen, Meenakshi Khosla",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
+          "url": "https://arxiv.org/abs/2610.12845",
+          "source": "arXiv AI/ML",
+          "summary": "12845v1 Announce Type: new Abstract: Despite extensive research, computational creativity still lacks a conceptually grounded, practically relevant, and empirically applicable formal definition across",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Jingyi Yang, Alexander Tuzhilin",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
+          "url": "https://arxiv.org/abs/2610.12855",
+          "source": "arXiv AI/ML",
+          "summary": "12855v1 Announce Type: new Abstract: On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as ",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Jiaqi Tian, Ting Long",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
+          "url": "https://arxiv.org/abs/2610.12872",
+          "source": "arXiv AI/ML",
+          "summary": "12872v1 Announce Type: new Abstract: Large language models (LLMs) demonstrate strong individual task performance, yet still struggle to collaborate with users over extended, multi-turn interactions, f",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Fanzhi Zeng, Anubrata Das, Maytal Saar-Tsechansky, Liu Leqi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "One-Step Text Generation by Seq-Drifting",
+          "url": "https://arxiv.org/abs/2610.12879",
+          "source": "arXiv AI/ML",
+          "summary": "12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text In this paper, we investigate whether",
+          "category": "research",
+          "published_at": "2026-10-12T00:00:00-04:00",
+          "author": "Jiayu Liu, Ruizhi Zhao, Tianyun Ji, Yee Whye Teh, Zhenya Huang, Ning Miao",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "total": 6,
