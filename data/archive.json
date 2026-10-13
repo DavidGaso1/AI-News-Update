@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-10-12T14:35:44.144362+00:00",
+  "generated_at": "2026-10-13T13:40:46.992931+00:00",
   "archive": [
+    {
+      "date": "2026-10-13",
+      "total": 50,
+      "categories": {
+        "breaking": 2,
+        "research": 38,
+        "industry": 3,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Where do LLMs actually earn their place in a recommender system? Kim Falk’s new book + 5 ebook giveaway [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x4uc90/where_do_llms_actually_earn_their_place_in_a/",
+          "source": "r/MachineLearning",
+          "summary": "Hi r/MachineLearning , Stjepan from Manning here The mods approved this post, and I appreciate being welcomed back to share another book with you We’ve just launched AI Recommender Systems: Transforme",
+          "category": "breaking",
+          "published_at": "2026-10-13T11:40:24+00:00",
+          "author": "/u/ManningBooks",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Where can you find dependable partners for large-scale training data? [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x4t0g6/where_can_you_find_dependable_partners_for/",
+          "source": "r/MachineLearning",
+          "summary": "The project is growing, and we are trying partners capable of delivering big datasets on a steady basis, potentially millions of samples, backed by strong quality checks I have looked into the major a",
+          "category": "breaking",
+          "published_at": "2026-10-13T10:26:35+00:00",
+          "author": "/u/Chaseboost",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Is an MS a soft requirement for Research Engineer / Post-Training roles? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x4lvn8/is_an_ms_a_soft_requirement_for_research_engineer/",
+          "source": "r/MachineLearning",
+          "summary": "I’m prioritizing my path and was wondering if an MS is a soft requirement for some of these Research Engineer, Applied Scientist, Post-Training roles I only have a BS but I work full time as a Data Sc",
+          "category": "research",
+          "published_at": "2026-10-13T03:13:36+00:00",
+          "author": "/u/jacobnar",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+          "url": "https://arxiv.org/abs/2610.12881",
+          "source": "arXiv AI/ML",
+          "summary": "12881v1 Announce Type: new Abstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models However, ",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Zheng Ren, Yanning Wang, Ziheng Huang, Fei Huang, Shiqi Wang, Ziqian Ye, Yang Yue",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
+          "url": "https://arxiv.org/abs/2610.12914",
+          "source": "arXiv AI/ML",
+          "summary": "12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level super",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Xule Gao, Xi Wang, Zehua Zang, Rui Wang, Changwen Zheng, Chuxiong Sun",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "DeFiRank: Federated Pairwise Ranking for Governance in Decentralized Financial Networks",
+          "url": "https://arxiv.org/abs/2610.12916",
+          "source": "arXiv AI/ML",
+          "summary": "12916v1 Announce Type: new Abstract: Existing governance approaches in decentralized financial networks rely on manual review processes conducted by human committees, which introduces subjective bias,",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Zahra Batool, Michael Duchesne, Kaiwen Zhang, Ulrich Aivodji",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AI-Mediation in Retail Markets: Revenue Effects and Assortment Optimization",
+          "url": "https://arxiv.org/abs/2610.12917",
+          "source": "arXiv AI/ML",
+          "summary": "12917v1 Announce Type: new Abstract: AI shopping assistants increasingly influence which products consumers consider We study retail assortment planning under AI mediation, where a retailer chooses a ",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Omar El Housni, Marouane Ibn Brahim",
+          "tags": [
+            "cs.AI",
+            "econ.GN",
+            "math.OC",
+            "q-fin.EC"
+          ]
+        },
+        {
+          "title": "Teaching neural decoders with language",
+          "url": "https://arxiv.org/abs/2610.12921",
+          "source": "arXiv AI/ML",
+          "summary": "12921v1 Announce Type: new Abstract: Brain-computer interfaces decode neural activity, yet class-label supervision (CLS) leaves relationships among classes implicit We propose Language as Supervision ",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Xuan Wen, Yonghao Song, Yuhong Zhang, Guoliang Li, Tzyy-Ping Jung, Xiaorong Gao",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Collaborative Learning and Reasoning over Model Slices",
+          "url": "https://arxiv.org/abs/2610.12927",
+          "source": "arXiv AI/ML",
+          "summary": "12927v1 Announce Type: new Abstract: Large language models (LLMs) excel across diverse tasks, benefiting from knowledge priors, in-context reasoning, and test-time computation Despite these strengths,",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Yuheng Wang, Runde Yang, Zhuohan Bao, Qiran Zhang, Huatao Li, Yiyang Zheng, Lin Wu, Jingru Fan, Shu Yao, Yihan Li, Zhi Li, Chen Qian",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+          "url": "https://arxiv.org/abs/2610.12933",
+          "source": "arXiv AI/ML",
+          "summary": "12933v1 Announce Type: new Abstract: Large language models have achieved remarkable advances in complex reasoning However, scaling reasoning post-training with ever-larger corpora can substantially in",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Suorong Yang, Jiaxin Wang, Jiaming Su, Chentao Yue, Furao Shen, Peng Ye, Soujanya Poria",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
+          "url": "https://arxiv.org/abs/2610.12954",
+          "source": "arXiv AI/ML",
+          "summary": "12954v1 Announce Type: new Abstract: This paper introduces MathVis, a benchmark designed to evaluate LLMs' ability to visualize frontier mathematical problems and perform diagram-assisted reasoning Th",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Jingjing Wei, Hao Zhao, Xinke Li, Linxi Yu, Xiaosong Gao, Shanshan Xiao",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+          "url": "https://arxiv.org/abs/2610.12975",
+          "source": "arXiv AI/ML",
+          "summary": "12975v1 Announce Type: new Abstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psycholog",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "P N Bhargav Teja, Velpula Lokesh Reddy, Madhu Basumata, Susen Sarkar, Rajasekhara Reddy Duvvuru Muni",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation",
+          "url": "https://arxiv.org/abs/2610.12977",
+          "source": "arXiv AI/ML",
+          "summary": "12977v1 Announce Type: new Abstract: Generative recommendation (GR) of social media platforms commonly retrieves items by autoregressively decoding discrete Semantic IDs (SIDs) with finite-width beam ",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Yu Sun, Renkai Xiang, Zuodong Xiang, Junwei Zhou, Yike Zhang, Jianxin Zhang, Zhihao Zhu, Xiaoyu Cao, Hailu Xu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+          "url": "https://arxiv.org/abs/2610.12984",
+          "source": "arXiv AI/ML",
+          "summary": "12984v1 Announce Type: new Abstract: Computer-use agents can perform increasingly complex GUI tasks, yet unfamiliar software and workflows requiring human domain knowledge remain challenging Human dem",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, Chaoyun Zhang, Bingxuan Li, Rui Zheng, Hang Yan, Ning Liao",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Benchmarking Embedding Geometries and Clustering Algorithms for Unsupervised Patent Claim Classification",
+          "url": "https://arxiv.org/abs/2610.12997",
+          "source": "arXiv AI/ML",
+          "summary": "12997v1 Announce Type: new Abstract: Prior-art retrieval systems are structurally organized around classification codes, making cross-code discovery difficult This paper asks if an unsupervised repres",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Sujith Subramanian, P N Bhargav Teja, Susen Sarkar, Rajasekhara Reddy Duvvuru Muni",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
+          "url": "https://arxiv.org/abs/2610.12545",
+          "source": "arXiv CL",
+          "summary": "12545v1 Announce Type: new Abstract: Autoregressive decoding is less suited to non-causally ordered data, e , cross-references or future dependencies, since their outputs cannot be revised post hoc, u",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Shu Ishida, Aliasghar Khani, Tianyu Zhang, The Cong Luong, James Seale Smith, Adam Gaier",
+          "tags": [
+            "cs.CL",
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
+          "url": "https://arxiv.org/abs/2610.12569",
+          "source": "arXiv CL",
+          "summary": "12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release Over time their tasks leak into training data, and stronger agents eventually saturate them We argue that a benchmark",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Wei Minn, Zhensu Sun, Lwin Khin Shar, David Lo",
+          "tags": [
+            "cs.CL",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
+          "url": "https://arxiv.org/abs/2610.12570",
+          "source": "arXiv CL",
+          "summary": "12570v1 Announce Type: new Abstract: Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in paralle",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Roy Eisenstadt, Harel Lidar, Tal Gonen, Omer Luxembourg, Itamar Zimerman, Lior Wolf, Eli David, Ilan Naiman",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "CLUE: A Contrastive Learning Framework for Unsupervised Event Type Induction and Annotation",
+          "url": "https://arxiv.org/abs/2610.12580",
+          "source": "arXiv CL",
+          "summary": "12580v1 Announce Type: new Abstract: Event ontology is the foundational framework for defining events in a dataset Event type induction generally involves domain experts who define guidelines for crea",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Pratik Maitra, Lauren Kwon, Qi Li",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "One Model to Loop Them All: Elastic Latent Recurrence for Language Models",
+          "url": "https://arxiv.org/abs/2610.12582",
+          "source": "arXiv CL",
+          "summary": "12582v1 Announce Type: new Abstract: A latent recurrent language model applies a shared block of layers repeatedly, so one checkpoint can trade inference compute for accuracy by changing the loop coun",
+          "category": "research",
+          "published_at": "2026-10-13T00:00:00-04:00",
+          "author": "Faisal Ladhak, Shantanu Acharya, Santiago Akle Serano, Simeng Sun, Boris Ginsburg, Krishna C Puvvada",
+          "tags": [
+            "cs.CL"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "total": 50,
