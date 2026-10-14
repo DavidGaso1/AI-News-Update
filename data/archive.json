@@ -1,6 +1,258 @@
 {
-  "generated_at": "2026-10-13T13:40:46.992931+00:00",
+  "generated_at": "2026-10-14T11:20:10.150544+00:00",
   "archive": [
+    {
+      "date": "2026-10-14",
+      "total": 29,
+      "categories": {
+        "breaking": 2,
+        "research": 11,
+        "industry": 10,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
+          "source": "r/MachineLearning",
+          "summary": "width=1080&format=png&auto=webp&s=4c80687e6fe40036843a97ed8975ce46eaab0662 I am excited to share a project I have been working on during the past few years during my free time I started this project a",
+          "category": "breaking",
+          "published_at": "2026-10-13T13:50:38+00:00",
+          "author": "/u/arthurdjn",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "source": "OpenAI Blog",
+          "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2 5, and a path to voice filmmaking with GPT-Live",
+          "category": "breaking",
+          "published_at": "2026-10-13T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "Binary noise classification using CRNN mean teacher algo [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x5jm7g/binary_noise_classification_using_crnn_mean/",
+          "source": "r/MachineLearning",
+          "summary": "Hi all, so im making a binary noise classification model I have training data with timestamps of noise and some with verified some with unverified The performance parameters are F1 and Dice scores and",
+          "category": "research",
+          "published_at": "2026-10-14T06:05:41+00:00",
+          "author": "/u/AerieBeautiful8188",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Localized Neural learning vs backpropagation [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x5itey/localized_neural_learning_vs_backpropagation_d/",
+          "source": "r/MachineLearning",
+          "summary": "I’ve recently started exploring machine learning by building neural networks from scratch and studying the underlying mathematics I come from a physics and mathematics background, and as I’ve become m",
+          "category": "research",
+          "published_at": "2026-10-14T05:16:34+00:00",
+          "author": "/u/Nearby_Effective6679",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "PhD students, how ya feeling? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+          "source": "r/MachineLearning",
+          "summary": "All seems a bit pointless now Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race I already have two papers made largely without LLMs (st",
+          "category": "research",
+          "published_at": "2026-10-14T02:33:44+00:00",
+          "author": "/u/SeaAccomplished441",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+          "source": "r/MachineLearning",
+          "summary": "I was assigned 3 ICLR papers to review I generally consider myself a pretty nice reviewer but all 3 of them are slop",
+          "category": "research",
+          "published_at": "2026-10-14T00:28:26+00:00",
+          "author": "/u/WhiteBear2018",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "On writing papers [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hey all, I was curious about your take on writing papers I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference aud",
+          "category": "research",
+          "published_at": "2026-10-13T18:18:21+00:00",
+          "author": "/u/ComprehensiveTop3297",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "NeurIPS attendance and travel funds [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x52ose/neurips_attendance_and_travel_funds_d/",
+          "source": "r/MachineLearning",
+          "summary": "Since Neurips is my first A* conference, I just wanted to know few things from experienced researchers Since travel and accommodation account for majority of expenses, how professionals and PhD guys c",
+          "category": "research",
+          "published_at": "2026-10-13T17:18:29+00:00",
+          "author": "/u/darkbird_1",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
+          "source": "r/MachineLearning",
+          "summary": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way submitted by /u/Hope999991 [link] [comme",
+          "category": "research",
+          "published_at": "2026-10-13T16:06:10+00:00",
+          "author": "/u/Hope999991",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
+          "source": "r/MachineLearning",
+          "summary": "I'm a first year ML PhD at a T5 ML program in the US I managed to get a first author paper accepted to NeurIPS Main Track last month and thought I'd start applying for PhD research internships since I",
+          "category": "research",
+          "published_at": "2026-10-13T15:47:53+00:00",
+          "author": "/u/Perfect-Asparagus300",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Looped Diffusion Transformer: the same blocks run several times inside each denoising step, and loop depth can be changed at sampling time [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x49d61/looped_diffusion_transformer_the_same_blocks_run/",
+          "source": "r/MachineLearning",
+          "summary": "Paper: Looped Diffusion Transformer (arXiv 2609 Instead of making a text-to-image DiT bigger, it runs a shared group of transformer blocks several times inside each denoising step The authors report t",
+          "category": "research",
+          "published_at": "2026-10-12T18:13:49+00:00",
+          "author": "/u/Fit-Ant2238",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Simulating student learning for better AI tutoring",
+          "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+          "source": "Microsoft Research Blog",
+          "summary": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners It models how individuals may engage with tutors, giving feedback to improve tutor p",
+          "category": "research",
+          "published_at": "2026-10-12T16:00:00+00:00",
+          "author": "Ke Yang, Chenglong Wang, Michel Galley, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao",
+          "tags": [
+            "Research Blog"
+          ]
+        },
+        {
+          "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
+          "source": "r/MachineLearning",
+          "summary": "If you build on open-weight reasoning models, you have probably wanted a \"how sure is the model about this answer \" signal that does not cost 5x sampling, a judge model, or a labeled dataset Hence, we",
+          "category": "research",
+          "published_at": "2026-10-12T15:10:34+00:00",
+          "author": "/u/AdRevolutionary3242",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+          "source": "NVIDIA Blog",
+          "summary": "Across industries, the U is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardes",
+          "category": "industry",
+          "published_at": "2026-10-14T06:04:15+00:00",
+          "author": "Anthony Hills",
+          "tags": [
+            "AI",
+            "AI Infrastructure",
+            "Financial Services",
+            "Healthcare and Life Sciences",
+            "Inception"
+          ]
+        },
+        {
+          "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+          "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+          "source": "NVIDIA Blog",
+          "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently Across the EMEA region, cities and local software, infr",
+          "category": "industry",
+          "published_at": "2026-10-14T06:00:28+00:00",
+          "author": "Charbel Aoun",
+          "tags": [
+            "AI",
+            "Agentic AI",
+            "Artificial Intelligence",
+            "Cosmos",
+            "Customer Stories"
+          ]
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "source": "Google DeepMind Blog",
+          "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress",
+          "category": "industry",
+          "published_at": "2026-10-14T02:00:14+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "The EU’s next chapter in AI is agentic",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "source": "OpenAI Blog",
+          "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value",
+          "category": "industry",
+          "published_at": "2026-10-14T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-10-13T19:43:07+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-10-13T16:01:58+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-10-13T16:01:52+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "total": 50,
