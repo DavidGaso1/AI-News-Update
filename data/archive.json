@@ -1,6 +1,262 @@
 {
-  "generated_at": "2026-10-14T11:20:10.150544+00:00",
+  "generated_at": "2026-10-15T10:57:32.962896+00:00",
   "archive": [
+    {
+      "date": "2026-10-15",
+      "total": 50,
+      "categories": {
+        "breaking": 9,
+        "research": 21,
+        "industry": 8,
+        "tools": 12
+      },
+      "articles": [
+        {
+          "title": "Need help connecting a CV model to CP Plus DVR/NVR",
+          "url": "https://www.reddit.com/r/computervision/comments/1x6e8m0/need_help_connecting_a_cv_model_to_cp_plus_dvrnvr/",
+          "source": "r/Computervision",
+          "summary": "I’m facing issues regarding integration CP Plus based DVR with my system remotely since I’m not connected to the same local network and local ip won’t work I want to access it via RTSP URL submitted b",
+          "category": "breaking",
+          "published_at": "2026-10-15T06:23:37+00:00",
+          "author": "/u/wonkside",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How Many Ranks Does a Token Need? A Noise-Floor Squelch for Rank-One LoRA Experts",
+          "url": "https://arxiv.org/abs/2610.19033",
+          "source": "arXiv ML",
+          "summary": "19033v1 Announce Type: new Abstract: Low-rank adaptation (LoRA) applies every rank-one component of its update to every token, and mixture-of-experts variants replace this with a learned router that a",
+          "category": "breaking",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Mei Okonkwo, Owen Castellanos, Ingrid Solberg, Yusuf Demirel",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
+          "source": "r/MachineLearning",
+          "summary": "I wanted to find where the recognizable assistant style (em dashes, \"it's not X, it's Y\", lists of three, buzzwords) lives in a model and which training stage installs it Where it lives: in Qwen3-4B-I",
+          "category": "breaking",
+          "published_at": "2026-10-14T22:08:02+00:00",
+          "author": "/u/Imaginary_Money2285",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x5yhr6/i_trained_a_15m_decisiononly_model_two_ways/",
+          "source": "r/MachineLearning",
+          "summary": "Inspired by TypeSafe's Jev (a non-generative model that only outputs bounded decisions — choices, probabilities, calibrated confidence), I built two small decision models end-to-end on identical budge",
+          "category": "breaking",
+          "published_at": "2026-10-14T18:07:44+00:00",
+          "author": "/u/AlarmingTrouble5261",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I spent two weeks tuning a paper reproduction and their checkpoint scored the same as mine",
+          "url": "https://www.reddit.com/r/computervision/comments/1x5qcbv/i_spent_two_weeks_tuning_a_paper_reproduction_and/",
+          "source": "r/Computervision",
+          "summary": "Three weeks ago I started reproducing a fine-grained classification paper from 2024, we are going to build on it at work if it holds up The results table in the paper says 87 I could not get my runs p",
+          "category": "breaking",
+          "published_at": "2026-10-14T12:48:51+00:00",
+          "author": "/u/Sakura010826",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI Blog",
+          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT",
+          "category": "breaking",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "url": "https://openai.com/index/sentinelone",
+          "source": "OpenAI Blog",
+          "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats",
+          "category": "breaking",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI Blog",
+          "summary": "With GPT-6 Astra and GPT-6 1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use",
+          "category": "breaking",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "url": "https://openai.com/index/block-ai-powered-security",
+          "source": "OpenAI Blog",
+          "summary": "Block is building AI-powered security with OpenAI Its security team investigates threats faster and proposes patches in minutes",
+          "category": "breaking",
+          "published_at": "2026-10-14T07:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Looking for a pretrained open-vocabulary object detection model for Android (3,250+ labels, including Indian food)",
+          "url": "https://www.reddit.com/r/computervision/comments/1x6f6d4/looking_for_a_pretrained_openvocabulary_object/",
+          "source": "r/Computervision",
+          "summary": "Hi everyone, I'm developing an Android application that uses the phone's camera to detect objects in real time I'm looking for recommendations for the best pretrained object detection model that can r",
+          "category": "research",
+          "published_at": "2026-10-15T07:24:06+00:00",
+          "author": "/u/Super_Mission_3130",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Table detection/structure recognition in PDFs with classical CV only (morphology + LSD, no DL) – open source, looking for feedback & contributors",
+          "url": "https://www.reddit.com/r/computervision/comments/1x6d4vh/table_detectionstructure_recognition_in_pdfs_with/",
+          "source": "r/Computervision",
+          "summary": "I've been working on table extraction from PDFs without any deep learning, and finally open-sourced it Thought this sub might find the approach interesting (or tear it apart, which is also useful) The",
+          "category": "research",
+          "published_at": "2026-10-15T05:17:13+00:00",
+          "author": "/u/Classic-Fee-8468",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+          "url": "https://arxiv.org/abs/2610.14005",
+          "source": "arXiv AI/ML",
+          "summary": "14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon Ho",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Jose Hernandez-Orallo",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "The Silent Failures in Agentic Data Science",
+          "url": "https://arxiv.org/abs/2610.14115",
+          "source": "arXiv AI/ML",
+          "summary": "14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code Naturally, this has also led to the development of data science agents that promise au",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Xue Li, Hongqian Xia, Daniel Gomm, A\\'ecio Santos, Cornelius Wolff, Madelon Hulsebos",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+          "url": "https://arxiv.org/abs/2610.14118",
+          "source": "arXiv AI/ML",
+          "summary": "14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sa",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Hansi Yang, Linji Hao, Hongyan Hao, An Wang, Han Wu, Qi Gu, Xunliang Cai",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Correction Training for Diffusion Models",
+          "url": "https://arxiv.org/abs/2610.14136",
+          "source": "arXiv AI/ML",
+          "summary": "14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias The denoiser is trained on real images interpolated with noise, but at i",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Donghoon Ahn, Runqian Wang, Alexei A. Efros, Taesung Park, Yash Belhe",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+          "url": "https://arxiv.org/abs/2610.14146",
+          "source": "arXiv AI/ML",
+          "summary": "14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state pa",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Zongxia Li, Zhongzhi Li, Yucheng Shi, Ruhan Wang, Junyao Yang, Chengsong Huang, Zhichao Liu, Xiyang Wu, Anhao Li, Yue Yu, Ergan Shang, Fuxiao Liu, Tong Zheng, Ninghao Liu, Lichao Sun, Haitao Mi, Leowei Liang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+          "url": "https://arxiv.org/abs/2610.14149",
+          "source": "arXiv AI/ML",
+          "summary": "14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary me",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Katherine J. Koebel, Renata Ivanek, Parminder Basran, Jennifer Sun, Casey Cazer, Gayatri Anil, Tommaso Banzato, Liz Barton, Dottie Cimino Brown, Leszek Bukowski, Marta Castelhano, Simon Coghlan, Christopher De Sa, Nikki Dutta, Hala Ghali, Julio Giordano, Joshua Glass, David C. Hogg, Nicholas Hollingshead, Adam Kiehl, Ziang Liu, Monica Meduri, Param Mohapatra, Kim Nayyer, Amelia Nelson, Peter-John Mantyla Noble, Christopher Pinard, Beryl Rabindran, Scott Ross, Ron Seccia, Moira Sheehan, Fei Wang, Tracy L. Webb, Kilian Q. Weinberger, Heather M. Whitney, Chen Xin",
+          "tags": [
+            "cs.AI",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "Unconstrained CTI-REALM with Open-Weights",
+          "url": "https://arxiv.org/abs/2610.14180",
+          "source": "arXiv AI/ML",
+          "summary": "14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more exp",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Sahil Garg, Ruhi Gottumukkala, Vishal Agarwal, Shubham Vishwakarma",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CY",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Visualizing the World Model in an Agent's Value Function",
+          "url": "https://arxiv.org/abs/2610.14186",
+          "source": "arXiv AI/ML",
+          "summary": "14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment In this work, we apply counterfactual interventions which hold e",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Shawheen Naderi, Fatemeh Akherati, Yubei Chen",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.14190",
+          "source": "arXiv AI/ML",
+          "summary": "14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribut",
+          "category": "research",
+          "published_at": "2026-10-15T00:00:00-04:00",
+          "author": "Laura Yao, Shixing Yu, Jie Peng, Promit Ghosal, Kyra Gan, Tianlong Chen",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "total": 29,
