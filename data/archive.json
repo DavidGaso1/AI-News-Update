@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-10-15T10:57:32.962896+00:00",
+  "generated_at": "2026-10-16T10:49:45.352676+00:00",
   "archive": [
+    {
+      "date": "2026-10-16",
+      "total": 50,
+      "categories": {
+        "breaking": 6,
+        "research": 28,
+        "industry": 9,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Vertical Sliced Wasserstein Distances for Meta-Measures",
+          "url": "https://arxiv.org/abs/2610.20743",
+          "source": "arXiv ML",
+          "summary": "20743v1 Announce Type: new Abstract: Many modern learning problems require comparing probability distributions whose individual observations are themselves probability measures, naturally giving rise ",
+          "category": "breaking",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Elaheh Akbari, Ahmadreza Moradipari, Kyungtae Han, Hamed Pirsiavash, Yikun Bai, Rocio Diaz Martin, Soheil Kolouri",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM",
+          "url": "https://arxiv.org/abs/2610.20634",
+          "source": "arXiv CL",
+          "summary": "20634v1 Announce Type: new Abstract: Retrieval-augmented generation asks one question at volume: does this evidence support this claim The answer is one bit, yet most pipelines obtain it from a text g",
+          "category": "breaking",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Alden Do Rosario, Kirollos Atef",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "source": "OpenAI Blog",
+          "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research",
+          "category": "breaking",
+          "published_at": "2026-10-15T19:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+          "source": "NVIDIA Blog",
+          "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents All are invited to celebrate with NVIDIA and partners at launch ev",
+          "category": "breaking",
+          "published_at": "2026-10-15T17:00:23+00:00",
+          "author": "Shreevar Rastogi",
+          "tags": [
+            "AI",
+            "Local AI",
+            "NVIDIA RTX",
+            "RTX AI Garage",
+            "RTX Spark"
+          ]
+        },
+        {
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI Blog",
+          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning",
+          "category": "breaking",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "url": "https://openai.com/index/sullivan-cromwell",
+          "source": "OpenAI Blog",
+          "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement",
+          "category": "breaking",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x75edb/how_many_of_your_paper_either_paper_you_authored/",
+          "source": "r/MachineLearning",
+          "summary": "Just spend 4h reviewing a paper while I was sick, gave it a 3/4 This morning got an email saying it's desk rejected I saw many people around me also have many papers desk rejected",
+          "category": "research",
+          "published_at": "2026-10-16T03:13:24+00:00",
+          "author": "/u/Striking-Warning9533",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "research",
+          "published_at": "2026-10-16T01:44:47+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+          "url": "https://arxiv.org/abs/2610.20665",
+          "source": "arXiv AI/ML",
+          "summary": "20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time In continuously changing environments, an otherwise c",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Ningxin Pan, Hanyu Li, Yeqing Shen, Ning Ding, Yehui Tang, Wentao Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Evaluating Model Capabilities After Benchmark Saturation",
+          "url": "https://arxiv.org/abs/2610.20667",
+          "source": "arXiv AI/ML",
+          "summary": "20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate Once several models approach perfect scores, a benchmark loses its power to differentiate betw",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Morio Hamada, Jehyeok Yeon, Matteo Migliarini, Justin Olive, Magda Dubois",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+          "url": "https://arxiv.org/abs/2610.20669",
+          "source": "arXiv AI/ML",
+          "summary": "20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Jaehyeon Kim, Ziseok Lee, Siyoung Choi, Kyungsu Kim",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+          "url": "https://arxiv.org/abs/2610.20675",
+          "source": "arXiv AI/ML",
+          "summary": "20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory Understanding agent per",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, Xiangyu Lu, Jinbo Hu, Yi Xie, Nico Pelleriti, Shiyang Liu, Menghan Lu, Max Zimmer, Brando Miranda, Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+          "url": "https://arxiv.org/abs/2610.20676",
+          "source": "arXiv AI/ML",
+          "summary": "20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but vio",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Adarsh Agrawal (Independent Researcher)",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.20679",
+          "source": "arXiv AI/ML",
+          "summary": "20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish ",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Tianshi Wang, Jingsong Wang, Fengling Li, Jingjing Li, Xin Li, Lei Zhu",
+          "tags": [
+            "cs.AI",
+            "cs.CR",
+            "cs.MM"
+          ]
+        },
+        {
+          "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+          "url": "https://arxiv.org/abs/2610.20681",
+          "source": "arXiv AI/ML",
+          "summary": "20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations We introduce I",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Gaolei He, Jinhui Li, Ruobing Zuo, Xia Zeng, Zhengfeng Yang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+          "url": "https://arxiv.org/abs/2610.20685",
+          "source": "arXiv AI/ML",
+          "summary": "20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data Numerical error is commonly used to guide the search, but it alone can favor an accurate s",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Letian Huang, Xiangyu Wang, Haowei Lin, Di He",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+          "url": "https://arxiv.org/abs/2610.20764",
+          "source": "arXiv AI/ML",
+          "summary": "20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality c",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Ahsan Adeel, Talha Bin Riaz",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+          "url": "https://arxiv.org/abs/2610.20780",
+          "source": "arXiv AI/ML",
+          "summary": "20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task Diagnosing comple",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Bolin Shen, Yushun Dong",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Open-world AI: a Tale of Three Requirements",
+          "url": "https://arxiv.org/abs/2610.20782",
+          "source": "arXiv AI/ML",
+          "summary": "20782v1 Announce Type: new Abstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until t",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Jianyu Zhang, L\\'eon Bottou",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+          "url": "https://arxiv.org/abs/2610.20786",
+          "source": "arXiv AI/ML",
+          "summary": "20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds However, their ability to self-evolve remains limited Supervised fine-tuning enab",
+          "category": "research",
+          "published_at": "2026-10-16T00:00:00-04:00",
+          "author": "Runxuan Liu, Jingqi Shi, Baoxin Wang, Honghong Zhao, Haoyuan Xu, Yueqing Sun, Jiafeng Liang, Tao He, Dayong Wu, Qi Gu, Shijin Wang, Ming Liu, Bing Qin",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "total": 50,
