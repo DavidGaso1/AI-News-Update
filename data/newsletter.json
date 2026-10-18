@@ -1,275 +1,117 @@
 {
-  "generated_at": "2026-10-17T10:14:41.538976+00:00",
-  "article_count": 25,
+  "generated_at": "2026-10-18T10:30:02.379476+00:00",
+  "article_count": 10,
   "categories": {
-    "breaking": [
-      {
-        "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
-        "source": "r/MachineLearning",
-        "summary": "Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't ha",
-        "category": "breaking",
-        "published_at": "2026-10-17T08:17:31+00:00",
-        "fetched_at": "2026-10-17T10:14:20.462117+00:00",
-        "author": "/u/Exotic_Zucchini9311",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "source": "OpenAI Blog",
-        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation",
-        "category": "breaking",
-        "published_at": "2026-10-16T00:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:03.750982+00:00",
-        "author": "",
-        "tags": [
-          "Startup"
-        ]
-      },
-      {
-        "title": "Benefit Street Partners answers questions faster with Codex",
-        "url": "https://openai.com/index/benefit-street-partners",
-        "source": "OpenAI Blog",
-        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups",
-        "category": "breaking",
-        "published_at": "2026-10-16T00:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:03.791575+00:00",
-        "author": "",
-        "tags": []
-      }
-    ],
+    "breaking": [],
     "research": [
       {
-        "title": "Go to neurIPS just for a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
+        "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
         "source": "r/MachineLearning",
-        "summary": "Hi, I just finished my masters and got a neurIPS workshop acception Unfortunately the lab I did it with do not want to fund neither the registration nor flights and accommodation I am thinking about g",
+        "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory I have published the implementation and a detailed write-up",
         "category": "research",
-        "published_at": "2026-10-17T09:56:53+00:00",
-        "fetched_at": "2026-10-17T10:14:20.490420+00:00",
-        "author": "/u/strammerrammer",
+        "published_at": "2026-10-18T08:23:02+00:00",
+        "fetched_at": "2026-10-18T10:29:23.369644+00:00",
+        "author": "/u/atronos_kronios",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "How many of you have seen this honest ICLR submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+        "title": "What is wrong with AI writing - ICLR edition [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
         "source": "r/MachineLearning",
-        "summary": "Makes me think how many submissions are just better than this one by quietly removing that line submitted by /u/fighraccoon [link] [comments]",
+        "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on th",
         "category": "research",
-        "published_at": "2026-10-17T04:43:32+00:00",
-        "fetched_at": "2026-10-17T10:14:20.401799+00:00",
-        "author": "/u/fighraccoon",
+        "published_at": "2026-10-17T23:40:03+00:00",
+        "fetched_at": "2026-10-18T10:29:23.325164+00:00",
+        "author": "/u/bobrodsky",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
+        "title": "EMNLP main presentation[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
         "source": "r/MachineLearning",
-        "summary": "For the past 4 weeks I’ve been training models of the Drosophila brain to control a car in a drag racing simulator To make the training watchable, I turned it into a racing league and stream it live o",
+        "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other p",
         "category": "research",
-        "published_at": "2026-10-16T22:09:10+00:00",
-        "fetched_at": "2026-10-17T10:14:20.633433+00:00",
-        "author": "/u/Pepegg2",
+        "published_at": "2026-10-17T16:45:33+00:00",
+        "fetched_at": "2026-10-18T10:29:23.532123+00:00",
+        "author": "/u/Sorry-Concern-3772",
         "tags": [
           "reddit"
         ]
-      },
-      {
-        "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
-        "source": "r/MachineLearning",
-        "summary": "Hey r/MachineLearning We're excited to share ORL (On-Policy Residual Learning) , our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation qualit",
-        "category": "research",
-        "published_at": "2026-10-16T20:03:32+00:00",
-        "fetched_at": "2026-10-17T10:14:20.557232+00:00",
-        "author": "/u/arty_photography",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
-        "source": "r/MachineLearning",
-        "summary": "Half of one sentence in my paper trails onto page 10 This must have happened after a small edit and recompile of the pdf on resubmission but this got me desk rejected",
-        "category": "research",
-        "published_at": "2026-10-16T17:50:55+00:00",
-        "fetched_at": "2026-10-17T10:14:20.877776+00:00",
-        "author": "/u/Eclectic_eels",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
-        "source": "r/MachineLearning",
-        "summary": "The way I review a paper has stayed substantially the same, except for an added step Trying to get a sense of how common it is here Nowadays I do the review, and I upload my review to an AI to ask for",
-        "category": "research",
-        "published_at": "2026-10-16T12:41:41+00:00",
-        "fetched_at": "2026-10-17T10:14:20.681030+00:00",
-        "author": "/u/StingMeleoron",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "NeurIPS 2026 - waitlist [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
-        "source": "r/MachineLearning",
-        "summary": "Hey everyone, I am trying to register for NeurIPS 2026 in Sydney, they mentioned more tickets would be out mid October and I am registered for the waitlist, however I still haven't heard from them Any",
-        "category": "research",
-        "published_at": "2026-10-15T15:42:47+00:00",
-        "fetched_at": "2026-10-17T10:14:20.825733+00:00",
-        "author": "/u/Training_Magazine_62",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Meta Muse Spark Open is live on Together AI",
-        "url": "https://www.together.ai/blog/meta-muse-spark-open",
-        "source": "Together AI Blog",
-        "summary": "Meta Muse Spark Open, Meta's open-weight model for agentic coding, is live on Together AI with a 1M-token context window on serverless and dedicated infrastructure",
-        "category": "research",
-        "published_at": "2026-10-15T00:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:19.125203+00:00",
-        "author": "",
-        "tags": []
       }
     ],
     "industry": [
       {
-        "title": "How Itaú is building generative AI for its entire customer base",
-        "url": "https://openai.com/index/itau-generative-ai",
-        "source": "OpenAI Blog",
-        "summary": "i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors",
+        "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+        "source": "NVIDIA Blog",
+        "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs Starting at $2,399, lapto",
         "category": "industry",
-        "published_at": "2026-10-16T19:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:03.712281+00:00",
-        "author": "",
-        "tags": []
+        "published_at": "2026-10-17T21:00:13+00:00",
+        "fetched_at": "2026-10-18T10:29:11.476878+00:00",
+        "author": "Shreevar Rastogi",
+        "tags": [
+          "AI",
+          "Agentic AI",
+          "Artificial Intelligence",
+          "Local AI",
+          "NVIDIA RTX"
+        ]
       },
       {
-        "title": "Resources for learning to write production grade python code [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
+        "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
         "source": "r/MachineLearning",
-        "summary": "I am a data scientist with a very strong background in Stats and ML algos I am struggling with the production ready code Though I can build models which are awesome and tuned to perfection and address",
+        "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
         "category": "industry",
-        "published_at": "2026-10-15T21:41:08+00:00",
-        "fetched_at": "2026-10-17T10:14:20.805656+00:00",
-        "author": "/u/Entire-Tomato-3192",
+        "published_at": "2026-10-17T19:41:19+00:00",
+        "fetched_at": "2026-10-18T10:29:23.408333+00:00",
+        "author": "/u/Civil-Demand555",
         "tags": [
           "reddit"
-        ]
-      },
-      {
-        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-        "source": "Google DeepMind Blog",
-        "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-        "category": "industry",
-        "published_at": "2026-10-15T16:08:03+00:00",
-        "fetched_at": "2026-10-17T10:14:09.955634+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Proof-based general-purpose computing with Magnetar",
-        "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
-        "source": "Microsoft Research Blog",
-        "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data Magnetar helps bring them into the mainstream with support for standard programming languages,",
-        "category": "industry",
-        "published_at": "2026-10-15T16:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:06.779467+00:00",
-        "author": "Srinath Setty",
-        "tags": [
-          "Research Blog"
-        ]
-      },
-      {
-        "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-        "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-        "source": "NVIDIA Blog",
-        "summary": "NVIDIA today released Nemotron 3 5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents Joining it are two new ",
-        "category": "industry",
-        "published_at": "2026-10-15T15:00:24+00:00",
-        "fetched_at": "2026-10-17T10:14:08.696373+00:00",
-        "author": "Kari Briski",
-        "tags": [
-          "AI",
-          "Corporate",
-          "Deep Learning",
-          "Nemotron"
-        ]
-      },
-      {
-        "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-        "source": "NVIDIA Blog",
-        "summary": "Dial in the next gaming session this GFN Thursday 5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware Then, step in",
-        "category": "industry",
-        "published_at": "2026-10-15T13:00:59+00:00",
-        "fetched_at": "2026-10-17T10:14:08.738507+00:00",
-        "author": "GeForce NOW Community",
-        "tags": [
-          "Gaming",
-          "Cloud Gaming",
-          "GeForce NOW"
-        ]
-      },
-      {
-        "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-        "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-        "source": "NVIDIA Blog",
-        "summary": "Much of today’s scientific progress begins with computation But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials",
-        "category": "industry",
-        "published_at": "2026-10-15T10:00:12+00:00",
-        "fetched_at": "2026-10-17T10:14:08.806489+00:00",
-        "author": "Rod Evans",
-        "tags": [
-          "AI",
-          "AI Factory",
-          "Artificial Intelligence",
-          "Climate",
-          "Deep Learning Institute"
-        ]
-      },
-      {
-        "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-        "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-        "source": "NVIDIA Blog",
-        "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent Now, a new chapter for t",
-        "category": "industry",
-        "published_at": "2026-10-15T05:00:12+00:00",
-        "fetched_at": "2026-10-17T10:14:08.858647+00:00",
-        "author": "Linda Malm",
-        "tags": [
-          "AI",
-          "AI Factory",
-          "Artificial Intelligence",
-          "Customer Stories",
-          "Events"
         ]
       }
     ],
     "tools": [
       {
-        "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+        "title": "Built a search engine for debugging which is not a wrapper [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8uwbg/built_a_search_engine_for_debugging_which_is_not/",
         "source": "r/MachineLearning",
-        "summary": "for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API the thing I'm kind of proud of: if you point `import torch` at it and run kar",
+        "summary": "TLDR: I built a search engine that reads a bug report (or lets you define it) and points to the exact file (93%) and to the exact function (79 Hey everyone, I recently made a new project while trying ",
         "category": "tools",
-        "published_at": "2026-10-16T18:49:12+00:00",
-        "fetched_at": "2026-10-17T10:14:20.761937+00:00",
-        "author": "/u/Mental-Feature-2377",
+        "published_at": "2026-10-18T05:18:51+00:00",
+        "fetched_at": "2026-10-18T10:29:23.446910+00:00",
+        "author": "/u/Massive_Capital9611",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+        "source": "r/MachineLearning",
+        "summary": "Hello r/MachineLearning , I wanted to share EpochGo , an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1 Cloud API inference costs and data ",
+        "category": "tools",
+        "published_at": "2026-10-17T14:48:25+00:00",
+        "fetched_at": "2026-10-18T10:29:23.512685+00:00",
+        "author": "/u/Grouchy-Excitement28",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "Learn what's inside AI Agent Interactively in 3D [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
+        "source": "r/MachineLearning",
+        "summary": "Try it here: https://aiengineeringfromscratch com/inside-an-ai-agent submitted by /u/SeveralSeat2176 [link] [comments]",
+        "category": "tools",
+        "published_at": "2026-10-17T14:22:57+00:00",
+        "fetched_at": "2026-10-18T10:29:23.565807+00:00",
+        "author": "/u/SeveralSeat2176",
         "tags": [
           "reddit"
         ]
@@ -281,7 +123,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-16T00:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:02.452086+00:00",
+        "fetched_at": "2026-10-18T10:29:05.942279+00:00",
         "author": "",
         "tags": []
       },
@@ -292,40 +134,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-15T20:34:01+00:00",
-        "fetched_at": "2026-10-17T10:14:02.491213+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-        "url": "https://huggingface.co/blog/meta-muse-spark-open",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-15T00:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:02.543665+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Welcome FLUX.3 Image Klein in Diffusers",
-        "url": "https://huggingface.co/blog/flux-3",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-15T00:00:00+00:00",
-        "fetched_at": "2026-10-17T10:14:02.570173+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-14T16:12:42+00:00",
-        "fetched_at": "2026-10-17T10:14:02.620955+00:00",
+        "fetched_at": "2026-10-18T10:29:05.980048+00:00",
         "author": "",
         "tags": []
       }
@@ -333,266 +142,109 @@
   },
   "all_articles": [
     {
-      "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+      "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
       "source": "r/MachineLearning",
-      "summary": "Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't ha",
-      "category": "breaking",
-      "published_at": "2026-10-17T08:17:31+00:00",
-      "fetched_at": "2026-10-17T10:14:20.462117+00:00",
-      "author": "/u/Exotic_Zucchini9311",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI Blog",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation",
-      "category": "breaking",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:03.750982+00:00",
-      "author": "",
-      "tags": [
-        "Startup"
-      ]
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI Blog",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups",
-      "category": "breaking",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:03.791575+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Go to neurIPS just for a workshop. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
-      "source": "r/MachineLearning",
-      "summary": "Hi, I just finished my masters and got a neurIPS workshop acception Unfortunately the lab I did it with do not want to fund neither the registration nor flights and accommodation I am thinking about g",
+      "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory I have published the implementation and a detailed write-up",
       "category": "research",
-      "published_at": "2026-10-17T09:56:53+00:00",
-      "fetched_at": "2026-10-17T10:14:20.490420+00:00",
-      "author": "/u/strammerrammer",
+      "published_at": "2026-10-18T08:23:02+00:00",
+      "fetched_at": "2026-10-18T10:29:23.369644+00:00",
+      "author": "/u/atronos_kronios",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "How many of you have seen this honest ICLR submission? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+      "title": "What is wrong with AI writing - ICLR edition [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
       "source": "r/MachineLearning",
-      "summary": "Makes me think how many submissions are just better than this one by quietly removing that line submitted by /u/fighraccoon [link] [comments]",
+      "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on th",
       "category": "research",
-      "published_at": "2026-10-17T04:43:32+00:00",
-      "fetched_at": "2026-10-17T10:14:20.401799+00:00",
-      "author": "/u/fighraccoon",
+      "published_at": "2026-10-17T23:40:03+00:00",
+      "fetched_at": "2026-10-18T10:29:23.325164+00:00",
+      "author": "/u/bobrodsky",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
+      "title": "EMNLP main presentation[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
       "source": "r/MachineLearning",
-      "summary": "For the past 4 weeks I’ve been training models of the Drosophila brain to control a car in a drag racing simulator To make the training watchable, I turned it into a racing league and stream it live o",
+      "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other p",
       "category": "research",
-      "published_at": "2026-10-16T22:09:10+00:00",
-      "fetched_at": "2026-10-17T10:14:20.633433+00:00",
-      "author": "/u/Pepegg2",
+      "published_at": "2026-10-17T16:45:33+00:00",
+      "fetched_at": "2026-10-18T10:29:23.532123+00:00",
+      "author": "/u/Sorry-Concern-3772",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
-      "source": "r/MachineLearning",
-      "summary": "Hey r/MachineLearning We're excited to share ORL (On-Policy Residual Learning) , our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation qualit",
-      "category": "research",
-      "published_at": "2026-10-16T20:03:32+00:00",
-      "fetched_at": "2026-10-17T10:14:20.557232+00:00",
-      "author": "/u/arty_photography",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
-      "source": "r/MachineLearning",
-      "summary": "Half of one sentence in my paper trails onto page 10 This must have happened after a small edit and recompile of the pdf on resubmission but this got me desk rejected",
-      "category": "research",
-      "published_at": "2026-10-16T17:50:55+00:00",
-      "fetched_at": "2026-10-17T10:14:20.877776+00:00",
-      "author": "/u/Eclectic_eels",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
-      "source": "r/MachineLearning",
-      "summary": "The way I review a paper has stayed substantially the same, except for an added step Trying to get a sense of how common it is here Nowadays I do the review, and I upload my review to an AI to ask for",
-      "category": "research",
-      "published_at": "2026-10-16T12:41:41+00:00",
-      "fetched_at": "2026-10-17T10:14:20.681030+00:00",
-      "author": "/u/StingMeleoron",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "NeurIPS 2026 - waitlist [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
-      "source": "r/MachineLearning",
-      "summary": "Hey everyone, I am trying to register for NeurIPS 2026 in Sydney, they mentioned more tickets would be out mid October and I am registered for the waitlist, however I still haven't heard from them Any",
-      "category": "research",
-      "published_at": "2026-10-15T15:42:47+00:00",
-      "fetched_at": "2026-10-17T10:14:20.825733+00:00",
-      "author": "/u/Training_Magazine_62",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Meta Muse Spark Open is live on Together AI",
-      "url": "https://www.together.ai/blog/meta-muse-spark-open",
-      "source": "Together AI Blog",
-      "summary": "Meta Muse Spark Open, Meta's open-weight model for agentic coding, is live on Together AI with a 1M-token context window on serverless and dedicated infrastructure",
-      "category": "research",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:19.125203+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI Blog",
-      "summary": "i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors",
-      "category": "industry",
-      "published_at": "2026-10-16T19:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:03.712281+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Resources for learning to write production grade python code [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
-      "source": "r/MachineLearning",
-      "summary": "I am a data scientist with a very strong background in Stats and ML algos I am struggling with the production ready code Though I can build models which are awesome and tuned to perfection and address",
-      "category": "industry",
-      "published_at": "2026-10-15T21:41:08+00:00",
-      "fetched_at": "2026-10-17T10:14:20.805656+00:00",
-      "author": "/u/Entire-Tomato-3192",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind Blog",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "category": "industry",
-      "published_at": "2026-10-15T16:08:03+00:00",
-      "fetched_at": "2026-10-17T10:14:09.955634+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Proof-based general-purpose computing with Magnetar",
-      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
-      "source": "Microsoft Research Blog",
-      "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data Magnetar helps bring them into the mainstream with support for standard programming languages,",
-      "category": "industry",
-      "published_at": "2026-10-15T16:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:06.779467+00:00",
-      "author": "Srinath Setty",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
       "source": "NVIDIA Blog",
-      "summary": "NVIDIA today released Nemotron 3 5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents Joining it are two new ",
+      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs Starting at $2,399, lapto",
       "category": "industry",
-      "published_at": "2026-10-15T15:00:24+00:00",
-      "fetched_at": "2026-10-17T10:14:08.696373+00:00",
-      "author": "Kari Briski",
+      "published_at": "2026-10-17T21:00:13+00:00",
+      "fetched_at": "2026-10-18T10:29:11.476878+00:00",
+      "author": "Shreevar Rastogi",
       "tags": [
         "AI",
-        "Corporate",
-        "Deep Learning",
-        "Nemotron"
-      ]
-    },
-    {
-      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-      "source": "NVIDIA Blog",
-      "summary": "Dial in the next gaming session this GFN Thursday 5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware Then, step in",
-      "category": "industry",
-      "published_at": "2026-10-15T13:00:59+00:00",
-      "fetched_at": "2026-10-17T10:14:08.738507+00:00",
-      "author": "GeForce NOW Community",
-      "tags": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ]
-    },
-    {
-      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-      "source": "NVIDIA Blog",
-      "summary": "Much of today’s scientific progress begins with computation But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials",
-      "category": "industry",
-      "published_at": "2026-10-15T10:00:12+00:00",
-      "fetched_at": "2026-10-17T10:14:08.806489+00:00",
-      "author": "Rod Evans",
-      "tags": [
-        "AI",
-        "AI Factory",
+        "Agentic AI",
         "Artificial Intelligence",
-        "Climate",
-        "Deep Learning Institute"
+        "Local AI",
+        "NVIDIA RTX"
       ]
     },
     {
-      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
-      "source": "NVIDIA Blog",
-      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent Now, a new chapter for t",
-      "category": "industry",
-      "published_at": "2026-10-15T05:00:12+00:00",
-      "fetched_at": "2026-10-17T10:14:08.858647+00:00",
-      "author": "Linda Malm",
-      "tags": [
-        "AI",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Customer Stories",
-        "Events"
-      ]
-    },
-    {
-      "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+      "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
       "source": "r/MachineLearning",
-      "summary": "for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API the thing I'm kind of proud of: if you point `import torch` at it and run kar",
+      "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
+      "category": "industry",
+      "published_at": "2026-10-17T19:41:19+00:00",
+      "fetched_at": "2026-10-18T10:29:23.408333+00:00",
+      "author": "/u/Civil-Demand555",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Built a search engine for debugging which is not a wrapper [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8uwbg/built_a_search_engine_for_debugging_which_is_not/",
+      "source": "r/MachineLearning",
+      "summary": "TLDR: I built a search engine that reads a bug report (or lets you define it) and points to the exact file (93%) and to the exact function (79 Hey everyone, I recently made a new project while trying ",
       "category": "tools",
-      "published_at": "2026-10-16T18:49:12+00:00",
-      "fetched_at": "2026-10-17T10:14:20.761937+00:00",
-      "author": "/u/Mental-Feature-2377",
+      "published_at": "2026-10-18T05:18:51+00:00",
+      "fetched_at": "2026-10-18T10:29:23.446910+00:00",
+      "author": "/u/Massive_Capital9611",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+      "source": "r/MachineLearning",
+      "summary": "Hello r/MachineLearning , I wanted to share EpochGo , an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1 Cloud API inference costs and data ",
+      "category": "tools",
+      "published_at": "2026-10-17T14:48:25+00:00",
+      "fetched_at": "2026-10-18T10:29:23.512685+00:00",
+      "author": "/u/Grouchy-Excitement28",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Learn what's inside AI Agent Interactively in 3D [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
+      "source": "r/MachineLearning",
+      "summary": "Try it here: https://aiengineeringfromscratch com/inside-an-ai-agent submitted by /u/SeveralSeat2176 [link] [comments]",
+      "category": "tools",
+      "published_at": "2026-10-17T14:22:57+00:00",
+      "fetched_at": "2026-10-18T10:29:23.565807+00:00",
+      "author": "/u/SeveralSeat2176",
       "tags": [
         "reddit"
       ]
@@ -604,7 +256,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:02.452086+00:00",
+      "fetched_at": "2026-10-18T10:29:05.942279+00:00",
       "author": "",
       "tags": []
     },
@@ -615,40 +267,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-15T20:34:01+00:00",
-      "fetched_at": "2026-10-17T10:14:02.491213+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:02.543665+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "fetched_at": "2026-10-17T10:14:02.570173+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-14T16:12:42+00:00",
-      "fetched_at": "2026-10-17T10:14:02.620955+00:00",
+      "fetched_at": "2026-10-18T10:29:05.980048+00:00",
       "author": "",
       "tags": []
     }

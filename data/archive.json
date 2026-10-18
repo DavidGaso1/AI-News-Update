@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-10-17T10:14:41.521230+00:00",
+  "generated_at": "2026-10-18T10:30:02.362768+00:00",
   "archive": [
+    {
+      "date": "2026-10-18",
+      "total": 10,
+      "categories": {
+        "breaking": 0,
+        "research": 3,
+        "industry": 2,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+          "source": "r/MachineLearning",
+          "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory I have published the implementation and a detailed write-up",
+          "category": "research",
+          "published_at": "2026-10-18T08:23:02+00:00",
+          "author": "/u/atronos_kronios",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What is wrong with AI writing - ICLR edition [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+          "source": "r/MachineLearning",
+          "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on th",
+          "category": "research",
+          "published_at": "2026-10-17T23:40:03+00:00",
+          "author": "/u/bobrodsky",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "EMNLP main presentation[D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+          "source": "r/MachineLearning",
+          "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other p",
+          "category": "research",
+          "published_at": "2026-10-17T16:45:33+00:00",
+          "author": "/u/Sorry-Concern-3772",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs Starting at $2,399, lapto",
+          "category": "industry",
+          "published_at": "2026-10-17T21:00:13+00:00",
+          "author": "Shreevar Rastogi",
+          "tags": [
+            "AI",
+            "Agentic AI",
+            "Artificial Intelligence",
+            "Local AI",
+            "NVIDIA RTX"
+          ]
+        },
+        {
+          "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/Civil-Demand555 [link] [comments]",
+          "category": "industry",
+          "published_at": "2026-10-17T19:41:19+00:00",
+          "author": "/u/Civil-Demand555",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Built a search engine for debugging which is not a wrapper [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8uwbg/built_a_search_engine_for_debugging_which_is_not/",
+          "source": "r/MachineLearning",
+          "summary": "TLDR: I built a search engine that reads a bug report (or lets you define it) and points to the exact file (93%) and to the exact function (79 Hey everyone, I recently made a new project while trying ",
+          "category": "tools",
+          "published_at": "2026-10-18T05:18:51+00:00",
+          "author": "/u/Massive_Capital9611",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+          "source": "r/MachineLearning",
+          "summary": "Hello r/MachineLearning , I wanted to share EpochGo , an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1 Cloud API inference costs and data ",
+          "category": "tools",
+          "published_at": "2026-10-17T14:48:25+00:00",
+          "author": "/u/Grouchy-Excitement28",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Learn what's inside AI Agent Interactively in 3D [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
+          "source": "r/MachineLearning",
+          "summary": "Try it here: https://aiengineeringfromscratch com/inside-an-ai-agent submitted by /u/SeveralSeat2176 [link] [comments]",
+          "category": "tools",
+          "published_at": "2026-10-17T14:22:57+00:00",
+          "author": "/u/SeveralSeat2176",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-16T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-15T20:34:01+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "total": 25,
