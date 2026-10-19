@@ -1,6 +1,269 @@
 {
-  "generated_at": "2026-10-18T10:30:02.362768+00:00",
+  "generated_at": "2026-10-19T12:19:28.410990+00:00",
   "archive": [
+    {
+      "date": "2026-10-19",
+      "total": 50,
+      "categories": {
+        "breaking": 3,
+        "research": 42,
+        "industry": 1,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
+          "source": "r/MachineLearning",
+          "summary": "I built and trained a 218-million-parameter model on fMRI data from 2,000 peoples brains as they watched films, TV, and images On the films Meta held out to test TRIBE v2, Cajal-1 is 25% more accurate",
+          "category": "breaking",
+          "published_at": "2026-10-19T00:54:34+00:00",
+          "author": "/u/AfterShock182",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Star Light, Star Bright: Can Multimodal Models Parse an Astronomy Visual Question Answering Dataset Right?",
+          "url": "https://arxiv.org/abs/2610.22474",
+          "source": "arXiv CV",
+          "summary": "22474v1 Announce Type: new Abstract: Figures are essential for scientific communication, and the field of Visual Question Answering (VQA) aims to test the figure understanding capabilities of large mu",
+          "category": "breaking",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "J. P. Naiman",
+          "tags": [
+            "cs.CV",
+            "astro-ph.IM",
+            "cs.DL",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+          "source": "r/MachineLearning",
+          "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse Wha",
+          "category": "breaking",
+          "published_at": "2026-10-18T20:52:02+00:00",
+          "author": "/u/dwaxe",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
+          "source": "r/MachineLearning",
+          "summary": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation 6M-param acoustic model (",
+          "category": "research",
+          "published_at": "2026-10-19T05:36:23+00:00",
+          "author": "/u/Working_Hat5120",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
+          "source": "r/MachineLearning",
+          "summary": "Worked on this for about a month I experimented a lot with resnets (pretrained on Imagenet) which performed quite well, pure ViT which performed worse ConvNext DINOv3 performed the best",
+          "category": "research",
+          "published_at": "2026-10-19T04:57:13+00:00",
+          "author": "/u/BrashBunyip",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+          "source": "r/MachineLearning",
+          "summary": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting I used to wo",
+          "category": "research",
+          "published_at": "2026-10-19T01:34:31+00:00",
+          "author": "/u/niceuser45",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Looking to collaborate [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/",
+          "source": "r/MachineLearning",
+          "summary": "Anyone in the biomedical and ai/ml research space I’m looking to connect and collaborate on research projects Currently pursuing my PhD",
+          "category": "research",
+          "published_at": "2026-10-19T00:48:39+00:00",
+          "author": "/u/QuirkySkin-25",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+          "url": "https://arxiv.org/abs/2610.22373",
+          "source": "arXiv AI/ML",
+          "summary": "22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism a",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Ryan Tran, YueMing Zhang, Lingfeng Tao, Nan Yang, Shengjie Xu, Yu Yin, Shuai Xu, Wenlu Zhang, Hailu Xu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
+          "url": "https://arxiv.org/abs/2610.22400",
+          "source": "arXiv AI/ML",
+          "summary": "22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressiv",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Junru Zhang, Jinyong Wen, Bin Dou, Wuliang Huang, Baokun Wang, Yu Cheng, Weiqiang Wang, Cheng Peng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+          "url": "https://arxiv.org/abs/2610.22408",
+          "source": "arXiv AI/ML",
+          "summary": "22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, whil",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Tengda Guo (Tsinghua University), Jiawang Hu (StepFun), Yifei Tao (Nanyang Technological University), Yin Wang (StepFun), Haotian Hu (Zhejiang Leapmotor Technology Co., Ltd), Fanyi Wang (Honor), Liujuan Tang (StepFun)",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
+          "url": "https://arxiv.org/abs/2610.22420",
+          "source": "arXiv AI/ML",
+          "summary": "22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identi",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Benjamin Pianet, Baptiste Lesquoy, Paul Saves, Benoit Gaudou, Jean Villerd, Nicolas Verstaevel, Olivier Therond",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
+          "url": "https://arxiv.org/abs/2610.22426",
+          "source": "arXiv AI/ML",
+          "summary": "22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation Requirements oft",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Hamed Khosravi, Xiaoming Huo",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
+          "url": "https://arxiv.org/abs/2610.22441",
+          "source": "arXiv AI/ML",
+          "summary": "22441v1 Announce Type: new Abstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs) However, tw",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Jinglin Dai, Jiawan Wang, Ruiqi Hong, Lei Bu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
+          "url": "https://arxiv.org/abs/2610.22445",
+          "source": "arXiv AI/ML",
+          "summary": "22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept Does passing a test establish the intended claim We develop four executable op",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Tianyu Wu (Project Aether)",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Learnable Splines for Unstructured Neural Operators",
+          "url": "https://arxiv.org/abs/2610.22446",
+          "source": "arXiv AI/ML",
+          "summary": "22446v1 Announce Type: new Abstract: Neural operators approximate solution operators of partial differential equations at a fraction of the cost of numerical solvers Efficient grid-based architectures",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Vignesh Gopakumar, Zhuoyuan Wang, Ander Gray, Valentin Duruisseaux, Josh Williams, William Michael Edward Ellis, Nuno Nobre, Matthew Field, James Panayis, Alexander I. Blair, Andrew Davis, Stanislas Pamela, Robert Akers, Marc Peter Deisenroth, Anima Anandkumar",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "physics.comp-ph"
+          ]
+        },
+        {
+          "title": "Functional Welfare for AI Safety",
+          "url": "https://arxiv.org/abs/2610.22460",
+          "source": "arXiv AI/ML",
+          "summary": "22460v1 Announce Type: new Abstract: AI welfare is generally treated purely as an ethical issue rather than also as a safety issue We argue this is a mistake Whatever their moral status, models exhibi",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Rikhil Jhaveri, Jamie Johnson, Punya Syon Pandey, David Demitri Africa",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
+          "url": "https://arxiv.org/abs/2610.22465",
+          "source": "arXiv AI/ML",
+          "summary": "22465v1 Announce Type: new Abstract: Reproducibility checks during peer review require a shared understanding of what authors' code is expected to reproduce We present an author-in-the-loop collaborat",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Yukun Dong, Linjun Zhang, Tian Zheng",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
+          "url": "https://arxiv.org/abs/2610.22466",
+          "source": "arXiv AI/ML",
+          "summary": "22466v1 Announce Type: new Abstract: Harness evolution automatically optimizes the prompts, skills, tools, and orchestration code around a fixed-weight model, offering a way to improve agentic systems",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Wenxuan Ding, Qin Lu, Changlong Yu, Sha Li, Shuowei Jin, Xin Liu, Zhenyu Shi, Greg Durrett",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Testing the Planning Claims of LLM-Based Agents against Formal Semantics",
+          "url": "https://arxiv.org/abs/2610.22469",
+          "source": "arXiv AI/ML",
+          "summary": "22469v1 Announce Type: new Abstract: LLM-based agents are increasingly credited with the competences of practical reasoning: planning, monitoring, and correcting their own actions Their success is att",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Oriol Miro-Lopez-Feliu, Oscar Mir\\'o L\\'opez-Feliu, Victor Gimenez-Abalos, Javier Vazquez-Salceda, Victor Carballo Araruna, Sergio Alvarez-Napagao",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Are Large Reasoning Models Good Everyday Reasoners? A Comparison with Non-Reasoning Models on Logical Reasoning Tasks",
+          "url": "https://arxiv.org/abs/2610.22538",
+          "source": "arXiv AI/ML",
+          "summary": "22538v1 Announce Type: new Abstract: Large reasoning models (LRMs) that leverage test-time computation achieve strong performance on mathematical and scientific benchmarks and are increasingly deploye",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00-04:00",
+          "author": "Kentaro Ozeki, Risako Ando, Takanobu Morishita, Hirohiko Abe, Koji Mineshima, Mitsuhiro Okada",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "total": 10,
