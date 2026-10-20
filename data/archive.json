@@ -1,6 +1,242 @@
 {
-  "generated_at": "2026-10-19T12:19:28.410990+00:00",
+  "generated_at": "2026-10-20T11:01:04.869795+00:00",
   "archive": [
+    {
+      "date": "2026-10-20",
+      "total": 18,
+      "categories": {
+        "breaking": 1,
+        "research": 9,
+        "industry": 4,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "Advancing coding in low‑resource programming languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI Blog",
+          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration",
+          "category": "breaking",
+          "published_at": "2026-10-19T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Publication"
+          ]
+        },
+        {
+          "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+          "source": "r/MachineLearning",
+          "summary": "I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images The main challenge I'm facing right now is annotation I need to label multiple obj",
+          "category": "research",
+          "published_at": "2026-10-20T10:00:43+00:00",
+          "author": "/u/TechDc-1306",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ML on a shoestring? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, ML people of Reddit I have come to ask for some human advice I am an amateur (as in unpaid) ML researcher working on a personal project to find drug repurposing candidates for my wife, who was Dxe",
+          "category": "research",
+          "published_at": "2026-10-19T18:23:07+00:00",
+          "author": "/u/whafa",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+          "source": "r/MachineLearning",
+          "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testi",
+          "category": "research",
+          "published_at": "2026-10-19T17:50:49+00:00",
+          "author": "/u/Amazing-Coat5160",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
+          "source": "r/MachineLearning",
+          "summary": "Lately I have read several studies which say that AI agents when designing ML experiments tend to cheat, hallucinate and lie repeatedly Even when given explicit prompts to not to SInce these models ar",
+          "category": "research",
+          "published_at": "2026-10-19T08:14:16+00:00",
+          "author": "/u/Jumpy-Cobbler1020",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Together Post-Training: frontier-grade model shaping, the way that fits you",
+          "url": "https://www.together.ai/blog/together-post-training",
+          "source": "Together AI Blog",
+          "summary": "Post-train open LLMs like Qwen, GLM and Kimi into custom models you own, with SFT or RL You write the training loop Together runs the hard infrastructure",
+          "category": "research",
+          "published_at": "2026-10-19T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
+          "source": "r/MachineLearning",
+          "summary": "I know AI use must be disclosed, and I'm fine with it However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the p",
+          "category": "research",
+          "published_at": "2026-10-18T23:52:01+00:00",
+          "author": "/u/howtorewriteaname",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Conference papers are cooked! [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+          "source": "r/MachineLearning",
+          "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad I would even refrain from accepting them to a workshop, let alone be main venues A si",
+          "category": "research",
+          "published_at": "2026-10-18T22:12:15+00:00",
+          "author": "/u/Fantastic-Nerve-4056",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+          "source": "r/MachineLearning",
+          "summary": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN ",
+          "category": "research",
+          "published_at": "2026-10-18T16:43:58+00:00",
+          "author": "/u/Yossarian_1234",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, I was wondering if any other reciprocal reviewers still haven't received paper assignments for ICLR 2027 I haven't been assigned any papers to review yet and am a bit confused Is anyone else in th",
+          "category": "research",
+          "published_at": "2026-10-18T14:24:16+00:00",
+          "author": "/u/Terrible-Chicken-426",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+          "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+          "source": "NVIDIA Blog",
+          "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and trai",
+          "category": "industry",
+          "published_at": "2026-10-20T05:00:00+00:00",
+          "author": "Tobias Halloran",
+          "tags": [
+            "AI",
+            "Supercomputing",
+            "Agentic AI",
+            "AI Factory",
+            "AI for Good"
+          ]
+        },
+        {
+          "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+          "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+          "source": "NVIDIA Blog",
+          "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particul",
+          "category": "industry",
+          "published_at": "2026-10-19T19:27:08+00:00",
+          "author": "NVIDIA Writers",
+          "tags": [
+            "AI",
+            "Digital Twin",
+            "GTC 2026",
+            "Industrial and Manufacturing",
+            "NVIDIA in Europe"
+          ]
+        },
+        {
+          "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+          "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+          "source": "NVIDIA Blog",
+          "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display Key to the",
+          "category": "industry",
+          "published_at": "2026-10-19T15:00:31+00:00",
+          "author": "Richard Kerris",
+          "tags": [
+            "AI",
+            "Agentic AI",
+            "Artificial Intelligence",
+            "Customer Stories",
+            "Events"
+          ]
+        },
+        {
+          "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/ToraxXx [link] [comments]",
+          "category": "industry",
+          "published_at": "2026-10-18T19:34:36+00:00",
+          "author": "/u/ToraxXx",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I built an open-source unit-record memory engine based on 1959 IBM punched cards to stop 100k-token context replay choking [Short Promo + Live Web Demo] [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xao29y/i_built_an_opensource_unitrecord_memory_engine/",
+          "source": "r/MachineLearning",
+          "summary": "Peace, If you build long-running autonomous agents or pair-programming harnesses, you know the single biggest headache right now: **Session Amnesia ** Whenever an agent restarts or changes tasks, stan",
+          "category": "tools",
+          "published_at": "2026-10-20T10:01:12+00:00",
+          "author": "/u/MadBradSmith",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+          "source": "r/MachineLearning",
+          "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video It's my own channel, and I'm posting to share the resource and get feedback on the plan,",
+          "category": "tools",
+          "published_at": "2026-10-19T18:15:18+00:00",
+          "author": "/u/Winter_Mistake_3185",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+          "source": "r/MachineLearning",
+          "summary": "Came across this today and haven't seen it discussed here yet It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (",
+          "category": "tools",
+          "published_at": "2026-10-19T17:13:35+00:00",
+          "author": "/u/EvilHackFar",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-19T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "total": 50,
