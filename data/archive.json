@@ -1,6 +1,262 @@
 {
-  "generated_at": "2026-10-20T11:01:04.869795+00:00",
+  "generated_at": "2026-10-21T11:17:31.656319+00:00",
   "archive": [
+    {
+      "date": "2026-10-21",
+      "total": 50,
+      "categories": {
+        "breaking": 5,
+        "research": 29,
+        "industry": 9,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+          "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs Complex engineering feats — from advan",
+          "category": "breaking",
+          "published_at": "2026-10-21T10:30:25+00:00",
+          "author": "Timothy Costa",
+          "tags": [
+            "AI",
+            "CUDA-X",
+            "GTC 2026",
+            "Scientific Visualization",
+            "Simulation"
+          ]
+        },
+        {
+          "title": "Regarding CVPR 2027 Submission [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
+          "source": "r/MachineLearning",
+          "summary": "Does anyone have the author kit for CVPR 2027 The official website doesn't seem to have it yet, unlike in previous years Please correct me if I'm wrong",
+          "category": "breaking",
+          "published_at": "2026-10-20T12:49:39+00:00",
+          "author": "/u/Maleficent_Reply_471",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "source": "OpenAI Blog",
+          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow",
+          "category": "breaking",
+          "published_at": "2026-10-20T10:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "url": "https://openai.com/index/terminal-x",
+          "source": "OpenAI Blog",
+          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6",
+          "category": "breaking",
+          "published_at": "2026-10-20T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "OpenAI acquires Orchestra Bio",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments",
+          "category": "breaking",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+          "source": "r/MachineLearning",
+          "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot However due to Visa issue, we cannot attend in-person anymore We mailed to the event team, but they said that it is no longer possi",
+          "category": "research",
+          "published_at": "2026-10-21T01:13:32+00:00",
+          "author": "/u/OtherwiseFig4505",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+          "url": "https://arxiv.org/abs/2610.26887",
+          "source": "arXiv AI/ML",
+          "summary": "26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task executi",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Hengqi Liu, Ziyuan Liu, Yang Qin, Wanting Zhou, Zichuan Wang, Jiachen Liang, Xu Chu, Shaowei Chen, Zhaokai Luo, Mu Chuan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+          "url": "https://arxiv.org/abs/2610.26899",
+          "source": "arXiv AI/ML",
+          "summary": "26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand The advancement of machi",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Yifei Xiao, Huasheng Lin, T. Y. Yang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+          "url": "https://arxiv.org/abs/2610.26904",
+          "source": "arXiv AI/ML",
+          "summary": "26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-lang",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Koki Takeshita, Kenji Uebayashi, Hikaru Tomonari, Masaya Tsunokake, Koichiro Yawata, Tatsuya Sasaki, Yusuke Ohtsubo, Kota Dohi, Yasuhiro Sogawa",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+          "url": "https://arxiv.org/abs/2610.26924",
+          "source": "arXiv AI/ML",
+          "summary": "26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable ",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Nan Jia, Wenxuan Shi, Jingqing Ruan, Zhizhao Zeng, Tianyi Zhai, Zhongda Su, Feng Hong, Zhengyu Chen, Wenhao Yan, Haojin Yang, Siqi Dai, Weipeng Zhang, Ke Zeng, Xunliang Cai",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+          "url": "https://arxiv.org/abs/2610.26941",
+          "source": "arXiv AI/ML",
+          "summary": "26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Lei Ren, Haiteng Wang, Shixiang Li, Jing Zhang, Yuqing Wang, Jingwei Guo, Yunfei Zhu, Yuanjun Laili, Yang Tang, Lihui Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+          "url": "https://arxiv.org/abs/2610.26942",
+          "source": "arXiv AI/ML",
+          "summary": "26942v1 Announce Type: new Abstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a precise error message --- informati",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Haotian Deng, Chris Farber, Sonal Narasimha, Samskrithi Sivakumar, Yexiang Xue",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+          "url": "https://arxiv.org/abs/2610.26943",
+          "source": "arXiv AI/ML",
+          "summary": "26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only c",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Xinping Wang, Jie Ma, Rui Xing, Wensong Guo, Xiayi Zhang, Jianhao Deng, Zihao Zhou, Boqian Yang, Feijuan He",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+          "url": "https://arxiv.org/abs/2610.26948",
+          "source": "arXiv AI/ML",
+          "summary": "26948v1 Announce Type: new Abstract: Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal product information However, extendi",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "He Ma, Lan You, Qiyang Wu, Chen Liu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+          "url": "https://arxiv.org/abs/2610.26964",
+          "source": "arXiv AI/ML",
+          "summary": "26964v1 Announce Type: new Abstract: Large language models (LLMs) struggle with classical planning, but benchmarks rarely distinguish structural difficulty from the difficulty of interpreting symbolic",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Mayukh Debnath, Adeyinka Adedigba, Rammohan Mallipeddi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+          "url": "https://arxiv.org/abs/2610.26995",
+          "source": "arXiv AI/ML",
+          "summary": "26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills However, scaling skill libraries makes efficient and accurate skill use difficult Full skill loading incurs h",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Ran Zhou, Zehui Kong, Fanyu Lin, Jiaheng Liu, Zhen Zhang, Yuxiang Ren",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+          "url": "https://arxiv.org/abs/2610.27027",
+          "source": "arXiv AI/ML",
+          "summary": "27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system However, the two are not",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Won Seok Jang, Harry Bhaskar Joshi, Hong Yu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+          "url": "https://arxiv.org/abs/2610.27028",
+          "source": "arXiv AI/ML",
+          "summary": "27028v1 Announce Type: new Abstract: A poker agent can make a legal move and still make a strategically poor one We ask whether compact AI agents can exhibit strategic behavior under hidden informatio",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Phurinat Polasa, Thanapon Thanadunpremdet, Phatthanasak Kraiduang, Saksorn Ruangtanusak",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+          "url": "https://arxiv.org/abs/2610.27032",
+          "source": "arXiv AI/ML",
+          "summary": "27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon ta",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Ziyang Liu, Jiakang Yuan, Jiayuan Fan, Tao Chen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Physical AI: Concepts, Techniques, and Challenges",
+          "url": "https://arxiv.org/abs/2610.27045",
+          "source": "arXiv AI/ML",
+          "summary": "27045v1 Announce Type: new Abstract: In recent years, physical artificial intelligence (physical AI) has experienced rapid development, capturing significant attention in academia and industry However",
+          "category": "research",
+          "published_at": "2026-10-21T00:00:00-04:00",
+          "author": "Weinan Zhang, Chunhua Shen, Tianfan Xue, Bin Zhao, Bingqi Jiang, Zihan Guo, Zicai Cui, Yang Li, Ming Zhou, Xinyuan Chen, Lihe Ding, Xiao Chen, Yujin Wang, Shi Guo, Junting Dong, Tao Lu, Xing Shen, Haoyu Guo, Yao Mu, Haiyong Yu, Haoxiang Ma, Fuxian Huang, Qiaojun Yu, Yunsong Zhou, Kailin Li, Zirui Wang, Yufei Xue, Weishuai Zeng, Tao Huang, Zhigang Wang, Junli Liu, Pengyuan Wu, Pingrui Zhang, Haotian Wang, Dongzhan Zhou, Jiafei Cao, Feng Yuan, Xinyi Ye, Quanli Xuan, Mulin Yu, Shangding Gu, Kaiwen Song, Dong Wang, Jiarui Li, Kehui Liu, Zhongjie Jia, Dongjiang Li, Jiacheng Bao, Haoran Yang, Zhaoqing Chen, Yiming Sun, Bowen Zhou",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "total": 18,
