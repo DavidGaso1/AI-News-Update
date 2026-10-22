@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-10-21T11:17:31.656319+00:00",
+  "generated_at": "2026-10-22T11:16:02.228757+00:00",
   "archive": [
+    {
+      "date": "2026-10-22",
+      "total": 142,
+      "categories": {
+        "breaking": 10,
+        "research": 106,
+        "industry": 14,
+        "tools": 12
+      },
+      "articles": [
+        {
+          "title": "Different Defects, Different Effects: A Controlled Audit of Face Recognition Training Data",
+          "url": "https://arxiv.org/abs/2610.28766",
+          "source": "arXiv CV",
+          "summary": "28766v1 Announce Type: new Abstract: The development of face recognition has been strongly supported by the availability of large-scale training datasets Among them, MS-Celeb-1M has played an importan",
+          "category": "breaking",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Ana Dias, Jo\\~ao Ribeiro Pinto, Hugo Proen\\c{c}a, Jo\\~ao C. Neves",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Broad access through consistent standards",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI Blog",
+          "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies",
+          "category": "breaking",
+          "published_at": "2026-10-21T21:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Safety"
+          ]
+        },
+        {
+          "title": "How AT&T is rethinking in-house legal work with OpenAI",
+          "url": "https://openai.com/index/att-legal",
+          "source": "OpenAI Blog",
+          "summary": "AT&T is working with OpenAI to make legal knowledge easier to access Learn how its LegalEdge team is rethinking intake and scaling legal judgment",
+          "category": "breaking",
+          "published_at": "2026-10-21T17:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI Blog",
+          "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT",
+          "category": "breaking",
+          "published_at": "2026-10-21T13:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace",
+          "category": "breaking",
+          "published_at": "2026-10-21T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI Blog",
+          "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source",
+          "category": "breaking",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+          "url": "https://openai.com/index/building-chatgpt-ad-stack",
+          "source": "OpenAI Blog",
+          "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale",
+          "category": "breaking",
+          "published_at": "2026-10-21T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Engineering"
+          ]
+        },
+        {
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI Blog",
+          "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells",
+          "category": "breaking",
+          "published_at": "2026-10-21T04:50:00+00:00",
+          "author": "",
+          "tags": [
+            "Publication"
+          ]
+        },
+        {
+          "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+          "url": "https://openai.com/index/cloudflare-cyber",
+          "source": "OpenAI Blog",
+          "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review Its developers use Codex to build faster and improve code quality",
+          "category": "breaking",
+          "published_at": "2026-10-21T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+          "url": "https://openai.com/index/empowering-cyber-defenders",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions",
+          "category": "breaking",
+          "published_at": "2026-10-21T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+          "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+          "source": "NVIDIA Blog",
+          "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions A global forecast can sho",
+          "category": "research",
+          "published_at": "2026-10-22T05:00:19+00:00",
+          "author": "Mike Pritchard",
+          "tags": [
+            "AI",
+            "Climate",
+            "GTC 2026",
+            "NVIDIA Earth-2"
+          ]
+        },
+        {
+          "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+          "url": "https://arxiv.org/abs/2610.27046",
+          "source": "arXiv AI/ML",
+          "summary": "27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important Formal mathematics provides a trusted framework for mat",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Zeyu Zheng, Yiyang Liu, Yuyang Zhao, Congmin Zheng, Jiachen Zhu, Jianian Chen, Kangning Zhang, Kayue Daniel Wong, Lingyu Yang, Rong Shan, Shihao Chen, Thomas Zhu, Wentao Zhang, Xiaopeng Li, Yan Hu, Yongxi Lin, Yuxiang Chen, Zhuoying Ou, Jianghao Lin, Jeremy Avigad, Prasad Tetali, Jingbang Chen, Sean Welleck",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "A general-purpose System One decision model for clinical records",
+          "url": "https://arxiv.org/abs/2610.27099",
+          "source": "arXiv AI/ML",
+          "summary": "27099v1 Announce Type: new Abstract: Clinical care, health-system operations and biomedical discovery depend on extracting reliable answers from patient records, yet applying diverse clinical question",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Andrew Zhang, Trinh T. L. Vuong, Sophia J. Wagner, Dongmin Bang, Tong Ding, Yuchang Su, Mary Cipperman, Christina S. Chen, Judith Lefkes, Ramin Kahidi, Ming Y. Lu, Caiwei Tian, Tianhao Luo, Jingnan Ma, Rowland Pettit, Long Phi Le, Faisal Mahmood",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+          "url": "https://arxiv.org/abs/2610.27103",
+          "source": "arXiv AI/ML",
+          "summary": "27103v1 Announce Type: new Abstract: Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge Existin",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CV",
+            "cs.MM"
+          ]
+        },
+        {
+          "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
+          "url": "https://arxiv.org/abs/2610.27115",
+          "source": "arXiv AI/ML",
+          "summary": "27115v1 Announce Type: new Abstract: LLM agents act on the external world through tools and third-party skills, so a single executed action can cause irreversible harm Existing defenses judge a propos",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Bo Yan, Qi Zhang, Ziwen Kan, Fnu Suya, Song Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+          "url": "https://arxiv.org/abs/2610.27119",
+          "source": "arXiv AI/ML",
+          "summary": "27119v1 Announce Type: new Abstract: LLM agents perform tasks over multiple steps and revise their actions based on feedback As the total reasoning budget is often limited and must support future step",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Bo Yan, Qi Zhang, Zhen Tan, Tianlong Chen, Song Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "EDMA: Entropy-Driven Multimodal Answering",
+          "url": "https://arxiv.org/abs/2610.27120",
+          "source": "arXiv AI/ML",
+          "summary": "27120v1 Announce Type: new Abstract: Multimodal question answering (MMQA) is based on integrating heterogeneous data sources, selectively leveraging relevant modalities, and ignoring distractors Exist",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Emanuele Mezzi, Gertjan Burghouts, Fabio Massacci, Mengyuan Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MoSAIK: Motion Search with Artificial Intelligence in K-space",
+          "url": "https://arxiv.org/abs/2610.27156",
+          "source": "arXiv AI/ML",
+          "summary": "27156v1 Announce Type: new Abstract: Object: Motion artefacts remain a major limitation of routine two-dimensional T2-weighted turbo spin-echo (TSE) brain MRI, reducing diagnostic confidence and often",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Oscar Dabrowski, Abijith Jagannath, Fr\\'ed\\'eric Grouiller, S\\'ebastien Courvoisier",
+          "tags": [
+            "cs.AI",
+            "physics.med-ph"
+          ]
+        },
+        {
+          "title": "Learned Control Variates for Rare Grid-Outage Estimation at Electric Vehicle Charging Stations",
+          "url": "https://arxiv.org/abs/2610.27159",
+          "source": "arXiv AI/ML",
+          "summary": "27159v1 Announce Type: new Abstract: Public charging of electric vehicles (EVs) adds a large and synchronized load to the distribution feeders In most networks, it is rare to overload a feeder at the ",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Sulyman Iyanda, Mansur Arief",
+          "tags": [
+            "cs.AI",
+            "cs.CE",
+            "cs.SY",
+            "eess.SY",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "LSA-PAST: Layer-Specific Adaptation and Prototype Transport for Compositional Incremental Learning",
+          "url": "https://arxiv.org/abs/2610.27203",
+          "source": "arXiv AI/ML",
+          "summary": "27203v1 Announce Type: new Abstract: Class-Incremental Learning (CIL) enables models to recognize new classes over time while retaining prior knowledge, but many real-world problems are compositional,",
+          "category": "research",
+          "published_at": "2026-10-22T00:00:00-04:00",
+          "author": "Kyle Stein, Andrew Arash Mahyari, Guillermo Francia III, Eman El-Sheikh, Jiangpeng He",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "total": 50,
