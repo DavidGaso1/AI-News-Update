@@ -1,6 +1,269 @@
 {
-  "generated_at": "2026-10-22T11:16:02.228757+00:00",
+  "generated_at": "2026-10-23T11:07:18.901544+00:00",
   "archive": [
+    {
+      "date": "2026-10-23",
+      "total": 50,
+      "categories": {
+        "breaking": 5,
+        "research": 19,
+        "industry": 15,
+        "tools": 11
+      },
+      "articles": [
+        {
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem",
+          "category": "breaking",
+          "published_at": "2026-10-23T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Global Affairs"
+          ]
+        },
+        {
+          "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+          "source": "r/MachineLearning",
+          "summary": "A while back I posted SteerTTS v1, a small English TTS you steer with numbers ( https://huggingface co/WhissleAI/steer-tts ) Today I am releasing the edge variant: https://huggingface",
+          "category": "breaking",
+          "published_at": "2026-10-22T20:57:42+00:00",
+          "author": "/u/Working_Hat5120",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI Blog",
+          "summary": "Fast, focused, low-cost decisions for any application.",
+          "category": "breaking",
+          "published_at": "2026-10-22T19:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI Blog",
+          "summary": "What forward deployed engineering means at OpenAI",
+          "category": "breaking",
+          "published_at": "2026-10-22T06:00:00+00:00",
+          "author": "",
+          "tags": [
+            "AI Adoption"
+          ]
+        },
+        {
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "source": "OpenAI Blog",
+          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows",
+          "category": "breaking",
+          "published_at": "2026-10-22T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
+          "source": "r/MachineLearning",
+          "summary": "I've been learning how language models work, especially next-token prediction, and came across this paper on Next-Concept Modeling (NCM) The interesting part is how it generates text Instead of predic",
+          "category": "research",
+          "published_at": "2026-10-23T07:24:12+00:00",
+          "author": "/u/PanelReader",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+          "url": "https://arxiv.org/abs/2610.28686",
+          "source": "arXiv AI/ML",
+          "summary": "28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries We consider multi-turn grounded conversational s",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Lihong He, Lucian Popa, Marina Danilevsky",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+          "url": "https://arxiv.org/abs/2610.28698",
+          "source": "arXiv AI/ML",
+          "summary": "28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical la",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Kuan Zhang, Yukun Chen, Zhihao Yang, Yue Su, Xiangnan Wu, Zirong Chen, Run Luo, Jinkun Hou, Tao Tan, Yinhe Zheng, Yiming Li",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+          "url": "https://arxiv.org/abs/2610.28706",
+          "source": "arXiv AI/ML",
+          "summary": "28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning un",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Ha Minh Hieu, Tongyao Zhu, Do Xuan Long, Min-Yen Kan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+          "url": "https://arxiv.org/abs/2610.28763",
+          "source": "arXiv AI/ML",
+          "summary": "28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scienti",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Ming Zhong, Stacy Li, Nicholas Carlini, Matthew Jagielski",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+          "url": "https://arxiv.org/abs/2610.28815",
+          "source": "arXiv AI/ML",
+          "summary": "28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence While more evolut",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Jingzhe Liu, Jiliang Tang, Tong Zhao, Neil Shah, Clark Mingxuan Ju",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+          "url": "https://arxiv.org/abs/2610.28826",
+          "source": "arXiv AI/ML",
+          "summary": "28826v1 Announce Type: new Abstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale We compared Jev",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Rotem Gershon, Seffi Cohen, Dean Ariel, Havatzelet Bilavsky-Yarden, Amiel Sberro, Shai Yitzhaki, Osnat Tausky, Naama Golan, Maayan Rabinovitch, Ariel Avraham Hasidim, Itay Arianu, Maya Dagan, Ran Balicer, Noa Dagan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+          "url": "https://arxiv.org/abs/2610.28836",
+          "source": "arXiv AI/ML",
+          "summary": "28836v1 Announce Type: new Abstract: This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams The system converts raw images into a Simulation Program with Integrated Ci",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Mohammad Kawsar, Al Amin Islam Ridoy, Md Rakib Hossain, Farzana Akter, AKM Bahalul Haque, Rejwan Bin Sulaiman, Mohammed Amin Almaiah",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Speedrunning Relational Foundation Model Pretraining",
+          "url": "https://arxiv.org/abs/2610.28855",
+          "source": "arXiv AI/ML",
+          "summary": "28855v1 Announce Type: new Abstract: Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception Recipes are developed inside individual lab",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Gabriel Wedson Mendon\\c{c}a de Souza Veloso, Luan Borges Teodoro Reis Sena, Denis Oliveira Correa, Francisco Galuppo Azevedo",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+          "url": "https://arxiv.org/abs/2610.28875",
+          "source": "arXiv AI/ML",
+          "summary": "28875v1 Announce Type: new Abstract: Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party's views, yet most persuasion resear",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Mohammad Siahkamari, Phuoc Dat Nguyen, Stephen MacNeil",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.MA",
+            "cs.SI"
+          ]
+        },
+        {
+          "title": "Fig: Automated Multiagent Behavior Elicitor",
+          "url": "https://arxiv.org/abs/2610.28891",
+          "source": "arXiv AI/ML",
+          "summary": "28891v1 Announce Type: new Abstract: Many social evaluations for multiagent systems study behaviors as they emerge from environments instead of systematically intervening in the environment to elicit ",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Anrui Gu, Zhichao Wang, Nicolai Ouporov",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+          "url": "https://arxiv.org/abs/2610.28905",
+          "source": "arXiv AI/ML",
+          "summary": "28905v1 Announce Type: new Abstract: Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems usually discard those states and make agents comm",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Alan-Barsag Gazzaev, Alexey Gavrilov, Sergey Muravyov, Ilya Makarov",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+          "url": "https://arxiv.org/abs/2610.28909",
+          "source": "arXiv AI/ML",
+          "summary": "28909v1 Announce Type: new Abstract: Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use Almost all producti",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Alan-Barsag Gazzaev, Alexey Gavrilov, Mikhail Mozikov, Sergey Muravyov",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Simply Logical -- The First Three Decades",
+          "url": "https://arxiv.org/abs/2610.28912",
+          "source": "arXiv AI/ML",
+          "summary": "28912v1 Announce Type: new Abstract: This paper charts the evolution of the Prolog textbook Simply Logical -- Intelligent Reasoning by Example from print with runnable programmes on a 3 5-inch diskett",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Peter Flach, Kacper Sokol, Jan Wielemaker",
+          "tags": [
+            "cs.AI",
+            "cs.LO"
+          ]
+        },
+        {
+          "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
+          "url": "https://arxiv.org/abs/2610.28914",
+          "source": "arXiv AI/ML",
+          "summary": "28914v1 Announce Type: new Abstract: Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilities to smaller models essential Traditional knowle",
+          "category": "research",
+          "published_at": "2026-10-23T00:00:00-04:00",
+          "author": "Shuo Yuan, Dacheng Li, Joseph E. Gonzalez",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "total": 142,
