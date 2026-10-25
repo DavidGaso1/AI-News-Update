@@ -1,6 +1,108 @@
 {
-  "generated_at": "2026-10-24T10:24:21.402489+00:00",
+  "generated_at": "2026-10-25T10:52:02.244903+00:00",
   "archive": [
+    {
+      "date": "2026-10-25",
+      "total": 8,
+      "categories": {
+        "breaking": 0,
+        "research": 4,
+        "industry": 0,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "ICLR 2027 is still handing out desk rejects [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+          "source": "r/MachineLearning",
+          "summary": "Thank you for your efforts in protecting the community from AI slop submitted by /u/Temporary_Switch_339 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-10-25T05:35:36+00:00",
+          "author": "/u/Temporary_Switch_339",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+          "source": "r/MachineLearning",
+          "summary": "been digesting the details behind memt-1 0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild inste",
+          "category": "research",
+          "published_at": "2026-10-25T05:31:19+00:00",
+          "author": "/u/Mrs-Grumpy23",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+          "source": "r/MachineLearning",
+          "summary": "What do you all think about this It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor As a graduate student, I find it both im",
+          "category": "research",
+          "published_at": "2026-10-24T14:18:07+00:00",
+          "author": "/u/Invariant_n_Cauchy",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+          "source": "r/MachineLearning",
+          "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun ",
+          "category": "research",
+          "published_at": "2026-10-24T09:58:29+00:00",
+          "author": "/u/GGAllin43",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
+          "source": "r/MachineLearning",
+          "summary": "Long-context models can now handle hundreds of thousands, even millions of tokens But I've been wondering if we're focusing too much on recall and not enough on what happens when information changes S",
+          "category": "tools",
+          "published_at": "2026-10-23T20:39:06+00:00",
+          "author": "/u/Prestigious-Tip6030",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-23T16:15:50+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-23T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-22T22:24:34+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "total": 37,

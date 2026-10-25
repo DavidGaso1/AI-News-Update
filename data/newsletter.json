@@ -1,406 +1,63 @@
 {
-  "generated_at": "2026-10-24T10:24:21.422855+00:00",
-  "article_count": 37,
+  "generated_at": "2026-10-25T10:52:02.256653+00:00",
+  "article_count": 8,
   "categories": {
-    "breaking": [
-      {
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "source": "OpenAI Blog",
-        "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT",
-        "category": "breaking",
-        "published_at": "2026-10-23T17:00:00+00:00",
-        "fetched_at": "2026-10-24T10:22:57.649941+00:00",
-        "author": "",
-        "tags": [
-          "Engineering"
-        ]
-      },
-      {
-        "title": "Is symbolic ai dead? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-        "source": "r/MachineLearning",
-        "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it There was a heyday in the 70s for it ",
-        "category": "breaking",
-        "published_at": "2026-10-23T13:49:16+00:00",
-        "fetched_at": "2026-10-24T10:23:15.092362+00:00",
-        "author": "/u/Velocitank",
-        "tags": [
-          "reddit"
-        ]
-      }
-    ],
+    "breaking": [],
     "research": [
       {
-        "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+        "title": "ICLR 2027 is still handing out desk rejects [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
         "source": "r/MachineLearning",
-        "summary": "Starting a project to detect candidate stenoses in x-ray coronary angiograms The goal is high recall, false positives are fine as long as it doesn't flag half the image I already tried YOLO on a coupl",
+        "summary": "Thank you for your efforts in protecting the community from AI slop submitted by /u/Temporary_Switch_339 [link] [comments]",
         "category": "research",
-        "published_at": "2026-10-23T17:25:52+00:00",
-        "fetched_at": "2026-10-24T10:23:15.326455+00:00",
-        "author": "/u/Future-Structure-296",
+        "published_at": "2026-10-25T05:35:36+00:00",
+        "fetched_at": "2026-10-25T10:50:42.943124+00:00",
+        "author": "/u/Temporary_Switch_339",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+        "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
         "source": "r/MachineLearning",
-        "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning ",
+        "summary": "been digesting the details behind memt-1 0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild inste",
         "category": "research",
-        "published_at": "2026-10-23T15:37:23+00:00",
-        "fetched_at": "2026-10-24T10:23:15.072928+00:00",
-        "author": "/u/mistlab",
+        "published_at": "2026-10-25T05:31:19+00:00",
+        "fetched_at": "2026-10-25T10:50:42.984261+00:00",
+        "author": "/u/Mrs-Grumpy23",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+        "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
         "source": "r/MachineLearning",
-        "summary": "I’m sharing my study notes in case they might be useful to someone else The Transformer notes are mostly based on the original architecture described in Attention Is All You Need 22031925 I’ve also wr",
+        "summary": "What do you all think about this It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor As a graduate student, I find it both im",
         "category": "research",
-        "published_at": "2026-10-23T14:20:54+00:00",
-        "fetched_at": "2026-10-24T10:23:15.278351+00:00",
-        "author": "/u/aybehrouz",
+        "published_at": "2026-10-24T14:18:07+00:00",
+        "fetched_at": "2026-10-25T10:50:43.009333+00:00",
+        "author": "/u/Invariant_n_Cauchy",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "I made Transformer Architecture from scratch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
+        "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
         "source": "r/MachineLearning",
-        "summary": "I implemented the 2017 transformer architecture using pytorch, the model right now doesn't predict very good due to the fact that I am using on 2 layers of encoder and decoder with just 1000 words to ",
+        "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun ",
         "category": "research",
-        "published_at": "2026-10-23T12:36:12+00:00",
-        "fetched_at": "2026-10-24T10:23:15.485569+00:00",
-        "author": "/u/Jumbledsaturn52",
+        "published_at": "2026-10-24T09:58:29+00:00",
+        "fetched_at": "2026-10-25T10:50:43.059266+00:00",
+        "author": "/u/GGAllin43",
         "tags": [
           "reddit"
-        ]
-      },
-      {
-        "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
-        "source": "r/MachineLearning",
-        "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv b",
-        "category": "research",
-        "published_at": "2026-10-23T11:51:47+00:00",
-        "fetched_at": "2026-10-24T10:23:15.235323+00:00",
-        "author": "/u/richapeee",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Securing our frontier model training environment",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI Blog",
-        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming",
-        "category": "research",
-        "published_at": "2026-10-23T10:00:00+00:00",
-        "fetched_at": "2026-10-24T10:22:57.683049+00:00",
-        "author": "",
-        "tags": [
-          "Security"
-        ]
-      },
-      {
-        "title": "ICLR Text Editor [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
-        "source": "r/MachineLearning",
-        "summary": "Have you looked at this iclr text detector [ https://opentextdetector com/](https://opentextdetector",
-        "category": "research",
-        "published_at": "2026-10-22T18:07:44+00:00",
-        "fetched_at": "2026-10-24T10:23:15.504365+00:00",
-        "author": "/u/Whatever_635",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
-        "source": "r/MachineLearning",
-        "summary": "8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302B tokens Hugging F",
-        "category": "research",
-        "published_at": "2026-10-22T12:32:56+00:00",
-        "fetched_at": "2026-10-24T10:23:15.373724+00:00",
-        "author": "/u/jatingargiitk",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-        "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-        "source": "Microsoft Research Blog",
-        "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof New research resolves this question, removing a major theoretical obstacle to unders",
-        "category": "research",
-        "published_at": "2026-10-21T16:00:00+00:00",
-        "fetched_at": "2026-10-24T10:23:00.421265+00:00",
-        "author": "Xinzhi Zhang",
-        "tags": [
-          "Research Blog"
         ]
       }
     ],
-    "industry": [
-      {
-        "title": "AAAI 2027 phase 2 reviews discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-        "source": "r/MachineLearning",
-        "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10) Hope for the best outcomes for those who stay in this phase, and let's share your reviews submitted by /u/Away-Cattle7081 [",
-        "category": "industry",
-        "published_at": "2026-10-23T12:58:18+00:00",
-        "fetched_at": "2026-10-24T10:23:15.121197+00:00",
-        "author": "/u/Away-Cattle7081",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Kazakhstan Expands Compute for Its AI Future",
-        "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-        "source": "NVIDIA Blog",
-        "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment The shift is visible across the full AI stack — from infrastructure to models to applications The announcements below — coin",
-        "category": "industry",
-        "published_at": "2026-10-23T02:00:13+00:00",
-        "fetched_at": "2026-10-24T10:23:03.209243+00:00",
-        "author": "Rev Lebaredian",
-        "tags": [
-          "AI Infrastructure",
-          "AI Factory",
-          "Artificial Intelligence",
-          "NVIDIA Rubin",
-          "Sovereign AI"
-        ]
-      },
-      {
-        "title": "Flint-interactive: A language for creating interactive data visualizations",
-        "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-        "source": "Microsoft Research Blog",
-        "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose The ",
-        "category": "industry",
-        "published_at": "2026-10-22T16:00:00+00:00",
-        "fetched_at": "2026-10-24T10:23:00.374319+00:00",
-        "author": "Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
-        "tags": [
-          "Research Blog"
-        ]
-      },
-      {
-        "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-        "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-        "source": "NVIDIA Blog",
-        "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive It brings together telemetry from infrastructure and AI workloads, then a",
-        "category": "industry",
-        "published_at": "2026-10-22T15:00:02+00:00",
-        "fetched_at": "2026-10-24T10:23:03.258391+00:00",
-        "author": "Brian Sparks",
-        "tags": [
-          "AI Infrastructure",
-          "AI Factory",
-          "GTC 2026"
-        ]
-      },
-      {
-        "title": "Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-        "source": "Google DeepMind Blog",
-        "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-        "category": "industry",
-        "published_at": "2026-10-22T14:30:24+00:00",
-        "fetched_at": "2026-10-24T10:23:04.792085+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-        "source": "NVIDIA Blog",
-        "summary": "Lock in and load out this GFN Thursday Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported de",
-        "category": "industry",
-        "published_at": "2026-10-22T13:00:20+00:00",
-        "fetched_at": "2026-10-24T10:23:03.307929+00:00",
-        "author": "GeForce NOW Community",
-        "tags": [
-          "Gaming",
-          "Cloud Gaming",
-          "GeForce NOW"
-        ]
-      },
-      {
-        "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-        "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-        "source": "NVIDIA Blog",
-        "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models an",
-        "category": "industry",
-        "published_at": "2026-10-22T05:00:56+00:00",
-        "fetched_at": "2026-10-24T10:23:03.370644+00:00",
-        "author": "Jason Renders",
-        "tags": [
-          "AI",
-          "Financial Services",
-          "GTC 2026",
-          "NVIDIA Blackwell"
-        ]
-      },
-      {
-        "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-        "source": "NVIDIA Blog",
-        "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkp",
-        "category": "industry",
-        "published_at": "2026-10-22T05:00:27+00:00",
-        "fetched_at": "2026-10-24T10:23:03.417310+00:00",
-        "author": "Pranjali Joshi",
-        "tags": [
-          "AI",
-          "Cosmos",
-          "GTC 2026",
-          "Physical AI"
-        ]
-      },
-      {
-        "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-        "url": "https://blogs.nvidia.com/blog/dsx-power/",
-        "source": "NVIDIA Blog",
-        "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack Their adoption of the",
-        "category": "industry",
-        "published_at": "2026-10-22T05:00:25+00:00",
-        "fetched_at": "2026-10-24T10:23:03.459424+00:00",
-        "author": "Vladimir Troy",
-        "tags": [
-          "AI Infrastructure",
-          "AI Factory",
-          "GTC 2026",
-          "NVIDIA DSX",
-          "NVIDIA Vera Rubin"
-        ]
-      },
-      {
-        "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-        "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-        "source": "NVIDIA Blog",
-        "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of differen",
-        "category": "industry",
-        "published_at": "2026-10-22T05:00:23+00:00",
-        "fetched_at": "2026-10-24T10:23:03.510434+00:00",
-        "author": "Mavi Nafria",
-        "tags": [
-          "AI",
-          "GTC 2026",
-          "Nemotron",
-          "Retail and Consumer Packaged Goods"
-        ]
-      },
-      {
-        "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-        "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-        "source": "NVIDIA Blog",
-        "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control Open models provide a path forward, letting governments evaluate them, adapt them to local",
-        "category": "industry",
-        "published_at": "2026-10-22T05:00:02+00:00",
-        "fetched_at": "2026-10-24T10:23:03.556293+00:00",
-        "author": "Eva-Maria Hempe",
-        "tags": [
-          "AI",
-          "Agentic AI",
-          "GTC 2026",
-          "Nemotron",
-          "NVIDIA NeMo"
-        ]
-      },
-      {
-        "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-        "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-        "source": "NVIDIA Blog",
-        "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling ",
-        "category": "industry",
-        "published_at": "2026-10-21T10:50:37+00:00",
-        "fetched_at": "2026-10-24T10:23:03.605642+00:00",
-        "author": "Gerardo Delgado",
-        "tags": [
-          "AI",
-          "Agentic AI",
-          "Artificial Intelligence",
-          "DGX Spark",
-          "GTC 2026"
-        ]
-      },
-      {
-        "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-        "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-        "source": "NVIDIA Blog",
-        "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement lea",
-        "category": "industry",
-        "published_at": "2026-10-21T10:45:17+00:00",
-        "fetched_at": "2026-10-24T10:23:03.662085+00:00",
-        "author": "Uttara Kumar",
-        "tags": [
-          "AI Infrastructure",
-          "Cloud",
-          "Hardware",
-          "Networking",
-          "GTC 2026"
-        ]
-      },
-      {
-        "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-        "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-        "source": "NVIDIA Blog",
-        "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever Developers need compute closer to their data, open models they can customize and serve at scale, and full-sta",
-        "category": "industry",
-        "published_at": "2026-10-21T10:30:41+00:00",
-        "fetched_at": "2026-10-24T10:23:03.719736+00:00",
-        "author": "Stuart Pitts",
-        "tags": [
-          "AI Infrastructure",
-          "Cloud",
-          "Cosmos",
-          "GTC 2026",
-          "Nemotron"
-        ]
-      },
-      {
-        "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-        "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-        "source": "NVIDIA Blog",
-        "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmo",
-        "category": "industry",
-        "published_at": "2026-10-21T10:30:40+00:00",
-        "fetched_at": "2026-10-24T10:23:03.771038+00:00",
-        "author": "James McKenna",
-        "tags": [
-          "AI",
-          "Cosmos",
-          "CUDA-X",
-          "GTC 2026"
-        ]
-      },
-      {
-        "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-        "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-        "source": "NVIDIA Blog",
-        "summary": "NVIDIA builds tools to enable safe agents across the stack The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organization",
-        "category": "industry",
-        "published_at": "2026-10-21T10:30:02+00:00",
-        "fetched_at": "2026-10-24T10:23:03.840815+00:00",
-        "author": "John Fanelli",
-        "tags": [
-          "AI",
-          "AI Infrastructure",
-          "GTC 2026",
-          "NVIDIA Blackwell",
-          "NVIDIA Vera Rubin"
-        ]
-      }
-    ],
+    "industry": [],
     "tools": [
       {
         "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
@@ -409,7 +66,7 @@
         "summary": "Long-context models can now handle hundreds of thousands, even millions of tokens But I've been wondering if we're focusing too much on recall and not enough on what happens when information changes S",
         "category": "tools",
         "published_at": "2026-10-23T20:39:06+00:00",
-        "fetched_at": "2026-10-24T10:23:15.184330+00:00",
+        "fetched_at": "2026-10-25T10:50:43.092710+00:00",
         "author": "/u/Prestigious-Tip6030",
         "tags": [
           "reddit"
@@ -422,7 +79,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-23T16:15:50+00:00",
-        "fetched_at": "2026-10-24T10:22:56.263799+00:00",
+        "fetched_at": "2026-10-25T10:50:28.123791+00:00",
         "author": "",
         "tags": []
       },
@@ -433,7 +90,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-23T00:00:00+00:00",
-        "fetched_at": "2026-10-24T10:22:56.294745+00:00",
+        "fetched_at": "2026-10-25T10:50:28.140446+00:00",
         "author": "",
         "tags": []
       },
@@ -444,75 +101,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-22T22:24:34+00:00",
-        "fetched_at": "2026-10-24T10:22:56.339537+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
-        "source": "r/MachineLearning",
-        "summary": "TL;DR: When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc ) broke on fi",
-        "category": "tools",
-        "published_at": "2026-10-22T21:03:28+00:00",
-        "fetched_at": "2026-10-24T10:23:15.449280+00:00",
-        "author": "/u/yashubhakt",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Ensemble forecasting with IBM Granite time-series models",
-        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-22T07:51:31+00:00",
-        "fetched_at": "2026-10-24T10:22:56.374242+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-21T18:26:30+00:00",
-        "fetched_at": "2026-10-24T10:22:56.430247+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-21T17:35:36+00:00",
-        "fetched_at": "2026-10-24T10:22:56.484001+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-21T16:04:43+00:00",
-        "fetched_at": "2026-10-24T10:22:56.524696+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-10-21T14:58:18+00:00",
-        "fetched_at": "2026-10-24T10:22:56.574899+00:00",
+        "fetched_at": "2026-10-25T10:50:28.164617+00:00",
         "author": "",
         "tags": []
       }
@@ -520,379 +109,55 @@
   },
   "all_articles": [
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI Blog",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT",
-      "category": "breaking",
-      "published_at": "2026-10-23T17:00:00+00:00",
-      "fetched_at": "2026-10-24T10:22:57.649941+00:00",
-      "author": "",
-      "tags": [
-        "Engineering"
-      ]
-    },
-    {
-      "title": "Is symbolic ai dead? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
+      "title": "ICLR 2027 is still handing out desk rejects [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
       "source": "r/MachineLearning",
-      "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it There was a heyday in the 70s for it ",
-      "category": "breaking",
-      "published_at": "2026-10-23T13:49:16+00:00",
-      "fetched_at": "2026-10-24T10:23:15.092362+00:00",
-      "author": "/u/Velocitank",
+      "summary": "Thank you for your efforts in protecting the community from AI slop submitted by /u/Temporary_Switch_339 [link] [comments]",
+      "category": "research",
+      "published_at": "2026-10-25T05:35:36+00:00",
+      "fetched_at": "2026-10-25T10:50:42.943124+00:00",
+      "author": "/u/Temporary_Switch_339",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+      "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
       "source": "r/MachineLearning",
-      "summary": "Starting a project to detect candidate stenoses in x-ray coronary angiograms The goal is high recall, false positives are fine as long as it doesn't flag half the image I already tried YOLO on a coupl",
+      "summary": "been digesting the details behind memt-1 0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild inste",
       "category": "research",
-      "published_at": "2026-10-23T17:25:52+00:00",
-      "fetched_at": "2026-10-24T10:23:15.326455+00:00",
-      "author": "/u/Future-Structure-296",
+      "published_at": "2026-10-25T05:31:19+00:00",
+      "fetched_at": "2026-10-25T10:50:42.984261+00:00",
+      "author": "/u/Mrs-Grumpy23",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+      "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
       "source": "r/MachineLearning",
-      "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning ",
+      "summary": "What do you all think about this It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor As a graduate student, I find it both im",
       "category": "research",
-      "published_at": "2026-10-23T15:37:23+00:00",
-      "fetched_at": "2026-10-24T10:23:15.072928+00:00",
-      "author": "/u/mistlab",
+      "published_at": "2026-10-24T14:18:07+00:00",
+      "fetched_at": "2026-10-25T10:50:43.009333+00:00",
+      "author": "/u/Invariant_n_Cauchy",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+      "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
       "source": "r/MachineLearning",
-      "summary": "I’m sharing my study notes in case they might be useful to someone else The Transformer notes are mostly based on the original architecture described in Attention Is All You Need 22031925 I’ve also wr",
+      "summary": "I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun ",
       "category": "research",
-      "published_at": "2026-10-23T14:20:54+00:00",
-      "fetched_at": "2026-10-24T10:23:15.278351+00:00",
-      "author": "/u/aybehrouz",
+      "published_at": "2026-10-24T09:58:29+00:00",
+      "fetched_at": "2026-10-25T10:50:43.059266+00:00",
+      "author": "/u/GGAllin43",
       "tags": [
         "reddit"
-      ]
-    },
-    {
-      "title": "I made Transformer Architecture from scratch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
-      "source": "r/MachineLearning",
-      "summary": "I implemented the 2017 transformer architecture using pytorch, the model right now doesn't predict very good due to the fact that I am using on 2 layers of encoder and decoder with just 1000 words to ",
-      "category": "research",
-      "published_at": "2026-10-23T12:36:12+00:00",
-      "fetched_at": "2026-10-24T10:23:15.485569+00:00",
-      "author": "/u/Jumbledsaturn52",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
-      "source": "r/MachineLearning",
-      "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv b",
-      "category": "research",
-      "published_at": "2026-10-23T11:51:47+00:00",
-      "fetched_at": "2026-10-24T10:23:15.235323+00:00",
-      "author": "/u/richapeee",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI Blog",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming",
-      "category": "research",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "fetched_at": "2026-10-24T10:22:57.683049+00:00",
-      "author": "",
-      "tags": [
-        "Security"
-      ]
-    },
-    {
-      "title": "ICLR Text Editor [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
-      "source": "r/MachineLearning",
-      "summary": "Have you looked at this iclr text detector [ https://opentextdetector com/](https://opentextdetector",
-      "category": "research",
-      "published_at": "2026-10-22T18:07:44+00:00",
-      "fetched_at": "2026-10-24T10:23:15.504365+00:00",
-      "author": "/u/Whatever_635",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
-      "source": "r/MachineLearning",
-      "summary": "8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302B tokens Hugging F",
-      "category": "research",
-      "published_at": "2026-10-22T12:32:56+00:00",
-      "fetched_at": "2026-10-24T10:23:15.373724+00:00",
-      "author": "/u/jatingargiitk",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "source": "Microsoft Research Blog",
-      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof New research resolves this question, removing a major theoretical obstacle to unders",
-      "category": "research",
-      "published_at": "2026-10-21T16:00:00+00:00",
-      "fetched_at": "2026-10-24T10:23:00.421265+00:00",
-      "author": "Xinzhi Zhang",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "AAAI 2027 phase 2 reviews discussion [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-      "source": "r/MachineLearning",
-      "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10) Hope for the best outcomes for those who stay in this phase, and let's share your reviews submitted by /u/Away-Cattle7081 [",
-      "category": "industry",
-      "published_at": "2026-10-23T12:58:18+00:00",
-      "fetched_at": "2026-10-24T10:23:15.121197+00:00",
-      "author": "/u/Away-Cattle7081",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "source": "NVIDIA Blog",
-      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment The shift is visible across the full AI stack — from infrastructure to models to applications The announcements below — coin",
-      "category": "industry",
-      "published_at": "2026-10-23T02:00:13+00:00",
-      "fetched_at": "2026-10-24T10:23:03.209243+00:00",
-      "author": "Rev Lebaredian",
-      "tags": [
-        "AI Infrastructure",
-        "AI Factory",
-        "Artificial Intelligence",
-        "NVIDIA Rubin",
-        "Sovereign AI"
-      ]
-    },
-    {
-      "title": "Flint-interactive: A language for creating interactive data visualizations",
-      "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
-      "source": "Microsoft Research Blog",
-      "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose The ",
-      "category": "industry",
-      "published_at": "2026-10-22T16:00:00+00:00",
-      "fetched_at": "2026-10-24T10:23:00.374319+00:00",
-      "author": "Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "source": "NVIDIA Blog",
-      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive It brings together telemetry from infrastructure and AI workloads, then a",
-      "category": "industry",
-      "published_at": "2026-10-22T15:00:02+00:00",
-      "fetched_at": "2026-10-24T10:23:03.258391+00:00",
-      "author": "Brian Sparks",
-      "tags": [
-        "AI Infrastructure",
-        "AI Factory",
-        "GTC 2026"
-      ]
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "Google DeepMind Blog",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "category": "industry",
-      "published_at": "2026-10-22T14:30:24+00:00",
-      "fetched_at": "2026-10-24T10:23:04.792085+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-      "source": "NVIDIA Blog",
-      "summary": "Lock in and load out this GFN Thursday Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported de",
-      "category": "industry",
-      "published_at": "2026-10-22T13:00:20+00:00",
-      "fetched_at": "2026-10-24T10:23:03.307929+00:00",
-      "author": "GeForce NOW Community",
-      "tags": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ]
-    },
-    {
-      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-      "source": "NVIDIA Blog",
-      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models an",
-      "category": "industry",
-      "published_at": "2026-10-22T05:00:56+00:00",
-      "fetched_at": "2026-10-24T10:23:03.370644+00:00",
-      "author": "Jason Renders",
-      "tags": [
-        "AI",
-        "Financial Services",
-        "GTC 2026",
-        "NVIDIA Blackwell"
-      ]
-    },
-    {
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "source": "NVIDIA Blog",
-      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkp",
-      "category": "industry",
-      "published_at": "2026-10-22T05:00:27+00:00",
-      "fetched_at": "2026-10-24T10:23:03.417310+00:00",
-      "author": "Pranjali Joshi",
-      "tags": [
-        "AI",
-        "Cosmos",
-        "GTC 2026",
-        "Physical AI"
-      ]
-    },
-    {
-      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "url": "https://blogs.nvidia.com/blog/dsx-power/",
-      "source": "NVIDIA Blog",
-      "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack Their adoption of the",
-      "category": "industry",
-      "published_at": "2026-10-22T05:00:25+00:00",
-      "fetched_at": "2026-10-24T10:23:03.459424+00:00",
-      "author": "Vladimir Troy",
-      "tags": [
-        "AI Infrastructure",
-        "AI Factory",
-        "GTC 2026",
-        "NVIDIA DSX",
-        "NVIDIA Vera Rubin"
-      ]
-    },
-    {
-      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-      "source": "NVIDIA Blog",
-      "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of differen",
-      "category": "industry",
-      "published_at": "2026-10-22T05:00:23+00:00",
-      "fetched_at": "2026-10-24T10:23:03.510434+00:00",
-      "author": "Mavi Nafria",
-      "tags": [
-        "AI",
-        "GTC 2026",
-        "Nemotron",
-        "Retail and Consumer Packaged Goods"
-      ]
-    },
-    {
-      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-      "source": "NVIDIA Blog",
-      "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control Open models provide a path forward, letting governments evaluate them, adapt them to local",
-      "category": "industry",
-      "published_at": "2026-10-22T05:00:02+00:00",
-      "fetched_at": "2026-10-24T10:23:03.556293+00:00",
-      "author": "Eva-Maria Hempe",
-      "tags": [
-        "AI",
-        "Agentic AI",
-        "GTC 2026",
-        "Nemotron",
-        "NVIDIA NeMo"
-      ]
-    },
-    {
-      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "source": "NVIDIA Blog",
-      "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling ",
-      "category": "industry",
-      "published_at": "2026-10-21T10:50:37+00:00",
-      "fetched_at": "2026-10-24T10:23:03.605642+00:00",
-      "author": "Gerardo Delgado",
-      "tags": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "DGX Spark",
-        "GTC 2026"
-      ]
-    },
-    {
-      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-      "source": "NVIDIA Blog",
-      "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement lea",
-      "category": "industry",
-      "published_at": "2026-10-21T10:45:17+00:00",
-      "fetched_at": "2026-10-24T10:23:03.662085+00:00",
-      "author": "Uttara Kumar",
-      "tags": [
-        "AI Infrastructure",
-        "Cloud",
-        "Hardware",
-        "Networking",
-        "GTC 2026"
-      ]
-    },
-    {
-      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-      "source": "NVIDIA Blog",
-      "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever Developers need compute closer to their data, open models they can customize and serve at scale, and full-sta",
-      "category": "industry",
-      "published_at": "2026-10-21T10:30:41+00:00",
-      "fetched_at": "2026-10-24T10:23:03.719736+00:00",
-      "author": "Stuart Pitts",
-      "tags": [
-        "AI Infrastructure",
-        "Cloud",
-        "Cosmos",
-        "GTC 2026",
-        "Nemotron"
-      ]
-    },
-    {
-      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-      "source": "NVIDIA Blog",
-      "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmo",
-      "category": "industry",
-      "published_at": "2026-10-21T10:30:40+00:00",
-      "fetched_at": "2026-10-24T10:23:03.771038+00:00",
-      "author": "James McKenna",
-      "tags": [
-        "AI",
-        "Cosmos",
-        "CUDA-X",
-        "GTC 2026"
       ]
     },
     {
@@ -902,7 +167,7 @@
       "summary": "Long-context models can now handle hundreds of thousands, even millions of tokens But I've been wondering if we're focusing too much on recall and not enough on what happens when information changes S",
       "category": "tools",
       "published_at": "2026-10-23T20:39:06+00:00",
-      "fetched_at": "2026-10-24T10:23:15.184330+00:00",
+      "fetched_at": "2026-10-25T10:50:43.092710+00:00",
       "author": "/u/Prestigious-Tip6030",
       "tags": [
         "reddit"
@@ -915,7 +180,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-23T16:15:50+00:00",
-      "fetched_at": "2026-10-24T10:22:56.263799+00:00",
+      "fetched_at": "2026-10-25T10:50:28.123791+00:00",
       "author": "",
       "tags": []
     },
@@ -926,7 +191,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-24T10:22:56.294745+00:00",
+      "fetched_at": "2026-10-25T10:50:28.140446+00:00",
       "author": "",
       "tags": []
     },
@@ -937,94 +202,9 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-22T22:24:34+00:00",
-      "fetched_at": "2026-10-24T10:22:56.339537+00:00",
+      "fetched_at": "2026-10-25T10:50:28.164617+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
-      "source": "r/MachineLearning",
-      "summary": "TL;DR: When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc ) broke on fi",
-      "category": "tools",
-      "published_at": "2026-10-22T21:03:28+00:00",
-      "fetched_at": "2026-10-24T10:23:15.449280+00:00",
-      "author": "/u/yashubhakt",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-22T07:51:31+00:00",
-      "fetched_at": "2026-10-24T10:22:56.374242+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-21T18:26:30+00:00",
-      "fetched_at": "2026-10-24T10:22:56.430247+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-21T17:35:36+00:00",
-      "fetched_at": "2026-10-24T10:22:56.484001+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-21T16:04:43+00:00",
-      "fetched_at": "2026-10-24T10:22:56.524696+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-10-21T14:58:18+00:00",
-      "fetched_at": "2026-10-24T10:22:56.574899+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-      "source": "NVIDIA Blog",
-      "summary": "NVIDIA builds tools to enable safe agents across the stack The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organization",
-      "category": "industry",
-      "published_at": "2026-10-21T10:30:02+00:00",
-      "fetched_at": "2026-10-24T10:23:03.840815+00:00",
-      "author": "John Fanelli",
-      "tags": [
-        "AI",
-        "AI Infrastructure",
-        "GTC 2026",
-        "NVIDIA Blackwell",
-        "NVIDIA Vera Rubin"
-      ]
     }
   ]
 }
