@@ -1,6 +1,268 @@
 {
-  "generated_at": "2026-10-25T10:52:02.244903+00:00",
+  "generated_at": "2026-10-26T12:21:58.738226+00:00",
   "archive": [
+    {
+      "date": "2026-10-26",
+      "total": 50,
+      "categories": {
+        "breaking": 0,
+        "research": 46,
+        "industry": 1,
+        "tools": 3
+      },
+      "articles": [
+        {
+          "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
+          "source": "r/MachineLearning",
+          "summary": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch) Results vs a grid (equal comput",
+          "category": "research",
+          "published_at": "2026-10-26T07:48:07+00:00",
+          "author": "/u/Virtual-Message-9739",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+          "url": "https://arxiv.org/abs/2610.31789",
+          "source": "arXiv AI/ML",
+          "summary": "31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow por",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Hariharan Devarajan, Neeraj Rajesh, Aniruddha Marathe, Nikoli Dryden, Kin Ng, Michela Taufer",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+          "url": "https://arxiv.org/abs/2610.31808",
+          "source": "arXiv AI/ML",
+          "summary": "31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal ste",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Xinyi Vicky Xiang, Catherine Qingyun Wang, Paula Cort\\'es Lemos",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+          "url": "https://arxiv.org/abs/2610.31810",
+          "source": "arXiv AI/ML",
+          "summary": "31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions We introduce PaperFormalizer, a Lean-based agentic pipeline that help",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Jiyuan Tan, Vasilis Syrgkanis, Jose Blanchet",
+          "tags": [
+            "cs.AI",
+            "cs.LO"
+          ]
+        },
+        {
+          "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+          "url": "https://arxiv.org/abs/2610.31846",
+          "source": "arXiv AI/ML",
+          "summary": "31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement Yet today's agents recover from a mistake only temporarily: ",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Yuval Kansal, Karen Ullrich, Polina Kirichenko, Ilia Kulikov, Niraj K. Jha, Mohammad Pezeshki, Mark Ibrahim",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+          "url": "https://arxiv.org/abs/2610.31882",
+          "source": "arXiv AI/ML",
+          "summary": "31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules In this framework, a large-language-model (LLM) coding agent",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Tristan Liang, Aravind Nagulu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+          "url": "https://arxiv.org/abs/2610.31916",
+          "source": "arXiv AI/ML",
+          "summary": "31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain We study execution-time reliabili",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Deekshith Marla, Kushagra Bhatnagar",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+          "url": "https://arxiv.org/abs/2610.31918",
+          "source": "arXiv AI/ML",
+          "summary": "31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy ",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Ya Gao, Zhengtao Zou, Pekka Marttinen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+          "url": "https://arxiv.org/abs/2610.31937",
+          "source": "arXiv AI/ML",
+          "summary": "31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms However, many e",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Yuqing Huang, Jack Ji, Jithin Pradeep, Sagarika Suresh, Jekaterina Novikova",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+          "url": "https://arxiv.org/abs/2610.31971",
+          "source": "arXiv AI/ML",
+          "summary": "31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, ",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Amit Sarker, Moumita Choudhury, Saaduddin Mahmud, Shlomo Zilberstein",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+          "url": "https://arxiv.org/abs/2610.31972",
+          "source": "arXiv AI/ML",
+          "summary": "31972v1 Announce Type: new Abstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today c",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Prabal Vashisht, Zheng Hu, Ying Yang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+          "url": "https://arxiv.org/abs/2610.31985",
+          "source": "arXiv AI/ML",
+          "summary": "31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight pro",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Moumita Choudhury, Amit Sarker, Shlomo Zilberstein",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+          "url": "https://arxiv.org/abs/2610.32022",
+          "source": "arXiv AI/ML",
+          "summary": "32022v1 Announce Type: new Abstract: Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals Resear",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Ziya Hosseynzadeh, Farjad Fallah, Farnoosh Fallah, Soroush Gooran, Mohammad Amanloo, Hossein Sameti",
+          "tags": [
+            "cs.AI",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "BARC-Bench: Benign Asks, Risky Consequences",
+          "url": "https://arxiv.org/abs/2610.32024",
+          "source": "arXiv AI/ML",
+          "summary": "32024v1 Announce Type: new Abstract: Task instructions from users for agents are inherently underspecified, especially regarding safety boundaries--creating behavioral risks To study these risks, we i",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Kangkang Li, Kelvin Luu, Lily Ma, Tu Trinh, Ying Liu, Mohamed Elfeki",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+          "url": "https://arxiv.org/abs/2610.32026",
+          "source": "arXiv AI/ML",
+          "summary": "32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimiz",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Binghang Lu, Yige Sun, Guang Lin",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
+          "url": "https://arxiv.org/abs/2610.32034",
+          "source": "arXiv AI/ML",
+          "summary": "32034v1 Announce Type: new Abstract: The growing population of orbital debris has intensified interest in active debris removal and on-orbit servicing, for which dual-arm space manipulators offer impr",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Nasim Fallahiarezoodar, Zheng H. Zhu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Do AI-for-Science Agents Preserve Model Safety?",
+          "url": "https://arxiv.org/abs/2610.32045",
+          "source": "arXiv AI/ML",
+          "summary": "32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence These agents are",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Michael Yew Chuan Lee, Manya Sriram, N. Benjamin Erichson",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+          "url": "https://arxiv.org/abs/2610.32046",
+          "source": "arXiv AI/ML",
+          "summary": "32046v1 Announce Type: new Abstract: Recent \\emph{test-time training} (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Yepeng Liu, Shengmai Chen, Xuandong Zhao, Chengzhi Liu, Dawn Song, Xin Eric Wang, Yuheng Bu",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
+          "url": "https://arxiv.org/abs/2610.32057",
+          "source": "arXiv AI/ML",
+          "summary": "32057v1 Announce Type: new Abstract: We present HyScale, a long-context training system for learned sparse attention Learned sparse attention is a promising architecture for million-token contexts, wi",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Yangsheng Deng, Xinjing Huang, Yulong Wang, Yunzhuo Liu, Jun Hu, Shuyong Tang, Junchi Zeng, Mingji Han, Ray Ying, Key Zhang, Luo Mai",
+          "tags": [
+            "cs.AI",
+            "cs.DC"
+          ]
+        },
+        {
+          "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
+          "url": "https://arxiv.org/abs/2610.32060",
+          "source": "arXiv AI/ML",
+          "summary": "32060v1 Announce Type: new Abstract: Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final ac",
+          "category": "research",
+          "published_at": "2026-10-26T00:00:00-04:00",
+          "author": "Priya Pitre, Jun Hou, Yi Fang, Naren Ramakrishnan, Xuan Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "total": 8,
