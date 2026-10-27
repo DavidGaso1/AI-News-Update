@@ -1,6 +1,265 @@
 {
-  "generated_at": "2026-10-26T12:21:58.738226+00:00",
+  "generated_at": "2026-10-27T11:42:25.045849+00:00",
   "archive": [
+    {
+      "date": "2026-10-27",
+      "total": 50,
+      "categories": {
+        "breaking": 7,
+        "research": 35,
+        "industry": 1,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI Blog",
+          "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework",
+          "category": "breaking",
+          "published_at": "2026-10-26T22:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them",
+          "category": "breaking",
+          "published_at": "2026-10-26T14:30:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI Blog",
+          "summary": "CodeRabbit uses GPT-6 1 Sol to investigate security risks across complex codebases Its security agent helps developers review findings and proposed fixes",
+          "category": "breaking",
+          "published_at": "2026-10-26T13:45:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI Blog",
+          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time",
+          "category": "breaking",
+          "published_at": "2026-10-26T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "How Fanatics and OpenAI streamline the fan experience",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI Blog",
+          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look Testing across roughly 30,000 MLB products showed 10% higher engagement",
+          "category": "breaking",
+          "published_at": "2026-10-26T07:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+          "url": "https://openai.com/index/openai-cut-incident-investigation",
+          "source": "OpenAI Blog",
+          "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes Explore faster security analysis, code refactoring, and daily workflows",
+          "category": "breaking",
+          "published_at": "2026-10-26T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "OpenAI on OpenAI"
+          ]
+        },
+        {
+          "title": "Introducing GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "source": "OpenAI Blog",
+          "summary": "Bringing fast and capable computer use to everyone",
+          "category": "breaking",
+          "published_at": "2026-10-26T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "What is the value proposition of \"RL environment\" companies? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+          "source": "r/MachineLearning",
+          "summary": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc I'm not really understanding how and why these compani",
+          "category": "research",
+          "published_at": "2026-10-27T02:37:13+00:00",
+          "author": "/u/arnavneedshelp",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How to do method research when I feel I have no guidance on doing it? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
+          "source": "r/MachineLearning",
+          "summary": "I am a 3rd year PhD student in a small lab working on ML in healthcare My PI is new (we have no PhD graduates yet - lab is 4 years old) I want to publish in a top ML conference (I know its necessary f",
+          "category": "research",
+          "published_at": "2026-10-27T00:06:43+00:00",
+          "author": "/u/Adventurous_Marroon",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+          "url": "https://arxiv.org/abs/2610.33096",
+          "source": "arXiv AI/ML",
+          "summary": "33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power A criti",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Ricardo Luna Gutierrez, Vineet Gundecha, Rahman Ejaz, Varchas Gopalaswamy, Riccardo Betti, Sahand Ghorbanpour, Aarne Lees, Soumyendu Sarkar",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.SY",
+            "eess.SY",
+            "hep-ex"
+          ]
+        },
+        {
+          "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+          "url": "https://arxiv.org/abs/2610.33097",
+          "source": "arXiv AI/ML",
+          "summary": "33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important Previous research has relied on ",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Gabriella Bollici, Stefano De Giorgis, Wouter Van Atteveldt, Filip Ilievski",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+          "url": "https://arxiv.org/abs/2610.33103",
+          "source": "arXiv AI/ML",
+          "summary": "33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e , $\\lambda = 2$ implies that ",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Adi Tarabeih",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "econ.GN",
+            "q-fin.EC"
+          ]
+        },
+        {
+          "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+          "url": "https://arxiv.org/abs/2610.33112",
+          "source": "arXiv AI/ML",
+          "summary": "33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them A benchmark score is a property of a model; conformanc",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "John deVadoss",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+          "url": "https://arxiv.org/abs/2610.33138",
+          "source": "arXiv AI/ML",
+          "summary": "33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them al",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Fabrizio Russo, Giuseppe Mazzotta, Carmine Dodaro, Francesco Ricca, Francesca Toni",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+          "url": "https://arxiv.org/abs/2610.33178",
+          "source": "arXiv AI/ML",
+          "summary": "33178v1 Announce Type: new Abstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing j",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Erle Zhu, Genrui Zhang, Keyang Hu, Mingyu Su, Hongning Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+          "url": "https://arxiv.org/abs/2610.33180",
+          "source": "arXiv AI/ML",
+          "summary": "33180v1 Announce Type: new Abstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour Misaligned and evaluation-aware models might engag",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Ardy Haroen, Florian Lorkowski, Samuel Nellessen, Felix Hofst\\\"atter",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing",
+          "url": "https://arxiv.org/abs/2610.33200",
+          "source": "arXiv AI/ML",
+          "summary": "33200v1 Announce Type: new Abstract: Current sign language recognition and translation benchmarks are commonly collected in controlled settings using fixed or studio-style cameras, particularly limiti",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Ahmed Abul Hasanaath, Murtadha Aljubran, Sarah Alyami, Muhammad Haris Khan, Hamzah Luqman",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
+          "url": "https://arxiv.org/abs/2610.33205",
+          "source": "arXiv AI/ML",
+          "summary": "33205v1 Announce Type: new Abstract: Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited guidance for reliability and human oversight To add",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Cheng Tang, Kun Wang, Yaxuan Yang, Shiyu Wang, Allan Cohen, Rachael Eriksen Brown, Chandra Hawley Orrill",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Distilling Expert Judgment at Scale",
+          "url": "https://arxiv.org/abs/2610.33233",
+          "source": "arXiv AI/ML",
+          "summary": "33233v1 Announce Type: new Abstract: Frontier AI models are increasingly deployed on topics where the stakes are high and expert judgment is required, including healthcare, defense, finance, governanc",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Robbie Goldfarb, Andrew B. Hall, Jillian Fisher, Kathryn Salam, Matt Wilde",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting",
+          "url": "https://arxiv.org/abs/2610.33240",
+          "source": "arXiv AI/ML",
+          "summary": "33240v1 Announce Type: new Abstract: As frontier AI systems increasingly serve as sources of political and current-events information, evaluating the epistemic quality of their responses is now especi",
+          "category": "research",
+          "published_at": "2026-10-27T00:00:00-04:00",
+          "author": "Matt Wilde, Jillian Fisher, Andrew B. Hall, Kathryn Salam, Robbie Goldfarb",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "total": 50,
