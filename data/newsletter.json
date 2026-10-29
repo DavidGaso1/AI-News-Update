@@ -1,512 +1,248 @@
 {
-  "generated_at": "2026-10-28T12:13:51.112355+00:00",
-  "article_count": 50,
+  "generated_at": "2026-10-29T12:24:01.866445+00:00",
+  "article_count": 30,
   "categories": {
     "breaking": [
       {
-        "title": "I built this, feedback welcome [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/",
+        "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
         "source": "r/MachineLearning",
-        "summary": "It's a 50 hour course for beginners in AI/ML (obviously it's fully free) Starts out with linear algebra, derivatives, statistics and then linear regression, neural networks and backpropagation etc tec",
+        "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA Setup 40 synthetic",
         "category": "breaking",
-        "published_at": "2026-10-27T17:43:25+00:00",
-        "fetched_at": "2026-10-28T12:13:17.645216+00:00",
-        "author": "/u/dlohbbvct",
+        "published_at": "2026-10-28T17:17:59+00:00",
+        "fetched_at": "2026-10-29T12:23:23.042625+00:00",
+        "author": "/u/cloud_kj",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Retell uses OpenAI models to help power 100M monthly calls",
-        "url": "https://openai.com/index/retell-ai",
-        "source": "OpenAI Blog",
-        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1 6M annual revenue run rate per employee",
+        "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+        "source": "NVIDIA Blog",
+        "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI These pow",
         "category": "breaking",
-        "published_at": "2026-10-27T15:00:00+00:00",
-        "fetched_at": "2026-10-28T12:13:03.917903+00:00",
-        "author": "",
-        "tags": []
+        "published_at": "2026-10-28T15:00:46+00:00",
+        "fetched_at": "2026-10-29T12:23:13.449128+00:00",
+        "author": "Shreevar Rastogi",
+        "tags": [
+          "AI",
+          "Agentic AI",
+          "Artificial Intelligence",
+          "Gaming",
+          "GeForce"
+        ]
       },
       {
-        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
         "source": "OpenAI Blog",
-        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
         "category": "breaking",
-        "published_at": "2026-10-27T07:00:00+00:00",
-        "fetched_at": "2026-10-28T12:13:03.981680+00:00",
+        "published_at": "2026-10-28T13:15:00+00:00",
+        "fetched_at": "2026-10-29T12:23:08.297847+00:00",
         "author": "",
         "tags": [
           "Company"
         ]
       },
       {
-        "title": "How Check Point accelerates vulnerability research with Daybreak",
-        "url": "https://openai.com/index/check-point-daybreak",
+        "title": "The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
         "source": "OpenAI Blog",
-        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster",
+        "summary": "How AI might enter the org chart—beneath, beside, and between us.",
         "category": "breaking",
-        "published_at": "2026-10-27T00:00:00+00:00",
-        "fetched_at": "2026-10-28T12:13:04.040419+00:00",
+        "published_at": "2026-10-28T10:00:00+00:00",
+        "fetched_at": "2026-10-29T12:23:08.315914+00:00",
         "author": "",
-        "tags": []
+        "tags": [
+          "Intelligence Age"
+        ]
       }
     ],
     "research": [
       {
-        "title": "Counting the Bandages: On measuring the time that AI saves",
-        "url": "https://arxiv.org/abs/2610.35942",
-        "source": "arXiv AI/ML",
-        "summary": "35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on whic",
+        "title": "A (lukewarm) defense of Minsky and Papert [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
+        "source": "r/MachineLearning",
+        "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts submitted by /",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.359133+00:00",
-        "author": "Solomon Shalom Lijo",
+        "published_at": "2026-10-29T10:20:46+00:00",
+        "fetched_at": "2026-10-29T12:23:22.910174+00:00",
+        "author": "/u/Seretur99",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-        "url": "https://arxiv.org/abs/2610.35984",
-        "source": "arXiv AI/ML",
-        "summary": "35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis However, their performance is often limited by chall",
+        "title": "Leaving a job to pursue a PhD [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+        "source": "r/MachineLearning",
+        "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD Working and doing t",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.429617+00:00",
-        "author": "Hicham El Akhal, Abderrahim Waga, Aissa Ben Yahya, Abdelbaki El Belrhiti El Alaoui",
+        "published_at": "2026-10-29T09:28:28+00:00",
+        "fetched_at": "2026-10-29T12:23:22.805770+00:00",
+        "author": "/u/Ok-Hunter-7702",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-        "url": "https://arxiv.org/abs/2610.36077",
-        "source": "arXiv AI/ML",
-        "summary": "36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction However, scaling this process faces two bottleneck",
+        "title": "Using compute to verify paper results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
+        "source": "r/MachineLearning",
+        "summary": "I’m not a reviewer yet, but I likely will be by next year As a reviewer, how do you decide to allocate compute to verify paper results (and is the code in the papers you’re reviewing usually easy to r",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.486298+00:00",
-        "author": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You",
+        "published_at": "2026-10-29T02:01:46+00:00",
+        "fetched_at": "2026-10-29T12:23:23.271498+00:00",
+        "author": "/u/Relative_Wallaby_823",
         "tags": [
-          "cs.AI",
-          "cs.CV"
+          "reddit"
         ]
       },
       {
-        "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-        "url": "https://arxiv.org/abs/2610.36100",
-        "source": "arXiv AI/ML",
-        "summary": "36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements We introdu",
+        "title": "any fun casual podcasts? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+        "source": "r/MachineLearning",
+        "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level Edit: small preference for conversation dis",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.542219+00:00",
-        "author": "Neil Chen, Adrian Serapio, Hanxue Gu, Evan Lee, Kang Wang, Yang Yang",
+        "published_at": "2026-10-29T01:55:38+00:00",
+        "fetched_at": "2026-10-29T12:23:22.878331+00:00",
+        "author": "/u/Upstairs-Cry-9233",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-        "url": "https://arxiv.org/abs/2610.36116",
-        "source": "arXiv AI/ML",
-        "summary": "36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{h",
+        "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+        "source": "r/MachineLearning",
+        "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project ",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.607179+00:00",
-        "author": "Hoda Heidari, Aydin Mohseni",
+        "published_at": "2026-10-28T22:04:32+00:00",
+        "fetched_at": "2026-10-29T12:23:23.164037+00:00",
+        "author": "/u/SignificantZebra5883",
         "tags": [
-          "cs.AI",
-          "cs.CY"
+          "reddit"
         ]
       },
       {
-        "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-        "url": "https://arxiv.org/abs/2610.36146",
-        "source": "arXiv AI/ML",
-        "summary": "36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested Yet stylistic rewriting can weaken object attributes and",
+        "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+        "source": "r/MachineLearning",
+        "summary": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B The student finds its own first wrong step and writes a critique A frozen copy, conditioned on the prefix plus th",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.663154+00:00",
-        "author": "Wentao Ye, Yali Ye, Zhiqing Xiao, Ru Peng, Xinpeng Ti, Liyao Li, Zhanming Shen, Peng Lu, Jie Zhang, Haobo Wang",
+        "published_at": "2026-10-28T17:52:10+00:00",
+        "fetched_at": "2026-10-29T12:23:23.242899+00:00",
+        "author": "/u/jhzyu",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-        "url": "https://arxiv.org/abs/2610.36169",
-        "source": "arXiv AI/ML",
-        "summary": "36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete",
+        "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
+        "source": "r/MachineLearning",
+        "summary": "In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm This made me wonder about something similar in machine learni",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.706905+00:00",
-        "author": "Minh Pham Van, Cong Tran",
+        "published_at": "2026-10-28T16:42:51+00:00",
+        "fetched_at": "2026-10-29T12:23:23.424842+00:00",
+        "author": "/u/Hope999991",
         "tags": [
-          "cs.AI",
-          "cs.CL"
+          "reddit"
         ]
       },
       {
-        "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-        "url": "https://arxiv.org/abs/2610.36183",
-        "source": "arXiv AI/ML",
-        "summary": "36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic stat",
+        "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
+        "source": "r/MachineLearning",
+        "summary": "I've been thinking about AI agent safety, and I built a test harness to check my own results I think it may be useful to people who study models too It records where each tool argument came from befor",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.758609+00:00",
-        "author": "Marc Guti\\'errez-P\\'erez, Antonio Agudo",
+        "published_at": "2026-10-28T13:11:49+00:00",
+        "fetched_at": "2026-10-29T12:23:23.486594+00:00",
+        "author": "/u/Jay299792458",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-        "url": "https://arxiv.org/abs/2610.36234",
-        "source": "arXiv AI/ML",
-        "summary": "36234v1 Announce Type: new Abstract: Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and adversely affect development outcome",
+        "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
+        "source": "r/MachineLearning",
+        "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title \"An Obituary of the Review Process\", but in the interest of not sounding too defeatist, I will just say \"Critical C",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.863716+00:00",
-        "author": "Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu",
+        "published_at": "2026-10-27T19:55:31+00:00",
+        "fetched_at": "2026-10-29T12:23:23.084191+00:00",
+        "author": "/u/dsmirza",
         "tags": [
-          "cs.AI",
-          "cs.SE"
+          "reddit"
         ]
       },
       {
-        "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
-        "url": "https://arxiv.org/abs/2610.36239",
-        "source": "arXiv AI/ML",
-        "summary": "36239v1 Announce Type: new Abstract: Sequential recommendation models typically predict a user's next action from recent session interactions, which limits personalization when short-term signals are ",
+        "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+        "source": "r/MachineLearning",
+        "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch It can help build intuition for what autograd is doing under the hood and is a u",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.938402+00:00",
-        "author": "Aysenur Inan, Reza Yousefi Maragheh, Jayesh Uddhav Kudase, Selene Xu, Kaushiki Nag, Jianpeng Xu, Sushant Kumar",
+        "published_at": "2026-10-27T19:20:08+00:00",
+        "fetched_at": "2026-10-29T12:23:23.361197+00:00",
+        "author": "/u/ifaposto",
         "tags": [
-          "cs.AI",
-          "cs.IR"
+          "reddit"
         ]
       },
       {
-        "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
-        "url": "https://arxiv.org/abs/2610.36287",
-        "source": "arXiv AI/ML",
-        "summary": "36287v1 Announce Type: new Abstract: Hospitality service in online marketplaces has become increasingly popular over the past few years, not only because it helps people easily rent short-term lodging",
+        "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+        "source": "r/MachineLearning",
+        "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words What's the physical-world analogue 6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagi",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.985494+00:00",
-        "author": "Yi Hou, Li Fan, Huizhong Duan",
+        "published_at": "2026-10-27T16:09:42+00:00",
+        "fetched_at": "2026-10-29T12:23:23.537791+00:00",
+        "author": "/u/FaeriaManic",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
-        "url": "https://arxiv.org/abs/2610.36298",
-        "source": "arXiv AI/ML",
-        "summary": "36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model it",
+        "title": "Teachers other than EMA for distillation ? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
+        "source": "r/MachineLearning",
+        "summary": "Hi guys, Self-distillation methods, see Self-Distillation Fine Tuning SDFT, usually use an EMA (Exponential Moving Average) teacher to get synced and stable targets I wanted to ask the community for r",
         "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.041701+00:00",
-        "author": "Ayana Moshruba, Maryam Parsa",
+        "published_at": "2026-10-27T15:53:56+00:00",
+        "fetched_at": "2026-10-29T12:23:23.640330+00:00",
+        "author": "/u/ifaposto",
         "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
-        "url": "https://arxiv.org/abs/2610.36308",
-        "source": "arXiv AI/ML",
-        "summary": "36308v1 Announce Type: new Abstract: Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or fro",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.085008+00:00",
-        "author": "Oleeviya Babu Poikarayil, Tony Basil Babu, Abdulrahman Nahhas, Het Darshan Mehta, Jawid Ahmad Baktash, Ernesto William De Luca, Klaus Turowski",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
-        "url": "https://arxiv.org/abs/2610.36325",
-        "source": "arXiv AI/ML",
-        "summary": "36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily l",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.133519+00:00",
-        "author": "Roxana Ramona Szomiu, George Ursu, Adrian Groza",
-        "tags": [
-          "cs.AI",
-          "cs.MA"
-        ]
-      },
-      {
-        "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
-        "url": "https://arxiv.org/abs/2610.36328",
-        "source": "arXiv AI/ML",
-        "summary": "36328v1 Announce Type: new Abstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation We ask whether the same proof remains valid after a program refacto",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.202042+00:00",
-        "author": "Aravind Mandiga, Guoming Li",
-        "tags": [
-          "cs.AI",
-          "cs.LO",
-          "cs.SE"
-        ]
-      },
-      {
-        "title": "Plenty of Room in the Middle: Revealing Opportunities on a GPU Cluster via Fine-Grained Monitoring",
-        "url": "https://arxiv.org/abs/2610.36329",
-        "source": "arXiv AI/ML",
-        "summary": "36329v1 Announce Type: new Abstract: GPU clusters have become essential computing resources for AI and scientific research in academia and industry However, their high cost and growing demand often re",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.265549+00:00",
-        "author": "Andrew Sheinberg, Samyak Gupta, Kai Li",
-        "tags": [
-          "cs.AI",
-          "cs.DC"
-        ]
-      },
-      {
-        "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
-        "url": "https://arxiv.org/abs/2610.36335",
-        "source": "arXiv AI/ML",
-        "summary": "36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.307964+00:00",
-        "author": "Hui Yang, Jiaoyan Chen, Yongsheng Gao",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-        "url": "https://arxiv.org/abs/2610.36341",
-        "source": "arXiv AI/ML",
-        "summary": "36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program Here we report on th",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.376574+00:00",
-        "author": "Jeff Shrager, Kent M. Pitman, Mia Golec",
-        "tags": [
-          "cs.AI",
-          "cs.HC",
-          "cs.PL"
-        ]
-      },
-      {
-        "title": "LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets",
-        "url": "https://arxiv.org/abs/2610.36386",
-        "source": "arXiv AI/ML",
-        "summary": "36386v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become a key mechanism for efficiently specializing foundation models into many task- and user-specific variants Serving many LoRA a",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.453136+00:00",
-        "author": "Shenghui Li, Thiemo voigt",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
-        "url": "https://arxiv.org/abs/2610.36389",
-        "source": "arXiv AI/ML",
-        "summary": "36389v1 Announce Type: new Abstract: Evaluating natural language explanations in recommender systems is essential for fostering user trust, transparency, and engagement However, existing evaluation ap",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.512259+00:00",
-        "author": "Reza Yousefi Maragheh, Jayesh Uddhav Kudase, Aysenur Inan, Ramin Giahi, Kai Zhao, Parth Parikh, Jianpeng Xu, Jason Cho, Evren Korpeoglu, Sushant Kumar",
-        "tags": [
-          "cs.AI",
-          "cs.IR"
-        ]
-      },
-      {
-        "title": "kw-bench: Breaking Frontier Harnesses on Real-World Tasks",
-        "url": "https://arxiv.org/abs/2610.36405",
-        "source": "arXiv AI/ML",
-        "summary": "36405v1 Announce Type: new Abstract: Each new generation of frontier model pushes the edge of what is possible Inside a harness -- a loop, a shell, a filesystem, the ability to write and run its own c",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.553238+00:00",
-        "author": "George Juraj Salapa",
-        "tags": [
-          "cs.AI",
-          "cs.SE"
-        ]
-      },
-      {
-        "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
-        "url": "https://arxiv.org/abs/2610.36415",
-        "source": "arXiv AI/ML",
-        "summary": "36415v1 Announce Type: new Abstract: Tool-assisted planning success can reflect external search and verification, leaving a model's unaided planning ability unresolved We isolate innate planning throu",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.599897+00:00",
-        "author": "Yezhou Cheng, Charles Ling",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
-        "url": "https://arxiv.org/abs/2610.36433",
-        "source": "arXiv AI/ML",
-        "summary": "36433v1 Announce Type: new Abstract: Construction safety management still struggles to produce daily safety bulletins (DSBs), structured daily communications that identify site-specific hazards, conve",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.666953+00:00",
-        "author": "Xianxiang Zhao, Advik Mehta, Falak Sethi, Brian Gue, Qipei Mei, Lingzi Wu",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Your Agent Acts Differently When You're Around: How User Presence Changes Agent Behavior in Negotiation",
-        "url": "https://arxiv.org/abs/2610.36435",
-        "source": "arXiv AI/ML",
-        "summary": "36435v1 Announce Type: new Abstract: LLM agents increasingly interact with other agents on behalf of users, yet how users in the loop affect their agents' behavior--for better or worse--remains poorly",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.733567+00:00",
-        "author": "Jane Pan, You Lyu, Abe Bohan Hou, Valerie Chen, He He",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal Document RAG",
-        "url": "https://arxiv.org/abs/2610.36444",
-        "source": "arXiv AI/ML",
-        "summary": "36444v1 Announce Type: new Abstract: Web-based applications increasingly rely on understanding long multimodal documents, where answering questions often requires combining information across pages, t",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.790908+00:00",
-        "author": "Zekai Chen, Hao Zhu, Yu Liu, Xunkai Li, Zejian Kang, Rui Qian, Quanjiang Li, Rong-Hua Li",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation",
-        "url": "https://arxiv.org/abs/2610.36445",
-        "source": "arXiv AI/ML",
-        "summary": "36445v1 Announce Type: new Abstract: Knowledge distillation from large reasoning models (LRMs) often uses raw teacher trajectories as supervision However, this practice creates a mismatch between the ",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.851558+00:00",
-        "author": "Yashuo Luo, Qianren Mao, Ziqi Qin, Junnan Liu, Haitao Li, Qili Zhang, Yuan Gao, Zhijun Chen, Xu Wang",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "A Heart Means Recursion: Exploring Visual Meaning and Communication in VLMs",
-        "url": "https://arxiv.org/abs/2610.36449",
-        "source": "arXiv AI/ML",
-        "summary": "36449v1 Announce Type: new Abstract: Do vision-language models (VLMs) share our ability to communicate visually We share preliminary findings, starting from a surprising observation: simple visual sym",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.902866+00:00",
-        "author": "Alexa R. Tartaglini, Zhengxuan Wu, Thadd\\\"aus Wiedemer, Martin Wattenberg, Been Kim, Yuxuan Li",
-        "tags": [
-          "cs.AI",
-          "cs.CL",
-          "cs.CV"
-        ]
-      },
-      {
-        "title": "Correction or Manipulation? Measuring Epistemic Vigilance in LLM Agents Under User Pressure",
-        "url": "https://arxiv.org/abs/2610.36453",
-        "source": "arXiv AI/ML",
-        "summary": "36453v1 Announce Type: new Abstract: LLM agents that answer questions and act on behalf of users must decide when to yield to a user who disagrees Disagreement may correct a genuine error or may be an",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.960394+00:00",
-        "author": "Nardine Basta, Venus Haghighi, Dali Kaafar, Amin Beheshti",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
-        "url": "https://arxiv.org/abs/2610.33024",
-        "source": "arXiv ML",
-        "summary": "33024v1 Announce Type: new Abstract: Harness self-evolution offers a practical route for LLM agents to improve from execution experience without updating model parameters Its effectiveness depends on ",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:54.902622+00:00",
-        "author": "Zhihao Yang, Haojin Wang, Juncheng Wu, Kuan Zhang, Yukun Chen, Run Luo, Yaojie Lu, Yuyin Zhou, Lu Wang, Xianpei Han",
-        "tags": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      {
-        "title": "Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures",
-        "url": "https://arxiv.org/abs/2610.33025",
-        "source": "arXiv ML",
-        "summary": "33025v1 Announce Type: new Abstract: Letting a language model take gradient steps on the text it is reading, known as dynamic evaluation, lowers its loss on the rest of the document Its behaviour on h",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:54.965319+00:00",
-        "author": "Surya Saka",
-        "tags": [
-          "cs.LG",
-          "cs.CL"
-        ]
-      },
-      {
-        "title": "Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?",
-        "url": "https://arxiv.org/abs/2610.33029",
-        "source": "arXiv ML",
-        "summary": "33029v1 Announce Type: new Abstract: Self-improving agents write lessons from the outcomes of their runs; when outcomes are noisy, a lesson can carry chance into later decisions We measure one link of",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:55.025808+00:00",
-        "author": "Kazuki Nakayashiki",
-        "tags": [
-          "cs.LG",
-          "cs.AI",
-          "cs.CL",
-          "cs.IR"
-        ]
-      },
-      {
-        "title": "Feature Scaling Beats Architecture Choice in Offline Respiratory Screening for Low-Resource Clinics",
-        "url": "https://arxiv.org/abs/2610.33030",
-        "source": "arXiv ML",
-        "summary": "33030v1 Announce Type: new Abstract: Deep models are the usual choice for respiratory sound classification, but in clinics without GPUs or connectivity that choice carries a cost We compare classical ",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:55.094808+00:00",
-        "author": "Abubakar Chilala, Cleophas Kadima, Innocent Anyaele, Victor Olufemi",
-        "tags": [
-          "cs.LG",
-          "cs.AI",
-          "cs.SD"
-        ]
-      },
-      {
-        "title": "Inference-Time Prior Adaptation for Imbalanced Data Streams under Concept Drift",
-        "url": "https://arxiv.org/abs/2610.33126",
-        "source": "arXiv ML",
-        "summary": "33126v1 Announce Type: new Abstract: Data stream classification under concept drift and class imbalance requires models to adapt continuously while maintaining strong minority-class performance Many e",
-        "category": "research",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:55.150827+00:00",
-        "author": "Tobias Callies (University of the Bundeswehr Munich), Eirini Ntoutsi (University of the Bundeswehr Munich), Arthur Zimek (University of Southern Denmark)",
-        "tags": [
-          "cs.LG"
+          "reddit"
         ]
       }
     ],
     "industry": [
+      {
+        "title": "Gemini 4 Carbon: Our next frontier model",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+        "source": "Google DeepMind Blog",
+        "summary": "",
+        "category": "industry",
+        "published_at": "2026-10-28T17:00:58+00:00",
+        "fetched_at": "2026-10-29T12:23:14.218912+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+        "source": "r/MachineLearning",
+        "summary": "com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) wi",
+        "category": "industry",
+        "published_at": "2026-10-28T14:30:25+00:00",
+        "fetched_at": "2026-10-29T12:23:22.780040+00:00",
+        "author": "/u/NeuralNomad87",
+        "tags": [
+          "reddit"
+        ]
+      },
       {
         "title": "Genie 4: A new generation of world simulation",
         "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -514,22 +250,9 @@
         "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
         "category": "industry",
         "published_at": "2026-10-27T16:01:38+00:00",
-        "fetched_at": "2026-10-28T12:13:09.238066+00:00",
+        "fetched_at": "2026-10-29T12:23:14.250163+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "SenseNova 6.8 Code2Video: animation examples with repeated geometry, text and scientific diagrams[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xguyw1/sensenova_68_code2video_animation_examples_with/",
-        "source": "r/MachineLearning",
-        "summary": "A 3×8 array of clock faces is one of the examples in the SenseNova 6 8 Code2Video showcase Other entries focus on letterforms, including A to Z and FRAME / FORM / FLOW",
-        "category": "industry",
-        "published_at": "2026-10-27T15:04:31+00:00",
-        "fetched_at": "2026-10-28T12:13:17.855913+00:00",
-        "author": "/u/Operation6370",
-        "tags": [
-          "reddit"
-        ]
       },
       {
         "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
@@ -538,7 +261,7 @@
         "summary": "There are 57 million people worldwide living with dementia today For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it an",
         "category": "industry",
         "published_at": "2026-10-27T15:00:20+00:00",
-        "fetched_at": "2026-10-28T12:13:08.431970+00:00",
+        "fetched_at": "2026-10-29T12:23:13.496964+00:00",
         "author": "Anthony Costa",
         "tags": [
           "AI",
@@ -555,49 +278,83 @@
         "summary": "Together GPU Clusters auto repair detects GPU, host and fabric faults, picks the lightest fix, and lets you decide per fault and per Xid code which repairs run automatically",
         "category": "industry",
         "published_at": "2026-10-27T00:00:00+00:00",
-        "fetched_at": "2026-10-28T12:13:16.180033+00:00",
+        "fetched_at": "2026-10-29T12:23:21.616237+00:00",
         "author": "",
         "tags": []
       }
     ],
     "tools": [
       {
-        "title": "Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-        "source": "OpenAI Blog",
-        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
+        "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+        "source": "r/MachineLearning",
+        "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs But i guess it's deformable convolutions are pretty complex for those chips I want a sub second latency performance on these",
         "category": "tools",
-        "published_at": "2026-10-28T09:30:00+00:00",
-        "fetched_at": "2026-10-28T12:13:03.862903+00:00",
+        "published_at": "2026-10-29T08:51:23+00:00",
+        "fetched_at": "2026-10-29T12:23:22.857389+00:00",
+        "author": "/u/subhashg547",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "url": "https://huggingface.co/blog/anydecisionmodel",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-10-29T00:00:00+00:00",
+        "fetched_at": "2026-10-29T12:23:07.035571+00:00",
         "author": "",
         "tags": []
       },
       {
-        "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-        "url": "https://arxiv.org/abs/2610.36188",
-        "source": "arXiv AI/ML",
-        "summary": "36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository deve",
+        "title": "How do you start with Agentic AI for a specific use case? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+        "source": "r/MachineLearning",
+        "summary": "I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow I'm very well aware of LLMs but not very much into agentic AI and how do ",
         "category": "tools",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:52.803517+00:00",
-        "author": "Xinyuan Song, Hasibul Haque, Jay Somasundaram, Ryan Turner, Bowen Zhu, Liang Zhao",
+        "published_at": "2026-10-28T16:20:21+00:00",
+        "fetched_at": "2026-10-29T12:23:23.314059+00:00",
+        "author": "/u/ade17_in",
         "tags": [
-          "cs.AI",
-          "cs.SE"
+          "reddit"
         ]
       },
       {
-        "title": "WAKMan: Workload Aware KVCache Manager",
-        "url": "https://arxiv.org/abs/2610.36355",
-        "source": "arXiv AI/ML",
-        "summary": "36355v1 Announce Type: new Abstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV) states and accelerate prefill computation stage for requests that share a p",
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "source": "Hugging Face Blog",
+        "summary": "",
         "category": "tools",
-        "published_at": "2026-10-28T00:00:00-04:00",
-        "fetched_at": "2026-10-28T12:12:53.404089+00:00",
-        "author": "Suhas Kumar Morisetty, Vaibhavi Lokegaonkar, Sachin Mathew Varghese, Wesley Harris",
+        "published_at": "2026-10-28T14:58:17+00:00",
+        "fetched_at": "2026-10-29T12:23:07.098681+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+        "source": "r/MachineLearning",
+        "summary": "Model & weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard By projectin",
+        "category": "tools",
+        "published_at": "2026-10-28T13:34:01+00:00",
+        "fetched_at": "2026-10-29T12:23:22.982945+00:00",
+        "author": "/u/JeanMichelRanu",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
+      },
+      {
+        "title": "Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora",
+        "source": "OpenAI Blog",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
+        "category": "tools",
+        "published_at": "2026-10-28T09:30:00+00:00",
+        "fetched_at": "2026-10-29T12:23:08.357001+00:00",
+        "author": "",
+        "tags": []
       },
       {
         "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
@@ -606,21 +363,8 @@
         "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls com/Qu",
         "category": "tools",
         "published_at": "2026-10-27T20:13:07+00:00",
-        "fetched_at": "2026-10-28T12:13:17.561998+00:00",
+        "fetched_at": "2026-10-29T12:23:23.606374+00:00",
         "author": "/u/BedFalse6021",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
-        "source": "r/MachineLearning",
-        "summary": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics However, this doesn't scale well for large models since holding both teacher and",
-        "category": "tools",
-        "published_at": "2026-10-27T18:16:08+00:00",
-        "fetched_at": "2026-10-28T12:13:17.703615+00:00",
-        "author": "/u/ifaposto",
         "tags": [
           "reddit"
         ]
@@ -632,7 +376,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-27T17:16:52+00:00",
-        "fetched_at": "2026-10-28T12:13:02.653443+00:00",
+        "fetched_at": "2026-10-29T12:23:07.126341+00:00",
         "author": "",
         "tags": []
       },
@@ -643,288 +387,247 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-27T16:12:42+00:00",
-        "fetched_at": "2026-10-28T12:13:02.712119+00:00",
+        "fetched_at": "2026-10-29T12:23:07.164141+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "Papers with Code is now open-source [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
-        "source": "r/MachineLearning",
-        "summary": "Papers with Code is now open-source with an Apache 2 The goal is to collaboratively create the best paper interface with the community Over the past couple of months, I've been working with my buddies",
-        "category": "tools",
-        "published_at": "2026-10-27T09:54:44+00:00",
-        "fetched_at": "2026-10-28T12:13:17.393468+00:00",
-        "author": "/u/NielsRogge",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
-        "source": "r/MachineLearning",
-        "summary": "I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: https://www com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_na",
-        "category": "tools",
-        "published_at": "2026-10-27T04:12:34+00:00",
-        "fetched_at": "2026-10-28T12:13:18.125238+00:00",
-        "author": "/u/Winter_Mistake_3185",
-        "tags": [
-          "reddit"
-        ]
       }
     ]
   },
   "all_articles": [
     {
-      "title": "I built this, feedback welcome [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/",
+      "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
       "source": "r/MachineLearning",
-      "summary": "It's a 50 hour course for beginners in AI/ML (obviously it's fully free) Starts out with linear algebra, derivatives, statistics and then linear regression, neural networks and backpropagation etc tec",
+      "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA Setup 40 synthetic",
       "category": "breaking",
-      "published_at": "2026-10-27T17:43:25+00:00",
-      "fetched_at": "2026-10-28T12:13:17.645216+00:00",
-      "author": "/u/dlohbbvct",
+      "published_at": "2026-10-28T17:17:59+00:00",
+      "fetched_at": "2026-10-29T12:23:23.042625+00:00",
+      "author": "/u/cloud_kj",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI Blog",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1 6M annual revenue run rate per employee",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "source": "NVIDIA Blog",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI These pow",
       "category": "breaking",
-      "published_at": "2026-10-27T15:00:00+00:00",
-      "fetched_at": "2026-10-28T12:13:03.917903+00:00",
-      "author": "",
-      "tags": []
+      "published_at": "2026-10-28T15:00:46+00:00",
+      "fetched_at": "2026-10-29T12:23:13.449128+00:00",
+      "author": "Shreevar Rastogi",
+      "tags": [
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Gaming",
+        "GeForce"
+      ]
     },
     {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI Blog",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
       "category": "breaking",
-      "published_at": "2026-10-27T07:00:00+00:00",
-      "fetched_at": "2026-10-28T12:13:03.981680+00:00",
+      "published_at": "2026-10-28T13:15:00+00:00",
+      "fetched_at": "2026-10-29T12:23:08.297847+00:00",
       "author": "",
       "tags": [
         "Company"
       ]
     },
     {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
       "source": "OpenAI Blog",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
       "category": "breaking",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "fetched_at": "2026-10-28T12:13:04.040419+00:00",
+      "published_at": "2026-10-28T10:00:00+00:00",
+      "fetched_at": "2026-10-29T12:23:08.315914+00:00",
+      "author": "",
+      "tags": [
+        "Intelligence Age"
+      ]
+    },
+    {
+      "title": "A (lukewarm) defense of Minsky and Papert [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
+      "source": "r/MachineLearning",
+      "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts submitted by /",
+      "category": "research",
+      "published_at": "2026-10-29T10:20:46+00:00",
+      "fetched_at": "2026-10-29T12:23:22.910174+00:00",
+      "author": "/u/Seretur99",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Leaving a job to pursue a PhD [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+      "source": "r/MachineLearning",
+      "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD Working and doing t",
+      "category": "research",
+      "published_at": "2026-10-29T09:28:28+00:00",
+      "fetched_at": "2026-10-29T12:23:22.805770+00:00",
+      "author": "/u/Ok-Hunter-7702",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Using compute to verify paper results [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
+      "source": "r/MachineLearning",
+      "summary": "I’m not a reviewer yet, but I likely will be by next year As a reviewer, how do you decide to allocate compute to verify paper results (and is the code in the papers you’re reviewing usually easy to r",
+      "category": "research",
+      "published_at": "2026-10-29T02:01:46+00:00",
+      "fetched_at": "2026-10-29T12:23:23.271498+00:00",
+      "author": "/u/Relative_Wallaby_823",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "any fun casual podcasts? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+      "source": "r/MachineLearning",
+      "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level Edit: small preference for conversation dis",
+      "category": "research",
+      "published_at": "2026-10-29T01:55:38+00:00",
+      "fetched_at": "2026-10-29T12:23:22.878331+00:00",
+      "author": "/u/Upstairs-Cry-9233",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+      "source": "r/MachineLearning",
+      "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project ",
+      "category": "research",
+      "published_at": "2026-10-28T22:04:32+00:00",
+      "fetched_at": "2026-10-29T12:23:23.164037+00:00",
+      "author": "/u/SignificantZebra5883",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+      "source": "r/MachineLearning",
+      "summary": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B The student finds its own first wrong step and writes a critique A frozen copy, conditioned on the prefix plus th",
+      "category": "research",
+      "published_at": "2026-10-28T17:52:10+00:00",
+      "fetched_at": "2026-10-29T12:23:23.242899+00:00",
+      "author": "/u/jhzyu",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
+      "source": "r/MachineLearning",
+      "summary": "In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm This made me wonder about something similar in machine learni",
+      "category": "research",
+      "published_at": "2026-10-28T16:42:51+00:00",
+      "fetched_at": "2026-10-29T12:23:23.424842+00:00",
+      "author": "/u/Hope999991",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
+      "source": "r/MachineLearning",
+      "summary": "I've been thinking about AI agent safety, and I built a test harness to check my own results I think it may be useful to people who study models too It records where each tool argument came from befor",
+      "category": "research",
+      "published_at": "2026-10-28T13:11:49+00:00",
+      "fetched_at": "2026-10-29T12:23:23.486594+00:00",
+      "author": "/u/Jay299792458",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
+      "source": "r/MachineLearning",
+      "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title \"An Obituary of the Review Process\", but in the interest of not sounding too defeatist, I will just say \"Critical C",
+      "category": "research",
+      "published_at": "2026-10-27T19:55:31+00:00",
+      "fetched_at": "2026-10-29T12:23:23.084191+00:00",
+      "author": "/u/dsmirza",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+      "source": "r/MachineLearning",
+      "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch It can help build intuition for what autograd is doing under the hood and is a u",
+      "category": "research",
+      "published_at": "2026-10-27T19:20:08+00:00",
+      "fetched_at": "2026-10-29T12:23:23.361197+00:00",
+      "author": "/u/ifaposto",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+      "source": "r/MachineLearning",
+      "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words What's the physical-world analogue 6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagi",
+      "category": "research",
+      "published_at": "2026-10-27T16:09:42+00:00",
+      "fetched_at": "2026-10-29T12:23:23.537791+00:00",
+      "author": "/u/FaeriaManic",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Teachers other than EMA for distillation ? [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
+      "source": "r/MachineLearning",
+      "summary": "Hi guys, Self-distillation methods, see Self-Distillation Fine Tuning SDFT, usually use an EMA (Exponential Moving Average) teacher to get synced and stable targets I wanted to ask the community for r",
+      "category": "research",
+      "published_at": "2026-10-27T15:53:56+00:00",
+      "fetched_at": "2026-10-29T12:23:23.640330+00:00",
+      "author": "/u/ifaposto",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind Blog",
+      "summary": "",
+      "category": "industry",
+      "published_at": "2026-10-28T17:00:58+00:00",
+      "fetched_at": "2026-10-29T12:23:14.218912+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "Counting the Bandages: On measuring the time that AI saves",
-      "url": "https://arxiv.org/abs/2610.35942",
-      "source": "arXiv AI/ML",
-      "summary": "35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on whic",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.359133+00:00",
-      "author": "Solomon Shalom Lijo",
+      "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+      "source": "r/MachineLearning",
+      "summary": "com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) wi",
+      "category": "industry",
+      "published_at": "2026-10-28T14:30:25+00:00",
+      "fetched_at": "2026-10-29T12:23:22.780040+00:00",
+      "author": "/u/NeuralNomad87",
       "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-      "url": "https://arxiv.org/abs/2610.35984",
-      "source": "arXiv AI/ML",
-      "summary": "35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis However, their performance is often limited by chall",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.429617+00:00",
-      "author": "Hicham El Akhal, Abderrahim Waga, Aissa Ben Yahya, Abdelbaki El Belrhiti El Alaoui",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2610.36077",
-      "source": "arXiv AI/ML",
-      "summary": "36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction However, scaling this process faces two bottleneck",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.486298+00:00",
-      "author": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You",
-      "tags": [
-        "cs.AI",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-      "url": "https://arxiv.org/abs/2610.36100",
-      "source": "arXiv AI/ML",
-      "summary": "36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements We introdu",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.542219+00:00",
-      "author": "Neil Chen, Adrian Serapio, Hanxue Gu, Evan Lee, Kang Wang, Yang Yang",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "url": "https://arxiv.org/abs/2610.36116",
-      "source": "arXiv AI/ML",
-      "summary": "36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{h",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.607179+00:00",
-      "author": "Hoda Heidari, Aydin Mohseni",
-      "tags": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-      "url": "https://arxiv.org/abs/2610.36146",
-      "source": "arXiv AI/ML",
-      "summary": "36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested Yet stylistic rewriting can weaken object attributes and",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.663154+00:00",
-      "author": "Wentao Ye, Yali Ye, Zhiqing Xiao, Ru Peng, Xinpeng Ti, Liyao Li, Zhanming Shen, Peng Lu, Jie Zhang, Haobo Wang",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "url": "https://arxiv.org/abs/2610.36169",
-      "source": "arXiv AI/ML",
-      "summary": "36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.706905+00:00",
-      "author": "Minh Pham Van, Cong Tran",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-      "url": "https://arxiv.org/abs/2610.36183",
-      "source": "arXiv AI/ML",
-      "summary": "36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic stat",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.758609+00:00",
-      "author": "Marc Guti\\'errez-P\\'erez, Antonio Agudo",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-      "url": "https://arxiv.org/abs/2610.36234",
-      "source": "arXiv AI/ML",
-      "summary": "36234v1 Announce Type: new Abstract: Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and adversely affect development outcome",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.863716+00:00",
-      "author": "Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu",
-      "tags": [
-        "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
-      "url": "https://arxiv.org/abs/2610.36239",
-      "source": "arXiv AI/ML",
-      "summary": "36239v1 Announce Type: new Abstract: Sequential recommendation models typically predict a user's next action from recent session interactions, which limits personalization when short-term signals are ",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.938402+00:00",
-      "author": "Aysenur Inan, Reza Yousefi Maragheh, Jayesh Uddhav Kudase, Selene Xu, Kaushiki Nag, Jianpeng Xu, Sushant Kumar",
-      "tags": [
-        "cs.AI",
-        "cs.IR"
-      ]
-    },
-    {
-      "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
-      "url": "https://arxiv.org/abs/2610.36287",
-      "source": "arXiv AI/ML",
-      "summary": "36287v1 Announce Type: new Abstract: Hospitality service in online marketplaces has become increasingly popular over the past few years, not only because it helps people easily rent short-term lodging",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.985494+00:00",
-      "author": "Yi Hou, Li Fan, Huizhong Duan",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
-      "url": "https://arxiv.org/abs/2610.36298",
-      "source": "arXiv AI/ML",
-      "summary": "36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model it",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.041701+00:00",
-      "author": "Ayana Moshruba, Maryam Parsa",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
-      "url": "https://arxiv.org/abs/2610.36308",
-      "source": "arXiv AI/ML",
-      "summary": "36308v1 Announce Type: new Abstract: Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or fro",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.085008+00:00",
-      "author": "Oleeviya Babu Poikarayil, Tony Basil Babu, Abdulrahman Nahhas, Het Darshan Mehta, Jawid Ahmad Baktash, Ernesto William De Luca, Klaus Turowski",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
-      "url": "https://arxiv.org/abs/2610.36325",
-      "source": "arXiv AI/ML",
-      "summary": "36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily l",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.133519+00:00",
-      "author": "Roxana Ramona Szomiu, George Ursu, Adrian Groza",
-      "tags": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
-      "url": "https://arxiv.org/abs/2610.36328",
-      "source": "arXiv AI/ML",
-      "summary": "36328v1 Announce Type: new Abstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation We ask whether the same proof remains valid after a program refacto",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.202042+00:00",
-      "author": "Aravind Mandiga, Guoming Li",
-      "tags": [
-        "cs.AI",
-        "cs.LO",
-        "cs.SE"
+        "reddit"
       ]
     },
     {
@@ -934,22 +637,9 @@
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
       "category": "industry",
       "published_at": "2026-10-27T16:01:38+00:00",
-      "fetched_at": "2026-10-28T12:13:09.238066+00:00",
+      "fetched_at": "2026-10-29T12:23:14.250163+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "SenseNova 6.8 Code2Video: animation examples with repeated geometry, text and scientific diagrams[P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xguyw1/sensenova_68_code2video_animation_examples_with/",
-      "source": "r/MachineLearning",
-      "summary": "A 3×8 array of clock faces is one of the examples in the SenseNova 6 8 Code2Video showcase Other entries focus on letterforms, including A to Z and FRAME / FORM / FLOW",
-      "category": "industry",
-      "published_at": "2026-10-27T15:04:31+00:00",
-      "fetched_at": "2026-10-28T12:13:17.855913+00:00",
-      "author": "/u/Operation6370",
-      "tags": [
-        "reddit"
-      ]
     },
     {
       "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
@@ -958,7 +648,7 @@
       "summary": "There are 57 million people worldwide living with dementia today For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it an",
       "category": "industry",
       "published_at": "2026-10-27T15:00:20+00:00",
-      "fetched_at": "2026-10-28T12:13:08.431970+00:00",
+      "fetched_at": "2026-10-29T12:23:13.496964+00:00",
       "author": "Anthony Costa",
       "tags": [
         "AI",
@@ -975,47 +665,81 @@
       "summary": "Together GPU Clusters auto repair detects GPU, host and fabric faults, picks the lightest fix, and lets you decide per fault and per Xid code which repairs run automatically",
       "category": "industry",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "fetched_at": "2026-10-28T12:13:16.180033+00:00",
+      "fetched_at": "2026-10-29T12:23:21.616237+00:00",
       "author": "",
       "tags": []
     },
     {
+      "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+      "source": "r/MachineLearning",
+      "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs But i guess it's deformable convolutions are pretty complex for those chips I want a sub second latency performance on these",
+      "category": "tools",
+      "published_at": "2026-10-29T08:51:23+00:00",
+      "fetched_at": "2026-10-29T12:23:22.857389+00:00",
+      "author": "/u/subhashg547",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-29T12:23:07.035571+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "How do you start with Agentic AI for a specific use case? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+      "source": "r/MachineLearning",
+      "summary": "I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow I'm very well aware of LLMs but not very much into agentic AI and how do ",
+      "category": "tools",
+      "published_at": "2026-10-28T16:20:21+00:00",
+      "fetched_at": "2026-10-29T12:23:23.314059+00:00",
+      "author": "/u/ade17_in",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-10-28T14:58:17+00:00",
+      "fetched_at": "2026-10-29T12:23:07.098681+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+      "source": "r/MachineLearning",
+      "summary": "Model & weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard By projectin",
+      "category": "tools",
+      "published_at": "2026-10-28T13:34:01+00:00",
+      "fetched_at": "2026-10-29T12:23:22.982945+00:00",
+      "author": "/u/JeanMichelRanu",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI Blog",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
       "category": "tools",
       "published_at": "2026-10-28T09:30:00+00:00",
-      "fetched_at": "2026-10-28T12:13:03.862903+00:00",
+      "fetched_at": "2026-10-29T12:23:08.357001+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-      "url": "https://arxiv.org/abs/2610.36188",
-      "source": "arXiv AI/ML",
-      "summary": "36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository deve",
-      "category": "tools",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:52.803517+00:00",
-      "author": "Xinyuan Song, Hasibul Haque, Jay Somasundaram, Ryan Turner, Bowen Zhu, Liang Zhao",
-      "tags": [
-        "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "WAKMan: Workload Aware KVCache Manager",
-      "url": "https://arxiv.org/abs/2610.36355",
-      "source": "arXiv AI/ML",
-      "summary": "36355v1 Announce Type: new Abstract: Prefix caching enables a Large Language Model (LLM) servers to reuse the Key-Value (KV) states and accelerate prefill computation stage for requests that share a p",
-      "category": "tools",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.404089+00:00",
-      "author": "Suhas Kumar Morisetty, Vaibhavi Lokegaonkar, Sachin Mathew Varghese, Wesley Harris",
-      "tags": [
-        "cs.AI"
-      ]
     },
     {
       "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
@@ -1024,21 +748,8 @@
       "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls com/Qu",
       "category": "tools",
       "published_at": "2026-10-27T20:13:07+00:00",
-      "fetched_at": "2026-10-28T12:13:17.561998+00:00",
+      "fetched_at": "2026-10-29T12:23:23.606374+00:00",
       "author": "/u/BedFalse6021",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
-      "source": "r/MachineLearning",
-      "summary": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics However, this doesn't scale well for large models since holding both teacher and",
-      "category": "tools",
-      "published_at": "2026-10-27T18:16:08+00:00",
-      "fetched_at": "2026-10-28T12:13:17.703615+00:00",
-      "author": "/u/ifaposto",
       "tags": [
         "reddit"
       ]
@@ -1050,7 +761,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-27T17:16:52+00:00",
-      "fetched_at": "2026-10-28T12:13:02.653443+00:00",
+      "fetched_at": "2026-10-29T12:23:07.126341+00:00",
       "author": "",
       "tags": []
     },
@@ -1061,284 +772,9 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-27T16:12:42+00:00",
-      "fetched_at": "2026-10-28T12:13:02.712119+00:00",
+      "fetched_at": "2026-10-29T12:23:07.164141+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "Papers with Code is now open-source [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
-      "source": "r/MachineLearning",
-      "summary": "Papers with Code is now open-source with an Apache 2 The goal is to collaboratively create the best paper interface with the community Over the past couple of months, I've been working with my buddies",
-      "category": "tools",
-      "published_at": "2026-10-27T09:54:44+00:00",
-      "fetched_at": "2026-10-28T12:13:17.393468+00:00",
-      "author": "/u/NielsRogge",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
-      "source": "r/MachineLearning",
-      "summary": "I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: https://www com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_na",
-      "category": "tools",
-      "published_at": "2026-10-27T04:12:34+00:00",
-      "fetched_at": "2026-10-28T12:13:18.125238+00:00",
-      "author": "/u/Winter_Mistake_3185",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Plenty of Room in the Middle: Revealing Opportunities on a GPU Cluster via Fine-Grained Monitoring",
-      "url": "https://arxiv.org/abs/2610.36329",
-      "source": "arXiv AI/ML",
-      "summary": "36329v1 Announce Type: new Abstract: GPU clusters have become essential computing resources for AI and scientific research in academia and industry However, their high cost and growing demand often re",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.265549+00:00",
-      "author": "Andrew Sheinberg, Samyak Gupta, Kai Li",
-      "tags": [
-        "cs.AI",
-        "cs.DC"
-      ]
-    },
-    {
-      "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
-      "url": "https://arxiv.org/abs/2610.36335",
-      "source": "arXiv AI/ML",
-      "summary": "36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.307964+00:00",
-      "author": "Hui Yang, Jiaoyan Chen, Yongsheng Gao",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-      "url": "https://arxiv.org/abs/2610.36341",
-      "source": "arXiv AI/ML",
-      "summary": "36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program Here we report on th",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.376574+00:00",
-      "author": "Jeff Shrager, Kent M. Pitman, Mia Golec",
-      "tags": [
-        "cs.AI",
-        "cs.HC",
-        "cs.PL"
-      ]
-    },
-    {
-      "title": "LoRA on a Budget: Function-Aware Post-Hoc Compression for Adapter Fleets",
-      "url": "https://arxiv.org/abs/2610.36386",
-      "source": "arXiv AI/ML",
-      "summary": "36386v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) has become a key mechanism for efficiently specializing foundation models into many task- and user-specific variants Serving many LoRA a",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.453136+00:00",
-      "author": "Shenghui Li, Thiemo voigt",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
-      "url": "https://arxiv.org/abs/2610.36389",
-      "source": "arXiv AI/ML",
-      "summary": "36389v1 Announce Type: new Abstract: Evaluating natural language explanations in recommender systems is essential for fostering user trust, transparency, and engagement However, existing evaluation ap",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.512259+00:00",
-      "author": "Reza Yousefi Maragheh, Jayesh Uddhav Kudase, Aysenur Inan, Ramin Giahi, Kai Zhao, Parth Parikh, Jianpeng Xu, Jason Cho, Evren Korpeoglu, Sushant Kumar",
-      "tags": [
-        "cs.AI",
-        "cs.IR"
-      ]
-    },
-    {
-      "title": "kw-bench: Breaking Frontier Harnesses on Real-World Tasks",
-      "url": "https://arxiv.org/abs/2610.36405",
-      "source": "arXiv AI/ML",
-      "summary": "36405v1 Announce Type: new Abstract: Each new generation of frontier model pushes the edge of what is possible Inside a harness -- a loop, a shell, a filesystem, the ability to write and run its own c",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.553238+00:00",
-      "author": "George Juraj Salapa",
-      "tags": [
-        "cs.AI",
-        "cs.SE"
-      ]
-    },
-    {
-      "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
-      "url": "https://arxiv.org/abs/2610.36415",
-      "source": "arXiv AI/ML",
-      "summary": "36415v1 Announce Type: new Abstract: Tool-assisted planning success can reflect external search and verification, leaving a model's unaided planning ability unresolved We isolate innate planning throu",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.599897+00:00",
-      "author": "Yezhou Cheng, Charles Ling",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
-      "url": "https://arxiv.org/abs/2610.36433",
-      "source": "arXiv AI/ML",
-      "summary": "36433v1 Announce Type: new Abstract: Construction safety management still struggles to produce daily safety bulletins (DSBs), structured daily communications that identify site-specific hazards, conve",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.666953+00:00",
-      "author": "Xianxiang Zhao, Advik Mehta, Falak Sethi, Brian Gue, Qipei Mei, Lingzi Wu",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Your Agent Acts Differently When You're Around: How User Presence Changes Agent Behavior in Negotiation",
-      "url": "https://arxiv.org/abs/2610.36435",
-      "source": "arXiv AI/ML",
-      "summary": "36435v1 Announce Type: new Abstract: LLM agents increasingly interact with other agents on behalf of users, yet how users in the loop affect their agents' behavior--for better or worse--remains poorly",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.733567+00:00",
-      "author": "Jane Pan, You Lyu, Abe Bohan Hou, Valerie Chen, He He",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal Document RAG",
-      "url": "https://arxiv.org/abs/2610.36444",
-      "source": "arXiv AI/ML",
-      "summary": "36444v1 Announce Type: new Abstract: Web-based applications increasingly rely on understanding long multimodal documents, where answering questions often requires combining information across pages, t",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.790908+00:00",
-      "author": "Zekai Chen, Hao Zhu, Yu Liu, Xunkai Li, Zejian Kang, Rui Qian, Quanjiang Li, Rong-Hua Li",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation",
-      "url": "https://arxiv.org/abs/2610.36445",
-      "source": "arXiv AI/ML",
-      "summary": "36445v1 Announce Type: new Abstract: Knowledge distillation from large reasoning models (LRMs) often uses raw teacher trajectories as supervision However, this practice creates a mismatch between the ",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.851558+00:00",
-      "author": "Yashuo Luo, Qianren Mao, Ziqi Qin, Junnan Liu, Haitao Li, Qili Zhang, Yuan Gao, Zhijun Chen, Xu Wang",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "A Heart Means Recursion: Exploring Visual Meaning and Communication in VLMs",
-      "url": "https://arxiv.org/abs/2610.36449",
-      "source": "arXiv AI/ML",
-      "summary": "36449v1 Announce Type: new Abstract: Do vision-language models (VLMs) share our ability to communicate visually We share preliminary findings, starting from a surprising observation: simple visual sym",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.902866+00:00",
-      "author": "Alexa R. Tartaglini, Zhengxuan Wu, Thadd\\\"aus Wiedemer, Martin Wattenberg, Been Kim, Yuxuan Li",
-      "tags": [
-        "cs.AI",
-        "cs.CL",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "Correction or Manipulation? Measuring Epistemic Vigilance in LLM Agents Under User Pressure",
-      "url": "https://arxiv.org/abs/2610.36453",
-      "source": "arXiv AI/ML",
-      "summary": "36453v1 Announce Type: new Abstract: LLM agents that answer questions and act on behalf of users must decide when to yield to a user who disagrees Disagreement may correct a genuine error or may be an",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:53.960394+00:00",
-      "author": "Nardine Basta, Venus Haghighi, Dali Kaafar, Amin Beheshti",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
-      "url": "https://arxiv.org/abs/2610.33024",
-      "source": "arXiv ML",
-      "summary": "33024v1 Announce Type: new Abstract: Harness self-evolution offers a practical route for LLM agents to improve from execution experience without updating model parameters Its effectiveness depends on ",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:54.902622+00:00",
-      "author": "Zhihao Yang, Haojin Wang, Juncheng Wu, Kuan Zhang, Yukun Chen, Run Luo, Yaojie Lu, Yuyin Zhou, Lu Wang, Xianpei Han",
-      "tags": [
-        "cs.LG",
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures",
-      "url": "https://arxiv.org/abs/2610.33025",
-      "source": "arXiv ML",
-      "summary": "33025v1 Announce Type: new Abstract: Letting a language model take gradient steps on the text it is reading, known as dynamic evaluation, lowers its loss on the rest of the document Its behaviour on h",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:54.965319+00:00",
-      "author": "Surya Saka",
-      "tags": [
-        "cs.LG",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?",
-      "url": "https://arxiv.org/abs/2610.33029",
-      "source": "arXiv ML",
-      "summary": "33029v1 Announce Type: new Abstract: Self-improving agents write lessons from the outcomes of their runs; when outcomes are noisy, a lesson can carry chance into later decisions We measure one link of",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:55.025808+00:00",
-      "author": "Kazuki Nakayashiki",
-      "tags": [
-        "cs.LG",
-        "cs.AI",
-        "cs.CL",
-        "cs.IR"
-      ]
-    },
-    {
-      "title": "Feature Scaling Beats Architecture Choice in Offline Respiratory Screening for Low-Resource Clinics",
-      "url": "https://arxiv.org/abs/2610.33030",
-      "source": "arXiv ML",
-      "summary": "33030v1 Announce Type: new Abstract: Deep models are the usual choice for respiratory sound classification, but in clinics without GPUs or connectivity that choice carries a cost We compare classical ",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:55.094808+00:00",
-      "author": "Abubakar Chilala, Cleophas Kadima, Innocent Anyaele, Victor Olufemi",
-      "tags": [
-        "cs.LG",
-        "cs.AI",
-        "cs.SD"
-      ]
-    },
-    {
-      "title": "Inference-Time Prior Adaptation for Imbalanced Data Streams under Concept Drift",
-      "url": "https://arxiv.org/abs/2610.33126",
-      "source": "arXiv ML",
-      "summary": "33126v1 Announce Type: new Abstract: Data stream classification under concept drift and class imbalance requires models to adapt continuously while maintaining strong minority-class performance Many e",
-      "category": "research",
-      "published_at": "2026-10-28T00:00:00-04:00",
-      "fetched_at": "2026-10-28T12:12:55.150827+00:00",
-      "author": "Tobias Callies (University of the Bundeswehr Munich), Eirini Ntoutsi (University of the Bundeswehr Munich), Arthur Zimek (University of Southern Denmark)",
-      "tags": [
-        "cs.LG"
-      ]
     }
   ]
 }
