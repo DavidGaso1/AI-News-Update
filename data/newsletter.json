@@ -1,218 +1,149 @@
 {
-  "generated_at": "2026-10-29T12:24:01.866445+00:00",
-  "article_count": 30,
+  "generated_at": "2026-10-30T12:15:10.130701+00:00",
+  "article_count": 22,
   "categories": {
     "breaking": [
       {
-        "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+        "title": "What would you require before calling an inference change “quality-neutral”? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
         "source": "r/MachineLearning",
-        "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA Setup 40 synthetic",
+        "summary": "82%, across all 1,319 test questions These are from NVIDIA’s Ling-3 0-flash comparison on one DGX Spark",
         "category": "breaking",
-        "published_at": "2026-10-28T17:17:59+00:00",
-        "fetched_at": "2026-10-29T12:23:23.042625+00:00",
-        "author": "/u/cloud_kj",
+        "published_at": "2026-10-30T06:59:57+00:00",
+        "fetched_at": "2026-10-30T12:14:33.296584+00:00",
+        "author": "/u/AKAMA199",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+        "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+        "source": "r/MachineLearning",
+        "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagge",
+        "category": "breaking",
+        "published_at": "2026-10-29T22:51:57+00:00",
+        "fetched_at": "2026-10-30T12:14:33.269867+00:00",
+        "author": "/u/Working_Hat5120",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI Blog",
+        "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent",
+        "category": "breaking",
+        "published_at": "2026-10-29T17:00:00+00:00",
+        "fetched_at": "2026-10-30T12:14:18.899461+00:00",
+        "author": "",
+        "tags": [
+          "Safety"
+        ]
+      },
+      {
+        "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
         "source": "NVIDIA Blog",
-        "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI These pow",
+        "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats Something wicked this blade comes S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blen",
         "category": "breaking",
-        "published_at": "2026-10-28T15:00:46+00:00",
-        "fetched_at": "2026-10-29T12:23:13.449128+00:00",
-        "author": "Shreevar Rastogi",
+        "published_at": "2026-10-29T13:00:16+00:00",
+        "fetched_at": "2026-10-30T12:14:23.834940+00:00",
+        "author": "GeForce NOW Community",
         "tags": [
-          "AI",
-          "Agentic AI",
-          "Artificial Intelligence",
           "Gaming",
-          "GeForce"
+          "Cloud Gaming",
+          "GeForce NOW"
         ]
       },
       {
-        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "title": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
         "source": "OpenAI Blog",
-        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate",
         "category": "breaking",
-        "published_at": "2026-10-28T13:15:00+00:00",
-        "fetched_at": "2026-10-29T12:23:08.297847+00:00",
+        "published_at": "2026-10-29T09:00:00+00:00",
+        "fetched_at": "2026-10-30T12:14:18.916041+00:00",
         "author": "",
         "tags": [
-          "Company"
+          "Security"
         ]
       },
       {
-        "title": "The future of the firm",
-        "url": "https://openai.com/index/the-future-of-the-firm",
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
         "source": "OpenAI Blog",
-        "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI Lawyers review grouped documents, summaries, and reports before advising clients",
         "category": "breaking",
-        "published_at": "2026-10-28T10:00:00+00:00",
-        "fetched_at": "2026-10-29T12:23:08.315914+00:00",
+        "published_at": "2026-10-29T07:00:00+00:00",
+        "fetched_at": "2026-10-30T12:14:18.938600+00:00",
         "author": "",
-        "tags": [
-          "Intelligence Age"
-        ]
+        "tags": []
       }
     ],
     "research": [
       {
-        "title": "A (lukewarm) defense of Minsky and Papert [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
+        "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
         "source": "r/MachineLearning",
-        "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts submitted by /",
+        "summary": "A friend of mine was doing gap analysis as a project , the result he got werent that big from the original papers, so he simply fabricated and increaaed the metrics results here and there, AND IT GOT ",
         "category": "research",
-        "published_at": "2026-10-29T10:20:46+00:00",
-        "fetched_at": "2026-10-29T12:23:22.910174+00:00",
-        "author": "/u/Seretur99",
+        "published_at": "2026-10-30T07:25:23+00:00",
+        "fetched_at": "2026-10-30T12:14:33.189868+00:00",
+        "author": "/u/Tonka-Jahari-Pizza",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Leaving a job to pursue a PhD [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+        "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
         "source": "r/MachineLearning",
-        "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD Working and doing t",
+        "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13 6 GB evidence package) Every red-blue colouring of {1,",
         "category": "research",
-        "published_at": "2026-10-29T09:28:28+00:00",
-        "fetched_at": "2026-10-29T12:23:22.805770+00:00",
-        "author": "/u/Ok-Hunter-7702",
+        "published_at": "2026-10-29T20:46:25+00:00",
+        "fetched_at": "2026-10-30T12:14:33.366829+00:00",
+        "author": "/u/Rodriguez909",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Using compute to verify paper results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
+        "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
         "source": "r/MachineLearning",
-        "summary": "I’m not a reviewer yet, but I likely will be by next year As a reviewer, how do you decide to allocate compute to verify paper results (and is the code in the papers you’re reviewing usually easy to r",
+        "summary": "We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints Would anyone already attending be kind enough to present our poster on our b",
         "category": "research",
-        "published_at": "2026-10-29T02:01:46+00:00",
-        "fetched_at": "2026-10-29T12:23:23.271498+00:00",
-        "author": "/u/Relative_Wallaby_823",
+        "published_at": "2026-10-29T20:04:55+00:00",
+        "fetched_at": "2026-10-30T12:14:33.421116+00:00",
+        "author": "/u/Straight-Coach-7105",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "any fun casual podcasts? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+        "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
         "source": "r/MachineLearning",
-        "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level Edit: small preference for conversation dis",
+        "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 i",
         "category": "research",
-        "published_at": "2026-10-29T01:55:38+00:00",
-        "fetched_at": "2026-10-29T12:23:22.878331+00:00",
-        "author": "/u/Upstairs-Cry-9233",
+        "published_at": "2026-10-29T17:53:52+00:00",
+        "fetched_at": "2026-10-30T12:14:33.326382+00:00",
+        "author": "/u/Code_MasterCody",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+        "title": "Old-school classifiers are still generally better than Jev [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
         "source": "r/MachineLearning",
-        "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project ",
+        "summary": "There’s a lot of hype right now around decision models like Jev But in most real use cases, you have some labeled data, and can use it to personalize your model So we tested the old-school approach to",
         "category": "research",
-        "published_at": "2026-10-28T22:04:32+00:00",
-        "fetched_at": "2026-10-29T12:23:23.164037+00:00",
-        "author": "/u/SignificantZebra5883",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
-        "source": "r/MachineLearning",
-        "summary": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B The student finds its own first wrong step and writes a critique A frozen copy, conditioned on the prefix plus th",
-        "category": "research",
-        "published_at": "2026-10-28T17:52:10+00:00",
-        "fetched_at": "2026-10-29T12:23:23.242899+00:00",
-        "author": "/u/jhzyu",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
-        "source": "r/MachineLearning",
-        "summary": "In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm This made me wonder about something similar in machine learni",
-        "category": "research",
-        "published_at": "2026-10-28T16:42:51+00:00",
-        "fetched_at": "2026-10-29T12:23:23.424842+00:00",
-        "author": "/u/Hope999991",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
-        "source": "r/MachineLearning",
-        "summary": "I've been thinking about AI agent safety, and I built a test harness to check my own results I think it may be useful to people who study models too It records where each tool argument came from befor",
-        "category": "research",
-        "published_at": "2026-10-28T13:11:49+00:00",
-        "fetched_at": "2026-10-29T12:23:23.486594+00:00",
-        "author": "/u/Jay299792458",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
-        "source": "r/MachineLearning",
-        "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title \"An Obituary of the Review Process\", but in the interest of not sounding too defeatist, I will just say \"Critical C",
-        "category": "research",
-        "published_at": "2026-10-27T19:55:31+00:00",
-        "fetched_at": "2026-10-29T12:23:23.084191+00:00",
-        "author": "/u/dsmirza",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
-        "source": "r/MachineLearning",
-        "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch It can help build intuition for what autograd is doing under the hood and is a u",
-        "category": "research",
-        "published_at": "2026-10-27T19:20:08+00:00",
-        "fetched_at": "2026-10-29T12:23:23.361197+00:00",
-        "author": "/u/ifaposto",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
-        "source": "r/MachineLearning",
-        "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words What's the physical-world analogue 6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagi",
-        "category": "research",
-        "published_at": "2026-10-27T16:09:42+00:00",
-        "fetched_at": "2026-10-29T12:23:23.537791+00:00",
-        "author": "/u/FaeriaManic",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Teachers other than EMA for distillation ? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
-        "source": "r/MachineLearning",
-        "summary": "Hi guys, Self-distillation methods, see Self-Distillation Fine Tuning SDFT, usually use an EMA (Exponential Moving Average) teacher to get synced and stable targets I wanted to ask the community for r",
-        "category": "research",
-        "published_at": "2026-10-27T15:53:56+00:00",
-        "fetched_at": "2026-10-29T12:23:23.640330+00:00",
-        "author": "/u/ifaposto",
+        "published_at": "2026-10-29T14:13:05+00:00",
+        "fetched_at": "2026-10-30T12:14:33.212468+00:00",
+        "author": "/u/csinva",
         "tags": [
           "reddit"
         ]
@@ -220,70 +151,35 @@
     ],
     "industry": [
       {
-        "title": "Gemini 4 Carbon: Our next frontier model",
-        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-        "source": "Google DeepMind Blog",
-        "summary": "",
-        "category": "industry",
-        "published_at": "2026-10-28T17:00:58+00:00",
-        "fetched_at": "2026-10-29T12:23:14.218912+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-        "source": "r/MachineLearning",
-        "summary": "com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) wi",
-        "category": "industry",
-        "published_at": "2026-10-28T14:30:25+00:00",
-        "fetched_at": "2026-10-29T12:23:22.780040+00:00",
-        "author": "/u/NeuralNomad87",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Genie 4: A new generation of world simulation",
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "source": "Google DeepMind Blog",
-        "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-        "category": "industry",
-        "published_at": "2026-10-27T16:01:38+00:00",
-        "fetched_at": "2026-10-29T12:23:14.250163+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-        "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+        "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+        "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
         "source": "NVIDIA Blog",
-        "summary": "There are 57 million people worldwide living with dementia today For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it an",
+        "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
         "category": "industry",
-        "published_at": "2026-10-27T15:00:20+00:00",
-        "fetched_at": "2026-10-29T12:23:13.496964+00:00",
-        "author": "Anthony Costa",
+        "published_at": "2026-10-29T16:00:35+00:00",
+        "fetched_at": "2026-10-30T12:14:23.811321+00:00",
+        "author": "NVIDIA Writers",
         "tags": [
-          "AI",
+          "Robotics",
           "Agentic AI",
-          "AI for Good",
-          "Healthcare and Life Sciences",
-          "Open Source"
+          "Into the Omniverse",
+          "NVIDIA Isaac Sim",
+          "Omniverse"
         ]
-      },
-      {
-        "title": "Auto repair for Together GPU Clusters: from GPU fault to healthy node",
-        "url": "https://www.together.ai/blog/auto-repair-for-together-gpu-clusters",
-        "source": "Together AI Blog",
-        "summary": "Together GPU Clusters auto repair detects GPU, host and fabric faults, picks the lightest fix, and lets you decide per fault and per Xid code which repairs run automatically",
-        "category": "industry",
-        "published_at": "2026-10-27T00:00:00+00:00",
-        "fetched_at": "2026-10-29T12:23:21.616237+00:00",
-        "author": "",
-        "tags": []
       }
     ],
     "tools": [
+      {
+        "title": "Granite Switch 4.1.1 — Update models like you update software",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-10-29T13:37:07+00:00",
+        "fetched_at": "2026-10-30T12:14:17.812086+00:00",
+        "author": "",
+        "tags": []
+      },
       {
         "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
@@ -291,11 +187,33 @@
         "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs But i guess it's deformable convolutions are pretty complex for those chips I want a sub second latency performance on these",
         "category": "tools",
         "published_at": "2026-10-29T08:51:23+00:00",
-        "fetched_at": "2026-10-29T12:23:22.857389+00:00",
+        "fetched_at": "2026-10-30T12:14:33.395561+00:00",
         "author": "/u/subhashg547",
         "tags": [
           "reddit"
         ]
+      },
+      {
+        "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "url": "https://huggingface.co/blog/announcing-project-protostar",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-10-29T00:00:00+00:00",
+        "fetched_at": "2026-10-30T12:14:17.835153+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "url": "https://huggingface.co/blog/mistral-large4",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-10-29T00:00:00+00:00",
+        "fetched_at": "2026-10-30T12:14:17.851414+00:00",
+        "author": "",
+        "tags": []
       },
       {
         "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
@@ -304,22 +222,9 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-29T00:00:00+00:00",
-        "fetched_at": "2026-10-29T12:23:07.035571+00:00",
+        "fetched_at": "2026-10-30T12:14:17.884681+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "How do you start with Agentic AI for a specific use case? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
-        "source": "r/MachineLearning",
-        "summary": "I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow I'm very well aware of LLMs but not very much into agentic AI and how do ",
-        "category": "tools",
-        "published_at": "2026-10-28T16:20:21+00:00",
-        "fetched_at": "2026-10-29T12:23:23.314059+00:00",
-        "author": "/u/ade17_in",
-        "tags": [
-          "reddit"
-        ]
       },
       {
         "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -328,7 +233,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-28T14:58:17+00:00",
-        "fetched_at": "2026-10-29T12:23:07.098681+00:00",
+        "fetched_at": "2026-10-30T12:14:17.918692+00:00",
         "author": "",
         "tags": []
       },
@@ -339,7 +244,7 @@
         "summary": "Model & weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard By projectin",
         "category": "tools",
         "published_at": "2026-10-28T13:34:01+00:00",
-        "fetched_at": "2026-10-29T12:23:22.982945+00:00",
+        "fetched_at": "2026-10-30T12:14:33.462205+00:00",
         "author": "/u/JeanMichelRanu",
         "tags": [
           "reddit"
@@ -352,22 +257,9 @@
         "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
         "category": "tools",
         "published_at": "2026-10-28T09:30:00+00:00",
-        "fetched_at": "2026-10-29T12:23:08.357001+00:00",
+        "fetched_at": "2026-10-30T12:14:18.961542+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
-        "source": "r/MachineLearning",
-        "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls com/Qu",
-        "category": "tools",
-        "published_at": "2026-10-27T20:13:07+00:00",
-        "fetched_at": "2026-10-29T12:23:23.606374+00:00",
-        "author": "/u/BedFalse6021",
-        "tags": [
-          "reddit"
-        ]
       },
       {
         "title": "Build specialized multimodal models with LFM3",
@@ -376,7 +268,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-27T17:16:52+00:00",
-        "fetched_at": "2026-10-29T12:23:07.126341+00:00",
+        "fetched_at": "2026-10-30T12:14:17.933916+00:00",
         "author": "",
         "tags": []
       },
@@ -387,7 +279,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-10-27T16:12:42+00:00",
-        "fetched_at": "2026-10-29T12:23:07.164141+00:00",
+        "fetched_at": "2026-10-30T12:14:17.955354+00:00",
         "author": "",
         "tags": []
       }
@@ -395,277 +287,173 @@
   },
   "all_articles": [
     {
-      "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+      "title": "What would you require before calling an inference change “quality-neutral”? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
       "source": "r/MachineLearning",
-      "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA Setup 40 synthetic",
+      "summary": "82%, across all 1,319 test questions These are from NVIDIA’s Ling-3 0-flash comparison on one DGX Spark",
       "category": "breaking",
-      "published_at": "2026-10-28T17:17:59+00:00",
-      "fetched_at": "2026-10-29T12:23:23.042625+00:00",
-      "author": "/u/cloud_kj",
+      "published_at": "2026-10-30T06:59:57+00:00",
+      "fetched_at": "2026-10-30T12:14:33.296584+00:00",
+      "author": "/u/AKAMA199",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "source": "NVIDIA Blog",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI These pow",
+      "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+      "source": "r/MachineLearning",
+      "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagge",
       "category": "breaking",
-      "published_at": "2026-10-28T15:00:46+00:00",
-      "fetched_at": "2026-10-29T12:23:13.449128+00:00",
-      "author": "Shreevar Rastogi",
+      "published_at": "2026-10-29T22:51:57+00:00",
+      "fetched_at": "2026-10-30T12:14:33.269867+00:00",
+      "author": "/u/Working_Hat5120",
       "tags": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
+        "reddit"
+      ]
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI Blog",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent",
+      "category": "breaking",
+      "published_at": "2026-10-29T17:00:00+00:00",
+      "fetched_at": "2026-10-30T12:14:18.899461+00:00",
+      "author": "",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "source": "NVIDIA Blog",
+      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats Something wicked this blade comes S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blen",
+      "category": "breaking",
+      "published_at": "2026-10-29T13:00:16+00:00",
+      "fetched_at": "2026-10-30T12:14:23.834940+00:00",
+      "author": "GeForce NOW Community",
+      "tags": [
         "Gaming",
-        "GeForce"
+        "Cloud Gaming",
+        "GeForce NOW"
       ]
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "source": "OpenAI Blog",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate",
       "category": "breaking",
-      "published_at": "2026-10-28T13:15:00+00:00",
-      "fetched_at": "2026-10-29T12:23:08.297847+00:00",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "fetched_at": "2026-10-30T12:14:18.916041+00:00",
       "author": "",
       "tags": [
-        "Company"
+        "Security"
       ]
     },
     {
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "source": "OpenAI Blog",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI Lawyers review grouped documents, summaries, and reports before advising clients",
       "category": "breaking",
-      "published_at": "2026-10-28T10:00:00+00:00",
-      "fetched_at": "2026-10-29T12:23:08.315914+00:00",
-      "author": "",
-      "tags": [
-        "Intelligence Age"
-      ]
-    },
-    {
-      "title": "A (lukewarm) defense of Minsky and Papert [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
-      "source": "r/MachineLearning",
-      "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts submitted by /",
-      "category": "research",
-      "published_at": "2026-10-29T10:20:46+00:00",
-      "fetched_at": "2026-10-29T12:23:22.910174+00:00",
-      "author": "/u/Seretur99",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Leaving a job to pursue a PhD [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-      "source": "r/MachineLearning",
-      "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD Working and doing t",
-      "category": "research",
-      "published_at": "2026-10-29T09:28:28+00:00",
-      "fetched_at": "2026-10-29T12:23:22.805770+00:00",
-      "author": "/u/Ok-Hunter-7702",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Using compute to verify paper results [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
-      "source": "r/MachineLearning",
-      "summary": "I’m not a reviewer yet, but I likely will be by next year As a reviewer, how do you decide to allocate compute to verify paper results (and is the code in the papers you’re reviewing usually easy to r",
-      "category": "research",
-      "published_at": "2026-10-29T02:01:46+00:00",
-      "fetched_at": "2026-10-29T12:23:23.271498+00:00",
-      "author": "/u/Relative_Wallaby_823",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "any fun casual podcasts? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
-      "source": "r/MachineLearning",
-      "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level Edit: small preference for conversation dis",
-      "category": "research",
-      "published_at": "2026-10-29T01:55:38+00:00",
-      "fetched_at": "2026-10-29T12:23:22.878331+00:00",
-      "author": "/u/Upstairs-Cry-9233",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
-      "source": "r/MachineLearning",
-      "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project ",
-      "category": "research",
-      "published_at": "2026-10-28T22:04:32+00:00",
-      "fetched_at": "2026-10-29T12:23:23.164037+00:00",
-      "author": "/u/SignificantZebra5883",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
-      "source": "r/MachineLearning",
-      "summary": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B The student finds its own first wrong step and writes a critique A frozen copy, conditioned on the prefix plus th",
-      "category": "research",
-      "published_at": "2026-10-28T17:52:10+00:00",
-      "fetched_at": "2026-10-29T12:23:23.242899+00:00",
-      "author": "/u/jhzyu",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
-      "source": "r/MachineLearning",
-      "summary": "In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm This made me wonder about something similar in machine learni",
-      "category": "research",
-      "published_at": "2026-10-28T16:42:51+00:00",
-      "fetched_at": "2026-10-29T12:23:23.424842+00:00",
-      "author": "/u/Hope999991",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
-      "source": "r/MachineLearning",
-      "summary": "I've been thinking about AI agent safety, and I built a test harness to check my own results I think it may be useful to people who study models too It records where each tool argument came from befor",
-      "category": "research",
-      "published_at": "2026-10-28T13:11:49+00:00",
-      "fetched_at": "2026-10-29T12:23:23.486594+00:00",
-      "author": "/u/Jay299792458",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
-      "source": "r/MachineLearning",
-      "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title \"An Obituary of the Review Process\", but in the interest of not sounding too defeatist, I will just say \"Critical C",
-      "category": "research",
-      "published_at": "2026-10-27T19:55:31+00:00",
-      "fetched_at": "2026-10-29T12:23:23.084191+00:00",
-      "author": "/u/dsmirza",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
-      "source": "r/MachineLearning",
-      "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch It can help build intuition for what autograd is doing under the hood and is a u",
-      "category": "research",
-      "published_at": "2026-10-27T19:20:08+00:00",
-      "fetched_at": "2026-10-29T12:23:23.361197+00:00",
-      "author": "/u/ifaposto",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
-      "source": "r/MachineLearning",
-      "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words What's the physical-world analogue 6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagi",
-      "category": "research",
-      "published_at": "2026-10-27T16:09:42+00:00",
-      "fetched_at": "2026-10-29T12:23:23.537791+00:00",
-      "author": "/u/FaeriaManic",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Teachers other than EMA for distillation ? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
-      "source": "r/MachineLearning",
-      "summary": "Hi guys, Self-distillation methods, see Self-Distillation Fine Tuning SDFT, usually use an EMA (Exponential Moving Average) teacher to get synced and stable targets I wanted to ask the community for r",
-      "category": "research",
-      "published_at": "2026-10-27T15:53:56+00:00",
-      "fetched_at": "2026-10-29T12:23:23.640330+00:00",
-      "author": "/u/ifaposto",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind Blog",
-      "summary": "",
-      "category": "industry",
-      "published_at": "2026-10-28T17:00:58+00:00",
-      "fetched_at": "2026-10-29T12:23:14.218912+00:00",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "fetched_at": "2026-10-30T12:14:18.938600+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+      "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
       "source": "r/MachineLearning",
-      "summary": "com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) wi",
-      "category": "industry",
-      "published_at": "2026-10-28T14:30:25+00:00",
-      "fetched_at": "2026-10-29T12:23:22.780040+00:00",
-      "author": "/u/NeuralNomad87",
+      "summary": "A friend of mine was doing gap analysis as a project , the result he got werent that big from the original papers, so he simply fabricated and increaaed the metrics results here and there, AND IT GOT ",
+      "category": "research",
+      "published_at": "2026-10-30T07:25:23+00:00",
+      "fetched_at": "2026-10-30T12:14:33.189868+00:00",
+      "author": "/u/Tonka-Jahari-Pizza",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind Blog",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "category": "industry",
-      "published_at": "2026-10-27T16:01:38+00:00",
-      "fetched_at": "2026-10-29T12:23:14.250163+00:00",
-      "author": "",
-      "tags": []
+      "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+      "source": "r/MachineLearning",
+      "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13 6 GB evidence package) Every red-blue colouring of {1,",
+      "category": "research",
+      "published_at": "2026-10-29T20:46:25+00:00",
+      "fetched_at": "2026-10-30T12:14:33.366829+00:00",
+      "author": "/u/Rodriguez909",
+      "tags": [
+        "reddit"
+      ]
     },
     {
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
+      "source": "r/MachineLearning",
+      "summary": "We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints Would anyone already attending be kind enough to present our poster on our b",
+      "category": "research",
+      "published_at": "2026-10-29T20:04:55+00:00",
+      "fetched_at": "2026-10-30T12:14:33.421116+00:00",
+      "author": "/u/Straight-Coach-7105",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+      "source": "r/MachineLearning",
+      "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 i",
+      "category": "research",
+      "published_at": "2026-10-29T17:53:52+00:00",
+      "fetched_at": "2026-10-30T12:14:33.326382+00:00",
+      "author": "/u/Code_MasterCody",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Old-school classifiers are still generally better than Jev [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+      "source": "r/MachineLearning",
+      "summary": "There’s a lot of hype right now around decision models like Jev But in most real use cases, you have some labeled data, and can use it to personalize your model So we tested the old-school approach to",
+      "category": "research",
+      "published_at": "2026-10-29T14:13:05+00:00",
+      "fetched_at": "2026-10-30T12:14:33.212468+00:00",
+      "author": "/u/csinva",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "source": "NVIDIA Blog",
-      "summary": "There are 57 million people worldwide living with dementia today For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it an",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
       "category": "industry",
-      "published_at": "2026-10-27T15:00:20+00:00",
-      "fetched_at": "2026-10-29T12:23:13.496964+00:00",
-      "author": "Anthony Costa",
+      "published_at": "2026-10-29T16:00:35+00:00",
+      "fetched_at": "2026-10-30T12:14:23.811321+00:00",
+      "author": "NVIDIA Writers",
       "tags": [
-        "AI",
+        "Robotics",
         "Agentic AI",
-        "AI for Good",
-        "Healthcare and Life Sciences",
-        "Open Source"
+        "Into the Omniverse",
+        "NVIDIA Isaac Sim",
+        "Omniverse"
       ]
     },
     {
-      "title": "Auto repair for Together GPU Clusters: from GPU fault to healthy node",
-      "url": "https://www.together.ai/blog/auto-repair-for-together-gpu-clusters",
-      "source": "Together AI Blog",
-      "summary": "Together GPU Clusters auto repair detects GPU, host and fabric faults, picks the lightest fix, and lets you decide per fault and per Xid code which repairs run automatically",
-      "category": "industry",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "fetched_at": "2026-10-29T12:23:21.616237+00:00",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-10-29T13:37:07+00:00",
+      "fetched_at": "2026-10-30T12:14:17.812086+00:00",
       "author": "",
       "tags": []
     },
@@ -676,11 +464,33 @@
       "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs But i guess it's deformable convolutions are pretty complex for those chips I want a sub second latency performance on these",
       "category": "tools",
       "published_at": "2026-10-29T08:51:23+00:00",
-      "fetched_at": "2026-10-29T12:23:22.857389+00:00",
+      "fetched_at": "2026-10-30T12:14:33.395561+00:00",
       "author": "/u/subhashg547",
       "tags": [
         "reddit"
       ]
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-30T12:14:17.835153+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-30T12:14:17.851414+00:00",
+      "author": "",
+      "tags": []
     },
     {
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
@@ -689,22 +499,9 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "fetched_at": "2026-10-29T12:23:07.035571+00:00",
+      "fetched_at": "2026-10-30T12:14:17.884681+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "How do you start with Agentic AI for a specific use case? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
-      "source": "r/MachineLearning",
-      "summary": "I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow I'm very well aware of LLMs but not very much into agentic AI and how do ",
-      "category": "tools",
-      "published_at": "2026-10-28T16:20:21+00:00",
-      "fetched_at": "2026-10-29T12:23:23.314059+00:00",
-      "author": "/u/ade17_in",
-      "tags": [
-        "reddit"
-      ]
     },
     {
       "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -713,7 +510,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-28T14:58:17+00:00",
-      "fetched_at": "2026-10-29T12:23:07.098681+00:00",
+      "fetched_at": "2026-10-30T12:14:17.918692+00:00",
       "author": "",
       "tags": []
     },
@@ -724,7 +521,7 @@
       "summary": "Model & weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard By projectin",
       "category": "tools",
       "published_at": "2026-10-28T13:34:01+00:00",
-      "fetched_at": "2026-10-29T12:23:22.982945+00:00",
+      "fetched_at": "2026-10-30T12:14:33.462205+00:00",
       "author": "/u/JeanMichelRanu",
       "tags": [
         "reddit"
@@ -737,22 +534,9 @@
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
       "category": "tools",
       "published_at": "2026-10-28T09:30:00+00:00",
-      "fetched_at": "2026-10-29T12:23:08.357001+00:00",
+      "fetched_at": "2026-10-30T12:14:18.961542+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
-      "source": "r/MachineLearning",
-      "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls com/Qu",
-      "category": "tools",
-      "published_at": "2026-10-27T20:13:07+00:00",
-      "fetched_at": "2026-10-29T12:23:23.606374+00:00",
-      "author": "/u/BedFalse6021",
-      "tags": [
-        "reddit"
-      ]
     },
     {
       "title": "Build specialized multimodal models with LFM3",
@@ -761,7 +545,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-27T17:16:52+00:00",
-      "fetched_at": "2026-10-29T12:23:07.126341+00:00",
+      "fetched_at": "2026-10-30T12:14:17.933916+00:00",
       "author": "",
       "tags": []
     },
@@ -772,7 +556,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-10-27T16:12:42+00:00",
-      "fetched_at": "2026-10-29T12:23:07.164141+00:00",
+      "fetched_at": "2026-10-30T12:14:17.955354+00:00",
       "author": "",
       "tags": []
     }

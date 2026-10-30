@@ -1,6 +1,250 @@
 {
-  "generated_at": "2026-10-29T12:24:01.846231+00:00",
+  "generated_at": "2026-10-30T12:15:10.118375+00:00",
   "archive": [
+    {
+      "date": "2026-10-30",
+      "total": 22,
+      "categories": {
+        "breaking": 6,
+        "research": 5,
+        "industry": 1,
+        "tools": 10
+      },
+      "articles": [
+        {
+          "title": "What would you require before calling an inference change “quality-neutral”? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
+          "source": "r/MachineLearning",
+          "summary": "82%, across all 1,319 test questions These are from NVIDIA’s Ling-3 0-flash comparison on one DGX Spark",
+          "category": "breaking",
+          "published_at": "2026-10-30T06:59:57+00:00",
+          "author": "/u/AKAMA199",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+          "source": "r/MachineLearning",
+          "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagge",
+          "category": "breaking",
+          "published_at": "2026-10-29T22:51:57+00:00",
+          "author": "/u/Working_Hat5120",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent",
+          "category": "breaking",
+          "published_at": "2026-10-29T17:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Safety"
+          ]
+        },
+        {
+          "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+          "source": "NVIDIA Blog",
+          "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats Something wicked this blade comes S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blen",
+          "category": "breaking",
+          "published_at": "2026-10-29T13:00:16+00:00",
+          "author": "GeForce NOW Community",
+          "tags": [
+            "Gaming",
+            "Cloud Gaming",
+            "GeForce NOW"
+          ]
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate",
+          "category": "breaking",
+          "published_at": "2026-10-29T09:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "source": "OpenAI Blog",
+          "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI Lawyers review grouped documents, summaries, and reports before advising clients",
+          "category": "breaking",
+          "published_at": "2026-10-29T07:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
+          "source": "r/MachineLearning",
+          "summary": "A friend of mine was doing gap analysis as a project , the result he got werent that big from the original papers, so he simply fabricated and increaaed the metrics results here and there, AND IT GOT ",
+          "category": "research",
+          "published_at": "2026-10-30T07:25:23+00:00",
+          "author": "/u/Tonka-Jahari-Pizza",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+          "source": "r/MachineLearning",
+          "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13 6 GB evidence package) Every red-blue colouring of {1,",
+          "category": "research",
+          "published_at": "2026-10-29T20:46:25+00:00",
+          "author": "/u/Rodriguez909",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
+          "source": "r/MachineLearning",
+          "summary": "We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints Would anyone already attending be kind enough to present our poster on our b",
+          "category": "research",
+          "published_at": "2026-10-29T20:04:55+00:00",
+          "author": "/u/Straight-Coach-7105",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+          "source": "r/MachineLearning",
+          "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 i",
+          "category": "research",
+          "published_at": "2026-10-29T17:53:52+00:00",
+          "author": "/u/Code_MasterCody",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Old-school classifiers are still generally better than Jev [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+          "source": "r/MachineLearning",
+          "summary": "There’s a lot of hype right now around decision models like Jev But in most real use cases, you have some labeled data, and can use it to personalize your model So we tested the old-school approach to",
+          "category": "research",
+          "published_at": "2026-10-29T14:13:05+00:00",
+          "author": "/u/csinva",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+          "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+          "source": "NVIDIA Blog",
+          "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
+          "category": "industry",
+          "published_at": "2026-10-29T16:00:35+00:00",
+          "author": "NVIDIA Writers",
+          "tags": [
+            "Robotics",
+            "Agentic AI",
+            "Into the Omniverse",
+            "NVIDIA Isaac Sim",
+            "Omniverse"
+          ]
+        },
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-29T13:37:07+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+          "source": "r/MachineLearning",
+          "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs But i guess it's deformable convolutions are pretty complex for those chips I want a sub second latency performance on these",
+          "category": "tools",
+          "published_at": "2026-10-29T08:51:23+00:00",
+          "author": "/u/subhashg547",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-10-28T14:58:17+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+          "source": "r/MachineLearning",
+          "summary": "Model & weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard By projectin",
+          "category": "tools",
+          "published_at": "2026-10-28T13:34:01+00:00",
+          "author": "/u/JeanMichelRanu",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora",
+          "source": "OpenAI Blog",
+          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
+          "category": "tools",
+          "published_at": "2026-10-28T09:30:00+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "total": 30,
