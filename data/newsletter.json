@@ -1,410 +1,1399 @@
 {
-  "generated_at": "2026-11-01T12:46:32.418768+00:00",
-  "article_count": 15,
+  "generated_at": "2026-11-02T14:54:53.526382+00:00",
+  "article_count": 50,
   "categories": {
-    "breaking": [
-      {
-        "title": "I need ai generated realistic faces dataset for my research [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl09v9/i_need_ai_generated_realistic_faces_dataset_for/",
-        "source": "r/MachineLearning",
-        "summary": "I need datasets like stylegan3 ( https://zenodo org/records/18177207 ) or stylegan for my research, When i go to websites like kaggle or something, i can only see old datasets, fullimage datasets or p",
-        "category": "breaking",
-        "published_at": "2026-11-01T11:00:24+00:00",
-        "fetched_at": "2026-11-01T12:45:53.167647+00:00",
-        "author": "/u/PinataGuyF",
-        "tags": [
-          "reddit"
-        ]
-      }
-    ],
+    "breaking": [],
     "research": [
       {
-        "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
+        "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
         "source": "r/MachineLearning",
-        "summary": "For context, I am a new postgraduate student in machine learning (but not a very good one) I have produced some augmented datasets (TIFF files where each file contains one object to be detected / clas",
+        "summary": "It was just before OpenAI started that I met Ilya, who you interviewed One of the first things he said to me was — “ Look The models, they just want to learn",
         "category": "research",
-        "published_at": "2026-11-01T12:28:22+00:00",
-        "fetched_at": "2026-11-01T12:45:53.126957+00:00",
-        "author": "/u/ScarlyLamorna",
+        "published_at": "2026-11-02T14:32:14+00:00",
+        "fetched_at": "2026-11-02T14:54:17.116510+00:00",
+        "author": "/u/XTXinverseXTY",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
+        "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
         "source": "r/MachineLearning",
-        "summary": "I'm an undergraduate researcher working independently on conversational memory systems I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the cours",
+        "summary": "39295 Code + verification package (every number in the paper is checked by a script): https://github com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface co/spaces/yliusci/passk-pric",
         "category": "research",
-        "published_at": "2026-11-01T10:38:34+00:00",
-        "fetched_at": "2026-11-01T12:45:53.217985+00:00",
-        "author": "/u/Deepnar_S",
+        "published_at": "2026-11-02T04:30:11+00:00",
+        "fetched_at": "2026-11-02T14:54:17.322737+00:00",
+        "author": "/u/SwimmingAmbition5148",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Best option for local models [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
-        "source": "r/MachineLearning",
-        "summary": "Hi there, wanted a suggestion from the community regarding the hardware to run local models The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Min",
+        "title": "Automatic Construction of Strong Simple Baselines",
+        "url": "https://arxiv.org/abs/2610.40700",
+        "source": "arXiv ML",
+        "summary": "40700v1 Announce Type: new Abstract: To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baselines As deep learning has become increasingly commo",
         "category": "research",
-        "published_at": "2026-11-01T07:16:53+00:00",
-        "fetched_at": "2026-11-01T12:45:53.240451+00:00",
-        "author": "/u/Fantastic-Nerve-4056",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:54.888618+00:00",
+        "author": "Caleb N. Ellington, Jiaqi Wang, Sohan Addagudi, Elijah Cole",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "q-bio.QM"
         ]
       },
       {
-        "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
-        "source": "r/MachineLearning",
-        "summary": "I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-fra",
+        "title": "Bayesian Distribution System State Estimation with Flow Matching",
+        "url": "https://arxiv.org/abs/2610.40728",
+        "source": "arXiv ML",
+        "summary": "40728v1 Announce Type: new Abstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measurements of the secondary substations, a",
         "category": "research",
-        "published_at": "2026-11-01T00:07:04+00:00",
-        "fetched_at": "2026-11-01T12:45:53.059758+00:00",
-        "author": "/u/OkCampaign8400",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:54.913230+00:00",
+        "author": "Nan Lin, Peter Palensky, Pedro Vergara Barrios",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "cs.AI",
+          "eess.SP"
         ]
       },
       {
-        "title": "Is neuro-evolution relevant? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
-        "source": "r/MachineLearning",
-        "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people a",
+        "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+        "url": "https://arxiv.org/abs/2610.40732",
+        "source": "arXiv ML",
+        "summary": "40732v1 Announce Type: new Abstract: Industrial Internet of Things (IIoT) edge pipelines routinely lose contiguous blocks of multi-sensor data to network dropouts and hardware faults The standard reme",
         "category": "research",
-        "published_at": "2026-10-31T18:09:53+00:00",
-        "fetched_at": "2026-11-01T12:45:53.386683+00:00",
-        "author": "/u/tapopalis",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:54.944582+00:00",
+        "author": "Jeongsu Park, Taehyeon Yun, Geonwoo Kim, Yuji Lim, Moohong Min",
         "tags": [
-          "reddit"
+          "cs.LG"
         ]
       },
       {
-        "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
-        "source": "r/MachineLearning",
-        "summary": "I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers I've been documenting ",
+        "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
+        "url": "https://arxiv.org/abs/2610.40736",
+        "source": "arXiv ML",
+        "summary": "40736v1 Announce Type: new Abstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class labels are available to guide dime",
         "category": "research",
-        "published_at": "2026-10-31T17:57:22+00:00",
-        "fetched_at": "2026-11-01T12:45:53.439791+00:00",
-        "author": "/u/the-random-guy-2002",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:54.975593+00:00",
+        "author": "Oussama Chelly, Michael E. Houle, Ken-ichi Kawarabayashi, Muhammad Rajabinasab, Arthur Zimek",
         "tags": [
-          "reddit"
+          "cs.LG"
         ]
       },
       {
-        "title": "I built a scikit-learn for RSI [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-        "source": "r/MachineLearning",
-        "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently Evaluation: How do we know a new va",
+        "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
+        "url": "https://arxiv.org/abs/2610.40740",
+        "source": "arXiv ML",
+        "summary": "40740v1 Announce Type: new Abstract: Continual adaptation requires deciding not only how to update a model, but whether to commit an update without exceeding a declared budget for changes to protected",
         "category": "research",
-        "published_at": "2026-10-31T16:33:26+00:00",
-        "fetched_at": "2026-11-01T12:45:53.363272+00:00",
-        "author": "/u/Pale-Training-6944",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.004181+00:00",
+        "author": "Ahanaf Hasan Ariq, Abrar Shahid",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "stat.ML"
         ]
       },
       {
-        "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
-        "source": "r/MachineLearning",
-        "summary": "submitted by /u/rottoneuro [link] [comments]",
+        "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+        "url": "https://arxiv.org/abs/2610.40757",
+        "source": "arXiv ML",
+        "summary": "40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powe",
         "category": "research",
-        "published_at": "2026-10-31T15:21:39+00:00",
-        "fetched_at": "2026-11-01T12:45:53.307860+00:00",
-        "author": "/u/rottoneuro",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.034976+00:00",
+        "author": "Daniel Levine, David van Dijk, Kenneth Kay",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "cs.AI",
+          "cs.NE"
         ]
       },
       {
-        "title": "Paid Research Survey for conference papers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
-        "source": "r/MachineLearning",
-        "summary": "Sorry if the flair is wrong I didn't see one that fit Not sure if anyone else has been receiving these emails, but companies are offering money for you to submit some answers to questions based on how",
+        "title": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+        "url": "https://arxiv.org/abs/2610.40857",
+        "source": "arXiv ML",
+        "summary": "40857v1 Announce Type: new Abstract: Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the ability to efficiently adapt to unseen data distr",
         "category": "research",
-        "published_at": "2026-10-30T22:42:27+00:00",
-        "fetched_at": "2026-11-01T12:45:53.470288+00:00",
-        "author": "/u/Icy-Park4287",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.066800+00:00",
+        "author": "Haaris Mian, Miles Cranmer, Alessandro Favero, Payel Mukhopadhyay",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "physics.flu-dyn"
         ]
       },
       {
-        "title": "Multi-Token Prediction Done Right [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-        "source": "r/MachineLearning",
-        "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP) MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better We show the standard MTP gradient hide",
+        "title": "FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation",
+        "url": "https://arxiv.org/abs/2610.40858",
+        "source": "arXiv ML",
+        "summary": "40858v1 Announce Type: new Abstract: Training a large language model is compute-bound, and current recipes divide the work between optimizers by hand: orthogonalized momentum for attention and MLP mat",
         "category": "research",
-        "published_at": "2026-10-30T18:53:20+00:00",
-        "fetched_at": "2026-11-01T12:45:53.335064+00:00",
-        "author": "/u/jayden_teoh_",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.108140+00:00",
+        "author": "Xiaojun Wu, Cehao Yang, Xuhui Jiang, Chengjin Xu, Jia Li, Jian Guo",
         "tags": [
-          "reddit"
+          "cs.LG",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+        "url": "https://arxiv.org/abs/2610.40861",
+        "source": "arXiv ML",
+        "summary": "40861v1 Announce Type: new Abstract: We study first-order regret guarantees for adversarial bandits with a fixed, known directed feedback graph For strongly observable graphs, [ACBDK15] establishes a ",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.134181+00:00",
+        "author": "Mengxiao Zhang, Yuheng Zhang, Haipeng Luo, Paul Mineiro",
+        "tags": [
+          "cs.LG",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+        "url": "https://arxiv.org/abs/2610.40871",
+        "source": "arXiv ML",
+        "summary": "40871v1 Announce Type: new Abstract: High-dimensional tensors are ubiquitous in real-world applications but lead to massive storage overhead Functional tensor decomposition addresses this by employing",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.168165+00:00",
+        "author": "Sheng Zhang, Xinyi Wang, Maolin Wang, Xiangyu Zhao",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+        "url": "https://arxiv.org/abs/2610.40901",
+        "source": "arXiv ML",
+        "summary": "40901v1 Announce Type: new Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work First, not all publications",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.200780+00:00",
+        "author": "ChengAo Shen, Yanjun Zhao, Haoxin Liu, Bonnie Chen, Miles Ma, Dongjin Song, Hanghang Tong, Qingsong Wen, Jingrui He, Jingchao Ni",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
+        "url": "https://arxiv.org/abs/2610.40914",
+        "source": "arXiv ML",
+        "summary": "40914v1 Announce Type: new Abstract: Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by additional supervision, spatial-str",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.231781+00:00",
+        "author": "Junha Park, Jaemyung Yu, Jaehui Hwang, Jong-Seok Lee, Dongyoon Han",
+        "tags": [
+          "cs.LG",
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
+        "url": "https://arxiv.org/abs/2610.40934",
+        "source": "arXiv ML",
+        "summary": "40934v1 Announce Type: new Abstract: In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of \"any-task inference",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.267704+00:00",
+        "author": "Matthew McDermott, Florent Pollet, Payal Chandak, Gregory Kondas, Liat Friedman Antwarg, Noa Dagan, Isaac Kohane",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Fair Recommender Systems for Intersecting Groups",
+        "url": "https://arxiv.org/abs/2610.40936",
+        "source": "arXiv ML",
+        "summary": "40936v1 Announce Type: new Abstract: Recommendation systems that optimize for the average user can fail to capture the preferences of diverse demographic groups We consider a dynamic recommendation sy",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.287380+00:00",
+        "author": "Christine Ling, Juba Ziani",
+        "tags": [
+          "cs.LG",
+          "cs.CY",
+          "cs.GT"
+        ]
+      },
+      {
+        "title": "Kernel-based Interpolatory Methods for Context Compression of Attention Mechanisms",
+        "url": "https://arxiv.org/abs/2610.40943",
+        "source": "arXiv ML",
+        "summary": "40943v1 Announce Type: new Abstract: The bottleneck of attention mechanisms, which are the fundamental building block of modern language models, is their quadratic complexity in terms of context size ",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.318688+00:00",
+        "author": "Michel Fabrice Serret, Laura Grigori",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL",
+          "cs.NA",
+          "math.NA"
+        ]
+      },
+      {
+        "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.40945",
+        "source": "arXiv ML",
+        "summary": "40945v1 Announce Type: new Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy In practice, an inference engine sam",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.351528+00:00",
+        "author": "Yu Li, Yufa Zhou, Tian Lan",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models",
+        "url": "https://arxiv.org/abs/2610.40954",
+        "source": "arXiv ML",
+        "summary": "40954v1 Announce Type: new Abstract: Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies, supported by large annotated datasets and improved rep",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.387104+00:00",
+        "author": "Andre Guarnier De Mitri, Giovani Decico Lucafo, Miller Matheus Lima Anacleto Rocha, Diego Furtado Silva",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Monte Carlo Random Walk Kernel",
+        "url": "https://arxiv.org/abs/2610.40956",
+        "source": "arXiv ML",
+        "summary": "40956v1 Announce Type: new Abstract: We introduce the Monte Carlo Random Walk Kernel (MCRWK), an estimator whose per-pair cost is independent of graph size and derived directly from the random walk ke",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.401326+00:00",
+        "author": "Arslan Iamaletdinov, Elfat Sabitov, Konstantin Sorokin",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "RC Prediction: A Python Package for Parameter-Aware Reservoir Computing",
+        "url": "https://arxiv.org/abs/2610.40984",
+        "source": "arXiv ML",
+        "summary": "40984v1 Announce Type: new Abstract: A nonlinear dynamical system can be characterized by the autonomous evolution of its state in time and its dependence on system parameters As a parameter varies, t",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.428162+00:00",
+        "author": "Jin-Cheng Rao, Zheng-Meng Zhai, Ying-Cheng Lai",
+        "tags": [
+          "cs.LG",
+          "cs.SY",
+          "eess.SY",
+          "math.DS"
+        ]
+      },
+      {
+        "title": "Steering Vectors as a Training Signal in LLM Post-Training",
+        "url": "https://arxiv.org/abs/2610.40998",
+        "source": "arXiv ML",
+        "summary": "40998v1 Announce Type: new Abstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time While prior work has mainly use",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.453140+00:00",
+        "author": "Tiejin Chen, Maunil Vyas, Huaiyuan Yao, Hua Wei",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "When Can Unlabeled Data Pools Replace Membership Queries?",
+        "url": "https://arxiv.org/abs/2610.41001",
+        "source": "arXiv ML",
+        "summary": "41001v1 Announce Type: new Abstract: Membership queries let a learner label arbitrary points and give near-optimal $\\tilde O(n\\log(1/\\eps))$ label complexity for halfspaces under every marginal A pool",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.476031+00:00",
+        "author": "Dravyansh Sharma",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "MOSAIC: Addressing Disproportionate Task-Modality Dependencies via Modality-Partitioned Gradient Routing",
+        "url": "https://arxiv.org/abs/2610.41004",
+        "source": "arXiv ML",
+        "summary": "41004v1 Announce Type: new Abstract: In multi-task settings, combining multiple modalities allows task representations to draw on signals that a single modality alone would not capture However, indivi",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.514735+00:00",
+        "author": "Aryan Chowdhury, Yizheng Sun, Thomas Carroll, Riza Batista-Navarro",
+        "tags": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Towards Understanding Score-Seeking in LLMs",
+        "url": "https://arxiv.org/abs/2610.41014",
+        "source": "arXiv ML",
+        "summary": "41014v1 Announce Type: new Abstract: Production large language models sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended, sometimes in highly ",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.533371+00:00",
+        "author": "Aghyad Deeb, Ryan Greenblatt, Alex Mallen",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Do Language Models Know What Compelling Scientific Evidence Looks Like?",
+        "url": "https://arxiv.org/abs/2610.41015",
+        "source": "arXiv ML",
+        "summary": "41015v1 Announce Type: new Abstract: Expert scientists excel at weighing empirical findings from multiple sources that vary in both statistical reliability and epistemic relevance To what extent are l",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.560043+00:00",
+        "author": "Conor Igoe, Gabriel Grand, Zane Koch, Albert Bou, Eli Moss, Michaela M. Hinks, Samuel G. Rodriques, Andrew White, Siddharth Narayanan",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.41022",
+        "source": "arXiv ML",
+        "summary": "41022v1 Announce Type: new Abstract: Latent world models allow reinforcement learning agents to learn policies from imagined trajectories, yet determining the optimal depth of model reliance remains a",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.591472+00:00",
+        "author": "Shashank Gupta, Pilhwa Lee",
+        "tags": [
+          "cs.LG",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "Omniprediction for All Mixable Proper Losses and Beyond",
+        "url": "https://arxiv.org/abs/2610.41023",
+        "source": "arXiv ML",
+        "summary": "41023v1 Announce Type: new Abstract: Omniprediction concerns the task of making predictions that are simultaneously accurate with respect to different losses Earlier results by [CV09] show that in an ",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.613655+00:00",
+        "author": "Junyan Liu, Haipeng Luo, Lillian J. Ratliff",
+        "tags": [
+          "cs.LG",
+          "cs.DS",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "When can Optimally Trained Transformers Achieve Near-Lossless Token Prediction for non-Markovian Data?",
+        "url": "https://arxiv.org/abs/2610.41038",
+        "source": "arXiv ML",
+        "summary": "41038v1 Announce Type: new Abstract: There exists little mathematical theory explaining why Transformer architectures are empirically successful even for non-Markovian data To this end, this paper stu",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.652486+00:00",
+        "author": "Ka\\u{g}an Akman, Jake Feldman Starosta, Naci Saldi, Serdar Y\\\"uksel",
+        "tags": [
+          "cs.LG",
+          "math.OC",
+          "math.PR"
+        ]
+      },
+      {
+        "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
+        "url": "https://arxiv.org/abs/2610.41039",
+        "source": "arXiv ML",
+        "summary": "41039v1 Announce Type: new Abstract: As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their archi",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.688701+00:00",
+        "author": "Fei Wang, Baochun Li, Bo Li",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.CR"
+        ]
+      },
+      {
+        "title": "Before We Adapt: The Zero-Shot Generalization Bottleneck in Continual World Models",
+        "url": "https://arxiv.org/abs/2610.41041",
+        "source": "arXiv ML",
+        "summary": "41041v1 Announce Type: new Abstract: Continual reinforcement learning (CRL) requires agents to operate under environmental changes while reusing prior knowledge whenever possible We argue that model-b",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.720493+00:00",
+        "author": "Amir Mesbah, Di Wu",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Localizing predictive concepts encoded in neural representations via hierarchical testing",
+        "url": "https://arxiv.org/abs/2610.41046",
+        "source": "arXiv ML",
+        "summary": "41046v1 Announce Type: new Abstract: Understanding which regulatory sequence motifs a genomic deep learning model has learned, with statistical error guarantees, is essential for trusting its use in d",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:55.755415+00:00",
+        "author": "Viktoriia Huryn, Marco Simnacher, Jim Berend, Wojciech Samek, Christoph Lippert, Sonja Greven, Uwe Ohler",
+        "tags": [
+          "cs.LG",
+          "q-bio.GN"
+        ]
+      },
+      {
+        "title": "PathoJev: Efficient Pathology Decisions from Shared Visual Context",
+        "url": "https://arxiv.org/abs/2610.40752",
+        "source": "arXiv CV",
+        "summary": "40752v1 Announce Type: new Abstract: Pathology workflows require multiple visual judgments about the same slide, from identifying tumor type to assessing grade and invasion Generating and parsing a se",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.341907+00:00",
+        "author": "Chengyang Zhang, Wenchuan Zhang, Bo Li, Xinyu Liu, Jiaming Yang, Mengran Li, Jie Chen, Wei Ju, Yuhao Yi, Hong Bu, Jiancheng Lv",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "DyCraft: An Agentic System for Long-Horizon 4D Scene Generation",
+        "url": "https://arxiv.org/abs/2610.40754",
+        "source": "arXiv CV",
+        "summary": "40754v1 Announce Type: new Abstract: While frontier coding agents can generate high-quality 3D scenes and articulated assets, they struggle to create coherent long-horizon animations When equipped wit",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.368293+00:00",
+        "author": "Jeff Tan, Hang Dai, Zeqian Long, Yanzhe Lyu, R. Kenny Jones, Shangzhe Wu, Chen Geng, Jiajun Wu",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV Scenes",
+        "url": "https://arxiv.org/abs/2610.40801",
+        "source": "arXiv CV",
+        "summary": "40801v1 Announce Type: new Abstract: The reasoning capabilities of vision-language models (VLMs) can be limited by incomplete or inaccurate visual observations in the general domain In unmanned aerial",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.402671+00:00",
+        "author": "Jiahe Wu, Bing Cao, Xingyue Guo, Ruipu Zhao, Beiming Yu, Jiekang Feng, Qinghua Hu, Pengfei Zhu",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "EgoHSI3R: Online 4D Hand-Scene Interaction Reconstruction from Egocentric Video",
+        "url": "https://arxiv.org/abs/2610.40832",
+        "source": "arXiv CV",
+        "summary": "40832v1 Announce Type: new Abstract: Egocentric videos offer an abundant source of hand-scene interactions for embodied learning, which requires recovering hands, camera, and scene consistently in a s",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.437341+00:00",
+        "author": "Mingzhi Pei, Zhangchen Ye, Ruoqu Chen, Liu Cao, Mengdi Xu",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Spatial Atlas-Informed Loss Ensembles for Whole-Body PSMA PET/CT Metastasis Segmentation",
+        "url": "https://arxiv.org/abs/2610.40834",
+        "source": "arXiv CV",
+        "summary": "40834v1 Announce Type: new Abstract: Existing whole-body PSMA PET/CT prostate metastasis segmentation methods generally rely on images alone, without explicitly incorporating where metastases tend to ",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.474285+00:00",
+        "author": "Grant N. Chau, Bashirul A. Biswas, Biratal Wagle, Matthew E. Maeder, Michael S. Leapman, James B. Yu, Indrani Bhattacharya",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images",
+        "url": "https://arxiv.org/abs/2610.40900",
+        "source": "arXiv CV",
+        "summary": "40900v1 Announce Type: new Abstract: Reliable visual perception is essential for safe autonomous underwater exploration Yet vision models pretrained on terrestrial images become less reliable underwat",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.505125+00:00",
+        "author": "Md Shihabul Islam Shovo, Nishi Kanta Paul, Trung Dong, Xiaomin Lin",
+        "tags": [
+          "cs.CV",
+          "cs.LG",
+          "cs.RO"
+        ]
+      },
+      {
+        "title": "Sparse Autoencoders for Expert-Assisted Interpretation of Histopathology Foundation Model Embeddings",
+        "url": "https://arxiv.org/abs/2610.40905",
+        "source": "arXiv CV",
+        "summary": "40905v1 Announce Type: new Abstract: Histopathology foundation models learn rich embedding representations, but their internal structure remains difficult to inspect Concept-level interpretability is ",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.543050+00:00",
+        "author": "\\v{S}imon \\v{S}m\\'ida, Wanda Benesova",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "Coupled or Independent? Fault Coupling in Agentic Medical Vision Systems",
+        "url": "https://arxiv.org/abs/2610.40913",
+        "source": "arXiv CV",
+        "summary": "40913v1 Announce Type: new Abstract: Vision-language agents equipped with tools expose intermediate outputs for inspection and comparison with the model's reasoning, which may offer safety benefits ov",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.572487+00:00",
+        "author": "Nishi Kanta Paul, Md Shihabul Islam Shovo, Md Mostafijur Rahman, Jamil Fayyad",
+        "tags": [
+          "cs.CV",
+          "cs.CR"
+        ]
+      },
+      {
+        "title": "Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models",
+        "url": "https://arxiv.org/abs/2610.40935",
+        "source": "arXiv CV",
+        "summary": "40935v1 Announce Type: new Abstract: Vision-centric autonomous driving models encode thousands of image tokens per frame, yet most depict sky, buildings, or empty road---content irrelevant to planning",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.615687+00:00",
+        "author": "Zeping Zhang, Zhuoya Zhao, Robert Lagani\\`ere",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "UFMF: Radar-Guided Kinematic Priors for Real-Time 4D Occupancy Forecasting",
+        "url": "https://arxiv.org/abs/2610.40947",
+        "source": "arXiv CV",
+        "summary": "40947v1 Announce Type: new Abstract: Real-time 4D occupancy forecasting requires reliably extrapolating both ego motion and surrounding actor motion under strict latency budgets Recent occupancy world",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.651247+00:00",
+        "author": "Zeping Zhang, Zhuoya Zhao, Robert Lagani\\`ere",
+        "tags": [
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "AVID: A Weakly Aligned RGB-Infrared Dataset and Perturbation Benchmark for Tiny Aerial Targets",
+        "url": "https://arxiv.org/abs/2610.40949",
+        "source": "arXiv CV",
+        "summary": "40949v1 Announce Type: new Abstract: Long-range detection of small drones is complicated by their visual similarity to birds and by the limited detail available from ground-based cameras Combining vis",
+        "category": "research",
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.689672+00:00",
+        "author": "Dharini Raghavan, Vishnu Rao, Sethu Selvi S",
+        "tags": [
+          "cs.CV"
         ]
       }
     ],
     "industry": [
       {
-        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
         "source": "r/MachineLearning",
-        "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+        "summary": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI ",
         "category": "industry",
-        "published_at": "2026-10-31T02:30:21+00:00",
-        "fetched_at": "2026-11-01T12:45:52.989598+00:00",
+        "published_at": "2026-11-02T10:04:25+00:00",
+        "fetched_at": "2026-11-02T14:54:17.065155+00:00",
+        "author": "/u/Hope999991",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
+        "source": "r/MachineLearning",
+        "summary": "I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique obje",
+        "category": "industry",
+        "published_at": "2026-11-02T05:15:50+00:00",
+        "fetched_at": "2026-11-02T14:54:17.195777+00:00",
+        "author": "/u/Expert-Ad598",
+        "tags": [
+          "reddit"
+        ]
+      },
+      {
+        "title": "Why do all NN optimizers have weird names? [d]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+        "source": "r/MachineLearning",
+        "summary": "Muon is a bit better but it has the same name as the particle from physics Whenever I want to search about these tones of completely irrelevant results come up because of their non-unqiue names Adam w",
+        "category": "industry",
+        "published_at": "2026-11-01T16:51:18+00:00",
+        "fetched_at": "2026-11-02T14:54:17.141631+00:00",
+        "author": "/u/Future_Pace_5290",
+        "tags": [
+          "reddit"
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+        "source": "r/MachineLearning",
+        "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc Please mention the payment and pricing requirements for products and services Please do not post link s",
+        "category": "tools",
+        "published_at": "2026-11-02T03:15:07+00:00",
+        "fetched_at": "2026-11-02T14:54:17.023184+00:00",
         "author": "/u/AutoModerator",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-        "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-        "source": "NVIDIA Blog",
-        "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestr",
-        "category": "industry",
-        "published_at": "2026-10-30T15:00:10+00:00",
-        "fetched_at": "2026-11-01T12:45:44.530525+00:00",
-        "author": "Chris Porter",
+        "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+        "source": "r/MachineLearning",
+        "summary": "width=2400&format=png&auto=webp&s=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silic",
+        "category": "tools",
+        "published_at": "2026-11-02T01:05:33+00:00",
+        "fetched_at": "2026-11-02T14:54:17.264704+00:00",
+        "author": "/u/DotaMate",
         "tags": [
-          "AI",
-          "Artificial Intelligence",
-          "Nemotron",
-          "NVIDIA Holoscan",
-          "Science"
+          "reddit"
         ]
       },
       {
-        "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-        "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-        "source": "Microsoft Research Blog",
-        "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used",
-        "category": "industry",
-        "published_at": "2026-10-30T13:05:28+00:00",
-        "fetched_at": "2026-11-01T12:45:42.568119+00:00",
-        "author": "Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, Chandra Inguva, Jenny Chen, Minha Hwang, Sam Ade Jacobs",
-        "tags": [
-          "Research Blog"
-        ]
-      }
-    ],
-    "tools": [
-      {
-        "title": "nemotron-halloween",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-        "source": "Hugging Face Blog",
-        "summary": "",
+        "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
+        "url": "https://arxiv.org/abs/2610.41037",
+        "source": "arXiv CV",
+        "summary": "41037v1 Announce Type: new Abstract: Web overlays, such as cookie consent banners, newsletter prompts, and age gates, obstruct automated web crawlers and degrade downstream document representations Wh",
         "category": "tools",
-        "published_at": "2026-10-30T17:57:24+00:00",
-        "fetched_at": "2026-11-01T12:45:38.836017+00:00",
-        "author": "",
-        "tags": []
+        "published_at": "2026-11-02T00:00:00-05:00",
+        "fetched_at": "2026-11-02T14:53:56.862624+00:00",
+        "author": "Jiannan Huang, Jerry Ding, Li Yu, Zhenting Li",
+        "tags": [
+          "cs.CV",
+          "cs.AI",
+          "cs.IR"
+        ]
+      },
+      {
+        "title": "[D] Simple Questions Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
+        "source": "r/MachineLearning",
+        "summary": "Please post your questions here instead of creating a new thread Encourage others who create new posts for questions to post here instead Thread will stay alive until next one so keep posting after th",
+        "category": "tools",
+        "published_at": "2026-11-01T16:00:36+00:00",
+        "fetched_at": "2026-11-02T14:54:17.211347+00:00",
+        "author": "/u/AutoModerator",
+        "tags": [
+          "reddit"
+        ]
       }
     ]
   },
   "all_articles": [
     {
-      "title": "I need ai generated realistic faces dataset for my research [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl09v9/i_need_ai_generated_realistic_faces_dataset_for/",
+      "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
       "source": "r/MachineLearning",
-      "summary": "I need datasets like stylegan3 ( https://zenodo org/records/18177207 ) or stylegan for my research, When i go to websites like kaggle or something, i can only see old datasets, fullimage datasets or p",
-      "category": "breaking",
-      "published_at": "2026-11-01T11:00:24+00:00",
-      "fetched_at": "2026-11-01T12:45:53.167647+00:00",
-      "author": "/u/PinataGuyF",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
-      "source": "r/MachineLearning",
-      "summary": "For context, I am a new postgraduate student in machine learning (but not a very good one) I have produced some augmented datasets (TIFF files where each file contains one object to be detected / clas",
+      "summary": "It was just before OpenAI started that I met Ilya, who you interviewed One of the first things he said to me was — “ Look The models, they just want to learn",
       "category": "research",
-      "published_at": "2026-11-01T12:28:22+00:00",
-      "fetched_at": "2026-11-01T12:45:53.126957+00:00",
-      "author": "/u/ScarlyLamorna",
+      "published_at": "2026-11-02T14:32:14+00:00",
+      "fetched_at": "2026-11-02T14:54:17.116510+00:00",
+      "author": "/u/XTXinverseXTY",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
+      "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
       "source": "r/MachineLearning",
-      "summary": "I'm an undergraduate researcher working independently on conversational memory systems I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the cours",
+      "summary": "39295 Code + verification package (every number in the paper is checked by a script): https://github com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface co/spaces/yliusci/passk-pric",
       "category": "research",
-      "published_at": "2026-11-01T10:38:34+00:00",
-      "fetched_at": "2026-11-01T12:45:53.217985+00:00",
-      "author": "/u/Deepnar_S",
+      "published_at": "2026-11-02T04:30:11+00:00",
+      "fetched_at": "2026-11-02T14:54:17.322737+00:00",
+      "author": "/u/SwimmingAmbition5148",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Best option for local models [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
-      "source": "r/MachineLearning",
-      "summary": "Hi there, wanted a suggestion from the community regarding the hardware to run local models The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Min",
+      "title": "Automatic Construction of Strong Simple Baselines",
+      "url": "https://arxiv.org/abs/2610.40700",
+      "source": "arXiv ML",
+      "summary": "40700v1 Announce Type: new Abstract: To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baselines As deep learning has become increasingly commo",
       "category": "research",
-      "published_at": "2026-11-01T07:16:53+00:00",
-      "fetched_at": "2026-11-01T12:45:53.240451+00:00",
-      "author": "/u/Fantastic-Nerve-4056",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:54.888618+00:00",
+      "author": "Caleb N. Ellington, Jiaqi Wang, Sohan Addagudi, Elijah Cole",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "q-bio.QM"
       ]
     },
     {
-      "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
-      "source": "r/MachineLearning",
-      "summary": "I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-fra",
+      "title": "Bayesian Distribution System State Estimation with Flow Matching",
+      "url": "https://arxiv.org/abs/2610.40728",
+      "source": "arXiv ML",
+      "summary": "40728v1 Announce Type: new Abstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measurements of the secondary substations, a",
       "category": "research",
-      "published_at": "2026-11-01T00:07:04+00:00",
-      "fetched_at": "2026-11-01T12:45:53.059758+00:00",
-      "author": "/u/OkCampaign8400",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:54.913230+00:00",
+      "author": "Nan Lin, Peter Palensky, Pedro Vergara Barrios",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "cs.AI",
+        "eess.SP"
       ]
     },
     {
-      "title": "Is neuro-evolution relevant? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
-      "source": "r/MachineLearning",
-      "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people a",
+      "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.40732",
+      "source": "arXiv ML",
+      "summary": "40732v1 Announce Type: new Abstract: Industrial Internet of Things (IIoT) edge pipelines routinely lose contiguous blocks of multi-sensor data to network dropouts and hardware faults The standard reme",
       "category": "research",
-      "published_at": "2026-10-31T18:09:53+00:00",
-      "fetched_at": "2026-11-01T12:45:53.386683+00:00",
-      "author": "/u/tapopalis",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:54.944582+00:00",
+      "author": "Jeongsu Park, Taehyeon Yun, Geonwoo Kim, Yuji Lim, Moohong Min",
       "tags": [
-        "reddit"
+        "cs.LG"
       ]
     },
     {
-      "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
-      "source": "r/MachineLearning",
-      "summary": "I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers I've been documenting ",
+      "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
+      "url": "https://arxiv.org/abs/2610.40736",
+      "source": "arXiv ML",
+      "summary": "40736v1 Announce Type: new Abstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class labels are available to guide dime",
       "category": "research",
-      "published_at": "2026-10-31T17:57:22+00:00",
-      "fetched_at": "2026-11-01T12:45:53.439791+00:00",
-      "author": "/u/the-random-guy-2002",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:54.975593+00:00",
+      "author": "Oussama Chelly, Michael E. Houle, Ken-ichi Kawarabayashi, Muhammad Rajabinasab, Arthur Zimek",
       "tags": [
-        "reddit"
+        "cs.LG"
       ]
     },
     {
-      "title": "I built a scikit-learn for RSI [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-      "source": "r/MachineLearning",
-      "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently Evaluation: How do we know a new va",
+      "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
+      "url": "https://arxiv.org/abs/2610.40740",
+      "source": "arXiv ML",
+      "summary": "40740v1 Announce Type: new Abstract: Continual adaptation requires deciding not only how to update a model, but whether to commit an update without exceeding a declared budget for changes to protected",
       "category": "research",
-      "published_at": "2026-10-31T16:33:26+00:00",
-      "fetched_at": "2026-11-01T12:45:53.363272+00:00",
-      "author": "/u/Pale-Training-6944",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.004181+00:00",
+      "author": "Ahanaf Hasan Ariq, Abrar Shahid",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "stat.ML"
       ]
     },
     {
-      "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
-      "source": "r/MachineLearning",
-      "summary": "submitted by /u/rottoneuro [link] [comments]",
+      "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+      "url": "https://arxiv.org/abs/2610.40757",
+      "source": "arXiv ML",
+      "summary": "40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powe",
       "category": "research",
-      "published_at": "2026-10-31T15:21:39+00:00",
-      "fetched_at": "2026-11-01T12:45:53.307860+00:00",
-      "author": "/u/rottoneuro",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.034976+00:00",
+      "author": "Daniel Levine, David van Dijk, Kenneth Kay",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "cs.AI",
+        "cs.NE"
       ]
     },
     {
-      "title": "Paid Research Survey for conference papers [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
-      "source": "r/MachineLearning",
-      "summary": "Sorry if the flair is wrong I didn't see one that fit Not sure if anyone else has been receiving these emails, but companies are offering money for you to submit some answers to questions based on how",
+      "title": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2610.40857",
+      "source": "arXiv ML",
+      "summary": "40857v1 Announce Type: new Abstract: Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the ability to efficiently adapt to unseen data distr",
       "category": "research",
-      "published_at": "2026-10-30T22:42:27+00:00",
-      "fetched_at": "2026-11-01T12:45:53.470288+00:00",
-      "author": "/u/Icy-Park4287",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.066800+00:00",
+      "author": "Haaris Mian, Miles Cranmer, Alessandro Favero, Payel Mukhopadhyay",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "physics.flu-dyn"
       ]
     },
     {
-      "title": "Multi-Token Prediction Done Right [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-      "source": "r/MachineLearning",
-      "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP) MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better We show the standard MTP gradient hide",
+      "title": "FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation",
+      "url": "https://arxiv.org/abs/2610.40858",
+      "source": "arXiv ML",
+      "summary": "40858v1 Announce Type: new Abstract: Training a large language model is compute-bound, and current recipes divide the work between optimizers by hand: orthogonalized momentum for attention and MLP mat",
       "category": "research",
-      "published_at": "2026-10-30T18:53:20+00:00",
-      "fetched_at": "2026-11-01T12:45:53.335064+00:00",
-      "author": "/u/jayden_teoh_",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.108140+00:00",
+      "author": "Xiaojun Wu, Cehao Yang, Xuhui Jiang, Chengjin Xu, Jia Li, Jian Guo",
       "tags": [
-        "reddit"
+        "cs.LG",
+        "cs.CL"
       ]
     },
     {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "title": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+      "url": "https://arxiv.org/abs/2610.40861",
+      "source": "arXiv ML",
+      "summary": "40861v1 Announce Type: new Abstract: We study first-order regret guarantees for adversarial bandits with a fixed, known directed feedback graph For strongly observable graphs, [ACBDK15] establishes a ",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.134181+00:00",
+      "author": "Mengxiao Zhang, Yuheng Zhang, Haipeng Luo, Paul Mineiro",
+      "tags": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+      "url": "https://arxiv.org/abs/2610.40871",
+      "source": "arXiv ML",
+      "summary": "40871v1 Announce Type: new Abstract: High-dimensional tensors are ubiquitous in real-world applications but lead to massive storage overhead Functional tensor decomposition addresses this by employing",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.168165+00:00",
+      "author": "Sheng Zhang, Xinyi Wang, Maolin Wang, Xiangyu Zhao",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+      "url": "https://arxiv.org/abs/2610.40901",
+      "source": "arXiv ML",
+      "summary": "40901v1 Announce Type: new Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work First, not all publications",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.200780+00:00",
+      "author": "ChengAo Shen, Yanjun Zhao, Haoxin Liu, Bonnie Chen, Miles Ma, Dongjin Song, Hanghang Tong, Qingsong Wen, Jingrui He, Jingchao Ni",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
+      "url": "https://arxiv.org/abs/2610.40914",
+      "source": "arXiv ML",
+      "summary": "40914v1 Announce Type: new Abstract: Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by additional supervision, spatial-str",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.231781+00:00",
+      "author": "Junha Park, Jaemyung Yu, Jaehui Hwang, Jong-Seok Lee, Dongyoon Han",
+      "tags": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
+      "url": "https://arxiv.org/abs/2610.40934",
+      "source": "arXiv ML",
+      "summary": "40934v1 Announce Type: new Abstract: In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of \"any-task inference",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.267704+00:00",
+      "author": "Matthew McDermott, Florent Pollet, Payal Chandak, Gregory Kondas, Liat Friedman Antwarg, Noa Dagan, Isaac Kohane",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
       "source": "r/MachineLearning",
-      "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for j",
+      "summary": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI ",
       "category": "industry",
-      "published_at": "2026-10-31T02:30:21+00:00",
-      "fetched_at": "2026-11-01T12:45:52.989598+00:00",
+      "published_at": "2026-11-02T10:04:25+00:00",
+      "fetched_at": "2026-11-02T14:54:17.065155+00:00",
+      "author": "/u/Hope999991",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
+      "source": "r/MachineLearning",
+      "summary": "I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique obje",
+      "category": "industry",
+      "published_at": "2026-11-02T05:15:50+00:00",
+      "fetched_at": "2026-11-02T14:54:17.195777+00:00",
+      "author": "/u/Expert-Ad598",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Why do all NN optimizers have weird names? [d]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+      "source": "r/MachineLearning",
+      "summary": "Muon is a bit better but it has the same name as the particle from physics Whenever I want to search about these tones of completely irrelevant results come up because of their non-unqiue names Adam w",
+      "category": "industry",
+      "published_at": "2026-11-01T16:51:18+00:00",
+      "fetched_at": "2026-11-02T14:54:17.141631+00:00",
+      "author": "/u/Future_Pace_5290",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+      "source": "r/MachineLearning",
+      "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc Please mention the payment and pricing requirements for products and services Please do not post link s",
+      "category": "tools",
+      "published_at": "2026-11-02T03:15:07+00:00",
+      "fetched_at": "2026-11-02T14:54:17.023184+00:00",
       "author": "/u/AutoModerator",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA Blog",
-      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestr",
-      "category": "industry",
-      "published_at": "2026-10-30T15:00:10+00:00",
-      "fetched_at": "2026-11-01T12:45:44.530525+00:00",
-      "author": "Chris Porter",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "Nemotron",
-        "NVIDIA Holoscan",
-        "Science"
-      ]
-    },
-    {
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "source": "Microsoft Research Blog",
-      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used",
-      "category": "industry",
-      "published_at": "2026-10-30T13:05:28+00:00",
-      "fetched_at": "2026-11-01T12:45:42.568119+00:00",
-      "author": "Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, Chandra Inguva, Jenny Chen, Minha Hwang, Sam Ade Jacobs",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "Hugging Face Blog",
-      "summary": "",
+      "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+      "source": "r/MachineLearning",
+      "summary": "width=2400&format=png&auto=webp&s=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silic",
       "category": "tools",
-      "published_at": "2026-10-30T17:57:24+00:00",
-      "fetched_at": "2026-11-01T12:45:38.836017+00:00",
-      "author": "",
-      "tags": []
+      "published_at": "2026-11-02T01:05:33+00:00",
+      "fetched_at": "2026-11-02T14:54:17.264704+00:00",
+      "author": "/u/DotaMate",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
+      "url": "https://arxiv.org/abs/2610.41037",
+      "source": "arXiv CV",
+      "summary": "41037v1 Announce Type: new Abstract: Web overlays, such as cookie consent banners, newsletter prompts, and age gates, obstruct automated web crawlers and degrade downstream document representations Wh",
+      "category": "tools",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.862624+00:00",
+      "author": "Jiannan Huang, Jerry Ding, Li Yu, Zhenting Li",
+      "tags": [
+        "cs.CV",
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    {
+      "title": "[D] Simple Questions Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
+      "source": "r/MachineLearning",
+      "summary": "Please post your questions here instead of creating a new thread Encourage others who create new posts for questions to post here instead Thread will stay alive until next one so keep posting after th",
+      "category": "tools",
+      "published_at": "2026-11-01T16:00:36+00:00",
+      "fetched_at": "2026-11-02T14:54:17.211347+00:00",
+      "author": "/u/AutoModerator",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Fair Recommender Systems for Intersecting Groups",
+      "url": "https://arxiv.org/abs/2610.40936",
+      "source": "arXiv ML",
+      "summary": "40936v1 Announce Type: new Abstract: Recommendation systems that optimize for the average user can fail to capture the preferences of diverse demographic groups We consider a dynamic recommendation sy",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.287380+00:00",
+      "author": "Christine Ling, Juba Ziani",
+      "tags": [
+        "cs.LG",
+        "cs.CY",
+        "cs.GT"
+      ]
+    },
+    {
+      "title": "Kernel-based Interpolatory Methods for Context Compression of Attention Mechanisms",
+      "url": "https://arxiv.org/abs/2610.40943",
+      "source": "arXiv ML",
+      "summary": "40943v1 Announce Type: new Abstract: The bottleneck of attention mechanisms, which are the fundamental building block of modern language models, is their quadratic complexity in terms of context size ",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.318688+00:00",
+      "author": "Michel Fabrice Serret, Laura Grigori",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.NA",
+        "math.NA"
+      ]
+    },
+    {
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.40945",
+      "source": "arXiv ML",
+      "summary": "40945v1 Announce Type: new Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy In practice, an inference engine sam",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.351528+00:00",
+      "author": "Yu Li, Yufa Zhou, Tian Lan",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models",
+      "url": "https://arxiv.org/abs/2610.40954",
+      "source": "arXiv ML",
+      "summary": "40954v1 Announce Type: new Abstract: Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies, supported by large annotated datasets and improved rep",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.387104+00:00",
+      "author": "Andre Guarnier De Mitri, Giovani Decico Lucafo, Miller Matheus Lima Anacleto Rocha, Diego Furtado Silva",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Monte Carlo Random Walk Kernel",
+      "url": "https://arxiv.org/abs/2610.40956",
+      "source": "arXiv ML",
+      "summary": "40956v1 Announce Type: new Abstract: We introduce the Monte Carlo Random Walk Kernel (MCRWK), an estimator whose per-pair cost is independent of graph size and derived directly from the random walk ke",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.401326+00:00",
+      "author": "Arslan Iamaletdinov, Elfat Sabitov, Konstantin Sorokin",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "RC Prediction: A Python Package for Parameter-Aware Reservoir Computing",
+      "url": "https://arxiv.org/abs/2610.40984",
+      "source": "arXiv ML",
+      "summary": "40984v1 Announce Type: new Abstract: A nonlinear dynamical system can be characterized by the autonomous evolution of its state in time and its dependence on system parameters As a parameter varies, t",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.428162+00:00",
+      "author": "Jin-Cheng Rao, Zheng-Meng Zhai, Ying-Cheng Lai",
+      "tags": [
+        "cs.LG",
+        "cs.SY",
+        "eess.SY",
+        "math.DS"
+      ]
+    },
+    {
+      "title": "Steering Vectors as a Training Signal in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2610.40998",
+      "source": "arXiv ML",
+      "summary": "40998v1 Announce Type: new Abstract: Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time While prior work has mainly use",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.453140+00:00",
+      "author": "Tiejin Chen, Maunil Vyas, Huaiyuan Yao, Hua Wei",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "When Can Unlabeled Data Pools Replace Membership Queries?",
+      "url": "https://arxiv.org/abs/2610.41001",
+      "source": "arXiv ML",
+      "summary": "41001v1 Announce Type: new Abstract: Membership queries let a learner label arbitrary points and give near-optimal $\\tilde O(n\\log(1/\\eps))$ label complexity for halfspaces under every marginal A pool",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.476031+00:00",
+      "author": "Dravyansh Sharma",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "MOSAIC: Addressing Disproportionate Task-Modality Dependencies via Modality-Partitioned Gradient Routing",
+      "url": "https://arxiv.org/abs/2610.41004",
+      "source": "arXiv ML",
+      "summary": "41004v1 Announce Type: new Abstract: In multi-task settings, combining multiple modalities allows task representations to draw on signals that a single modality alone would not capture However, indivi",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.514735+00:00",
+      "author": "Aryan Chowdhury, Yizheng Sun, Thomas Carroll, Riza Batista-Navarro",
+      "tags": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Towards Understanding Score-Seeking in LLMs",
+      "url": "https://arxiv.org/abs/2610.41014",
+      "source": "arXiv ML",
+      "summary": "41014v1 Announce Type: new Abstract: Production large language models sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended, sometimes in highly ",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.533371+00:00",
+      "author": "Aghyad Deeb, Ryan Greenblatt, Alex Mallen",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Do Language Models Know What Compelling Scientific Evidence Looks Like?",
+      "url": "https://arxiv.org/abs/2610.41015",
+      "source": "arXiv ML",
+      "summary": "41015v1 Announce Type: new Abstract: Expert scientists excel at weighing empirical findings from multiple sources that vary in both statistical reliability and epistemic relevance To what extent are l",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.560043+00:00",
+      "author": "Conor Igoe, Gabriel Grand, Zane Koch, Albert Bou, Eli Moss, Michaela M. Hinks, Samuel G. Rodriques, Andrew White, Siddharth Narayanan",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Density-Guided Bootstrap Boundaries for Latent World-Model Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.41022",
+      "source": "arXiv ML",
+      "summary": "41022v1 Announce Type: new Abstract: Latent world models allow reinforcement learning agents to learn policies from imagined trajectories, yet determining the optimal depth of model reliance remains a",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.591472+00:00",
+      "author": "Shashank Gupta, Pilhwa Lee",
+      "tags": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "Omniprediction for All Mixable Proper Losses and Beyond",
+      "url": "https://arxiv.org/abs/2610.41023",
+      "source": "arXiv ML",
+      "summary": "41023v1 Announce Type: new Abstract: Omniprediction concerns the task of making predictions that are simultaneously accurate with respect to different losses Earlier results by [CV09] show that in an ",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.613655+00:00",
+      "author": "Junyan Liu, Haipeng Luo, Lillian J. Ratliff",
+      "tags": [
+        "cs.LG",
+        "cs.DS",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "When can Optimally Trained Transformers Achieve Near-Lossless Token Prediction for non-Markovian Data?",
+      "url": "https://arxiv.org/abs/2610.41038",
+      "source": "arXiv ML",
+      "summary": "41038v1 Announce Type: new Abstract: There exists little mathematical theory explaining why Transformer architectures are empirically successful even for non-Markovian data To this end, this paper stu",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.652486+00:00",
+      "author": "Ka\\u{g}an Akman, Jake Feldman Starosta, Naci Saldi, Serdar Y\\\"uksel",
+      "tags": [
+        "cs.LG",
+        "math.OC",
+        "math.PR"
+      ]
+    },
+    {
+      "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
+      "url": "https://arxiv.org/abs/2610.41039",
+      "source": "arXiv ML",
+      "summary": "41039v1 Announce Type: new Abstract: As Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems, their archi",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.688701+00:00",
+      "author": "Fei Wang, Baochun Li, Bo Li",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    {
+      "title": "Before We Adapt: The Zero-Shot Generalization Bottleneck in Continual World Models",
+      "url": "https://arxiv.org/abs/2610.41041",
+      "source": "arXiv ML",
+      "summary": "41041v1 Announce Type: new Abstract: Continual reinforcement learning (CRL) requires agents to operate under environmental changes while reusing prior knowledge whenever possible We argue that model-b",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.720493+00:00",
+      "author": "Amir Mesbah, Di Wu",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Localizing predictive concepts encoded in neural representations via hierarchical testing",
+      "url": "https://arxiv.org/abs/2610.41046",
+      "source": "arXiv ML",
+      "summary": "41046v1 Announce Type: new Abstract: Understanding which regulatory sequence motifs a genomic deep learning model has learned, with statistical error guarantees, is essential for trusting its use in d",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:55.755415+00:00",
+      "author": "Viktoriia Huryn, Marco Simnacher, Jim Berend, Wojciech Samek, Christoph Lippert, Sonja Greven, Uwe Ohler",
+      "tags": [
+        "cs.LG",
+        "q-bio.GN"
+      ]
+    },
+    {
+      "title": "PathoJev: Efficient Pathology Decisions from Shared Visual Context",
+      "url": "https://arxiv.org/abs/2610.40752",
+      "source": "arXiv CV",
+      "summary": "40752v1 Announce Type: new Abstract: Pathology workflows require multiple visual judgments about the same slide, from identifying tumor type to assessing grade and invasion Generating and parsing a se",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.341907+00:00",
+      "author": "Chengyang Zhang, Wenchuan Zhang, Bo Li, Xinyu Liu, Jiaming Yang, Mengran Li, Jie Chen, Wei Ju, Yuhao Yi, Hong Bu, Jiancheng Lv",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "DyCraft: An Agentic System for Long-Horizon 4D Scene Generation",
+      "url": "https://arxiv.org/abs/2610.40754",
+      "source": "arXiv CV",
+      "summary": "40754v1 Announce Type: new Abstract: While frontier coding agents can generate high-quality 3D scenes and articulated assets, they struggle to create coherent long-horizon animations When equipped wit",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.368293+00:00",
+      "author": "Jeff Tan, Hang Dai, Zeqian Long, Yanzhe Lyu, R. Kenny Jones, Shangzhe Wu, Chen Geng, Jiajun Wu",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV Scenes",
+      "url": "https://arxiv.org/abs/2610.40801",
+      "source": "arXiv CV",
+      "summary": "40801v1 Announce Type: new Abstract: The reasoning capabilities of vision-language models (VLMs) can be limited by incomplete or inaccurate visual observations in the general domain In unmanned aerial",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.402671+00:00",
+      "author": "Jiahe Wu, Bing Cao, Xingyue Guo, Ruipu Zhao, Beiming Yu, Jiekang Feng, Qinghua Hu, Pengfei Zhu",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "EgoHSI3R: Online 4D Hand-Scene Interaction Reconstruction from Egocentric Video",
+      "url": "https://arxiv.org/abs/2610.40832",
+      "source": "arXiv CV",
+      "summary": "40832v1 Announce Type: new Abstract: Egocentric videos offer an abundant source of hand-scene interactions for embodied learning, which requires recovering hands, camera, and scene consistently in a s",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.437341+00:00",
+      "author": "Mingzhi Pei, Zhangchen Ye, Ruoqu Chen, Liu Cao, Mengdi Xu",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Spatial Atlas-Informed Loss Ensembles for Whole-Body PSMA PET/CT Metastasis Segmentation",
+      "url": "https://arxiv.org/abs/2610.40834",
+      "source": "arXiv CV",
+      "summary": "40834v1 Announce Type: new Abstract: Existing whole-body PSMA PET/CT prostate metastasis segmentation methods generally rely on images alone, without explicitly incorporating where metastases tend to ",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.474285+00:00",
+      "author": "Grant N. Chau, Bashirul A. Biswas, Biratal Wagle, Matthew E. Maeder, Michael S. Leapman, James B. Yu, Indrani Bhattacharya",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images",
+      "url": "https://arxiv.org/abs/2610.40900",
+      "source": "arXiv CV",
+      "summary": "40900v1 Announce Type: new Abstract: Reliable visual perception is essential for safe autonomous underwater exploration Yet vision models pretrained on terrestrial images become less reliable underwat",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.505125+00:00",
+      "author": "Md Shihabul Islam Shovo, Nishi Kanta Paul, Trung Dong, Xiaomin Lin",
+      "tags": [
+        "cs.CV",
+        "cs.LG",
+        "cs.RO"
+      ]
+    },
+    {
+      "title": "Sparse Autoencoders for Expert-Assisted Interpretation of Histopathology Foundation Model Embeddings",
+      "url": "https://arxiv.org/abs/2610.40905",
+      "source": "arXiv CV",
+      "summary": "40905v1 Announce Type: new Abstract: Histopathology foundation models learn rich embedding representations, but their internal structure remains difficult to inspect Concept-level interpretability is ",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.543050+00:00",
+      "author": "\\v{S}imon \\v{S}m\\'ida, Wanda Benesova",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "Coupled or Independent? Fault Coupling in Agentic Medical Vision Systems",
+      "url": "https://arxiv.org/abs/2610.40913",
+      "source": "arXiv CV",
+      "summary": "40913v1 Announce Type: new Abstract: Vision-language agents equipped with tools expose intermediate outputs for inspection and comparison with the model's reasoning, which may offer safety benefits ov",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.572487+00:00",
+      "author": "Nishi Kanta Paul, Md Shihabul Islam Shovo, Md Mostafijur Rahman, Jamil Fayyad",
+      "tags": [
+        "cs.CV",
+        "cs.CR"
+      ]
+    },
+    {
+      "title": "Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models",
+      "url": "https://arxiv.org/abs/2610.40935",
+      "source": "arXiv CV",
+      "summary": "40935v1 Announce Type: new Abstract: Vision-centric autonomous driving models encode thousands of image tokens per frame, yet most depict sky, buildings, or empty road---content irrelevant to planning",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.615687+00:00",
+      "author": "Zeping Zhang, Zhuoya Zhao, Robert Lagani\\`ere",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "UFMF: Radar-Guided Kinematic Priors for Real-Time 4D Occupancy Forecasting",
+      "url": "https://arxiv.org/abs/2610.40947",
+      "source": "arXiv CV",
+      "summary": "40947v1 Announce Type: new Abstract: Real-time 4D occupancy forecasting requires reliably extrapolating both ego motion and surrounding actor motion under strict latency budgets Recent occupancy world",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.651247+00:00",
+      "author": "Zeping Zhang, Zhuoya Zhao, Robert Lagani\\`ere",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "AVID: A Weakly Aligned RGB-Infrared Dataset and Perturbation Benchmark for Tiny Aerial Targets",
+      "url": "https://arxiv.org/abs/2610.40949",
+      "source": "arXiv CV",
+      "summary": "40949v1 Announce Type: new Abstract: Long-range detection of small drones is complicated by their visual similarity to birds and by the limited detail available from ground-based cameras Combining vis",
+      "category": "research",
+      "published_at": "2026-11-02T00:00:00-05:00",
+      "fetched_at": "2026-11-02T14:53:56.689672+00:00",
+      "author": "Dharini Raghavan, Vishnu Rao, Sethu Selvi S",
+      "tags": [
+        "cs.CV"
+      ]
     }
   ]
 }

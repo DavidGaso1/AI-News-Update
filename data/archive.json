@@ -1,6 +1,279 @@
 {
-  "generated_at": "2026-11-01T12:46:32.397598+00:00",
+  "generated_at": "2026-11-02T14:54:53.512832+00:00",
   "archive": [
+    {
+      "date": "2026-11-02",
+      "total": 50,
+      "categories": {
+        "breaking": 0,
+        "research": 43,
+        "industry": 3,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
+          "source": "r/MachineLearning",
+          "summary": "It was just before OpenAI started that I met Ilya, who you interviewed One of the first things he said to me was — “ Look The models, they just want to learn",
+          "category": "research",
+          "published_at": "2026-11-02T14:32:14+00:00",
+          "author": "/u/XTXinverseXTY",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
+          "source": "r/MachineLearning",
+          "summary": "39295 Code + verification package (every number in the paper is checked by a script): https://github com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface co/spaces/yliusci/passk-pric",
+          "category": "research",
+          "published_at": "2026-11-02T04:30:11+00:00",
+          "author": "/u/SwimmingAmbition5148",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Automatic Construction of Strong Simple Baselines",
+          "url": "https://arxiv.org/abs/2610.40700",
+          "source": "arXiv ML",
+          "summary": "40700v1 Announce Type: new Abstract: To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baselines As deep learning has become increasingly commo",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Caleb N. Ellington, Jiaqi Wang, Sohan Addagudi, Elijah Cole",
+          "tags": [
+            "cs.LG",
+            "q-bio.QM"
+          ]
+        },
+        {
+          "title": "Bayesian Distribution System State Estimation with Flow Matching",
+          "url": "https://arxiv.org/abs/2610.40728",
+          "source": "arXiv ML",
+          "summary": "40728v1 Announce Type: new Abstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measurements of the secondary substations, a",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Nan Lin, Peter Palensky, Pedro Vergara Barrios",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "eess.SP"
+          ]
+        },
+        {
+          "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+          "url": "https://arxiv.org/abs/2610.40732",
+          "source": "arXiv ML",
+          "summary": "40732v1 Announce Type: new Abstract: Industrial Internet of Things (IIoT) edge pipelines routinely lose contiguous blocks of multi-sensor data to network dropouts and hardware faults The standard reme",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Jeongsu Park, Taehyeon Yun, Geonwoo Kim, Yuji Lim, Moohong Min",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
+          "url": "https://arxiv.org/abs/2610.40736",
+          "source": "arXiv ML",
+          "summary": "40736v1 Announce Type: new Abstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class labels are available to guide dime",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Oussama Chelly, Michael E. Houle, Ken-ichi Kawarabayashi, Muhammad Rajabinasab, Arthur Zimek",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
+          "url": "https://arxiv.org/abs/2610.40740",
+          "source": "arXiv ML",
+          "summary": "40740v1 Announce Type: new Abstract: Continual adaptation requires deciding not only how to update a model, but whether to commit an update without exceeding a declared budget for changes to protected",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Ahanaf Hasan Ariq, Abrar Shahid",
+          "tags": [
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+          "url": "https://arxiv.org/abs/2610.40757",
+          "source": "arXiv ML",
+          "summary": "40757v1 Announce Type: new Abstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) -- two powe",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Daniel Levine, David van Dijk, Kenneth Kay",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.NE"
+          ]
+        },
+        {
+          "title": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+          "url": "https://arxiv.org/abs/2610.40857",
+          "source": "arXiv ML",
+          "summary": "40857v1 Announce Type: new Abstract: Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the ability to efficiently adapt to unseen data distr",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Haaris Mian, Miles Cranmer, Alessandro Favero, Payel Mukhopadhyay",
+          "tags": [
+            "cs.LG",
+            "physics.flu-dyn"
+          ]
+        },
+        {
+          "title": "FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation",
+          "url": "https://arxiv.org/abs/2610.40858",
+          "source": "arXiv ML",
+          "summary": "40858v1 Announce Type: new Abstract: Training a large language model is compute-bound, and current recipes divide the work between optimizers by hand: orthogonalized momentum for attention and MLP mat",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Xiaojun Wu, Cehao Yang, Xuhui Jiang, Chengjin Xu, Jia Li, Jian Guo",
+          "tags": [
+            "cs.LG",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+          "url": "https://arxiv.org/abs/2610.40861",
+          "source": "arXiv ML",
+          "summary": "40861v1 Announce Type: new Abstract: We study first-order regret guarantees for adversarial bandits with a fixed, known directed feedback graph For strongly observable graphs, [ACBDK15] establishes a ",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Mengxiao Zhang, Yuheng Zhang, Haipeng Luo, Paul Mineiro",
+          "tags": [
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+          "url": "https://arxiv.org/abs/2610.40871",
+          "source": "arXiv ML",
+          "summary": "40871v1 Announce Type: new Abstract: High-dimensional tensors are ubiquitous in real-world applications but lead to massive storage overhead Functional tensor decomposition addresses this by employing",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Sheng Zhang, Xinyi Wang, Maolin Wang, Xiangyu Zhao",
+          "tags": [
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+          "url": "https://arxiv.org/abs/2610.40901",
+          "source": "arXiv ML",
+          "summary": "40901v1 Announce Type: new Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work First, not all publications",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "ChengAo Shen, Yanjun Zhao, Haoxin Liu, Bonnie Chen, Miles Ma, Dongjin Song, Hanghang Tong, Qingsong Wen, Jingrui He, Jingchao Ni",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
+          "url": "https://arxiv.org/abs/2610.40914",
+          "source": "arXiv ML",
+          "summary": "40914v1 Announce Type: new Abstract: Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by additional supervision, spatial-str",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Junha Park, Jaemyung Yu, Jaehui Hwang, Jong-Seok Lee, Dongyoon Han",
+          "tags": [
+            "cs.LG",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "A Theoretical Framework for Understanding and Building \"Any-task inference\" Capable Foundation Models",
+          "url": "https://arxiv.org/abs/2610.40934",
+          "source": "arXiv ML",
+          "summary": "40934v1 Announce Type: new Abstract: In this work, we provide a formal framework and mathematical definition for the subset of foundation models focused on enabling the property of \"any-task inference",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Matthew McDermott, Florent Pollet, Payal Chandak, Gregory Kondas, Liat Friedman Antwarg, Noa Dagan, Isaac Kohane",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Fair Recommender Systems for Intersecting Groups",
+          "url": "https://arxiv.org/abs/2610.40936",
+          "source": "arXiv ML",
+          "summary": "40936v1 Announce Type: new Abstract: Recommendation systems that optimize for the average user can fail to capture the preferences of diverse demographic groups We consider a dynamic recommendation sy",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Christine Ling, Juba Ziani",
+          "tags": [
+            "cs.LG",
+            "cs.CY",
+            "cs.GT"
+          ]
+        },
+        {
+          "title": "Kernel-based Interpolatory Methods for Context Compression of Attention Mechanisms",
+          "url": "https://arxiv.org/abs/2610.40943",
+          "source": "arXiv ML",
+          "summary": "40943v1 Announce Type: new Abstract: The bottleneck of attention mechanisms, which are the fundamental building block of modern language models, is their quadratic complexity in terms of context size ",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Michel Fabrice Serret, Laura Grigori",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.CL",
+            "cs.NA",
+            "math.NA"
+          ]
+        },
+        {
+          "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.40945",
+          "source": "arXiv ML",
+          "summary": "40945v1 Announce Type: new Abstract: On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy In practice, an inference engine sam",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Yu Li, Yufa Zhou, Tian Lan",
+          "tags": [
+            "cs.LG",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models",
+          "url": "https://arxiv.org/abs/2610.40954",
+          "source": "arXiv ML",
+          "summary": "40954v1 Announce Type: new Abstract: Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies, supported by large annotated datasets and improved rep",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Andre Guarnier De Mitri, Giovani Decico Lucafo, Miller Matheus Lima Anacleto Rocha, Diego Furtado Silva",
+          "tags": [
+            "cs.LG",
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Monte Carlo Random Walk Kernel",
+          "url": "https://arxiv.org/abs/2610.40956",
+          "source": "arXiv ML",
+          "summary": "40956v1 Announce Type: new Abstract: We introduce the Monte Carlo Random Walk Kernel (MCRWK), an estimator whose per-pair cost is independent of graph size and derived directly from the random walk ke",
+          "category": "research",
+          "published_at": "2026-11-02T00:00:00-05:00",
+          "author": "Arslan Iamaletdinov, Elfat Sabitov, Konstantin Sorokin",
+          "tags": [
+            "cs.LG"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "total": 15,
