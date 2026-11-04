@@ -1,6 +1,265 @@
 {
-  "generated_at": "2026-11-03T13:43:29.590943+00:00",
+  "generated_at": "2026-11-04T13:52:09.949302+00:00",
   "archive": [
+    {
+      "date": "2026-11-04",
+      "total": 49,
+      "categories": {
+        "breaking": 3,
+        "research": 37,
+        "industry": 2,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Accelerating engineering for the physical world",
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "source": "OpenAI Blog",
+          "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world",
+          "category": "breaking",
+          "published_at": "2026-11-03T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "url": "https://openai.com/index/cisco-cyber",
+          "source": "OpenAI Blog",
+          "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security Learn how it is building more adaptive defenses",
+          "category": "breaking",
+          "published_at": "2026-11-03T08:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "source": "OpenAI Blog",
+          "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning",
+          "category": "breaking",
+          "published_at": "2026-11-03T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "A message to top tier conferences [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+          "source": "r/MachineLearning",
+          "summary": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that \"AI cheaters\" didn't even read their own paper before presentation",
+          "category": "research",
+          "published_at": "2026-11-04T09:55:50+00:00",
+          "author": "/u/Vegetable-Formal-753",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+          "source": "r/MachineLearning",
+          "summary": "Hey everyone— we’re the Deep Principle team behind Mira AI Scientist We just released Hydrogen-1 0 , an open-weight model post-trained from GLM-5",
+          "category": "research",
+          "published_at": "2026-11-04T09:00:29+00:00",
+          "author": "/u/AKAMA199",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
+          "source": "r/MachineLearning",
+          "summary": "I'm just wondering about visa processing situation for NeurIPS sydney attendees Invitation letter and all valid docs are not really helping (one friend got rejected), processing time is tooo long (alm",
+          "category": "research",
+          "published_at": "2026-11-04T06:24:54+00:00",
+          "author": "/u/darkbird_1",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
+          "source": "r/MachineLearning",
+          "summary": "Question to all the PhDs & research engineers in this group Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX) If so, we'd be keen to hear more (or ha",
+          "category": "research",
+          "published_at": "2026-11-04T01:31:50+00:00",
+          "author": "/u/turing-math-labs",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+          "source": "r/MachineLearning",
+          "summary": "Give a model a 17,253-parameter net as plain tokenized text and it works out the net plays Pac-Man 3 all got it, and Astra did it with minimal reasoning Nobody writes essays about what specific weight",
+          "category": "research",
+          "published_at": "2026-11-04T01:20:44+00:00",
+          "author": "/u/jnbrymn",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
+          "url": "https://arxiv.org/abs/2303.12212",
+          "source": "arXiv ML",
+          "summary": "12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and many other networks This article pro",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "{\\L}ukasz Brzozowski, Grzegorz Siudem, Marek Gagolewski",
+          "tags": [
+            "cs.SI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+          "url": "https://arxiv.org/abs/2611.00172",
+          "source": "arXiv CL",
+          "summary": "00172v1 Announce Type: new Abstract: Embedding models underpin virtually every modern AI system, from search engines to recommendation systems Despite shared mathematical foundations, research on embe",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Ziyin Zhang, Yuyu Guo, Ying Zhang, Siqiao Xue, Zihan Liao, Jin Qin, Wenjie Yang, Siyuan Yang, Shijie Li, Cheng Chen, Hao Wu, Zhaoyang Zhu, Ruipeng Li, Zhaokun Jiang, Lei Lei, Rui Wang, Hang Yu, Rui Wang",
+          "tags": [
+            "cs.CL",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MEMENTO: Learning Context Management for Long Context Processing Agents",
+          "url": "https://arxiv.org/abs/2611.00244",
+          "source": "arXiv CL",
+          "summary": "00244v1 Announce Type: new Abstract: LLM agents that operate over long inputs must perform context management: deciding what to retain in a fixed-size context window A common approach is compaction, w",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Yunfan Zhang, Taehoon Hwang, Kathleen McKeown, Smaranda Muresan",
+          "tags": [
+            "cs.CL",
+            "cs.IR"
+          ]
+        },
+        {
+          "title": "Cross-Lingual Persona Effects in LLM Negotiation",
+          "url": "https://arxiv.org/abs/2611.00300",
+          "source": "arXiv CL",
+          "summary": "00300v1 Announce Type: new Abstract: Tell an LLM negotiator to be \"headstrong\" and it should hold firm on price, but does that instruction retain the same behavior in every language To test this, we u",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Saehee Eom, Tejas Khandwekar",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport",
+          "url": "https://arxiv.org/abs/2611.00319",
+          "source": "arXiv CL",
+          "summary": "00319v1 Announce Type: new Abstract: A child learns which words name which things from roughly 100 million words of input Vision-language models trained at a comparable scale bind words to referents f",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Rajdeep Pal, Jotiraditya Banerjee, Saptarshi Pani",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Queering the Audits: Community-Based Auditing of AI Harms to Queer Communities",
+          "url": "https://arxiv.org/abs/2611.00345",
+          "source": "arXiv CL",
+          "summary": "00345v1 Announce Type: new Abstract: AI systems embed majority-group defaults into training data, evaluation metrics, and category definitions, producing documented harms for queer communities includi",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Organizers of QueerInAI,  :, A Pranav, Alissa A. Valentine, Alex Markham, Beckett LeClair, Tereza Blazkova, Ekaterina Kornilitsina, Sofie H. Bruun, Gerasimos Spanakis, Anne Lauscher",
+          "tags": [
+            "cs.CL",
+            "cs.CY"
+          ]
+        },
+        {
+          "title": "Cross-Prompt Reuse of Entity-Replacement Responses",
+          "url": "https://arxiv.org/abs/2611.00352",
+          "source": "arXiv CL",
+          "summary": "00352v1 Announce Type: new Abstract: With model weights fixed, we measure how much of an entity-replacement response transfers between English factual questions, beyond whether answers change We add t",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Jinkun Chen, Xuemin Yu, Sijia Han, Vlado Keselj",
+          "tags": [
+            "cs.CL",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Circuit Oracle: Automating Attribution Graph Analysis via Natural-Language Queries",
+          "url": "https://arxiv.org/abs/2611.00420",
+          "source": "arXiv CL",
+          "summary": "00420v1 Announce Type: new Abstract: Attribution graphs, an emerging tool in mechanistic interpretability, use transcoders to decompose language model computations into sparse interpretable features c",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Shariar Kabir, Hong Kiat Tan, Swastik Agrawal, Sai V R Chereddy, Sriram Balasubramanian",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Fidelity Collapses with Table Size, Not Turn Count: Delivery Architecture in a Deployed Tool-Using Agent",
+          "url": "https://arxiv.org/abs/2611.00442",
+          "source": "arXiv CL",
+          "summary": "00442v1 Announce Type: new Abstract: When a multi-turn agent delivers a tool's structured records into the model's context and re-emits them each turn, every turn can corrupt data the tool computed co",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Tung Thanh Hoang",
+          "tags": [
+            "cs.CL",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "From Lookups to Lessons: Turning Retrieved Knowledge into Parametric Memory",
+          "url": "https://arxiv.org/abs/2611.00450",
+          "source": "arXiv CL",
+          "summary": "00450v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) helps large language models (LLMs) answer factual questions beyond their training data, but it adds storage and inference cost",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Changjiang Han, Bowei He, Ye Yuan, Weixu Zhang, Haolun Wu, Xue Liu, Jikun Kang",
+          "tags": [
+            "cs.CL",
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Steering Readerly Dynamics: Trajectory-Guided Story Generation with Large Language Models",
+          "url": "https://arxiv.org/abs/2611.00469",
+          "source": "arXiv CL",
+          "summary": "00469v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to generate stories, but these stories struggle to reproduce engaging readerly dynamics, the evolving reader res",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Danrui Li, Yiwei Zhao, Mubbasir Kapadia, Lingxiao Li",
+          "tags": [
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Spotting the Artificial: Dialogic Humor Improvisation in Humans and LLMs",
+          "url": "https://arxiv.org/abs/2611.00492",
+          "source": "arXiv CL",
+          "summary": "00492v1 Announce Type: new Abstract: We propose a methodology for investigating the differences between natural and synthetic language in a challenging setting: humorous improvisational dialogue Our e",
+          "category": "research",
+          "published_at": "2026-11-04T00:00:00-05:00",
+          "author": "Lizeth Palacios Pati\\~no, Ximena Gutierrez-Vasques, Daniel Rodriguez",
+          "tags": [
+            "cs.CL",
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "total": 50,
