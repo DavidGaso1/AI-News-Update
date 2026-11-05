@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-11-04T13:52:09.949302+00:00",
+  "generated_at": "2026-11-05T14:05:45.410756+00:00",
   "archive": [
+    {
+      "date": "2026-11-05",
+      "total": 50,
+      "categories": {
+        "breaking": 7,
+        "research": 29,
+        "industry": 3,
+        "tools": 11
+      },
+      "articles": [
+        {
+          "title": "ICLR 2027 Reviews Discussion [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+          "source": "r/MachineLearning",
+          "summary": "The ICLR 2027 reviews will be released soon Share your results here, and keep a lookout on papercopilot to judge your odds I also found paperScorer quite interesting for the same",
+          "category": "breaking",
+          "published_at": "2026-11-05T02:17:59+00:00",
+          "author": "/u/Beautiful_Baker_2233",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "url": "https://huggingface.co/blog/phonon-tts",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "breaking",
+          "published_at": "2026-11-05T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code",
+          "category": "breaking",
+          "published_at": "2026-11-04T14:30:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel",
+          "category": "breaking",
+          "published_at": "2026-11-04T08:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI Blog",
+          "summary": "Daybreak Red brings GPT-5 6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work",
+          "category": "breaking",
+          "published_at": "2026-11-04T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "OpenAI Blog",
+          "summary": "6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API",
+          "category": "breaking",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI Blog",
+          "summary": "1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service",
+          "category": "breaking",
+          "published_at": "2026-11-04T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
+          "source": "r/MachineLearning",
+          "summary": "From what I’ve read on Reddit so far, I’m getting the impression that around 4 first-author papers at top ML conferences (NeurIPS, ICML, ICLR, etc ) is a fairly standard expectation for graduating fro",
+          "category": "research",
+          "published_at": "2026-11-05T06:56:48+00:00",
+          "author": "/u/Hope999991",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
+          "source": "r/MachineLearning",
+          "summary": "My AACL Main paper was just published on ACL Anthology, and I noticed that it appears as a Short Paper My understanding that it was a long paper since that was what I selected during the ARR review, a",
+          "category": "research",
+          "published_at": "2026-11-05T03:52:26+00:00",
+          "author": "/u/ravenaro",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Anyone else tired of how expensive agent evaluations are? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
+          "source": "r/MachineLearning",
+          "summary": "So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains And running agents in actual environments takes ",
+          "category": "research",
+          "published_at": "2026-11-05T03:33:01+00:00",
+          "author": "/u/Key_Recording9766",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
+          "source": "r/MachineLearning",
+          "summary": "I would assume LLMs have bumped this number, or maybe not Which is why I am asking If there are PIs on here, how many papers before you let your students graduate",
+          "category": "research",
+          "published_at": "2026-11-05T02:55:15+00:00",
+          "author": "/u/confirm-jannati",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+          "url": "https://arxiv.org/abs/2611.05390",
+          "source": "arXiv AI/ML",
+          "summary": "05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision Yet a reviewer can both repair errors and replace decisions that we",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Fuad Ali",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+          "url": "https://arxiv.org/abs/2611.05391",
+          "source": "arXiv AI/ML",
+          "summary": "05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use Execution",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Manu Agrawal, Shrey Nagpal",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+          "url": "https://arxiv.org/abs/2611.05393",
+          "source": "arXiv AI/ML",
+          "summary": "05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-mod",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Riccardo Riccio, Haitz S\\'aez de Oc\\'ariz Borde, Pietro Li\\`o",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+          "url": "https://arxiv.org/abs/2611.05394",
+          "source": "arXiv AI/ML",
+          "summary": "05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingl",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Sumit P. Ahuja",
+          "tags": [
+            "cs.AI",
+            "cs.DC",
+            "cs.PF"
+          ]
+        },
+        {
+          "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+          "url": "https://arxiv.org/abs/2611.05450",
+          "source": "arXiv AI/ML",
+          "summary": "05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals Such assistance requires agents to dis",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Shijue Huang, Hangyu Guo, Hengheng Zhang, Guo An, Zhitao He, Qi Tian, Yiren Feng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+          "url": "https://arxiv.org/abs/2611.05459",
+          "source": "arXiv AI/ML",
+          "summary": "05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review ",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Abdullah Al Kalbani, David M. Schultz, Alexandra K. Anderson-Frey, Zhonghua Zheng, Catherine McGuire",
+          "tags": [
+            "cs.AI",
+            "cs.DL"
+          ]
+        },
+        {
+          "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+          "url": "https://arxiv.org/abs/2611.05512",
+          "source": "arXiv AI/ML",
+          "summary": "05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons Yet existing benchmarks fal",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Mingxuan Li, Huanzhi Mao, Ruitao Zheng, Jarod Stanbury James, Yunze Li, Natanya Anderson, Joseph E. Gonzalez, Alex Dimakis",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+          "url": "https://arxiv.org/abs/2611.05524",
+          "source": "arXiv AI/ML",
+          "summary": "05524v1 Announce Type: new Abstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantee",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Kiran Ravish, Ankita Kushwaha,  Preeti, Pawan Kumar",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+          "url": "https://arxiv.org/abs/2611.05542",
+          "source": "arXiv AI/ML",
+          "summary": "05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and business constrai",
+          "category": "research",
+          "published_at": "2026-11-05T00:00:00-05:00",
+          "author": "Qi Xu, Zhigang Hua, Zijie Lei, Yan Xie, Jizhe Zhang, Lynn Lu, Delun Du, Sha Hua, Ren Mao, Ke Pan, Haomin Yu, Sandeep Pandey, Luke Simon",
+          "tags": [
+            "cs.AI",
+            "stat.ML"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "total": 49,
