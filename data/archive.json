@@ -1,6 +1,270 @@
 {
-  "generated_at": "2026-11-06T13:50:05.962773+00:00",
+  "generated_at": "2026-11-07T12:33:23.288413+00:00",
   "archive": [
+    {
+      "date": "2026-11-07",
+      "total": 29,
+      "categories": {
+        "breaking": 2,
+        "research": 17,
+        "industry": 4,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI",
+          "category": "breaking",
+          "published_at": "2026-11-06T08:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Security"
+          ]
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science",
+          "category": "breaking",
+          "published_at": "2026-11-06T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Publication"
+          ]
+        },
+        {
+          "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
+          "source": "r/MachineLearning",
+          "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow They’re so f short, like they're written for a random workshop Almost every review I've seen is two generic points un",
+          "category": "research",
+          "published_at": "2026-11-07T08:25:40+00:00",
+          "author": "/u/Charming-Fail-772",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+          "source": "r/MachineLearning",
+          "summary": "Im an incoming masters student in ML, a bit older than most (31) I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hint",
+          "category": "research",
+          "published_at": "2026-11-07T07:08:01+00:00",
+          "author": "/u/sooham",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
+          "source": "r/MachineLearning",
+          "summary": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process One of the reviewers seems to have submitted a review for a completely different paper And",
+          "category": "research",
+          "published_at": "2026-11-07T06:40:14+00:00",
+          "author": "/u/rohitx0",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR27 math and stats paper review experience [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+          "source": "r/MachineLearning",
+          "summary": "For people who had papers submitted to ICLR that are applied theory style For example, 60- 70% theory with some experiments at the end What was your review experience like for ICLR27",
+          "category": "research",
+          "published_at": "2026-11-07T03:02:10+00:00",
+          "author": "/u/d_edge_sword",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
+          "source": "r/MachineLearning",
+          "summary": "One reviewer criticizes it for lacking an implemented system, empirical validation, results and for making speculative arguments But its a position/argumentative paper, it doesnt have to have any of t",
+          "category": "research",
+          "published_at": "2026-11-07T01:36:34+00:00",
+          "author": "/u/Entity303BR",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "The most scathing reviewer 2 review I have ever read",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+          "source": "r/MachineLearning",
+          "summary": "Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to",
+          "category": "research",
+          "published_at": "2026-11-07T01:30:53+00:00",
+          "author": "/u/MOSFETBJT",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+          "source": "r/MachineLearning",
+          "summary": "I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run exp",
+          "category": "research",
+          "published_at": "2026-11-07T00:17:47+00:00",
+          "author": "/u/Temporary_Switch_339",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+          "source": "r/MachineLearning",
+          "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means We counted the public scores on OpenRev",
+          "category": "research",
+          "published_at": "2026-11-07T00:03:35+00:00",
+          "author": "/u/latenticlabs",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
+          "source": "r/MachineLearning",
+          "summary": "I'm exploring the field of Embodied AI, particularly humanoid intelligence, cognitive architectures, and the intersection of AI and robotics I'm looking to connect with people who are: Researching or ",
+          "category": "research",
+          "published_at": "2026-11-06T21:49:56+00:00",
+          "author": "/u/TechDc-1306",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+          "source": "r/MachineLearning",
+          "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms There was tremendous value in ",
+          "category": "research",
+          "published_at": "2026-11-06T21:25:49+00:00",
+          "author": "/u/Strong_Boy_757",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/",
+          "source": "r/MachineLearning",
+          "summary": "A new contest for anyone training sequence models on TCRs Given a TCR sequence and a peptide-HLA, predict whether the T cell activates Inputs are amino acid sequences, the benchmark is about 5,800 lab",
+          "category": "research",
+          "published_at": "2026-11-06T20:22:25+00:00",
+          "author": "/u/Harell-Data",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+          "source": "r/MachineLearning",
+          "summary": "08376 | HF: https://huggingface 08376 At 10M tokens, a 1 3B Transformer needs 2",
+          "category": "research",
+          "published_at": "2026-11-06T19:10:08+00:00",
+          "author": "/u/CategoryNormal149",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+          "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+          "source": "NVIDIA Blog",
+          "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development Together, they give resear",
+          "category": "research",
+          "published_at": "2026-11-06T16:00:35+00:00",
+          "author": "Soma Velayutham",
+          "tags": [
+            "AI",
+            "AI Infrastructure",
+            "Software",
+            "6G",
+            "Open Source"
+          ]
+        },
+        {
+          "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+          "source": "r/MachineLearning",
+          "summary": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv In this process, I changed the name of the method and title Now a reviewer, pointed o",
+          "category": "research",
+          "published_at": "2026-11-06T15:09:18+00:00",
+          "author": "/u/fanconic",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR 2027 Review Scores [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/No-Lab4175 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-11-06T14:37:41+00:00",
+          "author": "/u/No-Lab4175",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+          "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+          "source": "NVIDIA Blog",
+          "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior produ",
+          "category": "research",
+          "published_at": "2026-11-05T16:00:05+00:00",
+          "author": "Matthew Leib",
+          "tags": [
+            "AI",
+            "NVIDIA Life",
+            "Agentic AI",
+            "Nemotron",
+            "Nemotron Labs"
+          ]
+        },
+        {
+          "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+          "source": "Microsoft Research Blog",
+          "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing ag",
+          "category": "research",
+          "published_at": "2026-11-05T16:00:00+00:00",
+          "author": "Alex Lavaee, Matthai Philipose",
+          "tags": [
+            "Research Blog"
+          ]
+        },
+        {
+          "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+          "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+          "source": "NVIDIA Blog",
+          "summary": "AI agents do more than generate answers They search for information, query databases, write and test code and take action Each of those steps relies on a CPU, with agents moving between GPU reasoning ",
+          "category": "industry",
+          "published_at": "2026-11-05T20:00:41+00:00",
+          "author": "Hannah Coutand",
+          "tags": [
+            "AI Infrastructure",
+            "Hardware",
+            "Networking",
+            "Software",
+            "Agentic AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "total": 50,

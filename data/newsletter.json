@@ -1,434 +1,263 @@
 {
-  "generated_at": "2026-11-06T13:50:05.980634+00:00",
-  "article_count": 50,
+  "generated_at": "2026-11-07T12:33:23.310096+00:00",
+  "article_count": 29,
   "categories": {
     "breaking": [
       {
-        "title": "How do you build visibility through open source contributions?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
-        "source": "r/MachineLearning",
-        "summary": "I’m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community I’ve been thinking about contributing to established ",
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "source": "OpenAI Blog",
+        "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI",
         "category": "breaking",
-        "published_at": "2026-11-06T09:55:15+00:00",
-        "fetched_at": "2026-11-06T13:49:44.393264+00:00",
-        "author": "/u/Few-Cheetah3336",
+        "published_at": "2026-11-06T08:00:00+00:00",
+        "fetched_at": "2026-11-07T12:32:30.564603+00:00",
+        "author": "",
         "tags": [
-          "reddit"
+          "Security"
         ]
       },
       {
-        "title": "ICLR Review [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xozcd8/iclr_review_d/",
-        "source": "r/MachineLearning",
-        "summary": "Anybody got them so far I have two submissions #35k+ & 50k+, waiting submitted by /u/Invariant_n_Cauchy [link] [comments]",
-        "category": "breaking",
-        "published_at": "2026-11-06T00:44:42+00:00",
-        "fetched_at": "2026-11-06T13:49:44.782185+00:00",
-        "author": "/u/Invariant_n_Cauchy",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Cult.fit builds operational muscle with Codex",
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
         "source": "OpenAI Blog",
-        "summary": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done",
+        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science",
         "category": "breaking",
-        "published_at": "2026-11-05T20:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:28.968829+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
-        "source": "r/MachineLearning",
-        "summary": "Handbook: https://huggingface co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've r",
-        "category": "breaking",
-        "published_at": "2026-11-05T19:13:51+00:00",
-        "fetched_at": "2026-11-06T13:49:44.471942+00:00",
-        "author": "/u/Norlax_42",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "Australian universities are creating AI-native graduates",
-        "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-        "source": "OpenAI Blog",
-        "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce",
-        "category": "breaking",
-        "published_at": "2026-11-05T17:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:28.934207+00:00",
+        "published_at": "2026-11-06T00:00:00+00:00",
+        "fetched_at": "2026-11-07T12:32:30.603845+00:00",
         "author": "",
         "tags": [
-          "Company"
+          "Publication"
         ]
-      },
-      {
-        "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-        "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-        "source": "NVIDIA Blog",
-        "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW Blizzard Entertainment’s World o",
-        "category": "breaking",
-        "published_at": "2026-11-05T14:00:34+00:00",
-        "fetched_at": "2026-11-06T13:49:34.284146+00:00",
-        "author": "GeForce NOW Community",
-        "tags": [
-          "Gaming",
-          "Cloud Gaming",
-          "GeForce NOW"
-        ]
-      },
-      {
-        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "url": "https://openai.com/index/introducing-gpt-6-cyber",
-        "source": "OpenAI Blog",
-        "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope",
-        "category": "breaking",
-        "published_at": "2026-11-05T09:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:29.018921+00:00",
-        "author": "",
-        "tags": [
-          "Product"
-        ]
-      },
-      {
-        "title": "Merge builds product and business tools with OpenAI technology",
-        "url": "https://openai.com/index/merge-builds-with-openai",
-        "source": "OpenAI Blog",
-        "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing Its teams also use AI to plan executive dinners and prepare sales updates",
-        "category": "breaking",
-        "published_at": "2026-11-05T08:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:29.064501+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Flipsnack grows product signups with conversion optimization",
-        "url": "https://openai.com/ads/customers/flipsnack",
-        "source": "OpenAI Blog",
-        "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup",
-        "category": "breaking",
-        "published_at": "2026-11-05T00:45:15+00:00",
-        "fetched_at": "2026-11-06T13:49:29.151039+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Franklin Templeton uses OpenAI to support investment research",
-        "url": "https://openai.com/index/franklin-templeton",
-        "source": "OpenAI Blog",
-        "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks",
-        "category": "breaking",
-        "published_at": "2026-11-05T00:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:29.198008+00:00",
-        "author": "",
-        "tags": []
       }
     ],
     "research": [
       {
-        "title": "ICLR 2027 Reviews are out [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
+        "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
         "source": "r/MachineLearning",
-        "summary": "How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
+        "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow They’re so f short, like they're written for a random workshop Almost every review I've seen is two generic points un",
         "category": "research",
-        "published_at": "2026-11-06T13:03:09+00:00",
-        "fetched_at": "2026-11-06T13:49:44.345493+00:00",
-        "author": "/u/mr_carlduke",
+        "published_at": "2026-11-07T08:25:40+00:00",
+        "fetched_at": "2026-11-07T12:32:44.665335+00:00",
+        "author": "/u/Charming-Fail-772",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "I need some guidance after a six month hiatus [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
+        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
         "source": "r/MachineLearning",
-        "summary": "Short Backstory: I'm a PhD student on my 5th year I had a major mental breakdown on June 2026 after my second rejection on an IEEE Journal After a lot of back and forth, I decided to not give up my Ph",
+        "summary": "Im an incoming masters student in ML, a bit older than most (31) I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hint",
         "category": "research",
-        "published_at": "2026-11-06T12:06:42+00:00",
-        "fetched_at": "2026-11-06T13:49:44.513082+00:00",
-        "author": "/u/Neural_Prodigy",
+        "published_at": "2026-11-07T07:08:01+00:00",
+        "fetched_at": "2026-11-07T12:32:44.619613+00:00",
+        "author": "/u/sooham",
         "tags": [
           "reddit"
         ]
       },
       {
-        "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-        "url": "https://arxiv.org/abs/2611.06962",
-        "source": "arXiv AI/ML",
-        "summary": "06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap We describe AutoIP, a Lean l",
+        "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
+        "source": "r/MachineLearning",
+        "summary": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process One of the reviewers seems to have submitted a review for a completely different paper And",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.207857+00:00",
-        "author": "Christian Clason, Tapio Helin, Medet Nursultanov, Lauri Oksanen",
+        "published_at": "2026-11-07T06:40:14+00:00",
+        "fetched_at": "2026-11-07T12:32:44.816414+00:00",
+        "author": "/u/rohitx0",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-        "url": "https://arxiv.org/abs/2611.06972",
-        "source": "arXiv AI/ML",
-        "summary": "06972v1 Announce Type: new Abstract: Liability adjudication tasks (e , legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party shou",
+        "title": "ICLR27 math and stats paper review experience [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+        "source": "r/MachineLearning",
+        "summary": "For people who had papers submitted to ICLR that are applied theory style For example, 60- 70% theory with some experiments at the end What was your review experience like for ICLR27",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.251411+00:00",
-        "author": "Zi-Jian Cheng, Weiming Wu, Jie Meng, Zhen Peng, Shan Huang, Qun Li, Guobing Wu, Lan-Zhe Guo",
+        "published_at": "2026-11-07T03:02:10+00:00",
+        "fetched_at": "2026-11-07T12:32:44.871183+00:00",
+        "author": "/u/d_edge_sword",
         "tags": [
-          "cs.AI",
-          "cs.CY"
+          "reddit"
         ]
       },
       {
-        "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-        "url": "https://arxiv.org/abs/2611.06977",
-        "source": "arXiv AI/ML",
-        "summary": "06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch Existing solutions pay for this in differ",
+        "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
+        "source": "r/MachineLearning",
+        "summary": "One reviewer criticizes it for lacking an implemented system, empirical validation, results and for making speculative arguments But its a position/argumentative paper, it doesnt have to have any of t",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.281465+00:00",
-        "author": "Xiuyuan Qi, Pedro Reviriego, Javier Conde, Shanshan Liu",
+        "published_at": "2026-11-07T01:36:34+00:00",
+        "fetched_at": "2026-11-07T12:32:45.175807+00:00",
+        "author": "/u/Entity303BR",
         "tags": [
-          "cs.AI",
-          "cs.CL"
+          "reddit"
         ]
       },
       {
-        "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-        "url": "https://arxiv.org/abs/2611.06984",
-        "source": "arXiv AI/ML",
-        "summary": "06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck In m",
+        "title": "The most scathing reviewer 2 review I have ever read",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+        "source": "r/MachineLearning",
+        "summary": "Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.324103+00:00",
-        "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
+        "published_at": "2026-11-07T01:30:53+00:00",
+        "fetched_at": "2026-11-07T12:32:44.564178+00:00",
+        "author": "/u/MOSFETBJT",
         "tags": [
-          "cs.AI",
-          "cs.DC"
+          "reddit"
         ]
       },
       {
-        "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-        "url": "https://arxiv.org/abs/2611.06989",
-        "source": "arXiv AI/ML",
-        "summary": "06989v1 Announce Type: new Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record ",
+        "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+        "source": "r/MachineLearning",
+        "summary": "I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run exp",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.377725+00:00",
-        "author": "Vivek Acharya",
+        "published_at": "2026-11-07T00:17:47+00:00",
+        "fetched_at": "2026-11-07T12:32:45.110071+00:00",
+        "author": "/u/Temporary_Switch_339",
         "tags": [
-          "cs.AI",
-          "cs.DC",
-          "cs.MA"
+          "reddit"
         ]
       },
       {
-        "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-        "url": "https://arxiv.org/abs/2611.06995",
-        "source": "arXiv AI/ML",
-        "summary": "06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differe",
+        "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+        "source": "r/MachineLearning",
+        "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means We counted the public scores on OpenRev",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.417643+00:00",
-        "author": "B\\'alint Gyevn\\'ar, Simon DeDeo",
+        "published_at": "2026-11-07T00:03:35+00:00",
+        "fetched_at": "2026-11-07T12:32:44.914584+00:00",
+        "author": "/u/latenticlabs",
         "tags": [
-          "cs.AI",
-          "cs.HC"
+          "reddit"
         ]
       },
       {
-        "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-        "url": "https://arxiv.org/abs/2611.06996",
-        "source": "arXiv AI/ML",
-        "summary": "06996v1 Announce Type: new Abstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or measured We empirically characteriz",
+        "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
+        "source": "r/MachineLearning",
+        "summary": "I'm exploring the field of Embodied AI, particularly humanoid intelligence, cognitive architectures, and the intersection of AI and robotics I'm looking to connect with people who are: Researching or ",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.470744+00:00",
-        "author": "Ahsan Habib Shihab, Imre Felde, Ramis Akhmedov, Stefan Gubo, Berik Sabdenaliyev, Madina Mansurova, Amir Mosavi",
+        "published_at": "2026-11-06T21:49:56+00:00",
+        "fetched_at": "2026-11-07T12:32:45.394459+00:00",
+        "author": "/u/TechDc-1306",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-        "url": "https://arxiv.org/abs/2611.07048",
-        "source": "arXiv AI/ML",
-        "summary": "07048v1 Announce Type: new Abstract: Evolution has shaped intelligence for billions of years Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own ev",
+        "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+        "source": "r/MachineLearning",
+        "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms There was tremendous value in ",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.514598+00:00",
-        "author": "Andrew W. Lo, Chaoyi Zhao",
+        "published_at": "2026-11-06T21:25:49+00:00",
+        "fetched_at": "2026-11-07T12:32:44.746786+00:00",
+        "author": "/u/Strong_Boy_757",
         "tags": [
-          "cs.AI"
+          "reddit"
         ]
       },
       {
-        "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-        "url": "https://arxiv.org/abs/2611.07051",
-        "source": "arXiv AI/ML",
-        "summary": "07051v1 Announce Type: new Abstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors Yet most evaluation is one-off: a benchmark run, a look at",
+        "title": "CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/",
+        "source": "r/MachineLearning",
+        "summary": "A new contest for anyone training sequence models on TCRs Given a TCR sequence and a peptide-HLA, predict whether the T cell activates Inputs are amino acid sequences, the benchmark is about 5,800 lab",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.548457+00:00",
-        "author": "Ruifeng Ren, Gun Ahn",
+        "published_at": "2026-11-06T20:22:25+00:00",
+        "fetched_at": "2026-11-07T12:32:45.458143+00:00",
+        "author": "/u/Harell-Data",
         "tags": [
-          "cs.AI",
-          "cs.CL"
+          "reddit"
         ]
       },
       {
-        "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-        "url": "https://arxiv.org/abs/2611.07066",
-        "source": "arXiv AI/ML",
-        "summary": "07066v1 Announce Type: new Abstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, whic",
+        "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+        "source": "r/MachineLearning",
+        "summary": "08376 | HF: https://huggingface 08376 At 10M tokens, a 1 3B Transformer needs 2",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.587583+00:00",
-        "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
+        "published_at": "2026-11-06T19:10:08+00:00",
+        "fetched_at": "2026-11-07T12:32:45.323136+00:00",
+        "author": "/u/CategoryNormal149",
         "tags": [
-          "cs.AI",
-          "cs.MA"
+          "reddit"
         ]
       },
       {
-        "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
-        "url": "https://arxiv.org/abs/2611.07073",
-        "source": "arXiv AI/ML",
-        "summary": "07073v1 Announce Type: new Abstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reasoning We intro",
+        "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+        "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+        "source": "NVIDIA Blog",
+        "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development Together, they give resear",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.623150+00:00",
-        "author": "Priyanath Maji",
+        "published_at": "2026-11-06T16:00:35+00:00",
+        "fetched_at": "2026-11-07T12:32:35.356412+00:00",
+        "author": "Soma Velayutham",
         "tags": [
-          "cs.AI"
+          "AI",
+          "AI Infrastructure",
+          "Software",
+          "6G",
+          "Open Source"
         ]
       },
       {
-        "title": "Synthesizing symbolic models of human and machine reasoning at scale",
-        "url": "https://arxiv.org/abs/2611.07088",
-        "source": "arXiv AI/ML",
-        "summary": "07088v1 Announce Type: new Abstract: Symbolic models offer a powerful account of cognition, but their scope has historically been limited by the need for hand-engineering and computational tractabilit",
+        "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+        "source": "r/MachineLearning",
+        "summary": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv In this process, I changed the name of the method and title Now a reviewer, pointed o",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.657153+00:00",
-        "author": "Solim LeGris, Philipp Mondorf, Jinran Jin, Akshay K. Jagadish, Brenden M. Lake, Todd M. Gureckis",
+        "published_at": "2026-11-06T15:09:18+00:00",
+        "fetched_at": "2026-11-07T12:32:45.243406+00:00",
+        "author": "/u/fanconic",
         "tags": [
-          "cs.AI",
-          "cs.LG"
+          "reddit"
         ]
       },
       {
-        "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
-        "url": "https://arxiv.org/abs/2611.07123",
-        "source": "arXiv AI/ML",
-        "summary": "07123v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems In deployment, however, their a",
+        "title": "ICLR 2027 Review Scores [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
+        "source": "r/MachineLearning",
+        "summary": "submitted by /u/No-Lab4175 [link] [comments]",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.689359+00:00",
-        "author": "Sven Kleinkop, Tam\\'as Janusko, Ricardo Bochnia, Gunnar Hempel, Steffen Tomschke, J\\\"urgen Anke, Maik Thiele",
+        "published_at": "2026-11-06T14:37:41+00:00",
+        "fetched_at": "2026-11-07T12:32:44.836660+00:00",
+        "author": "/u/No-Lab4175",
         "tags": [
-          "cs.AI",
-          "cs.LG"
+          "reddit"
         ]
       },
       {
-        "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
-        "url": "https://arxiv.org/abs/2611.07247",
-        "source": "arXiv AI/ML",
-        "summary": "07247v1 Announce Type: new Abstract: Power matters for AI safety Optimal agents tend to acquire power across a wide range of objectives (instrumental convergence) As we embed AI agents into socio-tech",
+        "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+        "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+        "source": "NVIDIA Blog",
+        "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior produ",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.736520+00:00",
-        "author": "Jaime Ruiz-Serra, Tom\\'a\\v{s} Gaven\\v{c}iak, Jobst Heitzig",
+        "published_at": "2026-11-05T16:00:05+00:00",
+        "fetched_at": "2026-11-07T12:32:35.452092+00:00",
+        "author": "Matthew Leib",
         "tags": [
-          "cs.AI",
-          "cs.IT",
-          "cs.LG",
-          "math.IT"
+          "AI",
+          "NVIDIA Life",
+          "Agentic AI",
+          "Nemotron",
+          "Nemotron Labs"
         ]
       },
       {
-        "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
-        "url": "https://arxiv.org/abs/2611.07296",
-        "source": "arXiv AI/ML",
-        "summary": "07296v1 Announce Type: new Abstract: When a tropical cyclone (TC) threatens several ports, preparedness planning depends on anticipating which ports are likely to be affected and where disruptions may",
+        "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+        "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+        "source": "Microsoft Research Blog",
+        "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing ag",
         "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.783971+00:00",
-        "author": "Chenchen Kuai, Shixuan Tang, Chaolun Ma, Xiaoqiang Kong, Xiubin Bruce Wang, Yunlong Zhang, Zihao Li",
+        "published_at": "2026-11-05T16:00:00+00:00",
+        "fetched_at": "2026-11-07T12:32:33.686197+00:00",
+        "author": "Alex Lavaee, Matthai Philipose",
         "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "EnvOpt: Automated Optimization for Agent Environments",
-        "url": "https://arxiv.org/abs/2611.07372",
-        "source": "arXiv AI/ML",
-        "summary": "07372v1 Announce Type: new Abstract: An LLM agent's cost and success depend on its model, its harness, and its environment In addition to the widely studied directions of parameter tuning and harness ",
-        "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.812505+00:00",
-        "author": "Mingxuan Li, Huanzhi Mao, Qiuyang Mang, Hanchen Li, Joseph E. Gonzalez, Alex Dimakis",
-        "tags": [
-          "cs.AI",
-          "cs.CL"
-        ]
-      },
-      {
-        "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
-        "url": "https://arxiv.org/abs/2611.07464",
-        "source": "arXiv AI/ML",
-        "summary": "07464v1 Announce Type: new Abstract: Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest The data must come from the Web, the strategy lives in t",
-        "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.846675+00:00",
-        "author": "Yupeng Cao, Xueqing Peng, Lingfei Qian, Haohang Li, Yangyang Yu, Anke Xu, Wenbo Cao, Yan Wang, Yuechen Jiang, Yuyan Wang, Zhuohan Xie, Yankai Chen, Zehan Li, Jimin Huang, Xue Liu, Jian-Yun Nie, Sophia Ananiadou",
-        "tags": [
-          "cs.AI",
-          "cs.CL",
-          "q-fin.CP"
-        ]
-      },
-      {
-        "title": "SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards",
-        "url": "https://arxiv.org/abs/2611.07482",
-        "source": "arXiv AI/ML",
-        "summary": "07482v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have achieved impressive performance via explicit Chain-of-Thought (CoT) reasoning, yet this process introduces critical safety risks",
-        "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.890932+00:00",
-        "author": "Yichen Sun, Qirui Liu, Yan Wang, Jianan Lin, Linbo Jiang, Shiyu Wang, Zhibo Wang, Zhixuan Chu",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
-        "url": "https://arxiv.org/abs/2611.07508",
-        "source": "arXiv AI/ML",
-        "summary": "07508v1 Announce Type: new Abstract: AI agents that work for an individual over time may also help that individual serve external clients We define a personal external service agent as an agent author",
-        "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.927234+00:00",
-        "author": "Jichao Li, Jinrong Lu, Manjiang Yu, Zhixuan Liu",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
-        "url": "https://arxiv.org/abs/2611.07520",
-        "source": "arXiv AI/ML",
-        "summary": "07520v1 Announce Type: new Abstract: Uncertainty in resource reopening times complicates train holding and rerouting decisions when resource closures coincide with arrival delays and processing-time e",
-        "category": "research",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:19.983441+00:00",
-        "author": "Xiaobin Li, Yanbin Gao, Jianing Long, Wuming Lei",
-        "tags": [
-          "cs.AI"
+          "Research Blog"
         ]
       }
     ],
@@ -440,7 +269,7 @@
         "summary": "AI agents do more than generate answers They search for information, query databases, write and test code and take action Each of those steps relies on a CPU, with agents moving between GPU reasoning ",
         "category": "industry",
         "published_at": "2026-11-05T20:00:41+00:00",
-        "fetched_at": "2026-11-06T13:49:34.120247+00:00",
+        "fetched_at": "2026-11-07T12:32:35.404625+00:00",
         "author": "Hannah Coutand",
         "tags": [
           "AI Infrastructure",
@@ -451,26 +280,13 @@
         ]
       },
       {
-        "title": "Looking for Emergency Reviewers [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
-        "source": "r/MachineLearning",
-        "summary": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline If you have expertise in computer vision, multimodal learning, physiological sensin",
-        "category": "industry",
-        "published_at": "2026-11-05T18:31:03+00:00",
-        "fetched_at": "2026-11-06T13:49:44.541563+00:00",
-        "author": "/u/aicommander",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
         "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
         "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
         "source": "Google DeepMind Blog",
         "summary": "",
         "category": "industry",
         "published_at": "2026-11-05T17:05:16+00:00",
-        "fetched_at": "2026-11-06T13:49:35.122788+00:00",
+        "fetched_at": "2026-11-07T12:32:36.318072+00:00",
         "author": "",
         "tags": []
       },
@@ -481,7 +297,7 @@
         "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term NVIDIA works close",
         "category": "industry",
         "published_at": "2026-11-05T16:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:34.234006+00:00",
+        "fetched_at": "2026-11-07T12:32:35.505187+00:00",
         "author": "Amr Elmeleegy",
         "tags": [
           "AI Infrastructure",
@@ -498,58 +314,50 @@
         "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development",
         "category": "industry",
         "published_at": "2026-11-05T02:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:29.108707+00:00",
+        "fetched_at": "2026-11-07T12:32:30.642774+00:00",
         "author": "",
         "tags": [
           "Global Affairs"
-        ]
-      },
-      {
-        "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-        "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-        "source": "NVIDIA Blog",
-        "summary": "Demand for advanced chips is rising The processes to build them are getting more complex And the margin for error is shrinking",
-        "category": "industry",
-        "published_at": "2026-11-03T16:00:45+00:00",
-        "fetched_at": "2026-11-06T13:49:34.350317+00:00",
-        "author": "Timothy Costa",
-        "tags": [
-          "AI",
-          "Agentic AI",
-          "Artificial Intelligence",
-          "CUDA",
-          "Digital Twin"
         ]
       }
     ],
     "tools": [
       {
-        "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
-        "url": "https://arxiv.org/abs/2611.07652",
-        "source": "arXiv AI/ML",
-        "summary": "07652v1 Announce Type: new Abstract: Current autonomous logical systems rely on a fragile assumption: that language models should dynamically write code, guess API payloads, and memorize operational c",
+        "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+        "source": "r/MachineLearning",
+        "summary": "Ant Ling has released Ling-3 2-flash, a native multimodal MoE with 560B total parameters, 25B activated parameters and a maximum 1M-token context window The official documentation specifies text, imag",
         "category": "tools",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:20.368999+00:00",
-        "author": "Vladimiros Peilivanidis (ARPA Hellenic Logical Systems)",
+        "published_at": "2026-11-07T05:21:18+00:00",
+        "fetched_at": "2026-11-07T12:32:45.047760+00:00",
+        "author": "/u/the-hollow-soul",
         "tags": [
-          "cs.AI",
-          "cs.SE"
+          "reddit"
         ]
       },
       {
-        "title": "SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking",
-        "url": "https://arxiv.org/abs/2611.07558",
-        "source": "arXiv CL",
-        "summary": "07558v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed under structured generation, where grammar constraints enforce output format at inference time Whereas ",
+        "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+        "source": "r/MachineLearning",
+        "summary": "Disclosure: I'm at Boson AI and this is our release Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now Most voice models are still turn-based:",
         "category": "tools",
-        "published_at": "2026-11-06T00:00:00-05:00",
-        "fetched_at": "2026-11-06T13:49:26.428055+00:00",
-        "author": "Moonseok Choi, Jongwon Jeong, Minki Kang, Giung Nam, Juho Lee",
+        "published_at": "2026-11-06T20:23:53+00:00",
+        "fetched_at": "2026-11-07T12:32:44.992716+00:00",
+        "author": "/u/Cali_Cobarde",
         "tags": [
-          "cs.CL",
-          "cs.AI"
+          "reddit"
         ]
+      },
+      {
+        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+        "url": "https://huggingface.co/blog/allenai/toyblocks",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-11-06T14:00:48+00:00",
+        "fetched_at": "2026-11-07T12:32:29.375083+00:00",
+        "author": "",
+        "tags": []
       },
       {
         "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
@@ -558,7 +366,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-06T00:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:27.443438+00:00",
+        "fetched_at": "2026-11-07T12:32:29.413283+00:00",
         "author": "",
         "tags": []
       },
@@ -569,35 +377,9 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-05T19:35:16+00:00",
-        "fetched_at": "2026-11-06T13:49:27.489577+00:00",
+        "fetched_at": "2026-11-07T12:32:29.455041+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "I animated how a language model picks the next token, with real probabilities from Qwen2.5-0.5B: softmax, greedy vs sampling, temperature, top-k, top-p (7 min video) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xopogt/i_animated_how_a_language_model_picks_the_next/",
-        "source": "r/MachineLearning",
-        "summary": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong It follows one real example the whole way 5B-Instruct \"Write one sentence ",
-        "category": "tools",
-        "published_at": "2026-11-05T18:05:55+00:00",
-        "fetched_at": "2026-11-06T13:49:44.997671+00:00",
-        "author": "/u/Rajucg",
-        "tags": [
-          "reddit"
-        ]
-      },
-      {
-        "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
-        "source": "r/MachineLearning",
-        "summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech) We recently released DialFork and thought it might interest people here It's a benchmark for a failure mode of LLM agents that ",
-        "category": "tools",
-        "published_at": "2026-11-05T10:44:15+00:00",
-        "fetched_at": "2026-11-06T13:49:44.696048+00:00",
-        "author": "/u/sergbur",
-        "tags": [
-          "reddit"
-        ]
       },
       {
         "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -606,62 +388,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-04T17:50:10+00:00",
-        "fetched_at": "2026-11-06T13:49:27.538415+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Together Compiler: Continual Compilation for AI inference",
-        "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
-        "source": "Together AI Blog",
-        "summary": "Together Compiler uses agents and persistent engines to optimize open models in under 24 hours, delivering up to 3 7x higher throughput as traffic changes",
-        "category": "tools",
-        "published_at": "2026-11-04T00:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:42.937079+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Polymorphic Inference: self-tuning inference for open models",
-        "url": "https://www.together.ai/blog/polymorphic-inference",
-        "source": "Together AI Blog",
-        "summary": "Models, traffic and chips are constantly changing Polymorphic Inference adapts to each, and Together Compiler uses AI agents to keep production inference tuned",
-        "category": "tools",
-        "published_at": "2026-11-04T00:00:00+00:00",
-        "fetched_at": "2026-11-06T13:49:42.982529+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "StateBench: Testing how language models track state changes over long documents",
-        "url": "https://huggingface.co/blog/allenai/statebench",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-11-03T17:15:21+00:00",
-        "fetched_at": "2026-11-06T13:49:27.592955+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Agentic cheminformatics with Google Antigravity",
-        "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-        "source": "Google DeepMind Blog",
-        "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles",
-        "category": "tools",
-        "published_at": "2026-11-03T17:01:49+00:00",
-        "fetched_at": "2026-11-06T13:49:35.159439+00:00",
-        "author": "",
-        "tags": []
-      },
-      {
-        "title": "Palette: teaching a small model to build decks in your design language",
-        "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "source": "Hugging Face Blog",
-        "summary": "",
-        "category": "tools",
-        "published_at": "2026-11-03T16:35:36+00:00",
-        "fetched_at": "2026-11-06T13:49:27.642188+00:00",
+        "fetched_at": "2026-11-07T12:32:29.498599+00:00",
         "author": "",
         "tags": []
       }
@@ -669,332 +396,228 @@
   },
   "all_articles": [
     {
-      "title": "How do you build visibility through open source contributions?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
-      "source": "r/MachineLearning",
-      "summary": "I’m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community I’ve been thinking about contributing to established ",
-      "category": "breaking",
-      "published_at": "2026-11-06T09:55:15+00:00",
-      "fetched_at": "2026-11-06T13:49:44.393264+00:00",
-      "author": "/u/Few-Cheetah3336",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "ICLR Review [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xozcd8/iclr_review_d/",
-      "source": "r/MachineLearning",
-      "summary": "Anybody got them so far I have two submissions #35k+ & 50k+, waiting submitted by /u/Invariant_n_Cauchy [link] [comments]",
-      "category": "breaking",
-      "published_at": "2026-11-06T00:44:42+00:00",
-      "fetched_at": "2026-11-06T13:49:44.782185+00:00",
-      "author": "/u/Invariant_n_Cauchy",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
       "source": "OpenAI Blog",
-      "summary": "fit is using Codex to help teams across functions build tools, move faster, and change how work gets done",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI",
       "category": "breaking",
-      "published_at": "2026-11-05T20:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:28.968829+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
-      "source": "r/MachineLearning",
-      "summary": "Handbook: https://huggingface co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've r",
-      "category": "breaking",
-      "published_at": "2026-11-05T19:13:51+00:00",
-      "fetched_at": "2026-11-06T13:49:44.471942+00:00",
-      "author": "/u/Norlax_42",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI Blog",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce",
-      "category": "breaking",
-      "published_at": "2026-11-05T17:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:28.934207+00:00",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "fetched_at": "2026-11-07T12:32:30.564603+00:00",
       "author": "",
       "tags": [
-        "Company"
+        "Security"
       ]
     },
     {
-      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI Blog",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science",
+      "category": "breaking",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "fetched_at": "2026-11-07T12:32:30.603845+00:00",
+      "author": "",
+      "tags": [
+        "Publication"
+      ]
+    },
+    {
+      "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
+      "source": "r/MachineLearning",
+      "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow They’re so f short, like they're written for a random workshop Almost every review I've seen is two generic points un",
+      "category": "research",
+      "published_at": "2026-11-07T08:25:40+00:00",
+      "fetched_at": "2026-11-07T12:32:44.665335+00:00",
+      "author": "/u/Charming-Fail-772",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+      "source": "r/MachineLearning",
+      "summary": "Im an incoming masters student in ML, a bit older than most (31) I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hint",
+      "category": "research",
+      "published_at": "2026-11-07T07:08:01+00:00",
+      "fetched_at": "2026-11-07T12:32:44.619613+00:00",
+      "author": "/u/sooham",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
+      "source": "r/MachineLearning",
+      "summary": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process One of the reviewers seems to have submitted a review for a completely different paper And",
+      "category": "research",
+      "published_at": "2026-11-07T06:40:14+00:00",
+      "fetched_at": "2026-11-07T12:32:44.816414+00:00",
+      "author": "/u/rohitx0",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "ICLR27 math and stats paper review experience [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+      "source": "r/MachineLearning",
+      "summary": "For people who had papers submitted to ICLR that are applied theory style For example, 60- 70% theory with some experiments at the end What was your review experience like for ICLR27",
+      "category": "research",
+      "published_at": "2026-11-07T03:02:10+00:00",
+      "fetched_at": "2026-11-07T12:32:44.871183+00:00",
+      "author": "/u/d_edge_sword",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
+      "source": "r/MachineLearning",
+      "summary": "One reviewer criticizes it for lacking an implemented system, empirical validation, results and for making speculative arguments But its a position/argumentative paper, it doesnt have to have any of t",
+      "category": "research",
+      "published_at": "2026-11-07T01:36:34+00:00",
+      "fetched_at": "2026-11-07T12:32:45.175807+00:00",
+      "author": "/u/Entity303BR",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "The most scathing reviewer 2 review I have ever read",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+      "source": "r/MachineLearning",
+      "summary": "Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to",
+      "category": "research",
+      "published_at": "2026-11-07T01:30:53+00:00",
+      "fetched_at": "2026-11-07T12:32:44.564178+00:00",
+      "author": "/u/MOSFETBJT",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+      "source": "r/MachineLearning",
+      "summary": "I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run exp",
+      "category": "research",
+      "published_at": "2026-11-07T00:17:47+00:00",
+      "fetched_at": "2026-11-07T12:32:45.110071+00:00",
+      "author": "/u/Temporary_Switch_339",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+      "source": "r/MachineLearning",
+      "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means We counted the public scores on OpenRev",
+      "category": "research",
+      "published_at": "2026-11-07T00:03:35+00:00",
+      "fetched_at": "2026-11-07T12:32:44.914584+00:00",
+      "author": "/u/latenticlabs",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
+      "source": "r/MachineLearning",
+      "summary": "I'm exploring the field of Embodied AI, particularly humanoid intelligence, cognitive architectures, and the intersection of AI and robotics I'm looking to connect with people who are: Researching or ",
+      "category": "research",
+      "published_at": "2026-11-06T21:49:56+00:00",
+      "fetched_at": "2026-11-07T12:32:45.394459+00:00",
+      "author": "/u/TechDc-1306",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+      "source": "r/MachineLearning",
+      "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms There was tremendous value in ",
+      "category": "research",
+      "published_at": "2026-11-06T21:25:49+00:00",
+      "fetched_at": "2026-11-07T12:32:44.746786+00:00",
+      "author": "/u/Strong_Boy_757",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/",
+      "source": "r/MachineLearning",
+      "summary": "A new contest for anyone training sequence models on TCRs Given a TCR sequence and a peptide-HLA, predict whether the T cell activates Inputs are amino acid sequences, the benchmark is about 5,800 lab",
+      "category": "research",
+      "published_at": "2026-11-06T20:22:25+00:00",
+      "fetched_at": "2026-11-07T12:32:45.458143+00:00",
+      "author": "/u/Harell-Data",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+      "source": "r/MachineLearning",
+      "summary": "08376 | HF: https://huggingface 08376 At 10M tokens, a 1 3B Transformer needs 2",
+      "category": "research",
+      "published_at": "2026-11-06T19:10:08+00:00",
+      "fetched_at": "2026-11-07T12:32:45.323136+00:00",
+      "author": "/u/CategoryNormal149",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
       "source": "NVIDIA Blog",
-      "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW Blizzard Entertainment’s World o",
-      "category": "breaking",
-      "published_at": "2026-11-05T14:00:34+00:00",
-      "fetched_at": "2026-11-06T13:49:34.284146+00:00",
-      "author": "GeForce NOW Community",
-      "tags": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ]
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI Blog",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope",
-      "category": "breaking",
-      "published_at": "2026-11-05T09:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:29.018921+00:00",
-      "author": "",
-      "tags": [
-        "Product"
-      ]
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "source": "OpenAI Blog",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing Its teams also use AI to plan executive dinners and prepare sales updates",
-      "category": "breaking",
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:29.064501+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "source": "OpenAI Blog",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup",
-      "category": "breaking",
-      "published_at": "2026-11-05T00:45:15+00:00",
-      "fetched_at": "2026-11-06T13:49:29.151039+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI Blog",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks",
-      "category": "breaking",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:29.198008+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "ICLR 2027 Reviews are out [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
-      "source": "r/MachineLearning",
-      "summary": "How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development Together, they give resear",
       "category": "research",
-      "published_at": "2026-11-06T13:03:09+00:00",
-      "fetched_at": "2026-11-06T13:49:44.345493+00:00",
-      "author": "/u/mr_carlduke",
+      "published_at": "2026-11-06T16:00:35+00:00",
+      "fetched_at": "2026-11-07T12:32:35.356412+00:00",
+      "author": "Soma Velayutham",
+      "tags": [
+        "AI",
+        "AI Infrastructure",
+        "Software",
+        "6G",
+        "Open Source"
+      ]
+    },
+    {
+      "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+      "source": "r/MachineLearning",
+      "summary": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv In this process, I changed the name of the method and title Now a reviewer, pointed o",
+      "category": "research",
+      "published_at": "2026-11-06T15:09:18+00:00",
+      "fetched_at": "2026-11-07T12:32:45.243406+00:00",
+      "author": "/u/fanconic",
       "tags": [
         "reddit"
       ]
     },
     {
-      "title": "I need some guidance after a six month hiatus [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
+      "title": "ICLR 2027 Review Scores [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
       "source": "r/MachineLearning",
-      "summary": "Short Backstory: I'm a PhD student on my 5th year I had a major mental breakdown on June 2026 after my second rejection on an IEEE Journal After a lot of back and forth, I decided to not give up my Ph",
+      "summary": "submitted by /u/No-Lab4175 [link] [comments]",
       "category": "research",
-      "published_at": "2026-11-06T12:06:42+00:00",
-      "fetched_at": "2026-11-06T13:49:44.513082+00:00",
-      "author": "/u/Neural_Prodigy",
+      "published_at": "2026-11-06T14:37:41+00:00",
+      "fetched_at": "2026-11-07T12:32:44.836660+00:00",
+      "author": "/u/No-Lab4175",
       "tags": [
         "reddit"
-      ]
-    },
-    {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "source": "arXiv AI/ML",
-      "summary": "06962v1 Announce Type: new Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap We describe AutoIP, a Lean l",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.207857+00:00",
-      "author": "Christian Clason, Tapio Helin, Medet Nursultanov, Lauri Oksanen",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "source": "arXiv AI/ML",
-      "summary": "06972v1 Announce Type: new Abstract: Liability adjudication tasks (e , legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party shou",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.251411+00:00",
-      "author": "Zi-Jian Cheng, Weiming Wu, Jie Meng, Zhen Peng, Shan Huang, Qun Li, Guobing Wu, Lan-Zhe Guo",
-      "tags": [
-        "cs.AI",
-        "cs.CY"
-      ]
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "source": "arXiv AI/ML",
-      "summary": "06977v1 Announce Type: new Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch Existing solutions pay for this in differ",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.281465+00:00",
-      "author": "Xiuyuan Qi, Pedro Reviriego, Javier Conde, Shanshan Liu",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "source": "arXiv AI/ML",
-      "summary": "06984v1 Announce Type: new Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck In m",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.324103+00:00",
-      "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
-      "tags": [
-        "cs.AI",
-        "cs.DC"
-      ]
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "source": "arXiv AI/ML",
-      "summary": "06989v1 Announce Type: new Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record ",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.377725+00:00",
-      "author": "Vivek Acharya",
-      "tags": [
-        "cs.AI",
-        "cs.DC",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "source": "arXiv AI/ML",
-      "summary": "06995v1 Announce Type: new Abstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs requires new attention to the differe",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.417643+00:00",
-      "author": "B\\'alint Gyevn\\'ar, Simon DeDeo",
-      "tags": [
-        "cs.AI",
-        "cs.HC"
-      ]
-    },
-    {
-      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "url": "https://arxiv.org/abs/2611.06996",
-      "source": "arXiv AI/ML",
-      "summary": "06996v1 Announce Type: new Abstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or measured We empirically characteriz",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.470744+00:00",
-      "author": "Ahsan Habib Shihab, Imre Felde, Ramis Akhmedov, Stefan Gubo, Berik Sabdenaliyev, Madina Mansurova, Amir Mosavi",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "url": "https://arxiv.org/abs/2611.07048",
-      "source": "arXiv AI/ML",
-      "summary": "07048v1 Announce Type: new Abstract: Evolution has shaped intelligence for billions of years Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own ev",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.514598+00:00",
-      "author": "Andrew W. Lo, Chaoyi Zhao",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-      "url": "https://arxiv.org/abs/2611.07051",
-      "source": "arXiv AI/ML",
-      "summary": "07051v1 Announce Type: new Abstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors Yet most evaluation is one-off: a benchmark run, a look at",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.548457+00:00",
-      "author": "Ruifeng Ren, Gun Ahn",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-      "url": "https://arxiv.org/abs/2611.07066",
-      "source": "arXiv AI/ML",
-      "summary": "07066v1 Announce Type: new Abstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, whic",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.587583+00:00",
-      "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
-      "tags": [
-        "cs.AI",
-        "cs.MA"
-      ]
-    },
-    {
-      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
-      "url": "https://arxiv.org/abs/2611.07073",
-      "source": "arXiv AI/ML",
-      "summary": "07073v1 Announce Type: new Abstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through genuine independent reasoning We intro",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.623150+00:00",
-      "author": "Priyanath Maji",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Synthesizing symbolic models of human and machine reasoning at scale",
-      "url": "https://arxiv.org/abs/2611.07088",
-      "source": "arXiv AI/ML",
-      "summary": "07088v1 Announce Type: new Abstract: Symbolic models offer a powerful account of cognition, but their scope has historically been limited by the need for hand-engineering and computational tractabilit",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.657153+00:00",
-      "author": "Solim LeGris, Philipp Mondorf, Jinran Jin, Akshay K. Jagadish, Brenden M. Lake, Todd M. Gureckis",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
-      "url": "https://arxiv.org/abs/2611.07123",
-      "source": "arXiv AI/ML",
-      "summary": "07123v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as automated judges for evaluating the behavior of chatbots and other AI systems In deployment, however, their a",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.689359+00:00",
-      "author": "Sven Kleinkop, Tam\\'as Janusko, Ricardo Bochnia, Gunnar Hempel, Steffen Tomschke, J\\\"urgen Anke, Maik Thiele",
-      "tags": [
-        "cs.AI",
-        "cs.LG"
       ]
     },
     {
@@ -1004,7 +627,7 @@
       "summary": "AI agents do more than generate answers They search for information, query databases, write and test code and take action Each of those steps relies on a CPU, with agents moving between GPU reasoning ",
       "category": "industry",
       "published_at": "2026-11-05T20:00:41+00:00",
-      "fetched_at": "2026-11-06T13:49:34.120247+00:00",
+      "fetched_at": "2026-11-07T12:32:35.404625+00:00",
       "author": "Hannah Coutand",
       "tags": [
         "AI Infrastructure",
@@ -1015,26 +638,13 @@
       ]
     },
     {
-      "title": "Looking for Emergency Reviewers [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
-      "source": "r/MachineLearning",
-      "summary": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline If you have expertise in computer vision, multimodal learning, physiological sensin",
-      "category": "industry",
-      "published_at": "2026-11-05T18:31:03+00:00",
-      "fetched_at": "2026-11-06T13:49:44.541563+00:00",
-      "author": "/u/aicommander",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "source": "Google DeepMind Blog",
       "summary": "",
       "category": "industry",
       "published_at": "2026-11-05T17:05:16+00:00",
-      "fetched_at": "2026-11-06T13:49:35.122788+00:00",
+      "fetched_at": "2026-11-07T12:32:36.318072+00:00",
       "author": "",
       "tags": []
     },
@@ -1045,7 +655,7 @@
       "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term NVIDIA works close",
       "category": "industry",
       "published_at": "2026-11-05T16:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:34.234006+00:00",
+      "fetched_at": "2026-11-07T12:32:35.505187+00:00",
       "author": "Amr Elmeleegy",
       "tags": [
         "AI Infrastructure",
@@ -1062,56 +672,48 @@
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development",
       "category": "industry",
       "published_at": "2026-11-05T02:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:29.108707+00:00",
+      "fetched_at": "2026-11-07T12:32:30.642774+00:00",
       "author": "",
       "tags": [
         "Global Affairs"
       ]
     },
     {
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "source": "NVIDIA Blog",
-      "summary": "Demand for advanced chips is rising The processes to build them are getting more complex And the margin for error is shrinking",
-      "category": "industry",
-      "published_at": "2026-11-03T16:00:45+00:00",
-      "fetched_at": "2026-11-06T13:49:34.350317+00:00",
-      "author": "Timothy Costa",
+      "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+      "source": "r/MachineLearning",
+      "summary": "Ant Ling has released Ling-3 2-flash, a native multimodal MoE with 560B total parameters, 25B activated parameters and a maximum 1M-token context window The official documentation specifies text, imag",
+      "category": "tools",
+      "published_at": "2026-11-07T05:21:18+00:00",
+      "fetched_at": "2026-11-07T12:32:45.047760+00:00",
+      "author": "/u/the-hollow-soul",
       "tags": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "CUDA",
-        "Digital Twin"
+        "reddit"
       ]
     },
     {
-      "title": "Don't Prompt Your Agents. Equip Them: Skillware as a Modular Standard for Sovereign, Auditable, and Deterministic Capability Execution for Logical Systems",
-      "url": "https://arxiv.org/abs/2611.07652",
-      "source": "arXiv AI/ML",
-      "summary": "07652v1 Announce Type: new Abstract: Current autonomous logical systems rely on a fragile assumption: that language models should dynamically write code, guess API payloads, and memorize operational c",
+      "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+      "source": "r/MachineLearning",
+      "summary": "Disclosure: I'm at Boson AI and this is our release Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now Most voice models are still turn-based:",
       "category": "tools",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:20.368999+00:00",
-      "author": "Vladimiros Peilivanidis (ARPA Hellenic Logical Systems)",
+      "published_at": "2026-11-06T20:23:53+00:00",
+      "fetched_at": "2026-11-07T12:32:44.992716+00:00",
+      "author": "/u/Cali_Cobarde",
       "tags": [
-        "cs.AI",
-        "cs.SE"
+        "reddit"
       ]
     },
     {
-      "title": "SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking",
-      "url": "https://arxiv.org/abs/2611.07558",
-      "source": "arXiv CL",
-      "summary": "07558v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed under structured generation, where grammar constraints enforce output format at inference time Whereas ",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "category": "tools",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:26.428055+00:00",
-      "author": "Moonseok Choi, Jongwon Jeong, Minki Kang, Giung Nam, Juho Lee",
-      "tags": [
-        "cs.CL",
-        "cs.AI"
-      ]
+      "published_at": "2026-11-06T14:00:48+00:00",
+      "fetched_at": "2026-11-07T12:32:29.375083+00:00",
+      "author": "",
+      "tags": []
     },
     {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
@@ -1120,7 +722,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-06T00:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:27.443438+00:00",
+      "fetched_at": "2026-11-07T12:32:29.413283+00:00",
       "author": "",
       "tags": []
     },
@@ -1131,35 +733,9 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-05T19:35:16+00:00",
-      "fetched_at": "2026-11-06T13:49:27.489577+00:00",
+      "fetched_at": "2026-11-07T12:32:29.455041+00:00",
       "author": "",
       "tags": []
-    },
-    {
-      "title": "I animated how a language model picks the next token, with real probabilities from Qwen2.5-0.5B: softmax, greedy vs sampling, temperature, top-k, top-p (7 min video) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xopogt/i_animated_how_a_language_model_picks_the_next/",
-      "source": "r/MachineLearning",
-      "summary": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong It follows one real example the whole way 5B-Instruct \"Write one sentence ",
-      "category": "tools",
-      "published_at": "2026-11-05T18:05:55+00:00",
-      "fetched_at": "2026-11-06T13:49:44.997671+00:00",
-      "author": "/u/Rajucg",
-      "tags": [
-        "reddit"
-      ]
-    },
-    {
-      "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
-      "source": "r/MachineLearning",
-      "summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech) We recently released DialFork and thought it might interest people here It's a benchmark for a failure mode of LLM agents that ",
-      "category": "tools",
-      "published_at": "2026-11-05T10:44:15+00:00",
-      "fetched_at": "2026-11-06T13:49:44.696048+00:00",
-      "author": "/u/sergbur",
-      "tags": [
-        "reddit"
-      ]
     },
     {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -1168,160 +744,38 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-04T17:50:10+00:00",
-      "fetched_at": "2026-11-06T13:49:27.538415+00:00",
+      "fetched_at": "2026-11-07T12:32:29.498599+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "Together Compiler: Continual Compilation for AI inference",
-      "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
-      "source": "Together AI Blog",
-      "summary": "Together Compiler uses agents and persistent engines to optimize open models in under 24 hours, delivering up to 3 7x higher throughput as traffic changes",
-      "category": "tools",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:42.937079+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Polymorphic Inference: self-tuning inference for open models",
-      "url": "https://www.together.ai/blog/polymorphic-inference",
-      "source": "Together AI Blog",
-      "summary": "Models, traffic and chips are constantly changing Polymorphic Inference adapts to each, and Together Compiler uses AI agents to keep production inference tuned",
-      "category": "tools",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-06T13:49:42.982529+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-11-03T17:15:21+00:00",
-      "fetched_at": "2026-11-06T13:49:27.592955+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind Blog",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles",
-      "category": "tools",
-      "published_at": "2026-11-03T17:01:49+00:00",
-      "fetched_at": "2026-11-06T13:49:35.159439+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "category": "tools",
-      "published_at": "2026-11-03T16:35:36+00:00",
-      "fetched_at": "2026-11-06T13:49:27.642188+00:00",
-      "author": "",
-      "tags": []
-    },
-    {
-      "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
-      "url": "https://arxiv.org/abs/2611.07247",
-      "source": "arXiv AI/ML",
-      "summary": "07247v1 Announce Type: new Abstract: Power matters for AI safety Optimal agents tend to acquire power across a wide range of objectives (instrumental convergence) As we embed AI agents into socio-tech",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "source": "NVIDIA Blog",
+      "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior produ",
       "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.736520+00:00",
-      "author": "Jaime Ruiz-Serra, Tom\\'a\\v{s} Gaven\\v{c}iak, Jobst Heitzig",
+      "published_at": "2026-11-05T16:00:05+00:00",
+      "fetched_at": "2026-11-07T12:32:35.452092+00:00",
+      "author": "Matthew Leib",
       "tags": [
-        "cs.AI",
-        "cs.IT",
-        "cs.LG",
-        "math.IT"
+        "AI",
+        "NVIDIA Life",
+        "Agentic AI",
+        "Nemotron",
+        "Nemotron Labs"
       ]
     },
     {
-      "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
-      "url": "https://arxiv.org/abs/2611.07296",
-      "source": "arXiv AI/ML",
-      "summary": "07296v1 Announce Type: new Abstract: When a tropical cyclone (TC) threatens several ports, preparedness planning depends on anticipating which ports are likely to be affected and where disruptions may",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "source": "Microsoft Research Blog",
+      "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing ag",
       "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.783971+00:00",
-      "author": "Chenchen Kuai, Shixuan Tang, Chaolun Ma, Xiaoqiang Kong, Xiubin Bruce Wang, Yunlong Zhang, Zihao Li",
+      "published_at": "2026-11-05T16:00:00+00:00",
+      "fetched_at": "2026-11-07T12:32:33.686197+00:00",
+      "author": "Alex Lavaee, Matthai Philipose",
       "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "EnvOpt: Automated Optimization for Agent Environments",
-      "url": "https://arxiv.org/abs/2611.07372",
-      "source": "arXiv AI/ML",
-      "summary": "07372v1 Announce Type: new Abstract: An LLM agent's cost and success depend on its model, its harness, and its environment In addition to the widely studied directions of parameter tuning and harness ",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.812505+00:00",
-      "author": "Mingxuan Li, Huanzhi Mao, Qiuyang Mang, Hanchen Li, Joseph E. Gonzalez, Alex Dimakis",
-      "tags": [
-        "cs.AI",
-        "cs.CL"
-      ]
-    },
-    {
-      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
-      "url": "https://arxiv.org/abs/2611.07464",
-      "source": "arXiv AI/ML",
-      "summary": "07464v1 Announce Type: new Abstract: Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest The data must come from the Web, the strategy lives in t",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.846675+00:00",
-      "author": "Yupeng Cao, Xueqing Peng, Lingfei Qian, Haohang Li, Yangyang Yu, Anke Xu, Wenbo Cao, Yan Wang, Yuechen Jiang, Yuyan Wang, Zhuohan Xie, Yankai Chen, Zehan Li, Jimin Huang, Xue Liu, Jian-Yun Nie, Sophia Ananiadou",
-      "tags": [
-        "cs.AI",
-        "cs.CL",
-        "q-fin.CP"
-      ]
-    },
-    {
-      "title": "SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2611.07482",
-      "source": "arXiv AI/ML",
-      "summary": "07482v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have achieved impressive performance via explicit Chain-of-Thought (CoT) reasoning, yet this process introduces critical safety risks",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.890932+00:00",
-      "author": "Yichen Sun, Qirui Liu, Yan Wang, Jianan Lin, Linbo Jiang, Shiyu Wang, Zhibo Wang, Zhixuan Chu",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
-      "url": "https://arxiv.org/abs/2611.07508",
-      "source": "arXiv AI/ML",
-      "summary": "07508v1 Announce Type: new Abstract: AI agents that work for an individual over time may also help that individual serve external clients We define a personal external service agent as an agent author",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.927234+00:00",
-      "author": "Jichao Li, Jinrong Lu, Manjiang Yu, Zhixuan Liu",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
-      "url": "https://arxiv.org/abs/2611.07520",
-      "source": "arXiv AI/ML",
-      "summary": "07520v1 Announce Type: new Abstract: Uncertainty in resource reopening times complicates train holding and rerouting decisions when resource closures coincide with arrival delays and processing-time e",
-      "category": "research",
-      "published_at": "2026-11-06T00:00:00-05:00",
-      "fetched_at": "2026-11-06T13:49:19.983441+00:00",
-      "author": "Xiaobin Li, Yanbin Gao, Jianing Long, Wuming Lei",
-      "tags": [
-        "cs.AI"
+        "Research Blog"
       ]
     }
   ]
