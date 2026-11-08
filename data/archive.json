@@ -1,6 +1,206 @@
 {
-  "generated_at": "2026-11-07T12:33:23.288413+00:00",
+  "generated_at": "2026-11-08T12:51:28.679497+00:00",
   "archive": [
+    {
+      "date": "2026-11-08",
+      "total": 16,
+      "categories": {
+        "breaking": 0,
+        "research": 8,
+        "industry": 2,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "[R] Pre-registered replication of \"Dreaming neural networks\" (Hopfield unlearning, Fachechi et al. 2019) — submitted to ReScience C, code + data + pre-registrations public [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw77i/r_preregistered_replication_of_dreaming_neural/",
+          "source": "r/MachineLearning",
+          "summary": "I re-implemented the dreaming (Hebbian-unlearning) Hopfield kernel J(t) = J(1+t)(1+tJ)^-1 from Fachechi, Agliari & Barra (Neural Networks 2019) in NumPy, at N = 1 000, 10 seeds per condition, with a p",
+          "category": "research",
+          "published_at": "2026-11-08T11:20:10+00:00",
+          "author": "/u/Holiday_Poetry_5133",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "NeurIPS SlidesLive [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+          "source": "r/MachineLearning",
+          "summary": "Does anyone know what this NeurIPS Slides live is I got an email saying \"We are SlidesLive, the recording company partnered with NeurIPS to record your talk We are ready to collect and edit your recor",
+          "category": "research",
+          "published_at": "2026-11-08T11:12:05+00:00",
+          "author": "/u/d_edge_sword",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I trained a playable diffusion world model of Pokémon Red, plus a game agent harness on the same System 1/2 split as Krafton's PUBG Ally. Can this be ICLR-workshop worthy? [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/",
+          "source": "r/MachineLearning",
+          "summary": "The world model: the game, dreamed by a neural net** A diffusion model (same family as image generators) that learned Pokémon Red frame by frame from recorded play Give it the last 4 screens and a but",
+          "category": "research",
+          "published_at": "2026-11-08T07:48:52+00:00",
+          "author": "/u/priyanshu123sah",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+          "source": "r/MachineLearning",
+          "summary": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels Diffusion models actually are vast used in order to generate from a natural language text description i",
+          "category": "research",
+          "published_at": "2026-11-08T07:20:37+00:00",
+          "author": "/u/Specific-Tax-6700",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "3321 ICLR, should I rebuttal? [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrv2a/3321_iclr_should_i_rebuttal_r/",
+          "source": "r/MachineLearning",
+          "summary": "Looks like this killer just doesn’t understand my paper He said my abstract is not well organized, hard to follow my definitions are also hard to follow",
+          "category": "research",
+          "published_at": "2026-11-08T06:34:04+00:00",
+          "author": "/u/millie652",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ICLR 2027 Rebuttal response [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqryx/iclr_2027_rebuttal_response_d/",
+          "source": "r/MachineLearning",
+          "summary": "I got 3/3/2 and working on rebuttal (hope it make it avg to 3) Did you guys posted your response And did you revised the paper as well",
+          "category": "research",
+          "published_at": "2026-11-08T05:27:25+00:00",
+          "author": "/u/Opening_Progress6820",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Advice needed regarding classical ML conference submission [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
+          "source": "r/MachineLearning",
+          "summary": "Hi, I need some advice on submission of classical ML papers in top conferences During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like orig",
+          "category": "research",
+          "published_at": "2026-11-08T05:26:57+00:00",
+          "author": "/u/Halfblood_prince6",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
+          "source": "r/MachineLearning",
+          "summary": "Hi all, Through my MSc work on EEG decoding, I built a novel (partially) architecture tailored to the constraints of EEG The datasets are small, the subject variability is high, and signal acquisition",
+          "category": "research",
+          "published_at": "2026-11-08T05:13:11+00:00",
+          "author": "/u/joekrry",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-11-05T17:05:16+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+          "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+          "source": "NVIDIA Blog",
+          "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term NVIDIA works close",
+          "category": "industry",
+          "published_at": "2026-11-05T16:00:00+00:00",
+          "author": "Amr Elmeleegy",
+          "tags": [
+            "AI Infrastructure",
+            "Agentic AI",
+            "AI Factory",
+            "Artificial Intelligence",
+            "Dynamo"
+          ]
+        },
+        {
+          "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+          "source": "r/MachineLearning",
+          "summary": "Thought Id share the progress on my current local VLA agent project using agent and language somewhat loosely here Technically it is an agent, and technically it does adhere to text prompts",
+          "category": "tools",
+          "published_at": "2026-11-08T06:31:08+00:00",
+          "author": "/u/Sl0wJH1",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+          "source": "r/MachineLearning",
+          "summary": "Ant Ling has released Ling-3 2-flash, a native multimodal MoE with 560B total parameters, 25B activated parameters and a maximum 1M-token context window The official documentation specifies text, imag",
+          "category": "tools",
+          "published_at": "2026-11-07T05:21:18+00:00",
+          "author": "/u/the-hollow-soul",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+          "source": "r/MachineLearning",
+          "summary": "Disclosure: I'm at Boson AI and this is our release Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now Most voice models are still turn-based:",
+          "category": "tools",
+          "published_at": "2026-11-06T20:23:53+00:00",
+          "author": "/u/Cali_Cobarde",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-06T14:00:48+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-06T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-05T19:35:16+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "total": 29,
