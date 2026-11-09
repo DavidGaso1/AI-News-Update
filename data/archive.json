@@ -1,6 +1,282 @@
 {
-  "generated_at": "2026-11-08T12:51:28.679497+00:00",
+  "generated_at": "2026-11-09T15:21:48.173093+00:00",
   "archive": [
+    {
+      "date": "2026-11-09",
+      "total": 50,
+      "categories": {
+        "breaking": 2,
+        "research": 37,
+        "industry": 6,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "Amazon applied science intern interview next week - EU based [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+          "source": "r/MachineLearning",
+          "summary": "After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams) I have two interviews scheduled after each other next week and need help",
+          "category": "breaking",
+          "published_at": "2026-11-09T06:31:34+00:00",
+          "author": "/u/ade17_in",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Have MLSys 2027 reviewers received their paper assignments yet? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xrj2ld/have_mlsys_2027_reviewers_received_their_paper/",
+          "source": "r/MachineLearning",
+          "summary": "I’m signed up as a reciprocal reviewer for MLSys 2027 but haven’t been assigned any papers yet Has anyone received their assignments, or heard when they’ll be released submitted by /u/Sea_Raccoon_9673",
+          "category": "breaking",
+          "published_at": "2026-11-09T05:09:22+00:00",
+          "author": "/u/Sea_Raccoon_9673",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+          "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+          "source": "NVIDIA Blog",
+          "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cable",
+          "category": "research",
+          "published_at": "2026-11-09T14:00:01+00:00",
+          "author": "Sasa Docca",
+          "tags": [
+            "Robotics",
+            "Agentic AI",
+            "Artificial Intelligence",
+            "Cosmos",
+            "Events"
+          ]
+        },
+        {
+          "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+          "source": "r/MachineLearning",
+          "summary": "I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026) It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0 6B) with LoRA: a PT adapter that learns the text forma",
+          "category": "research",
+          "published_at": "2026-11-09T00:30:07+00:00",
+          "author": "/u/prathamdmehta",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Subliminal Learning in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.08538",
+          "source": "arXiv CV",
+          "summary": "08538v1 Announce Type: new Abstract: Subliminal learning is a phenomenon in large language models (LLMs) where a teacher passes a hidden preference to a student through training data unrelated to that",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Arman Hatami, Romina Aalishah, Ilya E. Monosov",
+          "tags": [
+            "cs.CV",
+            "cs.AI",
+            "cs.CL",
+            "cs.LG",
+            "eess.IV"
+          ]
+        },
+        {
+          "title": "Towards Label-Efficient Geospatial Foundation Model Adaptation via Positive-Unlabeled Learning for Building Damage Mapping",
+          "url": "https://arxiv.org/abs/2611.08561",
+          "source": "arXiv CV",
+          "summary": "08561v1 Announce Type: new Abstract: Geospatial foundation models (GFMs) are reshaping remote sensing by shifting the field from task-specific modeling toward general-purpose geospatial intelligence M",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Hengwei Zhao, Qirui Wang, Zhuo Zheng, Xiaoyan Lu, Rusty Feagin, Wenzhe Jiao",
+          "tags": [
+            "cs.CV",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields",
+          "url": "https://arxiv.org/abs/2611.08578",
+          "source": "arXiv CV",
+          "summary": "08578v1 Announce Type: new Abstract: We propose, HaNDF, object-conditional neural distance fields as data-driven priors for modeling the plausible hand-object configurations, in the product manifold o",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Zuhao Liu, Melih Darcan, Zhengdi Yu, Riza Alp Guler, Tolga Birdal",
+          "tags": [
+            "cs.CV",
+            "cs.AI",
+            "cs.LG",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "InstaGen: Group-Shared Importance Sampling for Fast Video Generation",
+          "url": "https://arxiv.org/abs/2611.08610",
+          "source": "arXiv CV",
+          "summary": "08610v1 Announce Type: new Abstract: Diffusion Transformers (DiTs) are the dominant architecture for video generation, but their quadratic attention complexity results in substantial computational cos",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Kislay Aditya Oj, Kumar Krishna Agrawal, Sri Surya Varma Datla, Aditya Desai",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "BEVCast: Path-Adaptive BEV for Efficient End-to-End Autonomous Driving",
+          "url": "https://arxiv.org/abs/2611.08631",
+          "source": "arXiv CV",
+          "summary": "08631v1 Announce Type: new Abstract: Camera-based driving models build a dense bird's-eye-view (BEV) grid and spend the same computation on every cell of it, although the vehicle crosses only a few of",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Qiren Wang, Mingyu Guo, Zixuan Wang, Weisong Shi",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "From Geometry to Function: A Multi-Task LiDAR Benchmark Dataset for Semantic and Functional Parsing of Urban Facades",
+          "url": "https://arxiv.org/abs/2611.08645",
+          "source": "arXiv CV",
+          "summary": "08645v1 Announce Type: new Abstract: Understanding building facades is central to urban digital twins, heritage modelling, and sustainable city analysis, yet existing LiDAR benchmarks stop at geometry",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Abdiaziz Muse, Tooba Javed, Tao Pu, Jiju Poovvancheri, Dong Chen",
+          "tags": [
+            "cs.CV",
+            "cs.AI",
+            "cs.GR",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "VoluCompose: Constructing Compact Volumetric Visual Representations for Medical Image Understanding",
+          "url": "https://arxiv.org/abs/2611.08649",
+          "source": "arXiv CV",
+          "summary": "08649v1 Announce Type: new Abstract: Medical vision--language models can interpret volumetric images, but processing full volumes is costly because hundreds of slices produce long, redundant visual-to",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Zanting Ye, Yunrui Lin, Shengyuan Liu, Jing Hao, Chen Hu, Yefeng Zheng, Lijun Lu",
+          "tags": [
+            "cs.CV",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Turkish Multimodal Video Fact-Checking: A New Dataset and a Comparison of Zero-Shot Agentic and Fine-Tuned Systems",
+          "url": "https://arxiv.org/abs/2611.08651",
+          "source": "arXiv CV",
+          "summary": "08651v1 Announce Type: new Abstract: Video-based misinformation spreads rapidly on social media, but almost all existing fact-checking systems focus exclusively on English text Tools for low-resource ",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Azra A\\c{c}{\\i}l",
+          "tags": [
+            "cs.CV",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "An Anatomy-guided 3D Segmentation Pipeline for Prostate Surgical Phantoms from CT Scans",
+          "url": "https://arxiv.org/abs/2611.08652",
+          "source": "arXiv CV",
+          "summary": "08652v1 Announce Type: new Abstract: Full autonomy has been a long-term goal in robotic surgery and a near-to-medium-term goal for prostatectomy Due to the relatively closed structure of the procedure",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Iven Chen, Kuan-I Chung, Ayberk Acar, Susheela Sharma Stern, Alejandro O. Chara, Jie Ying Wu, Daniel Moyer",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Scoring, Not Learning: Decomposing Catalog-Consolidation Gains in Web-Scraped Retail Product Recognition",
+          "url": "https://arxiv.org/abs/2611.08655",
+          "source": "arXiv CV",
+          "summary": "08655v1 Announce Type: new Abstract: Retail product catalogs assembled from web image search are cheap to build and pervasively noisy: queries return packaging shots instead of products, and entries p",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Kaden Leis, Xiang Ma",
+          "tags": [
+            "cs.CV",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "JEPAhead: From Inpainting to Causal Forecasting for Urban Driving",
+          "url": "https://arxiv.org/abs/2611.08657",
+          "source": "arXiv CV",
+          "summary": "08657v1 Announce Type: new Abstract: We fine-tune a pre-trained V-JEPA1 predictor from bidirectional latent inpainting to action-free causal forecasting while keeping the encoder frozen Using contiguo",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Daniel G. P. Petrini, Davi Pincinato, Fabio Grassiotto, Pedro L. F. Prado, Alexandre F. S. Osorio, Raphael V. Ramos, Felipe Pamboukian",
+          "tags": [
+            "cs.CV",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation",
+          "url": "https://arxiv.org/abs/2611.08731",
+          "source": "arXiv CV",
+          "summary": "08731v1 Announce Type: new Abstract: Depth perception is fundamental for autonomous navigation, industrial inspection, and mixed-reality systems It often operates under strict constraints on power and",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Qiushi Dai, Aniket Dashpute, Yuhao Liu, Rishubh Parihar, Guha Balakrishnan, Ashok Veeraraghavan",
+          "tags": [
+            "cs.CV",
+            "eess.IV"
+          ]
+        },
+        {
+          "title": "FishSense Lite: A Camera-Based, Single Laser Hardware Framework with Software System for In Situ Fish Length Measurement",
+          "url": "https://arxiv.org/abs/2611.08732",
+          "source": "arXiv CV",
+          "summary": "08732v1 Announce Type: new Abstract: Fish stock assessments need fish lengths paired with species from far more places than trained surveyors can reach Recreational divers already visit many of those ",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Christopher L. Crutchfield, Kyle Hu, Nathan Hui, Omair Qazi, Jennifer Loch, Alli Candelmo, Brice X. Semmens, Curt Schurgers, Ryan Kastner",
+          "tags": [
+            "cs.CV",
+            "cs.SY",
+            "eess.SY"
+          ]
+        },
+        {
+          "title": "AtariBench: Evaluating Spatiotemporal Reasoning of Vision-Language Models in Atari Gameplay",
+          "url": "https://arxiv.org/abs/2611.08755",
+          "source": "arXiv CV",
+          "summary": "08755v1 Announce Type: new Abstract: Vision-Language Models (VLMs) have achieved strong performance on static visual understanding benchmarks, yet their ability to act in dynamic environments remains ",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Mingjia Huo, Yao Fu, Bo Chang, Yaqing Wang, Dawei Zhu, Dylan Zhang, Xinyang Yi, Lichan Hong, Ed H. Chi, Hao Zhang, Jiaxi Tang",
+          "tags": [
+            "cs.CV",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis",
+          "url": "https://arxiv.org/abs/2611.08771",
+          "source": "arXiv CV",
+          "summary": "08771v1 Announce Type: new Abstract: Generative models of brain MRI are useful to understand brain conditions, and to enrich scarce and imbalanced neuroimaging data However, training these models requ",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Abhijith Shaji, Paul Kurian, Greg Ver Steeg, Paul M. Thompson, Jose-Luis Ambite",
+          "tags": [
+            "cs.CV",
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage",
+          "url": "https://arxiv.org/abs/2611.08782",
+          "source": "arXiv CV",
+          "summary": "08782v1 Announce Type: new Abstract: Extrapolation beyond LiDAR coverage is an important yet under-evaluated challenge of depth completion In real camera--LiDAR systems, partial sensor overlap, occlus",
+          "category": "research",
+          "published_at": "2026-11-09T00:00:00-05:00",
+          "author": "Maximilian Jansen, Gasser Elazab, Praveen Kulkarni",
+          "tags": [
+            "cs.CV"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "total": 16,
