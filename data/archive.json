@@ -1,6 +1,261 @@
 {
-  "generated_at": "2026-11-10T14:26:56.538136+00:00",
+  "generated_at": "2026-11-11T13:41:07.193167+00:00",
   "archive": [
+    {
+      "date": "2026-11-11",
+      "total": 50,
+      "categories": {
+        "breaking": 9,
+        "research": 17,
+        "industry": 12,
+        "tools": 12
+      },
+      "articles": [
+        {
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI Blog",
+          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "category": "breaking",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI Blog",
+          "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus See how they use it to prepare for civilian careers",
+          "category": "breaking",
+          "published_at": "2026-11-11T08:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Instance-preserving graded semantic reporting for surgical action triplets",
+          "url": "https://arxiv.org/abs/2611.13009",
+          "source": "arXiv CV",
+          "summary": "13009v1 Announce Type: new Abstract: Complete-or-reject reporting of surgical action triplets can discard a correctly identified instrument and action when the target is uncertain We introduce instanc",
+          "category": "breaking",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Yanchong Xue, Wanting Zhang, Lingtao Yu, Guochao Zhang",
+          "tags": [
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement across Seven Open Reasoning Models",
+          "url": "https://arxiv.org/abs/2611.13223",
+          "source": "arXiv CL",
+          "summary": "13223v1 Announce Type: new Abstract: Reasoning models write a reasoning trace at every turn of a multi-turn tool session, and later turns read this history Across 94k ShareGPT conversations, 73 percen",
+          "category": "breaking",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Hanzhang Jia, Liheng Zeng, Zhiyu Yang, Yi Gao, Bo Ma",
+          "tags": [
+            "cs.CL",
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+          "source": "r/MachineLearning",
+          "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI submitted by /u/0xdeadf1sh [link] [comments]",
+          "category": "breaking",
+          "published_at": "2026-11-10T18:35:32+00:00",
+          "author": "/u/0xdeadf1sh",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI Blog",
+          "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT",
+          "category": "breaking",
+          "published_at": "2026-11-10T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+          "url": "https://openai.com/index/singapore-airlines-travel-work",
+          "source": "OpenAI Blog",
+          "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot",
+          "category": "breaking",
+          "published_at": "2026-11-10T08:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Work at the Frontier: AI’s effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI Blog",
+          "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects",
+          "category": "breaking",
+          "published_at": "2026-11-10T07:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Company"
+          ]
+        },
+        {
+          "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+          "url": "https://openai.com/index/cogent-security",
+          "source": "OpenAI Blog",
+          "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents",
+          "category": "breaking",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "Can we talk about the ML research coming from China? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+          "source": "r/MachineLearning",
+          "summary": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China It is no secret to anyone with a pai",
+          "category": "research",
+          "published_at": "2026-11-11T11:02:38+00:00",
+          "author": "/u/Strong_Boy_757",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
+          "source": "r/MachineLearning",
+          "summary": "Suppose you’re putting together a team of agents Picking the strongest model as the coordinator seems reasonable We wanted to test whether its workflows would actually help other models do the work",
+          "category": "research",
+          "published_at": "2026-11-11T05:25:43+00:00",
+          "author": "/u/OliviaYii",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
+          "source": "r/MachineLearning",
+          "summary": "submitted by /u/NegotiationOk7535 [link] [comments]",
+          "category": "research",
+          "published_at": "2026-11-11T02:22:54+00:00",
+          "author": "/u/NegotiationOk7535",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Two AI architecture experiments I've been working on — PHSMLP and Pilot [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xt4amh/two_ai_architecture_experiments_ive_been_working/",
+          "source": "r/MachineLearning",
+          "summary": "Recently i have been experimenting with a couple of neural network ideas and thought I'd share the results Both are relatively small research experiments, but I found some of the results quite interes",
+          "category": "research",
+          "published_at": "2026-11-11T01:04:41+00:00",
+          "author": "/u/WAMFT",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+          "url": "https://arxiv.org/abs/2611.12933",
+          "source": "arXiv AI/ML",
+          "summary": "12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility Agentic systems may lower this barrier, ",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Gunik Luthra, Ronald J. Pandolfi, Benjamin T. Diroll, Ricky Ronquillo, Ruipeng Li, Christopher B. Murray, Marcus M. Noack, Kevin G. Yager, Esther H. R. Tsai",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+          "url": "https://arxiv.org/abs/2611.12934",
+          "source": "arXiv AI/ML",
+          "summary": "12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, cruc",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Haoran Zhang, Huizhen Sun, Hanbin Wen, Jie Leng, Jiaxin Zhu, Zhaohua Sun",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+          "url": "https://arxiv.org/abs/2611.12935",
+          "source": "arXiv AI/ML",
+          "summary": "12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation Activation-based monitors that run at generation time hav",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Rishikesh Mallagundla, Pranav Patel",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+          "url": "https://arxiv.org/abs/2611.12936",
+          "source": "arXiv AI/ML",
+          "summary": "12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention However, existing models primarily focus on isolated visual tasks, require extensive labeled d",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Shanwen Wang, Sirui Wang, Xin Sun, Jungong Han",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Tracing Psychometric Inference in Large Language Models",
+          "url": "https://arxiv.org/abs/2611.12937",
+          "source": "arXiv AI/ML",
+          "summary": "12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure We address this quest",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Chih-Hao Hsu, Feng-Chun B. Chou, Pin-Hao A. Chen",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+          "url": "https://arxiv.org/abs/2611.12938",
+          "source": "arXiv AI/ML",
+          "summary": "12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models Using a controlled evaluation over 1,500",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Luiz do Valle Miranda, Andreas L. Opdahl, Grzegorz J. Nalepa",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+          "url": "https://arxiv.org/abs/2611.12940",
+          "source": "arXiv AI/ML",
+          "summary": "12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess",
+          "category": "research",
+          "published_at": "2026-11-11T00:00:00-05:00",
+          "author": "Jayakody Kankanamalage Chamani Shiranthika",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "total": 50,
