@@ -1,6 +1,251 @@
 {
-  "generated_at": "2026-11-12T14:44:06.498894+00:00",
+  "generated_at": "2026-11-13T14:00:23.516024+00:00",
   "archive": [
+    {
+      "date": "2026-11-13",
+      "total": 21,
+      "categories": {
+        "breaking": 3,
+        "research": 9,
+        "industry": 3,
+        "tools": 6
+      },
+      "articles": [
+        {
+          "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
+          "source": "r/MachineLearning",
+          "summary": "SAM 2-style trackers (SAM 2 1, EdgeTAM) are more accurate and flexible than box trackers: point at anything once and get its exact outline on every frame But on live cameras they're expensive, and Met",
+          "category": "breaking",
+          "published_at": "2026-11-13T02:23:51+00:00",
+          "author": "/u/Chunkymunkey642069",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI Blog",
+          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact",
+          "category": "breaking",
+          "published_at": "2026-11-12T20:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "source": "OpenAI Blog",
+          "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work",
+          "category": "breaking",
+          "published_at": "2026-11-12T12:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Startup"
+          ]
+        },
+        {
+          "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+          "source": "r/MachineLearning",
+          "summary": "I am here writing about my experience with this I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevan",
+          "category": "research",
+          "published_at": "2026-11-13T10:50:10+00:00",
+          "author": "/u/Apathiq",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+          "source": "r/MachineLearning",
+          "summary": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) - Ettin-1B encoder (ModernBERT architecture), 512-token windows - Fine-tuned on RAID's training split, then a hard-",
+          "category": "research",
+          "published_at": "2026-11-13T10:39:43+00:00",
+          "author": "/u/AltruisticCouple3491",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
+          "source": "r/MachineLearning",
+          "summary": "I am the maintainer of Inkvec, a open-source raster-to-vector tracer for logos and icons (see: github com/logolabs/inkvec ) Right now the main issue with Inkvec is that it uses MDL in order to select ",
+          "category": "research",
+          "published_at": "2026-11-13T00:25:55+00:00",
+          "author": "/u/incorporo",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Gemma 3 builds a linearly decodable spatial map from text, but its answers never read it [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xuqs9d/gemma_3_builds_a_linearly_decodable_spatial_map/",
+          "source": "r/MachineLearning",
+          "summary": "Independent, preregistered study on Gemma 3 (12B/27B) with text-only layouts like \"A is 3 north of B, C is 2 east of A\" - Probes read every object's position, even ones that need two sentences combine",
+          "category": "research",
+          "published_at": "2026-11-12T22:29:05+00:00",
+          "author": "/u/Cristhian-AI-Math",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+          "source": "r/MachineLearning",
+          "summary": "Over the past two years, conferences have been trying to add different administrative nonsense Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR has this author enroll",
+          "category": "research",
+          "published_at": "2026-11-12T18:55:13+00:00",
+          "author": "/u/AffectionateLife5693",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+          "source": "r/MachineLearning",
+          "summary": "TRIBE v2 predicts fMRI from video/audio/text Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) — and its methods section admits video",
+          "category": "research",
+          "published_at": "2026-11-12T17:16:46+00:00",
+          "author": "/u/Own_Tank1283",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
+          "source": "r/MachineLearning",
+          "summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year Would this improve research quality, or simply make ac",
+          "category": "research",
+          "published_at": "2026-11-12T16:02:13+00:00",
+          "author": "/u/Hope999991",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
+          "source": "r/MachineLearning",
+          "summary": "Does anyone know the exact steps to leave a comment visible only to the Area Chair (not the reviewers) during the ICLR 2027 discussion period I see the \"Official Comment\" option, but I'm not sure whic",
+          "category": "research",
+          "published_at": "2026-11-12T15:41:18+00:00",
+          "author": "/u/Specific-Dark",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
+          "source": "r/MachineLearning",
+          "summary": "width=3200&format=png&auto=webp&s=62bc97590b0eee3ac664a06caa92e66a15e987b6 I went through every NeurIPS, ICML and ICLR call for papers, author guide and ethics/LLM policy page since 2013 (Wayback snap",
+          "category": "research",
+          "published_at": "2026-11-12T01:51:47+00:00",
+          "author": "/u/martincsweiss",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+          "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+          "source": "NVIDIA Blog",
+          "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients Health systems and startups are putting it to work across healthcare, ",
+          "category": "industry",
+          "published_at": "2026-11-13T13:00:42+00:00",
+          "author": "NVIDIA Writers",
+          "tags": [
+            "AI",
+            "AI for Good",
+            "Healthcare and Life Sciences",
+            "Inception"
+          ]
+        },
+        {
+          "title": "Weights for MNIST Handwriting Network [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/",
+          "source": "r/MachineLearning",
+          "summary": "The weights for my network looks really cool First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons",
+          "category": "industry",
+          "published_at": "2026-11-12T21:35:41+00:00",
+          "author": "/u/Rollgus",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Introducing Gemini 4 Hydrogen",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-11-12T18:00:50+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+          "source": "r/MachineLearning",
+          "summary": "Hey r/learnmachinelearning I’m Tabs, a legal engineer at Isaacus Still getting better at machine learning things but here we go",
+          "category": "tools",
+          "published_at": "2026-11-13T05:48:17+00:00",
+          "author": "/u/ladyofcode",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-12T19:07:35+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/",
+          "source": "r/MachineLearning",
+          "summary": "TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadence",
+          "category": "tools",
+          "published_at": "2026-11-12T03:03:34+00:00",
+          "author": "/u/qn06142",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-11T05:01:16+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "total": 27,
