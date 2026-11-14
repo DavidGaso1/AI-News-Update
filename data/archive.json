@@ -1,6 +1,268 @@
 {
-  "generated_at": "2026-11-13T14:00:23.516024+00:00",
+  "generated_at": "2026-11-14T13:02:45.049284+00:00",
   "archive": [
+    {
+      "date": "2026-11-14",
+      "total": 43,
+      "categories": {
+        "breaking": 3,
+        "research": 33,
+        "industry": 0,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Together Compiler: Continual Compilation for AI Inference",
+          "url": "https://arxiv.org/abs/2611.14681",
+          "source": "arXiv AI/ML",
+          "summary": "14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequ",
+          "category": "breaking",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Reyna Abhyankar, Dylan Lim, Drew Wadsworth, Venkata Hasith Vattikuti, YuTong Julia Zhang, Jung Hwan Heo, Taeksang Kim, Kesavan Ramakrishnan, Evangelene Stanley, Xinyu Fang, Daniel Y. Fu, Simran Arora",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI Blog",
+          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections",
+          "category": "breaking",
+          "published_at": "2026-11-13T15:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Product"
+          ]
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI Blog",
+          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals Its Forge agents navigate systems so technicians can focus on issues needing their judgment",
+          "category": "breaking",
+          "published_at": "2026-11-13T08:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "ICLR rebuttal [R]",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
+          "source": "r/MachineLearning",
+          "summary": "I'm about to submit my iclr rebuttal, and I was wondering if it's okay to highlight the changes I've made to my manuscript using a different text color to make them easier for the reviewers to identif",
+          "category": "research",
+          "published_at": "2026-11-14T12:29:37+00:00",
+          "author": "/u/jackeswin",
+          "tags": [
+            "reddit"
+          ]
+        },
+        {
+          "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+          "url": "https://arxiv.org/abs/2611.14544",
+          "source": "arXiv AI/ML",
+          "summary": "14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal This framing m",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Gerhard Trippen (University of Toronto)",
+          "tags": [
+            "cs.AI",
+            "eess.IV"
+          ]
+        },
+        {
+          "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+          "url": "https://arxiv.org/abs/2611.14654",
+          "source": "arXiv AI/ML",
+          "summary": "14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says a",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Egor Pakhomov, Anurag Koul, Hongjun Liu, Bo Pang, Shafiq Joty, Erik Nijkamp",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+          "url": "https://arxiv.org/abs/2611.14736",
+          "source": "arXiv AI/ML",
+          "summary": "14736v1 Announce Type: new Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable Large language mod- els (LLMs) can provide semantic information to resolve t",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Muhammad Ahmed Mohsin, Saad Bin Ather, Valentin Six, Lancelot Da Costa, Tommaso Salvatori, Bernhard Scholkopf",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+          "url": "https://arxiv.org/abs/2611.14765",
+          "source": "arXiv AI/ML",
+          "summary": "14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities We present SynthCorp, a platform that creates customizable d",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Jiani Zhang, Manav Garg, Eugenie Lai, Cheng Zhen, Eva Sharma, Yang Pan, Yaming Lin, Alon Halevy",
+          "tags": [
+            "cs.AI",
+            "cs.DB"
+          ]
+        },
+        {
+          "title": "Rational Use of Time for Social Coordination in Humans and AI",
+          "url": "https://arxiv.org/abs/2611.14766",
+          "source": "arXiv AI/ML",
+          "summary": "14766v1 Announce Type: new Abstract: All social interactions are situated in time Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to in",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Xiulin Yang, Sirisha Gudavalli, Jennifer Hu",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+          "url": "https://arxiv.org/abs/2611.14769",
+          "source": "arXiv AI/ML",
+          "summary": "14769v1 Announce Type: new Abstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production These ra",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+          "url": "https://arxiv.org/abs/2611.14781",
+          "source": "arXiv AI/ML",
+          "summary": "14781v1 Announce Type: new Abstract: Agents that perform state estimation using pretrained perception models, e , Vision-Language Models (VLMs), face the fundamental challenge that predictions are unc",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Guy Azran, Sarah Keren",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+          "url": "https://arxiv.org/abs/2611.14794",
+          "source": "arXiv AI/ML",
+          "summary": "14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline We evaluate this pipeline on open-weight models acros",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Abhinav Gupta, Ben Slivinski, Yashica Patodia, Michael Saldivar",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+          "url": "https://arxiv.org/abs/2611.14804",
+          "source": "arXiv AI/ML",
+          "summary": "14804v1 Announce Type: new Abstract: Costly simulations and experiments limit the data available for engineering design This paper proposes GenPFN, a training-free candidate generator guided by a pret",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Noah J. Bagazinski, Cyril Picard, Faez Ahmed",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+          "url": "https://arxiv.org/abs/2611.14844",
+          "source": "arXiv AI/ML",
+          "summary": "14844v1 Announce Type: new Abstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped the assumption that a model needs ",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Igor Sadalski, Minghao Guo, Benjamin Jones, Wojciech Matusik",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Open Challenges and Opportunities in Human-Agent Systems",
+          "url": "https://arxiv.org/abs/2611.14846",
+          "source": "arXiv AI/ML",
+          "summary": "14846v1 Announce Type: new Abstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to their effectiveness Successful inter",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Reuth Mirsky, Sarath Sreedharan, Nitay Alon, Stefan Sarkadi, Munindar P. Singh, Liz Sonenberg, Peter Stone, Silvia Tulli, Stylianos Loukas Vasileiou, Shlomo Zilberstein",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "Effective Teacher Support for Reasoning Distillation",
+          "url": "https://arxiv.org/abs/2611.14850",
+          "source": "arXiv AI/ML",
+          "summary": "14850v1 Announce Type: new Abstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, making training an",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Lavinia Ghita, Dhruv Desai",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+          "url": "https://arxiv.org/abs/2611.14889",
+          "source": "arXiv AI/ML",
+          "summary": "14889v1 Announce Type: new Abstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced This thought has special force for AI agents b",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Eno Agolli",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MuEdit: An efficient multi-task editing method towards inter-domain knowledge conflicts",
+          "url": "https://arxiv.org/abs/2611.14910",
+          "source": "arXiv AI/ML",
+          "summary": "14910v1 Announce Type: new Abstract: Large language models (LLMs) require frequent knowledge updates across heterogeneous domains, but existing editing methods fail when applied sequentially to multi-",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Songshi Liang, Ting-En Lin, Zixuan Huang, Yuchuan Wu, Yongbin Li, Zihe Wang, Rui Yan",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+          "url": "https://arxiv.org/abs/2611.14924",
+          "source": "arXiv AI/ML",
+          "summary": "14924v1 Announce Type: new Abstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations A standard 7B parameter model consumes 14 GB Vide",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Zahraa Selim, Menna Hamed, Wesam Ahmed, Sohyla Said, Sara Basheer, Rami Zewail",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
+          "url": "https://arxiv.org/abs/2611.14928",
+          "source": "arXiv AI/ML",
+          "summary": "14928v1 Announce Type: new Abstract: Hybrid bonding terminal (HBT) legalization assigns every terminal of a face-to-face 3D IC to its own pitch-grid site with minimum total Manhattan displacement Open",
+          "category": "research",
+          "published_at": "2026-11-14T00:00:00-05:00",
+          "author": "Kadhir Parani, Manjunath Bezawada, Divya M, Kesana Jathin, Kolli Sarath, Sm Zobaed",
+          "tags": [
+            "cs.AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "total": 21,
