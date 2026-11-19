@@ -1,6 +1,272 @@
 {
-  "generated_at": "2026-11-18T15:13:10.535605+00:00",
+  "generated_at": "2026-11-19T15:20:44.405011+00:00",
   "archive": [
+    {
+      "date": "2026-11-19",
+      "total": 50,
+      "categories": {
+        "breaking": 5,
+        "research": 22,
+        "industry": 11,
+        "tools": 12
+      },
+      "articles": [
+        {
+          "title": "LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation",
+          "url": "https://arxiv.org/abs/2611.23661",
+          "source": "arXiv CV",
+          "summary": "23661v1 Announce Type: new Abstract: The pursuit of improved performance in deep learning has often been accompanied by increasing architectural complexity and computational demands We explore an alte",
+          "category": "breaking",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Mayowa Adebambo, Alexander D. Rast, Andrew Bradley",
+          "tags": [
+            "cs.CV",
+            "cs.RO"
+          ]
+        },
+        {
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus",
+          "source": "OpenAI Blog",
+          "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions",
+          "category": "breaking",
+          "published_at": "2026-11-18T10:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Intelligence Age"
+          ]
+        },
+        {
+          "title": "Research acceleration: The jagged frontier",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement",
+          "category": "breaking",
+          "published_at": "2026-11-18T08:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "Inside the Codex sandbox",
+          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "source": "OpenAI Blog",
+          "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows",
+          "category": "breaking",
+          "published_at": "2026-11-18T08:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Engineering"
+          ]
+        },
+        {
+          "title": "Advancing chip design with OpenAI models",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra",
+          "category": "breaking",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+          "url": "https://arxiv.org/abs/2611.22033",
+          "source": "arXiv AI/ML",
+          "summary": "22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) ",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Adi Krishnamoorthy, X. Y. Han",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.CY",
+            "cs.HC",
+            "econ.GN"
+          ]
+        },
+        {
+          "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
+          "url": "https://arxiv.org/abs/2611.22043",
+          "source": "arXiv AI/ML",
+          "summary": "22043v2 Announce Type: new Abstract: We describe the solver we submitted to the second round of the SOICT 2026 contest on the Integrated Passenger and Parcel Transportation problem, a selective pickup",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "The Dung Bui, Ha Thu Nguyen",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
+          "url": "https://arxiv.org/abs/2611.22069",
+          "source": "arXiv AI/ML",
+          "summary": "22069v1 Announce Type: new Abstract: Safety is personal: the same action can be safe for one person but unsafe for another Yet current guardrails judge content without considering who is affected Usin",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Sara Khosravi, Xiaofei Wen, Majid Sarrafzadeh, Muhao Chen",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
+          "url": "https://arxiv.org/abs/2611.22075",
+          "source": "arXiv AI/ML",
+          "summary": "22075v1 Announce Type: new Abstract: Tool-using AI agents change files, databases, access rights and public information, yet permission to call a tool does not establish whether a mistake can be undon",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Deepak Waghmare, Shaad Sufi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "When Lower Harm Misleads: Auditing Concept Corrections",
+          "url": "https://arxiv.org/abs/2611.22084",
+          "source": "arXiv AI/ML",
+          "summary": "22084v1 Announce Type: new Abstract: An expert who corrects a concept prediction, such as a BI-RADS descriptor in breast ultrasound, expects the diagnosis to improve Objectives that reduce the harm of",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Tianyou Lai, Wentao Yue, Hongji Li, Chaoyuan Hao, Qilei Li",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
+          "url": "https://arxiv.org/abs/2611.22085",
+          "source": "arXiv AI/ML",
+          "summary": "22085v1 Announce Type: new Abstract: Professional work involves under-specified assignments, where relevant information is spread across workplace applications and may conflict or change over time To ",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Elaine Lau, Antoine Pangas, Alexandre Finot, Collin Schweiker, Amir Bouzidi, Hui Wen Goh, Andrew Peter Martin, Jonas Mueller",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "EvoDisco: Strategy Discovery for Evolving Agent Memory",
+          "url": "https://arxiv.org/abs/2611.22102",
+          "source": "arXiv AI/ML",
+          "summary": "22102v1 Announce Type: new Abstract: Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores Recent methods update",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Mingyang Liu, Qingcan Kang, Shixiong Kai, Kaichao Liang, Xiaojin Fu, Tao Zhong, Linqi Song",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "From Sorry to QED: Refining LLM Math Proofs via Angelic Execution",
+          "url": "https://arxiv.org/abs/2611.22103",
+          "source": "arXiv AI/ML",
+          "summary": "22103v1 Announce Type: new Abstract: Large language models (LLMs) can now generate Lean proof scripts that capture the high-level structure of many mathematical arguments However, these scripts freque",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Yanju Chen, Hanzhi Liu, Ruizhe Qian, Jiaming Shan, Xu Yang, Yufei Ding, Osbert Bastani, Yu Feng",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
+          "url": "https://arxiv.org/abs/2611.22113",
+          "source": "arXiv AI/ML",
+          "summary": "22113v1 Announce Type: new Abstract: Language agents rely on long-term memory to personalize responses across extended interactions, yet stored facts quietly go stale as the world changes, and an agen",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Qingcan Kang, Mingyang Liu, Shixiong Kai, Tao Zhong, Mingxuan Yuan",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+          "url": "https://arxiv.org/abs/2611.22115",
+          "source": "arXiv AI/ML",
+          "summary": "22115v1 Announce Type: new Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructu",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Xingchen AGI Lab,  :, Baotian Hu, Bingkai Yang, Boyang Wang, Changzai Pan, Chao Lyu, Chao Wang, Chen Li, Chenshuo Pan, Chenyu Lin, Chenyuan Zhang, Chongming Liu, Dawei Fan, Di Wu, Dong Guo, Dong Li, Dongfang Li, Enlin Liu, Fanye Xiao, Fengkai Li, Fubei Yao, Gang Lin, Han Gao, Hanming Wu, Haowei He, Huapeng Liu, Hua Wang, Huinan Xu, Jiahong Xiong, Jiaxin Peng, Jianxiang Ma, Jianxing Zhuge, Jie Zhang, Ji Xiong, Jinglin Chen, Jingqi Li, Jingxuan Li, Jiwang Ye, Junchen Li, Junbiao Li, Junyang Wu, Kaidong Yu, Kaipeng Jia, Kehai Chen, Kuai Li, Laobin Liu, Lei Li, Libo Qin, Lingling Shi, Luwen Pu, Menghao Xu, Mengjiao Bao, Mengqi Chen, Min Zhang, Mingrui Wang, Naying Wang, Peicong Han, Peiming Guo, Pengfei Li, Qiang Feng, Qi Wang, Qingjun Zhu, Qingli Li, Qitai Ding, Qiyi Xie, Quanchao Zhao, Rongbao Han, Rui Xue, Ruiyu Fang, Ruiting Song, Shijie Li, Shiquan Wang, Shuangyong Song, Sishi Xiong, Teng Su, Wankang Bao, Weijie Zhang, Wei Mao, Weiwei Fu, Weiyang Huang, Wenmin Deng, Wenqing Hu, Wujie Zhong, Xi Yu, Xiaohui Hu, Xiaomin Fang, Xiaomeng Huang, Xiaoqiong Shi, Xiaotong Shang, Xiaoyu Li, Xinglei Xu, Xin Jiang, Xin Wang, Xin Zhang, Xinzhang Liu, Xue Liu, Xuefeng Bai, Xuewei He, Yahan Li, Yanhan Zhang, Yanlei Xue, Yanzhang Wu, Yang Yu, Yi Liu, Yin Zhang, Yingyan Li, Yitong Yao, Yixuan Li, Yongqiang Xia, Yongxiang Li, Yinzhou Zhu, Yu Zhao, Yuhao Jiang, Yunpeng Zhang, Yuting Lin, Yuxuan Wu, Yuyao Huang, Yuyi Wang, Zebo Peng, Zhenwu Pei, Zhenxiong Li, Zhao Wang, Zhaoxi Zhang, Zhihao Yang, Zhiqiang Dong, Zhiwei Yan, Zhilong Lu, Zhonghao Guo, Zhongheng Wu, Zhongjiang He, Zhongqiu Li, Zhu Yuan, Zhuoru Jiang, Zhuoyi Wei, Zijia Guo, Zilu Huang, Zhipeng Guo, Zirui Li, Zihan Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
+          "url": "https://arxiv.org/abs/2611.22131",
+          "source": "arXiv AI/ML",
+          "summary": "22131v1 Announce Type: new Abstract: Whole image embeddings can under represent small objects and local attributes that distinguish relevant images for localized queries We present LoCaR, a training f",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Rahim Hossain, Dipanwita Saha, Ashirbad Mishra, Xinxin Shu, Svetlana Strunjas, Binbin Li",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions",
+          "url": "https://arxiv.org/abs/2611.22136",
+          "source": "arXiv AI/ML",
+          "summary": "22136v1 Announce Type: new Abstract: Many biology experiments are limited by the availability and ease of use of instruments that monitor and record them For example, the timing of pupariation in the ",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Joel Sadler, Daniel Graham, Melanie Worley",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
+          "url": "https://arxiv.org/abs/2611.22148",
+          "source": "arXiv AI/ML",
+          "summary": "22148v1 Announce Type: new Abstract: Open-weight language models are widely observed to get worse the longer they generate Often, attempts to fix this involve more training At high temperature, The sa",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Allen G. Roush, Minh Nhat Nguyen, Ravid Shwartz-Ziv, Judah Goldfeder, Sanjay Basu",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents",
+          "url": "https://arxiv.org/abs/2611.22169",
+          "source": "arXiv AI/ML",
+          "summary": "22169v1 Announce Type: new Abstract: Tool-augmented medical agents treat whatever their tools return as evidence We show that this default is costly: medical tools fail silently, and a frozen reasoner",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Runxun Zhang, Onofrio Antonio Catalano, Jinqiao Wang, Jingwei Wei",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "Readie: Low-Latency Code Sandboxes for AI Agents",
+          "url": "https://arxiv.org/abs/2611.22171",
+          "source": "arXiv AI/ML",
+          "summary": "22171v1 Announce Type: new Abstract: From quantitative research to personal assistance, AI agents act by iteratively generating and executing code To decouple the agent harness from code execution, ma",
+          "category": "research",
+          "published_at": "2026-11-19T00:00:00-05:00",
+          "author": "Arjun Sivaraman, Zhaoheng Li, Alan Shi, Sanjay Malisetty, Eugene Wu, Yongjoo Park",
+          "tags": [
+            "cs.AI",
+            "cs.DB",
+            "cs.SE"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "total": 50,
