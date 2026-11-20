@@ -1,221 +1,148 @@
 {
-  "generated_at": "2026-11-19T15:20:44.425534+00:00",
+  "generated_at": "2026-11-20T14:58:45.301610+00:00",
   "article_count": 50,
   "categories": {
     "breaking": [
       {
-        "title": "LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation",
-        "url": "https://arxiv.org/abs/2611.23661",
-        "source": "arXiv CV",
-        "summary": "23661v1 Announce Type: new Abstract: The pursuit of improved performance in deep learning has often been accompanied by increasing architectural complexity and computational demands We explore an alte",
-        "category": "breaking",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:49.768228+00:00",
-        "author": "Mayowa Adebambo, Alexander D. Rast, Andrew Bradley",
-        "tags": [
-          "cs.CV",
-          "cs.RO"
-        ]
-      },
-      {
-        "title": "The Silent Consensus",
-        "url": "https://openai.com/index/the-silent-consensus",
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
         "source": "OpenAI Blog",
-        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions",
+        "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast",
         "category": "breaking",
-        "published_at": "2026-11-18T10:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:54.340074+00:00",
-        "author": "",
-        "tags": [
-          "Intelligence Age"
-        ]
-      },
-      {
-        "title": "Research acceleration: The jagged frontier",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "source": "OpenAI Blog",
-        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement",
-        "category": "breaking",
-        "published_at": "2026-11-18T08:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:54.371457+00:00",
-        "author": "",
-        "tags": [
-          "Research"
-        ]
-      },
-      {
-        "title": "Inside the Codex sandbox",
-        "url": "https://openai.com/index/inside-the-codex-sandbox",
-        "source": "OpenAI Blog",
-        "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows",
-        "category": "breaking",
-        "published_at": "2026-11-18T08:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:54.441236+00:00",
+        "published_at": "2026-11-19T08:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:14.270277+00:00",
         "author": "",
         "tags": [
           "Engineering"
         ]
       },
       {
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "title": "Deploying Daybreak Red",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red",
         "source": "OpenAI Blog",
-        "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra",
+        "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring",
         "category": "breaking",
-        "published_at": "2026-11-18T00:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:54.511504+00:00",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:14.289278+00:00",
         "author": "",
         "tags": [
-          "Research"
+          "Guides"
         ]
+      },
+      {
+        "title": "See PR scans in action",
+        "url": "https://openai.com/business/learn/pr-scans-demo",
+        "source": "OpenAI Blog",
+        "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow",
+        "category": "breaking",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:14.309947+00:00",
+        "author": "",
+        "tags": [
+          "Demos"
+        ]
+      },
+      {
+        "title": "Explore the Codex Security Plugin",
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "source": "OpenAI Blog",
+        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording",
+        "category": "breaking",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:14.336465+00:00",
+        "author": "",
+        "tags": [
+          "Demos"
+        ]
+      },
+      {
+        "title": "Get started with Daybreak Blue",
+        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "source": "OpenAI Blog",
+        "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started",
+        "category": "breaking",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:14.361126+00:00",
+        "author": "",
+        "tags": [
+          "Demos"
+        ]
+      },
+      {
+        "title": "Tencent Hy4 is live on Together AI",
+        "url": "https://www.together.ai/blog/tencent-hy4",
+        "source": "Together AI Blog",
+        "summary": "Tencent Hy4 is live on Together AI We tested its image input by extracting and rebuilding a chart, then tried its coding with a browser game generated from one prompt",
+        "category": "breaking",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:27.069599+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+        "url": "https://www.together.ai/blog/introducing-together-storage-accelerator",
+        "source": "Together AI Blog",
+        "summary": "Together Storage Accelerator is a distributed caching layer for Together GPU Clusters: about 20x faster warm reads, one origin fetch per cluster, no application changes, and it's included free",
+        "category": "breaking",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:27.131607+00:00",
+        "author": "",
+        "tags": []
       }
     ],
     "research": [
       {
-        "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-        "url": "https://arxiv.org/abs/2611.22033",
+        "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+        "url": "https://arxiv.org/abs/2611.23322",
         "source": "arXiv AI/ML",
-        "summary": "22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) ",
+        "summary": "23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.492273+00:00",
-        "author": "Adi Krishnamoorthy, X. Y. Han",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.475547+00:00",
+        "author": "Aydin Mohseni",
         "tags": [
           "cs.AI",
-          "cs.CL",
-          "cs.CY",
-          "cs.HC",
-          "econ.GN"
+          "cs.GT"
         ]
       },
       {
-        "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
-        "url": "https://arxiv.org/abs/2611.22043",
+        "title": "Training Language Models for Introspective Oversight",
+        "url": "https://arxiv.org/abs/2611.23365",
         "source": "arXiv AI/ML",
-        "summary": "22043v2 Announce Type: new Abstract: We describe the solver we submitted to the second round of the SOICT 2026 contest on the Integrated Passenger and Parcel Transportation problem, a selective pickup",
+        "summary": "23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy Asking the assistant ",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.539648+00:00",
-        "author": "The Dung Bui, Ha Thu Nguyen",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.503668+00:00",
+        "author": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
         "tags": [
           "cs.AI"
         ]
       },
       {
-        "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
-        "url": "https://arxiv.org/abs/2611.22069",
+        "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+        "url": "https://arxiv.org/abs/2611.23375",
         "source": "arXiv AI/ML",
-        "summary": "22069v1 Announce Type: new Abstract: Safety is personal: the same action can be safe for one person but unsafe for another Yet current guardrails judge content without considering who is affected Usin",
+        "summary": "23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys Here we introduce a theory of software thermodynamics",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.579798+00:00",
-        "author": "Sara Khosravi, Xiaofei Wen, Majid Sarrafzadeh, Muhao Chen",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.537910+00:00",
+        "author": "Al\\'an Aspuru-Guzik, Varinia Bernales",
         "tags": [
           "cs.AI",
-          "cs.LG"
+          "cond-mat.stat-mech",
+          "cs.SE"
         ]
       },
       {
-        "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
-        "url": "https://arxiv.org/abs/2611.22075",
+        "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+        "url": "https://arxiv.org/abs/2611.23410",
         "source": "arXiv AI/ML",
-        "summary": "22075v1 Announce Type: new Abstract: Tool-using AI agents change files, databases, access rights and public information, yet permission to call a tool does not establish whether a mistake can be undon",
+        "summary": "23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layo",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.612692+00:00",
-        "author": "Deepak Waghmare, Shaad Sufi",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "When Lower Harm Misleads: Auditing Concept Corrections",
-        "url": "https://arxiv.org/abs/2611.22084",
-        "source": "arXiv AI/ML",
-        "summary": "22084v1 Announce Type: new Abstract: An expert who corrects a concept prediction, such as a BI-RADS descriptor in breast ultrasound, expects the diagnosis to improve Objectives that reduce the harm of",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.642034+00:00",
-        "author": "Tianyou Lai, Wentao Yue, Hongji Li, Chaoyuan Hao, Qilei Li",
-        "tags": [
-          "cs.AI",
-          "cs.CV"
-        ]
-      },
-      {
-        "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
-        "url": "https://arxiv.org/abs/2611.22085",
-        "source": "arXiv AI/ML",
-        "summary": "22085v1 Announce Type: new Abstract: Professional work involves under-specified assignments, where relevant information is spread across workplace applications and may conflict or change over time To ",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.677457+00:00",
-        "author": "Elaine Lau, Antoine Pangas, Alexandre Finot, Collin Schweiker, Amir Bouzidi, Hui Wen Goh, Andrew Peter Martin, Jonas Mueller",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "EvoDisco: Strategy Discovery for Evolving Agent Memory",
-        "url": "https://arxiv.org/abs/2611.22102",
-        "source": "arXiv AI/ML",
-        "summary": "22102v1 Announce Type: new Abstract: Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores Recent methods update",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.705050+00:00",
-        "author": "Mingyang Liu, Qingcan Kang, Shixiong Kai, Kaichao Liang, Xiaojin Fu, Tao Zhong, Linqi Song",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "From Sorry to QED: Refining LLM Math Proofs via Angelic Execution",
-        "url": "https://arxiv.org/abs/2611.22103",
-        "source": "arXiv AI/ML",
-        "summary": "22103v1 Announce Type: new Abstract: Large language models (LLMs) can now generate Lean proof scripts that capture the high-level structure of many mathematical arguments However, these scripts freque",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.739513+00:00",
-        "author": "Yanju Chen, Hanzhi Liu, Ruizhe Qian, Jiaming Shan, Xu Yang, Yufei Ding, Osbert Bastani, Yu Feng",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
-        "url": "https://arxiv.org/abs/2611.22113",
-        "source": "arXiv AI/ML",
-        "summary": "22113v1 Announce Type: new Abstract: Language agents rely on long-term memory to personalize responses across extended interactions, yet stored facts quietly go stale as the world changes, and an agen",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.781278+00:00",
-        "author": "Qingcan Kang, Mingyang Liu, Shixiong Kai, Tao Zhong, Mingxuan Yuan",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-        "url": "https://arxiv.org/abs/2611.22115",
-        "source": "arXiv AI/ML",
-        "summary": "22115v1 Announce Type: new Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructu",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.824206+00:00",
-        "author": "Xingchen AGI Lab,  :, Baotian Hu, Bingkai Yang, Boyang Wang, Changzai Pan, Chao Lyu, Chao Wang, Chen Li, Chenshuo Pan, Chenyu Lin, Chenyuan Zhang, Chongming Liu, Dawei Fan, Di Wu, Dong Guo, Dong Li, Dongfang Li, Enlin Liu, Fanye Xiao, Fengkai Li, Fubei Yao, Gang Lin, Han Gao, Hanming Wu, Haowei He, Huapeng Liu, Hua Wang, Huinan Xu, Jiahong Xiong, Jiaxin Peng, Jianxiang Ma, Jianxing Zhuge, Jie Zhang, Ji Xiong, Jinglin Chen, Jingqi Li, Jingxuan Li, Jiwang Ye, Junchen Li, Junbiao Li, Junyang Wu, Kaidong Yu, Kaipeng Jia, Kehai Chen, Kuai Li, Laobin Liu, Lei Li, Libo Qin, Lingling Shi, Luwen Pu, Menghao Xu, Mengjiao Bao, Mengqi Chen, Min Zhang, Mingrui Wang, Naying Wang, Peicong Han, Peiming Guo, Pengfei Li, Qiang Feng, Qi Wang, Qingjun Zhu, Qingli Li, Qitai Ding, Qiyi Xie, Quanchao Zhao, Rongbao Han, Rui Xue, Ruiyu Fang, Ruiting Song, Shijie Li, Shiquan Wang, Shuangyong Song, Sishi Xiong, Teng Su, Wankang Bao, Weijie Zhang, Wei Mao, Weiwei Fu, Weiyang Huang, Wenmin Deng, Wenqing Hu, Wujie Zhong, Xi Yu, Xiaohui Hu, Xiaomin Fang, Xiaomeng Huang, Xiaoqiong Shi, Xiaotong Shang, Xiaoyu Li, Xinglei Xu, Xin Jiang, Xin Wang, Xin Zhang, Xinzhang Liu, Xue Liu, Xuefeng Bai, Xuewei He, Yahan Li, Yanhan Zhang, Yanlei Xue, Yanzhang Wu, Yang Yu, Yi Liu, Yin Zhang, Yingyan Li, Yitong Yao, Yixuan Li, Yongqiang Xia, Yongxiang Li, Yinzhou Zhu, Yu Zhao, Yuhao Jiang, Yunpeng Zhang, Yuting Lin, Yuxuan Wu, Yuyao Huang, Yuyi Wang, Zebo Peng, Zhenwu Pei, Zhenxiong Li, Zhao Wang, Zhaoxi Zhang, Zhihao Yang, Zhiqiang Dong, Zhiwei Yan, Zhilong Lu, Zhonghao Guo, Zhongheng Wu, Zhongjiang He, Zhongqiu Li, Zhu Yuan, Zhuoru Jiang, Zhuoyi Wei, Zijia Guo, Zilu Huang, Zhipeng Guo, Zirui Li, Zihan Wang",
-        "tags": [
-          "cs.AI"
-        ]
-      },
-      {
-        "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
-        "url": "https://arxiv.org/abs/2611.22131",
-        "source": "arXiv AI/ML",
-        "summary": "22131v1 Announce Type: new Abstract: Whole image embeddings can under represent small objects and local attributes that distinguish relevant images for localized queries We present LoCaR, a training f",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.859023+00:00",
-        "author": "Rahim Hossain, Dipanwita Saha, Ashirbad Mishra, Xinxin Shu, Svetlana Strunjas, Binbin Li",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.624476+00:00",
+        "author": "Jiarui Cui, Boxun Yan",
         "tags": [
           "cs.AI",
           "cs.CV",
@@ -223,161 +150,391 @@
         ]
       },
       {
-        "title": "Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions",
-        "url": "https://arxiv.org/abs/2611.22136",
+        "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+        "url": "https://arxiv.org/abs/2611.23445",
         "source": "arXiv AI/ML",
-        "summary": "22136v1 Announce Type: new Abstract: Many biology experiments are limited by the availability and ease of use of instruments that monitor and record them For example, the timing of pupariation in the ",
+        "summary": "23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces c",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.916327+00:00",
-        "author": "Joel Sadler, Daniel Graham, Melanie Worley",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.663346+00:00",
+        "author": "Michael Schroeder",
         "tags": [
           "cs.AI",
-          "cs.HC"
+          "cs.CV",
+          "cs.LG"
         ]
       },
       {
-        "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
-        "url": "https://arxiv.org/abs/2611.22148",
+        "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+        "url": "https://arxiv.org/abs/2611.23454",
         "source": "arXiv AI/ML",
-        "summary": "22148v1 Announce Type: new Abstract: Open-weight language models are widely observed to get worse the longer they generate Often, attempts to fix this involve more training At high temperature, The sa",
+        "summary": "23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort ide",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.953799+00:00",
-        "author": "Allen G. Roush, Minh Nhat Nguyen, Ravid Shwartz-Ziv, Judah Goldfeder, Sanjay Basu",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.713282+00:00",
+        "author": "Carla Teixeira Lopes, Daniel F\\'elix",
         "tags": [
           "cs.AI",
-          "cs.CL"
+          "cs.IR"
         ]
       },
       {
-        "title": "Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents",
-        "url": "https://arxiv.org/abs/2611.22169",
+        "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+        "url": "https://arxiv.org/abs/2611.23456",
         "source": "arXiv AI/ML",
-        "summary": "22169v1 Announce Type: new Abstract: Tool-augmented medical agents treat whatever their tools return as evidence We show that this default is costly: medical tools fail silently, and a frozen reasoner",
+        "summary": "23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging Generat",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:45.998306+00:00",
-        "author": "Runxun Zhang, Onofrio Antonio Catalano, Jinqiao Wang, Jingwei Wei",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.764532+00:00",
+        "author": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
         "tags": [
           "cs.AI",
           "cs.CV"
         ]
       },
       {
-        "title": "Readie: Low-Latency Code Sandboxes for AI Agents",
-        "url": "https://arxiv.org/abs/2611.22171",
+        "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+        "url": "https://arxiv.org/abs/2611.23476",
         "source": "arXiv AI/ML",
-        "summary": "22171v1 Announce Type: new Abstract: From quantitative research to personal assistance, AI agents act by iteratively generating and executing code To decouple the agent harness from code execution, ma",
+        "summary": "23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory Recursive self-improvement (RSI) adapts this harn",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.026396+00:00",
-        "author": "Arjun Sivaraman, Zhaoheng Li, Alan Shi, Sanjay Malisetty, Eugene Wu, Yongjoo Park",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.799749+00:00",
+        "author": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
         "tags": [
           "cs.AI",
-          "cs.DB",
-          "cs.SE"
-        ]
-      },
-      {
-        "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
-        "url": "https://arxiv.org/abs/2611.23240",
-        "source": "arXiv ML",
-        "summary": "23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymm",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.709701+00:00",
-        "author": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji",
-        "tags": [
-          "cs.LG",
-          "cs.NE"
-        ]
-      },
-      {
-        "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
-        "url": "https://arxiv.org/abs/2611.23241",
-        "source": "arXiv ML",
-        "summary": "23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.768586+00:00",
-        "author": "Lilliane Linnet Musoke",
-        "tags": [
           "cs.LG"
         ]
       },
       {
-        "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
-        "url": "https://arxiv.org/abs/2611.23242",
-        "source": "arXiv ML",
-        "summary": "23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requi",
+        "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+        "url": "https://arxiv.org/abs/2611.23480",
+        "source": "arXiv AI/ML",
+        "summary": "23480v1 Announce Type: new Abstract: Purpose To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies Materials and ",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.811472+00:00",
-        "author": "Ayaan Qayyum, Bruce Yi Bu, Zicong Li, Jingfeng Zhou",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.857358+00:00",
+        "author": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
         "tags": [
-          "cs.LG"
-        ]
-      },
-      {
-        "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
-        "url": "https://arxiv.org/abs/2611.23244",
-        "source": "arXiv ML",
-        "summary": "23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc ",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.859848+00:00",
-        "author": "Jingwei Ge, Na Xie, Li Li, Jiayang Li",
-        "tags": [
-          "cs.LG",
-          "cs.AI",
-          "math.CO"
-        ]
-      },
-      {
-        "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
-        "url": "https://arxiv.org/abs/2611.23245",
-        "source": "arXiv ML",
-        "summary": "23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state We define training-state equivalence operationally",
-        "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.906093+00:00",
-        "author": "Truong Xuan Khanh",
-        "tags": [
-          "cs.LG",
           "cs.AI"
         ]
       },
       {
-        "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
-        "url": "https://arxiv.org/abs/2611.23246",
-        "source": "arXiv ML",
-        "summary": "23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders The expansio",
+        "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+        "url": "https://arxiv.org/abs/2611.23483",
+        "source": "arXiv AI/ML",
+        "summary": "23483v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls However, this sequential loop is slow, and its",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.957367+00:00",
-        "author": "Peng Xie, Amr Alanwar",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.895145+00:00",
+        "author": "Xi Ding, Jiawei Zhang",
         "tags": [
-          "cs.LG",
-          "cs.SY",
-          "eess.SY"
+          "cs.AI",
+          "cs.CL",
+          "cs.CV",
+          "cs.LG"
         ]
       },
       {
-        "title": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
-        "url": "https://arxiv.org/abs/2611.23247",
-        "source": "arXiv ML",
-        "summary": "23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs Proper scoring rules can emphasize selected probability thresholds,",
+        "title": "BOS Summary: The First Token Matters",
+        "url": "https://arxiv.org/abs/2611.23508",
+        "source": "arXiv AI/ML",
+        "summary": "23508v1 Announce Type: new Abstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS",
         "category": "research",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:46.992292+00:00",
-        "author": "Ankit Sharma (International Institute of Information Technology Bangalore)",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.916695+00:00",
+        "author": "Hui Zhu, Saleh Zare Zade, Rafi Ibn Sultan, Deng Pan, Arun Ross, Dongxiao Zhu",
         "tags": [
+          "cs.AI",
+          "cs.CL",
+          "cs.CV"
+        ]
+      },
+      {
+        "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+        "url": "https://arxiv.org/abs/2611.23509",
+        "source": "arXiv AI/ML",
+        "summary": "23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to ",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.950249+00:00",
+        "author": "Sevda Ebrahimi, Mohammed Saidul Islam, Xiaodan Zhu, Elham Dolatabadi",
+        "tags": [
+          "cs.AI",
+          "cs.CL",
+          "cs.NE"
+        ]
+      },
+      {
+        "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+        "url": "https://arxiv.org/abs/2611.23520",
+        "source": "arXiv AI/ML",
+        "summary": "23520v1 Announce Type: new Abstract: Time-series sensing increasingly relies on neural networks, yet deployment on resource-constrained microcontrollers remains challenging Aggressive model compressio",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.998794+00:00",
+        "author": "Malak Gamal El-Din, Yasser Shoukry, Salma Elmalaki",
+        "tags": [
+          "cs.AI",
+          "cs.AR"
+        ]
+      },
+      {
+        "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+        "url": "https://arxiv.org/abs/2611.23560",
+        "source": "arXiv AI/ML",
+        "summary": "23560v1 Announce Type: new Abstract: Personality is only weakly and inconsistently signaled by written language, and existing text-based methods typically combine language-model and psycholinguistic r",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.048218+00:00",
+        "author": "Balakrishnan Arumugam, Priyen Parekh, Mehak Gupta, Joshua Oltmanns",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+        "url": "https://arxiv.org/abs/2611.23564",
+        "source": "arXiv AI/ML",
+        "summary": "23564v1 Announce Type: new Abstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts Effective uncertainty propagat",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.096743+00:00",
+        "author": "Kaiwen Shi, Zheyuan Zhang, Weixiang Sun, Han Bao, Colby Nelson, Yanfang Ye",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+        "url": "https://arxiv.org/abs/2611.23572",
+        "source": "arXiv AI/ML",
+        "summary": "23572v1 Announce Type: new Abstract: Food insecurity creates a pressing need for guidance that helps households find usable food resources and assess food choices in light of their circumstances Such ",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.132525+00:00",
+        "author": "Kaiwen Shi, Zheyuan Zhang, Changzhi Liu, Han Bao, Yanfang Ye",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+        "url": "https://arxiv.org/abs/2611.23588",
+        "source": "arXiv AI/ML",
+        "summary": "23588v1 Announce Type: new Abstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.178604+00:00",
+        "author": "Jiangyun Zhang, Zhou Tang, Kristen Surrao, Zhiyu Chen, Albert Guan, Tor Nitayanont, Yupei Zhang, Roopali Singh, Yunkai Xiao, Shreya Pandit, Julia Huang, Shayan Ali Akbar, Erwin Cornejo, Yuan Li, Yi Zhang",
+        "tags": [
+          "cs.AI",
+          "cs.MA"
+        ]
+      },
+      {
+        "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+        "url": "https://arxiv.org/abs/2611.23639",
+        "source": "arXiv AI/ML",
+        "summary": "23639v1 Announce Type: new Abstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets Such heterogeneity can ",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.276987+00:00",
+        "author": "Song Young Oh, Nesar Ramachandra, Bin Xia, Ian Foster, Kyle Chard",
+        "tags": [
+          "cs.AI",
+          "astro-ph.IM"
+        ]
+      },
+      {
+        "title": "Evaluating Governed LLM-Driven ML Experimentation: Lifecycle, Provenance, and Failure Metrics",
+        "url": "https://arxiv.org/abs/2611.23678",
+        "source": "arXiv AI/ML",
+        "summary": "23678v1 Announce Type: new Abstract: Autonomous agents that run ML experiments are usually judged by the best score they reach That score says nothing about how it was reached: whether the agent staye",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.323960+00:00",
+        "author": "Dowling Wong",
+        "tags": [
+          "cs.AI",
+          "cs.LG",
+          "cs.SE"
+        ]
+      },
+      {
+        "title": "Auditable Clinical Support with Decision Agents",
+        "url": "https://arxiv.org/abs/2611.23700",
+        "source": "arXiv AI/ML",
+        "summary": "23700v1 Announce Type: new Abstract: Clinicians reviewing a diagnostic work-up will ask what was considered at each step and why the assessment changed Agents powered by free text can reach physician-",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.351553+00:00",
+        "author": "Tiancheng Bao, Riga Wu, Jan Wienhold, Sebastian Billig, Patrick Winnersbach, Hsuan-Chih Chen, Akis Giannoukos, Jiayang Li, Li Shen, Gary Weissman, Eduardo J. Mortani Barbosa Jr, Dyke Ferber, Jakob Nikolas Kather, Christos Davatzikos, Daniel Truhn, Tianyu Han",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
+        "url": "https://arxiv.org/abs/2611.23702",
+        "source": "arXiv AI/ML",
+        "summary": "23702v1 Announce Type: new Abstract: The growing volume of topically similar papers makes it difficult to identify new work that can offer useful research insights or methodological guidance We presen",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.397443+00:00",
+        "author": "Zhuo Chen, Jian Wang, Jinjie Gu, Lijun Wu",
+        "tags": [
+          "cs.AI",
+          "cs.IR"
+        ]
+      },
+      {
+        "title": "Modeling LLM Reasoning Dynamics with Structural Representations",
+        "url": "https://arxiv.org/abs/2611.23749",
+        "source": "arXiv AI/ML",
+        "summary": "23749v1 Announce Type: new Abstract: Language-model reasoning alternates between sustained activities and local operations We study how this temporal structure predicts continuation and the computatio",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.431888+00:00",
+        "author": "Ilia Karpov, Andrey Atamanyuk, Dmitry Ilvovsky, Aleksandr Anokhin, Alex Elizov, Dmitry Zagorulkin, Sergei O. Kuznetsov",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
+        "url": "https://arxiv.org/abs/2611.23751",
+        "source": "arXiv AI/ML",
+        "summary": "23751v1 Announce Type: new Abstract: Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a sma",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.477400+00:00",
+        "author": "Rui Li, Liyang He, Zheng Zhang, Zhenya Huang, Qi Liu",
+        "tags": [
+          "cs.AI",
+          "cs.CL",
           "cs.LG"
+        ]
+      },
+      {
+        "title": "Continual Tool-Space Extension Learning for Multimodal Agents",
+        "url": "https://arxiv.org/abs/2611.23810",
+        "source": "arXiv AI/ML",
+        "summary": "23810v1 Announce Type: new Abstract: Multimodal agents largely rely on generic tools such as cropping, search, and code execution, leaving specialist vision models outside their tool space However, br",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.513113+00:00",
+        "author": "Jinbae Seo, Jungin Park, Hyunsung Jang, Namkoo Ha, Jiyoung Lee, Kwanghoon Sohn",
+        "tags": [
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Metrics-in-the-Loop: Complexity Feedback Reshapes Agent-Written Code",
+        "url": "https://arxiv.org/abs/2611.23817",
+        "source": "arXiv AI/ML",
+        "summary": "23817v1 Announce Type: new Abstract: Coding agents now write whole codebases in long autonomous runs, guided mainly by whether their tests pass Yet passing tests alone does not reveal accumulating com",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.551962+00:00",
+        "author": "Nicolas Chapados, Jean-Fran\\c{c}ois Gagn\\'e, Nouha Dziri",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+        "url": "https://arxiv.org/abs/2611.23824",
+        "source": "arXiv AI/ML",
+        "summary": "23824v1 Announce Type: new Abstract: Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, ",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.590034+00:00",
+        "author": "Wen Wang, Jindong Wang, Jiahua Bao, Tu Yongsiqi, Yihao Liu, Junwei He, Wenkui Fan",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Language Models",
+        "url": "https://arxiv.org/abs/2611.23832",
+        "source": "arXiv AI/ML",
+        "summary": "23832v1 Announce Type: new Abstract: A System 1 model answers a multiple-choice question in a single pass A frozen language model turns the question and each option into vectors, two small, trained he",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.639362+00:00",
+        "author": "Pavan Kumar Mantha",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop",
+        "url": "https://arxiv.org/abs/2611.23855",
+        "source": "arXiv AI/ML",
+        "summary": "23855v1 Announce Type: new Abstract: Can AI agents design robots that work in the real world We introduce RoboBuilder, a benchmark in which coding agents co-design a robot's hardware and program from ",
+        "category": "research",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.680879+00:00",
+        "author": "Ghadi Nehme, Dahyun Nam, Akshay Govind Srinivasan, Faez Ahmed",
+        "tags": [
+          "cs.AI",
+          "cs.CV",
+          "cs.RO"
         ]
       }
     ],
     "industry": [
+      {
+        "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+        "url": "https://arxiv.org/abs/2611.23398",
+        "source": "arXiv AI/ML",
+        "summary": "23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy Since hardware failures in hyper-scale AI clust",
+        "category": "industry",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:05.576241+00:00",
+        "author": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
+        "tags": [
+          "cs.AI",
+          "cs.AR"
+        ]
+      },
+      {
+        "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+        "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+        "source": "NVIDIA Blog",
+        "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industria",
+        "category": "industry",
+        "published_at": "2026-11-19T20:00:15+00:00",
+        "fetched_at": "2026-11-20T14:58:18.847030+00:00",
+        "author": "Dave Salvator",
+        "tags": [
+          "AI Infrastructure",
+          "Cloud",
+          "Hardware",
+          "Software",
+          "Cosmos"
+        ]
+      },
+      {
+        "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+        "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+        "source": "NVIDIA Blog",
+        "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
+        "category": "industry",
+        "published_at": "2026-11-19T17:00:35+00:00",
+        "fetched_at": "2026-11-20T14:58:18.909448+00:00",
+        "author": "NVIDIA Writers",
+        "tags": [
+          "Robotics",
+          "Agentic AI",
+          "Into the Omniverse",
+          "NVIDIA Isaac Sim",
+          "Omniverse"
+        ]
+      },
       {
         "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
         "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
@@ -385,7 +542,7 @@
         "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming Six-month memberships are back for a limited time Save 30% on the first six-month term of a Performance or Ultimate me",
         "category": "industry",
         "published_at": "2026-11-19T14:00:12+00:00",
-        "fetched_at": "2026-11-19T15:19:59.207730+00:00",
+        "fetched_at": "2026-11-20T14:58:18.960098+00:00",
         "author": "GeForce NOW Community",
         "tags": [
           "Gaming",
@@ -400,7 +557,7 @@
         "summary": "",
         "category": "industry",
         "published_at": "2026-11-18T21:35:43+00:00",
-        "fetched_at": "2026-11-19T15:20:00.573852+00:00",
+        "fetched_at": "2026-11-20T14:58:19.890387+00:00",
         "author": "",
         "tags": []
       },
@@ -411,7 +568,7 @@
         "summary": "",
         "category": "industry",
         "published_at": "2026-11-18T18:13:42+00:00",
-        "fetched_at": "2026-11-19T15:20:00.595444+00:00",
+        "fetched_at": "2026-11-20T14:58:19.911992+00:00",
         "author": "",
         "tags": []
       },
@@ -422,191 +579,51 @@
         "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis Early use by executives helped drive adoption",
         "category": "industry",
         "published_at": "2026-11-18T08:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:54.420340+00:00",
+        "fetched_at": "2026-11-20T14:58:14.411170+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-        "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-        "source": "NVIDIA Blog",
-        "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems In",
-        "category": "industry",
-        "published_at": "2026-11-17T14:00:10+00:00",
-        "fetched_at": "2026-11-19T15:19:59.264376+00:00",
-        "author": "Brian Caulfield",
-        "tags": [
-          "Supercomputing",
-          "Events",
-          "SC26"
-        ]
-      },
-      {
-        "title": "Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
-        "source": "OpenAI Blog",
-        "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications",
-        "category": "industry",
-        "published_at": "2026-11-17T00:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:54.534656+00:00",
-        "author": "",
-        "tags": [
-          "Global Affairs"
-        ]
-      },
-      {
-        "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-        "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-        "source": "NVIDIA Blog",
-        "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms That description sums up the job, but it doesn’t begin to encompass what Shoquist has mad",
-        "category": "industry",
-        "published_at": "2026-11-16T20:00:37+00:00",
-        "fetched_at": "2026-11-19T15:19:59.321008+00:00",
-        "author": "NVIDIA Writers",
-        "tags": [
-          "AI Infrastructure",
-          "AI",
-          "AI Factory",
-          "Artificial Intelligence",
-          "Corporate"
-        ]
-      },
-      {
-        "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-        "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-        "source": "Microsoft Research Blog",
-        "summary": "AI coding agents can waste time and tokens relearning the same lessons TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success It’s a path tow",
-        "category": "industry",
-        "published_at": "2026-11-16T17:01:35+00:00",
-        "fetched_at": "2026-11-19T15:19:57.404482+00:00",
-        "author": "Aaron J. Li, Weijia Xu, Chandan Singh, Jeevana Priya Inala, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao",
-        "tags": [
-          "Research Blog"
-        ]
-      },
-      {
-        "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-        "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
-        "source": "NVIDIA Blog",
-        "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-pack",
-        "category": "industry",
-        "published_at": "2026-11-16T16:00:51+00:00",
-        "fetched_at": "2026-11-19T15:19:59.373327+00:00",
-        "author": "Brian Sparks",
-        "tags": [
-          "Networking",
-          "Supercomputing",
-          "AI Factory",
-          "Artificial Intelligence",
-          "Hardware"
-        ]
-      },
-      {
-        "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-        "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-        "source": "NVIDIA Blog",
-        "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying ove",
-        "category": "industry",
-        "published_at": "2026-11-16T16:00:47+00:00",
-        "fetched_at": "2026-11-19T15:19:59.421372+00:00",
-        "author": "Sam Stanwyck",
-        "tags": [
-          "AI Infrastructure",
-          "Hardware",
-          "Software",
-          "Supercomputing",
-          "Quantum Computing"
-        ]
-      },
-      {
-        "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-        "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
-        "source": "NVIDIA Blog",
-        "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI CUDA’s 20th annivers",
-        "category": "industry",
-        "published_at": "2026-11-16T16:00:11+00:00",
-        "fetched_at": "2026-11-19T15:19:59.522932+00:00",
-        "author": "Brett Murray",
-        "tags": [
-          "AI",
-          "Software",
-          "Supercomputing",
-          "Artificial Intelligence",
-          "CUDA"
-        ]
       }
     ],
     "tools": [
       {
-        "title": "Label-Free Role-Aware Segmentation of Classroom Recordings: Recovering the Teacher from Transferable Structure",
-        "url": "https://arxiv.org/abs/2611.23609",
-        "source": "arXiv ML",
-        "summary": "23609v1 Announce Type: new Abstract: How much the teacher talks and when are among the most informative and costly-to-measure signals of teaching Yet, classroom audio is among the most sensitive data ",
+        "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+        "url": "https://arxiv.org/abs/2611.23611",
+        "source": "arXiv AI/ML",
+        "summary": "23611v1 Announce Type: new Abstract: Tool runtimes can lower an agent-selected operation into a hidden parallel graph, reducing latency and context while risking semantic mistranslation We introduce R",
         "category": "tools",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:48.029009+00:00",
-        "author": "Nitin Jain, Tim F\\\"utterer, Babette B\\\"uhler, \\c{C}a\\u{g}atay Y{\\i}ld{\\i}z",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:06.227077+00:00",
+        "author": "Adhyayan Veer Singh, Fanjiang Ye, Yuke Wang",
         "tags": [
-          "cs.LG",
-          "cs.SD"
-        ]
-      },
-      {
-        "title": "MedHarness: A Unified Budgeted Runtime for Reliable Medical Imaging Agents",
-        "url": "https://arxiv.org/abs/2611.23501",
-        "source": "arXiv CV",
-        "summary": "23501v1 Announce Type: new Abstract: Medical imaging agents already return answers on heterogeneous imaging surfaces, yet deployment still faces a limited verification budget where each wrong accept c",
-        "category": "tools",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:49.168413+00:00",
-        "author": "Haofan Wu, Le Zhang",
-        "tags": [
-          "cs.CV"
-        ]
-      },
-      {
-        "title": "CoScan: Multi-Scale Content-Adaptive Space-Filling Scans for Causal State-Space Image Restoration",
-        "url": "https://arxiv.org/abs/2611.23717",
-        "source": "arXiv CV",
-        "summary": "23717v1 Announce Type: new Abstract: Selective state-space models (SSMs) have recently shown strong potential for efficient image restoration A central difficulty, however, is that a 2D feature map ty",
-        "category": "tools",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:50.218774+00:00",
-        "author": "Wei Dong, Terry Ji, Yan Min, Shahram Shirani, Jun Chen, Han Zhou",
-        "tags": [
-          "cs.CV"
-        ]
-      },
-      {
-        "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
-        "url": "https://arxiv.org/abs/2611.21641",
-        "source": "arXiv CL",
-        "summary": "21641v1 Announce Type: new Abstract: Deployed LLMs field hundreds of millions of conversations a day and refuse a non-trivial fraction of user requests, yet the user-side cost of refusal, whether user",
-        "category": "tools",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:50.865110+00:00",
-        "author": "Pavel Kireyev",
-        "tags": [
-          "cs.CL",
           "cs.AI",
-          "cs.HC",
-          "econ.GN",
-          "q-fin.EC"
+          "cs.SE"
         ]
       },
       {
-        "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
-        "url": "https://arxiv.org/abs/2611.21647",
+        "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
+        "url": "https://arxiv.org/abs/2611.25086",
         "source": "arXiv CL",
-        "summary": "21647v1 Announce Type: new Abstract: Generative AI agents can help journalists explore large document collections But exploratory workflows can require substantial token use and time, especially when ",
+        "summary": "25086v1 Announce Type: cross Abstract: Browsers now ship local language models to ordinary endpoints Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with i",
         "category": "tools",
-        "published_at": "2026-11-19T00:00:00-05:00",
-        "fetched_at": "2026-11-19T15:19:51.037929+00:00",
-        "author": "Nick Hagar",
+        "published_at": "2026-11-20T00:00:00-05:00",
+        "fetched_at": "2026-11-20T14:58:11.843052+00:00",
+        "author": "William Fleshman, Joseph Lucas",
         "tags": [
-          "cs.CL",
-          "cs.MA"
+          "cs.CR",
+          "cs.AI",
+          "cs.CL"
         ]
+      },
+      {
+        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-11-20T00:00:00+00:00",
+        "fetched_at": "2026-11-20T14:58:13.126600+00:00",
+        "author": "",
+        "tags": []
       },
       {
         "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -615,7 +632,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-18T19:54:56+00:00",
-        "fetched_at": "2026-11-19T15:19:53.134439+00:00",
+        "fetched_at": "2026-11-20T14:58:13.170557+00:00",
         "author": "",
         "tags": []
       },
@@ -626,7 +643,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-18T18:53:43+00:00",
-        "fetched_at": "2026-11-19T15:19:53.174340+00:00",
+        "fetched_at": "2026-11-20T14:58:13.211270+00:00",
         "author": "",
         "tags": []
       },
@@ -637,7 +654,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-18T15:00:23+00:00",
-        "fetched_at": "2026-11-19T15:19:53.221462+00:00",
+        "fetched_at": "2026-11-20T14:58:13.258999+00:00",
         "author": "",
         "tags": []
       },
@@ -648,7 +665,7 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-18T00:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:53.274569+00:00",
+        "fetched_at": "2026-11-20T14:58:13.313033+00:00",
         "author": "",
         "tags": []
       },
@@ -659,258 +676,151 @@
         "summary": "",
         "category": "tools",
         "published_at": "2026-11-18T00:00:00+00:00",
-        "fetched_at": "2026-11-19T15:19:53.314132+00:00",
+        "fetched_at": "2026-11-20T14:58:13.353785+00:00",
         "author": "",
         "tags": []
-      },
-      {
-        "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-        "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-        "source": "NVIDIA Blog",
-        "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to s",
-        "category": "tools",
-        "published_at": "2026-11-16T16:00:16+00:00",
-        "fetched_at": "2026-11-19T15:19:59.479882+00:00",
-        "author": "Kibibi Moseley",
-        "tags": [
-          "AI Infrastructure",
-          "Hardware",
-          "Software",
-          "Supercomputing",
-          "CUDA-X"
-        ]
-      },
-      {
-        "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-        "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-        "source": "NVIDIA Blog",
-        "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows As agent",
-        "category": "tools",
-        "published_at": "2026-11-16T16:00:01+00:00",
-        "fetched_at": "2026-11-19T15:19:59.590308+00:00",
-        "author": "Dan Ernst",
-        "tags": [
-          "AI",
-          "AI Infrastructure",
-          "Supercomputing",
-          "Agentic AI",
-          "CUDA-X"
-        ]
       }
     ]
   },
   "all_articles": [
     {
-      "title": "LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2611.23661",
-      "source": "arXiv CV",
-      "summary": "23661v1 Announce Type: new Abstract: The pursuit of improved performance in deep learning has often been accompanied by increasing architectural complexity and computational demands We explore an alte",
-      "category": "breaking",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:49.768228+00:00",
-      "author": "Mayowa Adebambo, Alexander D. Rast, Andrew Bradley",
-      "tags": [
-        "cs.CV",
-        "cs.RO"
-      ]
-    },
-    {
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "source": "OpenAI Blog",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast",
       "category": "breaking",
-      "published_at": "2026-11-18T10:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:54.340074+00:00",
-      "author": "",
-      "tags": [
-        "Intelligence Age"
-      ]
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI Blog",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement",
-      "category": "breaking",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:54.371457+00:00",
-      "author": "",
-      "tags": [
-        "Research"
-      ]
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "source": "OpenAI Blog",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows",
-      "category": "breaking",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:54.441236+00:00",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:14.270277+00:00",
       "author": "",
       "tags": [
         "Engineering"
       ]
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI Blog",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring",
       "category": "breaking",
-      "published_at": "2026-11-18T00:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:54.511504+00:00",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:14.289278+00:00",
       "author": "",
       "tags": [
-        "Research"
+        "Guides"
       ]
     },
     {
-      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-      "url": "https://arxiv.org/abs/2611.22033",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI Blog",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow",
+      "category": "breaking",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:14.309947+00:00",
+      "author": "",
+      "tags": [
+        "Demos"
+      ]
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI Blog",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording",
+      "category": "breaking",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:14.336465+00:00",
+      "author": "",
+      "tags": [
+        "Demos"
+      ]
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI Blog",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started",
+      "category": "breaking",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:14.361126+00:00",
+      "author": "",
+      "tags": [
+        "Demos"
+      ]
+    },
+    {
+      "title": "Tencent Hy4 is live on Together AI",
+      "url": "https://www.together.ai/blog/tencent-hy4",
+      "source": "Together AI Blog",
+      "summary": "Tencent Hy4 is live on Together AI We tested its image input by extracting and rebuilding a chart, then tried its coding with a browser game generated from one prompt",
+      "category": "breaking",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:27.069599+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster",
+      "url": "https://www.together.ai/blog/introducing-together-storage-accelerator",
+      "source": "Together AI Blog",
+      "summary": "Together Storage Accelerator is a distributed caching layer for Together GPU Clusters: about 20x faster warm reads, one origin fetch per cluster, no application changes, and it's included free",
+      "category": "breaking",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:27.131607+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "url": "https://arxiv.org/abs/2611.23322",
       "source": "arXiv AI/ML",
-      "summary": "22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) ",
+      "summary": "23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.492273+00:00",
-      "author": "Adi Krishnamoorthy, X. Y. Han",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.475547+00:00",
+      "author": "Aydin Mohseni",
       "tags": [
         "cs.AI",
-        "cs.CL",
-        "cs.CY",
-        "cs.HC",
-        "econ.GN"
+        "cs.GT"
       ]
     },
     {
-      "title": "A Hybrid Exact-Heuristic Solver for the Integrated Passenger and Parcel Transportation Problem",
-      "url": "https://arxiv.org/abs/2611.22043",
+      "title": "Training Language Models for Introspective Oversight",
+      "url": "https://arxiv.org/abs/2611.23365",
       "source": "arXiv AI/ML",
-      "summary": "22043v2 Announce Type: new Abstract: We describe the solver we submitted to the second round of the SOICT 2026 contest on the Integrated Passenger and Parcel Transportation problem, a selective pickup",
+      "summary": "23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy Asking the assistant ",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.539648+00:00",
-      "author": "The Dung Bui, Ha Thu Nguyen",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.503668+00:00",
+      "author": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
       "tags": [
         "cs.AI"
       ]
     },
     {
-      "title": "MedGuardBench: A Patient-Oriented Benchmark for Personalized Guardrail Development",
-      "url": "https://arxiv.org/abs/2611.22069",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "url": "https://arxiv.org/abs/2611.23375",
       "source": "arXiv AI/ML",
-      "summary": "22069v1 Announce Type: new Abstract: Safety is personal: the same action can be safe for one person but unsafe for another Yet current guardrails judge content without considering who is affected Usin",
+      "summary": "23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys Here we introduce a theory of software thermodynamics",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.579798+00:00",
-      "author": "Sara Khosravi, Xiaofei Wen, Majid Sarrafzadeh, Muhao Chen",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.537910+00:00",
+      "author": "Al\\'an Aspuru-Guzik, Varinia Bernales",
       "tags": [
         "cs.AI",
-        "cs.LG"
+        "cond-mat.stat-mech",
+        "cs.SE"
       ]
     },
     {
-      "title": "Can You Undo It? Reversibility Classes for AI Agent Actions",
-      "url": "https://arxiv.org/abs/2611.22075",
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "url": "https://arxiv.org/abs/2611.23410",
       "source": "arXiv AI/ML",
-      "summary": "22075v1 Announce Type: new Abstract: Tool-using AI agents change files, databases, access rights and public information, yet permission to call a tool does not establish whether a mistake can be undon",
+      "summary": "23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layo",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.612692+00:00",
-      "author": "Deepak Waghmare, Shaad Sufi",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "When Lower Harm Misleads: Auditing Concept Corrections",
-      "url": "https://arxiv.org/abs/2611.22084",
-      "source": "arXiv AI/ML",
-      "summary": "22084v1 Announce Type: new Abstract: An expert who corrects a concept prediction, such as a BI-RADS descriptor in breast ultrasound, expects the diagnosis to improve Objectives that reduce the harm of",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.642034+00:00",
-      "author": "Tianyou Lai, Wentao Yue, Hongji Li, Chaoyuan Hao, Qilei Li",
-      "tags": [
-        "cs.AI",
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
-      "url": "https://arxiv.org/abs/2611.22085",
-      "source": "arXiv AI/ML",
-      "summary": "22085v1 Announce Type: new Abstract: Professional work involves under-specified assignments, where relevant information is spread across workplace applications and may conflict or change over time To ",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.677457+00:00",
-      "author": "Elaine Lau, Antoine Pangas, Alexandre Finot, Collin Schweiker, Amir Bouzidi, Hui Wen Goh, Andrew Peter Martin, Jonas Mueller",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "EvoDisco: Strategy Discovery for Evolving Agent Memory",
-      "url": "https://arxiv.org/abs/2611.22102",
-      "source": "arXiv AI/ML",
-      "summary": "22102v1 Announce Type: new Abstract: Large language model agents accumulate experience in memory, and how that memory evolves during interaction is as important as what it stores Recent methods update",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.705050+00:00",
-      "author": "Mingyang Liu, Qingcan Kang, Shixiong Kai, Kaichao Liang, Xiaojin Fu, Tao Zhong, Linqi Song",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "From Sorry to QED: Refining LLM Math Proofs via Angelic Execution",
-      "url": "https://arxiv.org/abs/2611.22103",
-      "source": "arXiv AI/ML",
-      "summary": "22103v1 Announce Type: new Abstract: Large language models (LLMs) can now generate Lean proof scripts that capture the high-level structure of many mathematical arguments However, these scripts freque",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.739513+00:00",
-      "author": "Yanju Chen, Hanzhi Liu, Ruizhe Qian, Jiaming Shan, Xu Yang, Yufei Ding, Osbert Bastani, Yu Feng",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents",
-      "url": "https://arxiv.org/abs/2611.22113",
-      "source": "arXiv AI/ML",
-      "summary": "22113v1 Announce Type: new Abstract: Language agents rely on long-term memory to personalize responses across extended interactions, yet stored facts quietly go stale as the world changes, and an agen",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.781278+00:00",
-      "author": "Qingcan Kang, Mingyang Liu, Shixiong Kai, Tao Zhong, Mingxuan Yuan",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-      "url": "https://arxiv.org/abs/2611.22115",
-      "source": "arXiv AI/ML",
-      "summary": "22115v1 Announce Type: new Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructu",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.824206+00:00",
-      "author": "Xingchen AGI Lab,  :, Baotian Hu, Bingkai Yang, Boyang Wang, Changzai Pan, Chao Lyu, Chao Wang, Chen Li, Chenshuo Pan, Chenyu Lin, Chenyuan Zhang, Chongming Liu, Dawei Fan, Di Wu, Dong Guo, Dong Li, Dongfang Li, Enlin Liu, Fanye Xiao, Fengkai Li, Fubei Yao, Gang Lin, Han Gao, Hanming Wu, Haowei He, Huapeng Liu, Hua Wang, Huinan Xu, Jiahong Xiong, Jiaxin Peng, Jianxiang Ma, Jianxing Zhuge, Jie Zhang, Ji Xiong, Jinglin Chen, Jingqi Li, Jingxuan Li, Jiwang Ye, Junchen Li, Junbiao Li, Junyang Wu, Kaidong Yu, Kaipeng Jia, Kehai Chen, Kuai Li, Laobin Liu, Lei Li, Libo Qin, Lingling Shi, Luwen Pu, Menghao Xu, Mengjiao Bao, Mengqi Chen, Min Zhang, Mingrui Wang, Naying Wang, Peicong Han, Peiming Guo, Pengfei Li, Qiang Feng, Qi Wang, Qingjun Zhu, Qingli Li, Qitai Ding, Qiyi Xie, Quanchao Zhao, Rongbao Han, Rui Xue, Ruiyu Fang, Ruiting Song, Shijie Li, Shiquan Wang, Shuangyong Song, Sishi Xiong, Teng Su, Wankang Bao, Weijie Zhang, Wei Mao, Weiwei Fu, Weiyang Huang, Wenmin Deng, Wenqing Hu, Wujie Zhong, Xi Yu, Xiaohui Hu, Xiaomin Fang, Xiaomeng Huang, Xiaoqiong Shi, Xiaotong Shang, Xiaoyu Li, Xinglei Xu, Xin Jiang, Xin Wang, Xin Zhang, Xinzhang Liu, Xue Liu, Xuefeng Bai, Xuewei He, Yahan Li, Yanhan Zhang, Yanlei Xue, Yanzhang Wu, Yang Yu, Yi Liu, Yin Zhang, Yingyan Li, Yitong Yao, Yixuan Li, Yongqiang Xia, Yongxiang Li, Yinzhou Zhu, Yu Zhao, Yuhao Jiang, Yunpeng Zhang, Yuting Lin, Yuxuan Wu, Yuyao Huang, Yuyi Wang, Zebo Peng, Zhenwu Pei, Zhenxiong Li, Zhao Wang, Zhaoxi Zhang, Zhihao Yang, Zhiqiang Dong, Zhiwei Yan, Zhilong Lu, Zhonghao Guo, Zhongheng Wu, Zhongjiang He, Zhongqiu Li, Zhu Yuan, Zhuoru Jiang, Zhuoyi Wei, Zijia Guo, Zilu Huang, Zhipeng Guo, Zirui Li, Zihan Wang",
-      "tags": [
-        "cs.AI"
-      ]
-    },
-    {
-      "title": "LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model",
-      "url": "https://arxiv.org/abs/2611.22131",
-      "source": "arXiv AI/ML",
-      "summary": "22131v1 Announce Type: new Abstract: Whole image embeddings can under represent small objects and local attributes that distinguish relevant images for localized queries We present LoCaR, a training f",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.859023+00:00",
-      "author": "Rahim Hossain, Dipanwita Saha, Ashirbad Mishra, Xinxin Shu, Svetlana Strunjas, Binbin Li",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.624476+00:00",
+      "author": "Jiarui Cui, Boxun Yan",
       "tags": [
         "cs.AI",
         "cs.CV",
@@ -918,60 +828,207 @@
       ]
     },
     {
-      "title": "Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions",
-      "url": "https://arxiv.org/abs/2611.22136",
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "url": "https://arxiv.org/abs/2611.23445",
       "source": "arXiv AI/ML",
-      "summary": "22136v1 Announce Type: new Abstract: Many biology experiments are limited by the availability and ease of use of instruments that monitor and record them For example, the timing of pupariation in the ",
+      "summary": "23445v2 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces c",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.916327+00:00",
-      "author": "Joel Sadler, Daniel Graham, Melanie Worley",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.663346+00:00",
+      "author": "Michael Schroeder",
       "tags": [
         "cs.AI",
-        "cs.HC"
+        "cs.CV",
+        "cs.LG"
       ]
     },
     {
-      "title": "Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)",
-      "url": "https://arxiv.org/abs/2611.22148",
+      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+      "url": "https://arxiv.org/abs/2611.23454",
       "source": "arXiv AI/ML",
-      "summary": "22148v1 Announce Type: new Abstract: Open-weight language models are widely observed to get worse the longer they generate Often, attempts to fix this involve more training At high temperature, The sa",
+      "summary": "23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort ide",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.953799+00:00",
-      "author": "Allen G. Roush, Minh Nhat Nguyen, Ravid Shwartz-Ziv, Judah Goldfeder, Sanjay Basu",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.713282+00:00",
+      "author": "Carla Teixeira Lopes, Daniel F\\'elix",
       "tags": [
         "cs.AI",
-        "cs.CL"
+        "cs.IR"
       ]
     },
     {
-      "title": "Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents",
-      "url": "https://arxiv.org/abs/2611.22169",
+      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "url": "https://arxiv.org/abs/2611.23456",
       "source": "arXiv AI/ML",
-      "summary": "22169v1 Announce Type: new Abstract: Tool-augmented medical agents treat whatever their tools return as evidence We show that this default is costly: medical tools fail silently, and a frozen reasoner",
+      "summary": "23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging Generat",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:45.998306+00:00",
-      "author": "Runxun Zhang, Onofrio Antonio Catalano, Jinqiao Wang, Jingwei Wei",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.764532+00:00",
+      "author": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
       "tags": [
         "cs.AI",
         "cs.CV"
       ]
     },
     {
-      "title": "Readie: Low-Latency Code Sandboxes for AI Agents",
-      "url": "https://arxiv.org/abs/2611.22171",
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "url": "https://arxiv.org/abs/2611.23476",
       "source": "arXiv AI/ML",
-      "summary": "22171v1 Announce Type: new Abstract: From quantitative research to personal assistance, AI agents act by iteratively generating and executing code To decouple the agent harness from code execution, ma",
+      "summary": "23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory Recursive self-improvement (RSI) adapts this harn",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.026396+00:00",
-      "author": "Arjun Sivaraman, Zhaoheng Li, Alan Shi, Sanjay Malisetty, Eugene Wu, Yongjoo Park",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.799749+00:00",
+      "author": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
       "tags": [
         "cs.AI",
-        "cs.DB",
-        "cs.SE"
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+      "url": "https://arxiv.org/abs/2611.23480",
+      "source": "arXiv AI/ML",
+      "summary": "23480v1 Announce Type: new Abstract: Purpose To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies Materials and ",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.857358+00:00",
+      "author": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+      "url": "https://arxiv.org/abs/2611.23483",
+      "source": "arXiv AI/ML",
+      "summary": "23483v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls However, this sequential loop is slow, and its",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.895145+00:00",
+      "author": "Xi Ding, Jiawei Zhang",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "BOS Summary: The First Token Matters",
+      "url": "https://arxiv.org/abs/2611.23508",
+      "source": "arXiv AI/ML",
+      "summary": "23508v1 Announce Type: new Abstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, such as the beginning-of-sequence (BOS",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.916695+00:00",
+      "author": "Hui Zhu, Saleh Zare Zade, Rafi Ibn Sultan, Deng Pan, Arun Ross, Dongxiao Zhu",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CV"
+      ]
+    },
+    {
+      "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+      "url": "https://arxiv.org/abs/2611.23509",
+      "source": "arXiv AI/ML",
+      "summary": "23509v1 Announce Type: new Abstract: Automated agent design searches for executable architectures that improve LLM-based agent performance, with evolutionary methods using language-model crossover to ",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.950249+00:00",
+      "author": "Sevda Ebrahimi, Mohammed Saidul Islam, Xiaodan Zhu, Elham Dolatabadi",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.NE"
+      ]
+    },
+    {
+      "title": "BeFit: Shifting Complexity from Weights to Bernstein Activations for Resource-Constrained Sensing",
+      "url": "https://arxiv.org/abs/2611.23520",
+      "source": "arXiv AI/ML",
+      "summary": "23520v1 Announce Type: new Abstract: Time-series sensing increasingly relies on neural networks, yet deployment on resource-constrained microcontrollers remains challenging Aggressive model compressio",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.998794+00:00",
+      "author": "Malak Gamal El-Din, Yasser Shoukry, Salma Elmalaki",
+      "tags": [
+        "cs.AI",
+        "cs.AR"
+      ]
+    },
+    {
+      "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+      "url": "https://arxiv.org/abs/2611.23560",
+      "source": "arXiv AI/ML",
+      "summary": "23560v1 Announce Type: new Abstract: Personality is only weakly and inconsistently signaled by written language, and existing text-based methods typically combine language-model and psycholinguistic r",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.048218+00:00",
+      "author": "Balakrishnan Arumugam, Priyen Parekh, Mehak Gupta, Joshua Oltmanns",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+      "url": "https://arxiv.org/abs/2611.23564",
+      "source": "arXiv AI/ML",
+      "summary": "23564v1 Announce Type: new Abstract: When LLM agents pass intermediate judgments downstream without uncertainty, later decisions may treat tentative assumptions as facts Effective uncertainty propagat",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.096743+00:00",
+      "author": "Kaiwen Shi, Zheyuan Zhang, Weixiang Sun, Han Bao, Colby Nelson, Yanfang Ye",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "url": "https://arxiv.org/abs/2611.23398",
+      "source": "arXiv AI/ML",
+      "summary": "23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy Since hardware failures in hyper-scale AI clust",
+      "category": "industry",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:05.576241+00:00",
+      "author": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
+      "tags": [
+        "cs.AI",
+        "cs.AR"
+      ]
+    },
+    {
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "source": "NVIDIA Blog",
+      "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industria",
+      "category": "industry",
+      "published_at": "2026-11-19T20:00:15+00:00",
+      "fetched_at": "2026-11-20T14:58:18.847030+00:00",
+      "author": "Dave Salvator",
+      "tags": [
+        "AI Infrastructure",
+        "Cloud",
+        "Hardware",
+        "Software",
+        "Cosmos"
+      ]
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
+      "category": "industry",
+      "published_at": "2026-11-19T17:00:35+00:00",
+      "fetched_at": "2026-11-20T14:58:18.909448+00:00",
+      "author": "NVIDIA Writers",
+      "tags": [
+        "Robotics",
+        "Agentic AI",
+        "Into the Omniverse",
+        "NVIDIA Isaac Sim",
+        "Omniverse"
       ]
     },
     {
@@ -981,7 +1038,7 @@
       "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming Six-month memberships are back for a limited time Save 30% on the first six-month term of a Performance or Ultimate me",
       "category": "industry",
       "published_at": "2026-11-19T14:00:12+00:00",
-      "fetched_at": "2026-11-19T15:19:59.207730+00:00",
+      "fetched_at": "2026-11-20T14:58:18.960098+00:00",
       "author": "GeForce NOW Community",
       "tags": [
         "Gaming",
@@ -996,7 +1053,7 @@
       "summary": "",
       "category": "industry",
       "published_at": "2026-11-18T21:35:43+00:00",
-      "fetched_at": "2026-11-19T15:20:00.573852+00:00",
+      "fetched_at": "2026-11-20T14:58:19.890387+00:00",
       "author": "",
       "tags": []
     },
@@ -1007,7 +1064,7 @@
       "summary": "",
       "category": "industry",
       "published_at": "2026-11-18T18:13:42+00:00",
-      "fetched_at": "2026-11-19T15:20:00.595444+00:00",
+      "fetched_at": "2026-11-20T14:58:19.911992+00:00",
       "author": "",
       "tags": []
     },
@@ -1018,189 +1075,49 @@
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis Early use by executives helped drive adoption",
       "category": "industry",
       "published_at": "2026-11-18T08:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:54.420340+00:00",
+      "fetched_at": "2026-11-20T14:58:14.411170+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "source": "NVIDIA Blog",
-      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems In",
-      "category": "industry",
-      "published_at": "2026-11-17T14:00:10+00:00",
-      "fetched_at": "2026-11-19T15:19:59.264376+00:00",
-      "author": "Brian Caulfield",
-      "tags": [
-        "Supercomputing",
-        "Events",
-        "SC26"
-      ]
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI Blog",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications",
-      "category": "industry",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:54.534656+00:00",
-      "author": "",
-      "tags": [
-        "Global Affairs"
-      ]
-    },
-    {
-      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-      "source": "NVIDIA Blog",
-      "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms That description sums up the job, but it doesn’t begin to encompass what Shoquist has mad",
-      "category": "industry",
-      "published_at": "2026-11-16T20:00:37+00:00",
-      "fetched_at": "2026-11-19T15:19:59.321008+00:00",
-      "author": "NVIDIA Writers",
-      "tags": [
-        "AI Infrastructure",
-        "AI",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Corporate"
-      ]
-    },
-    {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "source": "Microsoft Research Blog",
-      "summary": "AI coding agents can waste time and tokens relearning the same lessons TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success It’s a path tow",
-      "category": "industry",
-      "published_at": "2026-11-16T17:01:35+00:00",
-      "fetched_at": "2026-11-19T15:19:57.404482+00:00",
-      "author": "Aaron J. Li, Weijia Xu, Chandan Singh, Jeevana Priya Inala, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao",
-      "tags": [
-        "Research Blog"
-      ]
-    },
-    {
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
-      "source": "NVIDIA Blog",
-      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-pack",
-      "category": "industry",
-      "published_at": "2026-11-16T16:00:51+00:00",
-      "fetched_at": "2026-11-19T15:19:59.373327+00:00",
-      "author": "Brian Sparks",
-      "tags": [
-        "Networking",
-        "Supercomputing",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Hardware"
-      ]
-    },
-    {
-      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-      "source": "NVIDIA Blog",
-      "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying ove",
-      "category": "industry",
-      "published_at": "2026-11-16T16:00:47+00:00",
-      "fetched_at": "2026-11-19T15:19:59.421372+00:00",
-      "author": "Sam Stanwyck",
-      "tags": [
-        "AI Infrastructure",
-        "Hardware",
-        "Software",
-        "Supercomputing",
-        "Quantum Computing"
-      ]
-    },
-    {
-      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
-      "source": "NVIDIA Blog",
-      "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI CUDA’s 20th annivers",
-      "category": "industry",
-      "published_at": "2026-11-16T16:00:11+00:00",
-      "fetched_at": "2026-11-19T15:19:59.522932+00:00",
-      "author": "Brett Murray",
-      "tags": [
-        "AI",
-        "Software",
-        "Supercomputing",
-        "Artificial Intelligence",
-        "CUDA"
-      ]
-    },
-    {
-      "title": "Label-Free Role-Aware Segmentation of Classroom Recordings: Recovering the Teacher from Transferable Structure",
-      "url": "https://arxiv.org/abs/2611.23609",
-      "source": "arXiv ML",
-      "summary": "23609v1 Announce Type: new Abstract: How much the teacher talks and when are among the most informative and costly-to-measure signals of teaching Yet, classroom audio is among the most sensitive data ",
+      "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+      "url": "https://arxiv.org/abs/2611.23611",
+      "source": "arXiv AI/ML",
+      "summary": "23611v1 Announce Type: new Abstract: Tool runtimes can lower an agent-selected operation into a hidden parallel graph, reducing latency and context while risking semantic mistranslation We introduce R",
       "category": "tools",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:48.029009+00:00",
-      "author": "Nitin Jain, Tim F\\\"utterer, Babette B\\\"uhler, \\c{C}a\\u{g}atay Y{\\i}ld{\\i}z",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.227077+00:00",
+      "author": "Adhyayan Veer Singh, Fanjiang Ye, Yuke Wang",
       "tags": [
-        "cs.LG",
-        "cs.SD"
-      ]
-    },
-    {
-      "title": "MedHarness: A Unified Budgeted Runtime for Reliable Medical Imaging Agents",
-      "url": "https://arxiv.org/abs/2611.23501",
-      "source": "arXiv CV",
-      "summary": "23501v1 Announce Type: new Abstract: Medical imaging agents already return answers on heterogeneous imaging surfaces, yet deployment still faces a limited verification budget where each wrong accept c",
-      "category": "tools",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:49.168413+00:00",
-      "author": "Haofan Wu, Le Zhang",
-      "tags": [
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "CoScan: Multi-Scale Content-Adaptive Space-Filling Scans for Causal State-Space Image Restoration",
-      "url": "https://arxiv.org/abs/2611.23717",
-      "source": "arXiv CV",
-      "summary": "23717v1 Announce Type: new Abstract: Selective state-space models (SSMs) have recently shown strong potential for efficient image restoration A central difficulty, however, is that a 2D feature map ty",
-      "category": "tools",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:50.218774+00:00",
-      "author": "Wei Dong, Terry Ji, Yan Min, Shahram Shirani, Jun Chen, Han Zhou",
-      "tags": [
-        "cs.CV"
-      ]
-    },
-    {
-      "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
-      "url": "https://arxiv.org/abs/2611.21641",
-      "source": "arXiv CL",
-      "summary": "21641v1 Announce Type: new Abstract: Deployed LLMs field hundreds of millions of conversations a day and refuse a non-trivial fraction of user requests, yet the user-side cost of refusal, whether user",
-      "category": "tools",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:50.865110+00:00",
-      "author": "Pavel Kireyev",
-      "tags": [
-        "cs.CL",
         "cs.AI",
-        "cs.HC",
-        "econ.GN",
-        "q-fin.EC"
+        "cs.SE"
       ]
     },
     {
-      "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
-      "url": "https://arxiv.org/abs/2611.21647",
+      "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
+      "url": "https://arxiv.org/abs/2611.25086",
       "source": "arXiv CL",
-      "summary": "21647v1 Announce Type: new Abstract: Generative AI agents can help journalists explore large document collections But exploratory workflows can require substantial token use and time, especially when ",
+      "summary": "25086v1 Announce Type: cross Abstract: Browsers now ship local language models to ordinary endpoints Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with i",
       "category": "tools",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:51.037929+00:00",
-      "author": "Nick Hagar",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:11.843052+00:00",
+      "author": "William Fleshman, Joseph Lucas",
       "tags": [
-        "cs.CL",
-        "cs.MA"
+        "cs.CR",
+        "cs.AI",
+        "cs.CL"
       ]
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "fetched_at": "2026-11-20T14:58:13.126600+00:00",
+      "author": "",
+      "tags": []
     },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -1209,7 +1126,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-18T19:54:56+00:00",
-      "fetched_at": "2026-11-19T15:19:53.134439+00:00",
+      "fetched_at": "2026-11-20T14:58:13.170557+00:00",
       "author": "",
       "tags": []
     },
@@ -1220,7 +1137,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-18T18:53:43+00:00",
-      "fetched_at": "2026-11-19T15:19:53.174340+00:00",
+      "fetched_at": "2026-11-20T14:58:13.211270+00:00",
       "author": "",
       "tags": []
     },
@@ -1231,7 +1148,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-18T15:00:23+00:00",
-      "fetched_at": "2026-11-19T15:19:53.221462+00:00",
+      "fetched_at": "2026-11-20T14:58:13.258999+00:00",
       "author": "",
       "tags": []
     },
@@ -1242,7 +1159,7 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:53.274569+00:00",
+      "fetched_at": "2026-11-20T14:58:13.313033+00:00",
       "author": "",
       "tags": []
     },
@@ -1253,139 +1170,188 @@
       "summary": "",
       "category": "tools",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "fetched_at": "2026-11-19T15:19:53.314132+00:00",
+      "fetched_at": "2026-11-20T14:58:13.353785+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-      "source": "NVIDIA Blog",
-      "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to s",
-      "category": "tools",
-      "published_at": "2026-11-16T16:00:16+00:00",
-      "fetched_at": "2026-11-19T15:19:59.479882+00:00",
-      "author": "Kibibi Moseley",
-      "tags": [
-        "AI Infrastructure",
-        "Hardware",
-        "Software",
-        "Supercomputing",
-        "CUDA-X"
-      ]
-    },
-    {
-      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "source": "NVIDIA Blog",
-      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows As agent",
-      "category": "tools",
-      "published_at": "2026-11-16T16:00:01+00:00",
-      "fetched_at": "2026-11-19T15:19:59.590308+00:00",
-      "author": "Dan Ernst",
-      "tags": [
-        "AI",
-        "AI Infrastructure",
-        "Supercomputing",
-        "Agentic AI",
-        "CUDA-X"
-      ]
-    },
-    {
-      "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
-      "url": "https://arxiv.org/abs/2611.23240",
-      "source": "arXiv ML",
-      "summary": "23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymm",
+      "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+      "url": "https://arxiv.org/abs/2611.23572",
+      "source": "arXiv AI/ML",
+      "summary": "23572v1 Announce Type: new Abstract: Food insecurity creates a pressing need for guidance that helps households find usable food resources and assess food choices in light of their circumstances Such ",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.709701+00:00",
-      "author": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.132525+00:00",
+      "author": "Kaiwen Shi, Zheyuan Zhang, Changzhi Liu, Han Bao, Yanfang Ye",
       "tags": [
-        "cs.LG",
-        "cs.NE"
-      ]
-    },
-    {
-      "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
-      "url": "https://arxiv.org/abs/2611.23241",
-      "source": "arXiv ML",
-      "summary": "23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.768586+00:00",
-      "author": "Lilliane Linnet Musoke",
-      "tags": [
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
-      "url": "https://arxiv.org/abs/2611.23242",
-      "source": "arXiv ML",
-      "summary": "23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requi",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.811472+00:00",
-      "author": "Ayaan Qayyum, Bruce Yi Bu, Zicong Li, Jingfeng Zhou",
-      "tags": [
-        "cs.LG"
-      ]
-    },
-    {
-      "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
-      "url": "https://arxiv.org/abs/2611.23244",
-      "source": "arXiv ML",
-      "summary": "23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc ",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.859848+00:00",
-      "author": "Jingwei Ge, Na Xie, Li Li, Jiayang Li",
-      "tags": [
-        "cs.LG",
-        "cs.AI",
-        "math.CO"
-      ]
-    },
-    {
-      "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
-      "url": "https://arxiv.org/abs/2611.23245",
-      "source": "arXiv ML",
-      "summary": "23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state We define training-state equivalence operationally",
-      "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.906093+00:00",
-      "author": "Truong Xuan Khanh",
-      "tags": [
-        "cs.LG",
         "cs.AI"
       ]
     },
     {
-      "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
-      "url": "https://arxiv.org/abs/2611.23246",
-      "source": "arXiv ML",
-      "summary": "23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders The expansio",
+      "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+      "url": "https://arxiv.org/abs/2611.23588",
+      "source": "arXiv AI/ML",
+      "summary": "23588v1 Announce Type: new Abstract: Enterprise LLM agents operate in dynamic environments where foundation models evolve rapidly, workflows update frequently, and deployments need to satisfy accuracy",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.957367+00:00",
-      "author": "Peng Xie, Amr Alanwar",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.178604+00:00",
+      "author": "Jiangyun Zhang, Zhou Tang, Kristen Surrao, Zhiyu Chen, Albert Guan, Tor Nitayanont, Yupei Zhang, Roopali Singh, Yunkai Xiao, Shreya Pandit, Julia Huang, Shayan Ali Akbar, Erwin Cornejo, Yuan Li, Yi Zhang",
       "tags": [
-        "cs.LG",
-        "cs.SY",
-        "eess.SY"
+        "cs.AI",
+        "cs.MA"
       ]
     },
     {
-      "title": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
-      "url": "https://arxiv.org/abs/2611.23247",
-      "source": "arXiv ML",
-      "summary": "23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs Proper scoring rules can emphasize selected probability thresholds,",
+      "title": "Searching the Pareto Front: Multi-Objective Retrieval for Heterogeneous Scientific Modalities",
+      "url": "https://arxiv.org/abs/2611.23639",
+      "source": "arXiv AI/ML",
+      "summary": "23639v1 Announce Type: new Abstract: In cosmology, surveys span different sky regions and wavelength ranges, resulting in uneven modality coverage across observational datasets Such heterogeneity can ",
       "category": "research",
-      "published_at": "2026-11-19T00:00:00-05:00",
-      "fetched_at": "2026-11-19T15:19:46.992292+00:00",
-      "author": "Ankit Sharma (International Institute of Information Technology Bangalore)",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.276987+00:00",
+      "author": "Song Young Oh, Nesar Ramachandra, Bin Xia, Ian Foster, Kyle Chard",
       "tags": [
+        "cs.AI",
+        "astro-ph.IM"
+      ]
+    },
+    {
+      "title": "Evaluating Governed LLM-Driven ML Experimentation: Lifecycle, Provenance, and Failure Metrics",
+      "url": "https://arxiv.org/abs/2611.23678",
+      "source": "arXiv AI/ML",
+      "summary": "23678v1 Announce Type: new Abstract: Autonomous agents that run ML experiments are usually judged by the best score they reach That score says nothing about how it was reached: whether the agent staye",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.323960+00:00",
+      "author": "Dowling Wong",
+      "tags": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "Auditable Clinical Support with Decision Agents",
+      "url": "https://arxiv.org/abs/2611.23700",
+      "source": "arXiv AI/ML",
+      "summary": "23700v1 Announce Type: new Abstract: Clinicians reviewing a diagnostic work-up will ask what was considered at each step and why the assessment changed Agents powered by free text can reach physician-",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.351553+00:00",
+      "author": "Tiancheng Bao, Riga Wu, Jan Wienhold, Sebastian Billig, Patrick Winnersbach, Hsuan-Chih Chen, Akis Giannoukos, Jiayang Li, Li Shen, Gary Weissman, Eduardo J. Mortani Barbosa Jr, Dyke Ferber, Jakob Nikolas Kather, Christos Davatzikos, Daniel Truhn, Tianyu Han",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
+      "url": "https://arxiv.org/abs/2611.23702",
+      "source": "arXiv AI/ML",
+      "summary": "23702v1 Announce Type: new Abstract: The growing volume of topically similar papers makes it difficult to identify new work that can offer useful research insights or methodological guidance We presen",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.397443+00:00",
+      "author": "Zhuo Chen, Jian Wang, Jinjie Gu, Lijun Wu",
+      "tags": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    {
+      "title": "Modeling LLM Reasoning Dynamics with Structural Representations",
+      "url": "https://arxiv.org/abs/2611.23749",
+      "source": "arXiv AI/ML",
+      "summary": "23749v1 Announce Type: new Abstract: Language-model reasoning alternates between sustained activities and local operations We study how this temporal structure predicts continuation and the computatio",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.431888+00:00",
+      "author": "Ilia Karpov, Andrey Atamanyuk, Dmitry Ilvovsky, Aleksandr Anokhin, Alex Elizov, Dmitry Zagorulkin, Sergei O. Kuznetsov",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
+      "url": "https://arxiv.org/abs/2611.23751",
+      "source": "arXiv AI/ML",
+      "summary": "23751v1 Announce Type: new Abstract: Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a sma",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.477400+00:00",
+      "author": "Rui Li, Liyang He, Zheng Zhang, Zhenya Huang, Qi Liu",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
         "cs.LG"
+      ]
+    },
+    {
+      "title": "Continual Tool-Space Extension Learning for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2611.23810",
+      "source": "arXiv AI/ML",
+      "summary": "23810v1 Announce Type: new Abstract: Multimodal agents largely rely on generic tools such as cropping, search, and code execution, leaving specialist vision models outside their tool space However, br",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.513113+00:00",
+      "author": "Jinbae Seo, Jungin Park, Hyunsung Jang, Namkoo Ha, Jiyoung Lee, Kwanghoon Sohn",
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Metrics-in-the-Loop: Complexity Feedback Reshapes Agent-Written Code",
+      "url": "https://arxiv.org/abs/2611.23817",
+      "source": "arXiv AI/ML",
+      "summary": "23817v1 Announce Type: new Abstract: Coding agents now write whole codebases in long autonomous runs, guided mainly by whether their tests pass Yet passing tests alone does not reveal accumulating com",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.551962+00:00",
+      "author": "Nicolas Chapados, Jean-Fran\\c{c}ois Gagn\\'e, Nouha Dziri",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+      "url": "https://arxiv.org/abs/2611.23824",
+      "source": "arXiv AI/ML",
+      "summary": "23824v1 Announce Type: new Abstract: Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, ",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.590034+00:00",
+      "author": "Wen Wang, Jindong Wang, Jiahua Bao, Tu Yongsiqi, Yihao Liu, Junwei He, Wenkui Fan",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "A System 1 Decision Model for Medical Multiple-Choice Questions Built on Frozen Language Models",
+      "url": "https://arxiv.org/abs/2611.23832",
+      "source": "arXiv AI/ML",
+      "summary": "23832v1 Announce Type: new Abstract: A System 1 model answers a multiple-choice question in a single pass A frozen language model turns the question and each option into vectors, two small, trained he",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.639362+00:00",
+      "author": "Pavan Kumar Mantha",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop",
+      "url": "https://arxiv.org/abs/2611.23855",
+      "source": "arXiv AI/ML",
+      "summary": "23855v1 Announce Type: new Abstract: Can AI agents design robots that work in the real world We introduce RoboBuilder, a benchmark in which coding agents co-design a robot's hardware and program from ",
+      "category": "research",
+      "published_at": "2026-11-20T00:00:00-05:00",
+      "fetched_at": "2026-11-20T14:58:06.680879+00:00",
+      "author": "Ghadi Nehme, Dahyun Nam, Akshay Govind Srinivasan, Faez Ahmed",
+      "tags": [
+        "cs.AI",
+        "cs.CV",
+        "cs.RO"
       ]
     }
   ]
