@@ -1,6 +1,176 @@
 {
-  "generated_at": "2026-11-20T14:58:45.279481+00:00",
+  "generated_at": "2026-11-21T14:18:38.887115+00:00",
   "archive": [
+    {
+      "date": "2026-11-21",
+      "total": 14,
+      "categories": {
+        "breaking": 3,
+        "research": 1,
+        "industry": 5,
+        "tools": 5
+      },
+      "articles": [
+        {
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI Blog",
+          "summary": "Hebbia tested GPT-6 Astra for financial research Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality",
+          "category": "breaking",
+          "published_at": "2026-11-20T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "source": "OpenAI Blog",
+          "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery",
+          "category": "breaking",
+          "published_at": "2026-11-20T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "Qwen3 TTS is now available on Together AI",
+          "url": "https://www.together.ai/blog/qwen3-tts",
+          "source": "Together AI Blog",
+          "summary": "Qwen3 TTS is now available on Together AI Keep one voice across your product, change its tone with a plain-language instruction and move it between 10 languages, with first audio in as little as 97ms",
+          "category": "breaking",
+          "published_at": "2026-11-20T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction",
+          "category": "research",
+          "published_at": "2026-11-20T10:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+          "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+          "source": "NVIDIA Blog",
+          "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industria",
+          "category": "industry",
+          "published_at": "2026-11-19T20:00:15+00:00",
+          "author": "Dave Salvator",
+          "tags": [
+            "AI Infrastructure",
+            "Cloud",
+            "Hardware",
+            "Software",
+            "Cosmos"
+          ]
+        },
+        {
+          "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+          "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+          "source": "NVIDIA Blog",
+          "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended Developers are combining frontier AI mod",
+          "category": "industry",
+          "published_at": "2026-11-19T17:00:35+00:00",
+          "author": "NVIDIA Writers",
+          "tags": [
+            "Robotics",
+            "Agentic AI",
+            "Into the Omniverse",
+            "NVIDIA Isaac Sim",
+            "Omniverse"
+          ]
+        },
+        {
+          "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+          "source": "NVIDIA Blog",
+          "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming Six-month memberships are back for a limited time Save 30% on the first six-month term of a Performance or Ultimate me",
+          "category": "industry",
+          "published_at": "2026-11-19T14:00:12+00:00",
+          "author": "GeForce NOW Community",
+          "tags": [
+            "Gaming",
+            "Cloud Gaming",
+            "GeForce NOW"
+          ]
+        },
+        {
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-11-18T21:35:43+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Genie 4 is now available",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+          "source": "Google DeepMind Blog",
+          "summary": "",
+          "category": "industry",
+          "published_at": "2026-11-18T18:13:42+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-20T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-20T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-18T19:54:56+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-18T18:53:43+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "summary": "",
+          "category": "tools",
+          "published_at": "2026-11-18T15:00:23+00:00",
+          "author": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "total": 50,
