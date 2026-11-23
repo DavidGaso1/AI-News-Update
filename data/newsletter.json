@@ -1,58 +1,1384 @@
 {
-  "generated_at": "2026-11-22T14:09:31.703609+00:00",
-  "article_count": 2,
+  "generated_at": "2026-11-23T17:31:12.986018+00:00",
+  "article_count": 50,
   "categories": {
-    "breaking": [],
+    "breaking": [
+      {
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "OpenAI Blog",
+        "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities",
+        "category": "breaking",
+        "published_at": "2026-11-22T00:00:00+00:00",
+        "fetched_at": "2026-11-23T17:30:19.193654+00:00",
+        "author": "",
+        "tags": [
+          "Research"
+        ]
+      }
+    ],
     "research": [
       {
-        "title": "Qwen4 Max is live on Together AI",
-        "url": "https://www.together.ai/blog/qwen4-max",
-        "source": "Together AI Blog",
-        "summary": "Qwen4 Max, Alibaba's flagship Qwen model, is live on Together AI and 30% off through November 22, 2026 We sent it a bug report and an entire repository in one request Its patch passed the project's te",
+        "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+        "url": "https://arxiv.org/abs/2611.26663",
+        "source": "arXiv AI/ML",
+        "summary": "26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open We crossed AI partnership (one versus",
         "category": "research",
-        "published_at": "2026-11-21T00:00:00+00:00",
-        "fetched_at": "2026-11-22T14:09:16.070089+00:00",
-        "author": "",
-        "tags": []
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.117099+00:00",
+        "author": "Rong-Ching Chang, Hao-Chuan Wang",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+        "url": "https://arxiv.org/abs/2611.26717",
+        "source": "arXiv AI/ML",
+        "summary": "26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each objec",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.164330+00:00",
+        "author": "Tanzimul Alam Fahim, Mohammad Arif Hossain",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+        "url": "https://arxiv.org/abs/2611.26722",
+        "source": "arXiv AI/ML",
+        "summary": "26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental cap",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.205779+00:00",
+        "author": "Moritz P\\\"otzsch, Andrea Gentilini, Lisa Rossgoderer, Tom Osterfeld, Kesava Prasad Sanjivi Arul, Swanand Ravindra Kadhe",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+        "url": "https://arxiv.org/abs/2611.26782",
+        "source": "arXiv AI/ML",
+        "summary": "26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral t",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.244950+00:00",
+        "author": "Trupti Mohanty, Ming Du, Mitchell A. Wood, Brad L. Boyce, Remi Dingreville, Mathew J. Cherukara",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+        "url": "https://arxiv.org/abs/2611.26794",
+        "source": "arXiv AI/ML",
+        "summary": "26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture fr",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.301202+00:00",
+        "author": "Yixuan Duan, Kexin Geng, Hanwen Xu, Wei Qiu",
+        "tags": [
+          "cs.AI",
+          "q-bio.QM"
+        ]
+      },
+      {
+        "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+        "url": "https://arxiv.org/abs/2611.26797",
+        "source": "arXiv AI/ML",
+        "summary": "26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our under",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.351167+00:00",
+        "author": "Bao Pham",
+        "tags": [
+          "cs.AI",
+          "cs.CV",
+          "cs.LG",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+        "url": "https://arxiv.org/abs/2611.26870",
+        "source": "arXiv AI/ML",
+        "summary": "26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should hap",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.395334+00:00",
+        "author": "Radhika Bhargava, Shinibali Bhattacharyya, George Mihaila, Jay Prajapati, Anwesan Pal, Yue Zhang",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+        "url": "https://arxiv.org/abs/2611.26903",
+        "source": "arXiv AI/ML",
+        "summary": "26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech Recent systems report strong overall results, but aggrega",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.438101+00:00",
+        "author": "Aishwarya Fursule, Vamshi Nallaguntla, Yuan Tseng, David Harwath, Anderson Avila, Shruti Kshirsagar",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+        "url": "https://arxiv.org/abs/2611.26906",
+        "source": "arXiv AI/ML",
+        "summary": "26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost Applying an expensive solver to every subgoal wastes computation wh",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.473722+00:00",
+        "author": "Wei Jiang, Ziran Liu, Wei Wang",
+        "tags": [
+          "cs.AI",
+          "cs.LG",
+          "cs.LO"
+        ]
+      },
+      {
+        "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+        "url": "https://arxiv.org/abs/2611.26910",
+        "source": "arXiv AI/ML",
+        "summary": "26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights Self-improvement in an embodied world cannot be read fr",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.520032+00:00",
+        "author": "Congyuan Yu, Runping Tian",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+        "url": "https://arxiv.org/abs/2611.26912",
+        "source": "arXiv AI/ML",
+        "summary": "26912v1 Announce Type: new Abstract: The growing complexity of electronic systems demands efficient design flows, yet EDA scripting remains a bottleneck: proprietary APIs are sparsely documented, and ",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.550758+00:00",
+        "author": "Yang Liu, Shengbo Tong, Xiyuan Chen, Shiwei Hou, Sen Yuan, Hao Wang, Yanfeng Li, Hongwen Li, Yiming Zhu, Zhuolun He, Wenjian Yu",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Self-similar Organization of Information in Language",
+        "url": "https://arxiv.org/abs/2611.26935",
+        "source": "arXiv AI/ML",
+        "summary": "26935v1 Announce Type: new Abstract: How much information relevant to predicting the future of a passage (i predictive information) is carried by the preceding text, and how is this information distri",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.576485+00:00",
+        "author": "Leon Lufkin, Cutter Dawes, Kamesh Krishnamurthy",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+        "url": "https://arxiv.org/abs/2611.26942",
+        "source": "arXiv AI/ML",
+        "summary": "26942v1 Announce Type: new Abstract: As AI agents ship more code with minimal human oversight, code review becomes the critical quality-control checkpoint -- but one without a reliable, objective veri",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.610196+00:00",
+        "author": "Ashley Zhang, Narmeen Fatimah Oozeer, Aleksandr Zverianskii, Daniel Ng, Tasana Pejovic, Ant\\'ia Garc\\'ia, Jacob Clyne, Ravpreet Setia, Akshay Utture, Etan Jacob Ginsberg, Shriyash Kaustubh Upadhyay, Fazl Barez",
+        "tags": [
+          "cs.AI",
+          "cs.SE"
+        ]
+      },
+      {
+        "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+        "url": "https://arxiv.org/abs/2611.26966",
+        "source": "arXiv AI/ML",
+        "summary": "26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone We study an execution boundary that sepa",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.649443+00:00",
+        "author": "Deepak Waghmare, Shaad Sufi",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+        "url": "https://arxiv.org/abs/2611.26968",
+        "source": "arXiv AI/ML",
+        "summary": "26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied We call these",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.686944+00:00",
+        "author": "Seunghan Lee, Jun Seo, Junhyeok Kang, Jaehoon Lee, Sangjun Han, Sungdong Yoo, Minjae Kim, Tae Yoon Lim, Dongwan Kang, Hwanil Choi, Soonyoung Lee, Wonbin Ahn",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
+        "url": "https://arxiv.org/abs/2611.26975",
+        "source": "arXiv AI/ML",
+        "summary": "26975v1 Announce Type: new Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle Streaming safety checks today trade accuracy a",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.720142+00:00",
+        "author": "Soheil Zibakhsh, Pedram Aghazadeh, Farinaz Koushanfar",
+        "tags": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG",
+          "cs.PF"
+        ]
+      },
+      {
+        "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
+        "url": "https://arxiv.org/abs/2611.26988",
+        "source": "arXiv AI/ML",
+        "summary": "26988v1 Announce Type: new Abstract: In letter-of-credit (LC) document examination, a correct final decision does not show that every requirement was examined We therefore evaluate examination require",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.813208+00:00",
+        "author": "Ji Sub Choi, Whan Choi, Seo Yeon Gu, Suhyun Kim, Inyong Yun",
+        "tags": [
+          "cs.AI",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
+        "url": "https://arxiv.org/abs/2611.26998",
+        "source": "arXiv AI/ML",
+        "summary": "26998v1 Announce Type: new Abstract: We study reward fidelity in an adversarial reinforcement-learning loop for red-teaming financial-services language-model guardrails Apparent wins can arise when an",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.853712+00:00",
+        "author": "Chengming Liu, Leon Viti, Hongxu Chen, Erdem Kemik, Mary-Anne Williams, Ruth Oliver",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+        "url": "https://arxiv.org/abs/2611.27007",
+        "source": "arXiv AI/ML",
+        "summary": "27007v1 Announce Type: new Abstract: Rigorously evaluating medical artificial intelligence (AI) requires testing open-ended clinical management across diverse presentations and stages of care However,",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.891821+00:00",
+        "author": "Teya Bergamaschi, Bijal Rajput, Akshay Goel, Matthew Thompson, Jacqueline Shreibati, Dave Steiner, Ashley Carrick, Mahvish Nagda, Dale R. Webster, Avinatan Hassidim, Katherine Chou, Yossi Matias, Po-Hsuan Cameron Chen, Christina Chen, Mike Schaekermann, Yun Liu, Anil Palepu",
+        "tags": [
+          "cs.AI",
+          "cs.HC"
+        ]
+      },
+      {
+        "title": "Many Plans at Once: Diverse Top-Quality Planning in Continuous Time",
+        "url": "https://arxiv.org/abs/2611.27012",
+        "source": "arXiv AI/ML",
+        "summary": "27012v1 Announce Type: new Abstract: Planners for physical systems usually return a single trajectory, which leaves no alternative when an unmodeled constraint invalidates the chosen route or downstre",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.924663+00:00",
+        "author": "Mahyar Jahani-nasab, Hamid Rezatofighi, Mor Vered, Buser Say",
+        "tags": [
+          "cs.AI",
+          "cs.RO"
+        ]
+      },
+      {
+        "title": "Same Facts, Different Decision: Fact-Invariant Manipulation and Provenance-Based Defense in Typed Decision Models",
+        "url": "https://arxiv.org/abs/2611.27016",
+        "source": "arXiv AI/ML",
+        "summary": "27016v1 Announce Type: new Abstract: Typed decision models such as TypeSafe's Jev answer only with a probability, an option, or a score, so software can act on them directly Their inputs, however, oft",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.975458+00:00",
+        "author": "Yujie Wang, Haotian Chi, Shunrong Jiang",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Integral Multipliers and Arithmetic Obstructions for Two-Hidden-Layer ReLU Maxima",
+        "url": "https://arxiv.org/abs/2611.27018",
+        "source": "arXiv AI/ML",
+        "summary": "27018v1 Announce Type: new Abstract: We study exact representations of maximum functions by ReLU networks with two hidden layers and integer parameters The least positive output multiplier is two for ",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.015409+00:00",
+        "author": "Pengcheng Cheng",
+        "tags": [
+          "cs.AI",
+          "cs.LG",
+          "math.CO"
+        ]
+      },
+      {
+        "title": "Disentangling Verbalized Evaluation Awareness and Refusal through Neuron-Level Intervention",
+        "url": "https://arxiv.org/abs/2611.27032",
+        "source": "arXiv AI/ML",
+        "summary": "27032v1 Announce Type: new Abstract: As large reasoning models (LRMs) become more capable, reliable evaluation becomes essential LRMs can sometimes recognize that they are being evaluated, a phenomeno",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.058327+00:00",
+        "author": "Jingyuan Feng, Gouki Minegishi, Andrew Gambardella, Takeshi Kojima, Yusuke Iwasawa",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "A Continuous Relaxation of Quantization-Aware Training",
+        "url": "https://arxiv.org/abs/2611.27056",
+        "source": "arXiv AI/ML",
+        "summary": "27056v1 Announce Type: new Abstract: Quantization is a critical piece of the deployment pipeline in the era of large generative models Low-bit quantization, particularly 2-bits or sub-2-bits, is a not",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.141306+00:00",
+        "author": "Kartikeya Bhardwaj, Mohammed Almousa, Chaitanya Mullapudi, Ananth Balasubramanian, Nithin Ramesan, Tuc Nguyen, Harris Teague",
+        "tags": [
+          "cs.AI",
+          "cs.CV",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Dynamic Token Merging for Efficient Vision-Language Models",
+        "url": "https://arxiv.org/abs/2611.27064",
+        "source": "arXiv AI/ML",
+        "summary": "27064v1 Announce Type: new Abstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only part of the i",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.171629+00:00",
+        "author": "Chris Gu, Marco Andono Sie, Nathan Zhou, Christopher Potts, Julie Kallini",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Decision Models Are General-Purpose Process Reward Models",
+        "url": "https://arxiv.org/abs/2611.27068",
+        "source": "arXiv AI/ML",
+        "summary": "27068v1 Announce Type: new Abstract: Reinforcement learning (RL) from verifiable outcomes gives a language agent one reward per episode: every step is credited alike, and nothing about the task is lea",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.200997+00:00",
+        "author": "Jiajun Fan, Qinglong Zheng, Ziwen Wang, Bangji Yang, Neil He, Ruihan Guo, Chaoran Cheng, Ge Liu",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Writing Weights or Training Them? Spatial Reasoning through Weight-Space Programming and Low-Rank Adaptation",
+        "url": "https://arxiv.org/abs/2611.27089",
+        "source": "arXiv AI/ML",
+        "summary": "27089v1 Announce Type: new Abstract: Weight-space programming lets a language model inspect and edit another model's weights, offering an alternative to gradient-based adaptation We evaluated both app",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.251690+00:00",
+        "author": "Yalin Yang, Xiao Huang, Yanan Wu, Hao Yang, Ryan Zhenqi Zhou",
+        "tags": [
+          "cs.AI",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Reasoning in Two Dimensions: Quantifying Chain-of-Thought Faithfulness and Efficiency",
+        "url": "https://arxiv.org/abs/2611.27100",
+        "source": "arXiv AI/ML",
+        "summary": "27100v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning exposes intermediate steps, but a correct answer does not establish that an LLM relies on the dependence expressed by those steps ",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.291735+00:00",
+        "author": "Chenruo Liu, Quan Zhang, Qi Lei",
+        "tags": [
+          "cs.AI",
+          "cs.CL",
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "On the loss landscape of the linear neural network: beyond critical points",
+        "url": "https://arxiv.org/abs/2611.26671",
+        "source": "arXiv ML",
+        "summary": "26671v1 Announce Type: new Abstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.939206+00:00",
+        "author": "Antoine Lejay (PASTA, IECL), Lionel Lenotre (Universit{\\'e} de Haute-Alsace), Sa{\\\"i}d Toubra (IECL)",
+        "tags": [
+          "cs.LG",
+          "cs.AI",
+          "cs.NE",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
+        "url": "https://arxiv.org/abs/2611.26711",
+        "source": "arXiv ML",
+        "summary": "26711v1 Announce Type: new Abstract: Causal Abstraction defines a notion of \\emph{equivalence} between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpret",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.971718+00:00",
+        "author": "Denis Sutter, Qing Yao, Sasha Boguraev, Julian Minder, Antonio Di Maio, Thomas Hofmann, Kyle Mahowald, Tiago Pimentel",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Cross-Attack Robust Aggregation for Federated Learning",
+        "url": "https://arxiv.org/abs/2611.26731",
+        "source": "arXiv ML",
+        "summary": "26731v1 Announce Type: new Abstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can pois",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.001810+00:00",
+        "author": "Eyhab Al-Masri",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+        "url": "https://arxiv.org/abs/2611.26752",
+        "source": "arXiv ML",
+        "summary": "26752v1 Announce Type: new Abstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iteration",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.038524+00:00",
+        "author": "Jiangfan Zhang, Wentao Bao, Xian Wu, Xiangjun Fan, Jianpeng Cheng, Jun Xiao",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Who Should Verify? Reviewer Selection with Partial Information and Outcome Audits",
+        "url": "https://arxiv.org/abs/2611.26770",
+        "source": "arXiv ML",
+        "summary": "26770v1 Announce Type: new Abstract: Selecting an AI reviewer requires evidence about what it does after reading a draft On a fixed batch of items, a team can keep the original answers or adopt one re",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.080961+00:00",
+        "author": "The Viet Bui, Tien Mai",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+        "url": "https://arxiv.org/abs/2611.26803",
+        "source": "arXiv ML",
+        "summary": "26803v1 Announce Type: new Abstract: RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollouts, which contain multiple comple",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.123595+00:00",
+        "author": "Vashisth Tiwari, Emma Strubell, J. Zico Kolter",
+        "tags": [
+          "cs.LG",
+          "cs.CL"
+        ]
+      },
+      {
+        "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+        "url": "https://arxiv.org/abs/2611.26805",
+        "source": "arXiv ML",
+        "summary": "26805v1 Announce Type: new Abstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters In cross-device settings, wh",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.159216+00:00",
+        "author": "Erdong Hu, Zhimin Ding, Yuxin Tang, Chris Jermaine",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration",
+        "url": "https://arxiv.org/abs/2611.26807",
+        "source": "arXiv ML",
+        "summary": "26807v1 Announce Type: new Abstract: NitroGen is an open vision-action foundation model for game control It is trained by behavior cloning on online gameplay videos In this paper, we study the frozen ",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.206123+00:00",
+        "author": "Shengyuan Lin, Zhiling Li, Haoyu Nie, Ozan K. Tonguz",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+        "url": "https://arxiv.org/abs/2611.26818",
+        "source": "arXiv ML",
+        "summary": "26818v1 Announce Type: new Abstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial att",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.240266+00:00",
+        "author": "Miguel Silva, Eva Maia, Jo\\~ao Vitorino, Isabel Pra\\c{c}a",
+        "tags": [
+          "cs.LG",
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
+        "url": "https://arxiv.org/abs/2611.26828",
+        "source": "arXiv ML",
+        "summary": "26828v1 Announce Type: new Abstract: Delivering robust In-Building Coverage (IBC) is critically impeded by severe Outdoor-to-Indoor (O2I) attenuation, a constraint that intensifies as deployments move",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.296114+00:00",
+        "author": "David Hason Rudd, Eunkwang Shin, Nithiwat Pattrapong, Huan Huo, Xiangmeng Wang",
+        "tags": [
+          "cs.LG",
+          "cs.NI",
+          "eess.SP"
+        ]
+      },
+      {
+        "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+        "url": "https://arxiv.org/abs/2611.26847",
+        "source": "arXiv ML",
+        "summary": "26847v1 Announce Type: new Abstract: Traffic forecasting models are typically evaluated under ideal conditions with complete data This evaluation does not reflect the frequent sensor failures and comm",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.342594+00:00",
+        "author": "Mohamed Hamad, Bilal Mutahir, Mohamed Mabrok, Nizar Zorba, Hamid Saeedi, Halim Yanikomeroglu",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series",
+        "url": "https://arxiv.org/abs/2611.26856",
+        "source": "arXiv ML",
+        "summary": "26856v1 Announce Type: new Abstract: We develop self-supervised methods for training Recursive Quadrature Filter (RQF) encoders on unlabeled time series RQFs are biologically motivated, complex-valued",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.386607+00:00",
+        "author": "Mirko Morello, Shivang Rawat, David J. Heeger",
+        "tags": [
+          "cs.LG",
+          "eess.SP",
+          "q-bio.NC"
+        ]
+      },
+      {
+        "title": "Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical Agents",
+        "url": "https://arxiv.org/abs/2611.26914",
+        "source": "arXiv ML",
+        "summary": "26914v1 Announce Type: new Abstract: Deploying generative AI agents in enterprise clinical workflows requires enforcing multi-dimensional safety and compliance policies--preventing HIPAA Protected Hea",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.422871+00:00",
+        "author": "Joshua Broyde, Sarita A. Joshi",
+        "tags": [
+          "cs.LG"
+        ]
+      },
+      {
+        "title": "Large Reported CHB-MIT Adaptation Gains Disappear with Pretrained Encoders and Matched Probes",
+        "url": "https://arxiv.org/abs/2611.26929",
+        "source": "arXiv ML",
+        "summary": "26929v1 Announce Type: new Abstract: Dani and Liebe (2026) (DL) report that adapting the final encoder block of BIOT and CBraMod with self-supervised learning (SSL) improves CHB-MIT seizure-detection ",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.470017+00:00",
+        "author": "Joseph Sankoorikal Johny, Antony J. Sankoorikal",
+        "tags": [
+          "cs.LG",
+          "stat.ML"
+        ]
+      },
+      {
+        "title": "Improving the Optimisation Landscape for Particle Mixtures",
+        "url": "https://arxiv.org/abs/2611.26931",
+        "source": "arXiv ML",
+        "summary": "26931v1 Announce Type: new Abstract: Several methods in statistics and machine learning represent a predictive distribution as an equally weighted mixture of models, or particles, trained via the mixt",
+        "category": "research",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:12.501822+00:00",
+        "author": "Yan Lin, David T. Frazier, Paula Cordero Encinar, Chris J. Oates",
+        "tags": [
+          "cs.LG"
+        ]
       }
     ],
     "industry": [
       {
-        "title": "Security event: Prompt leakage for requests in June and July of 2026",
-        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-        "source": "Together AI Blog",
-        "summary": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026",
+        "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+        "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+        "source": "NVIDIA Blog",
+        "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take",
         "category": "industry",
-        "published_at": "2026-11-21T00:00:00+00:00",
-        "fetched_at": "2026-11-22T14:09:16.053457+00:00",
+        "published_at": "2026-11-23T17:00:08+00:00",
+        "fetched_at": "2026-11-23T17:30:24.647655+00:00",
+        "author": "NVIDIA Writers",
+        "tags": [
+          "AI",
+          "Gaming",
+          "Hardware",
+          "Robotics",
+          "Software"
+        ]
+      },
+      {
+        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "source": "Google DeepMind Blog",
+        "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "category": "industry",
+        "published_at": "2026-11-23T16:59:40+00:00",
+        "fetched_at": "2026-11-23T17:30:25.663903+00:00",
         "author": "",
         "tags": []
       }
     ],
-    "tools": []
+    "tools": [
+      {
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "url": "https://huggingface.co/blog/allenai/robotrack",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-11-23T17:20:37+00:00",
+        "fetched_at": "2026-11-23T17:30:18.212594+00:00",
+        "author": "",
+        "tags": []
+      },
+      {
+        "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+        "url": "https://arxiv.org/abs/2611.26976",
+        "source": "arXiv AI/ML",
+        "summary": "26976v1 Announce Type: new Abstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NPUs Their matrix un",
+        "category": "tools",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:10.762332+00:00",
+        "author": "Vinnam Kim, Seong Hoon Seo, Junhan Kim, Jaeseong You, An Chen",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
+        "url": "https://arxiv.org/abs/2611.27046",
+        "source": "arXiv AI/ML",
+        "summary": "27046v1 Announce Type: new Abstract: LLM agents increasingly rely on Web interaction, issuing searches, following links, and reading pages, to complete complex user tasks Since each action is driven b",
+        "category": "tools",
+        "published_at": "2026-11-23T00:00:00-05:00",
+        "fetched_at": "2026-11-23T17:30:11.113048+00:00",
+        "author": "Ruichao Liang, Wenzhong Deng, Jing Chen, Yuqing Li, Kaixuan Li, Cong Wu, Yang Liu",
+        "tags": [
+          "cs.AI"
+        ]
+      },
+      {
+        "title": "How to build and maintain an agentic evaluation",
+        "url": "https://huggingface.co/blog/agentic-evals",
+        "source": "Hugging Face Blog",
+        "summary": "",
+        "category": "tools",
+        "published_at": "2026-11-23T00:00:00+00:00",
+        "fetched_at": "2026-11-23T17:30:18.246791+00:00",
+        "author": "",
+        "tags": []
+      }
+    ]
   },
   "all_articles": [
     {
-      "title": "Qwen4 Max is live on Together AI",
-      "url": "https://www.together.ai/blog/qwen4-max",
-      "source": "Together AI Blog",
-      "summary": "Qwen4 Max, Alibaba's flagship Qwen model, is live on Together AI and 30% off through November 22, 2026 We sent it a bug report and an entire repository in one request Its patch passed the project's te",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI Blog",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities",
+      "category": "breaking",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "fetched_at": "2026-11-23T17:30:19.193654+00:00",
+      "author": "",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "source": "arXiv AI/ML",
+      "summary": "26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open We crossed AI partnership (one versus",
       "category": "research",
-      "published_at": "2026-11-21T00:00:00+00:00",
-      "fetched_at": "2026-11-22T14:09:16.070089+00:00",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.117099+00:00",
+      "author": "Rong-Ching Chang, Hao-Chuan Wang",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "url": "https://arxiv.org/abs/2611.26717",
+      "source": "arXiv AI/ML",
+      "summary": "26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each objec",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.164330+00:00",
+      "author": "Tanzimul Alam Fahim, Mohammad Arif Hossain",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "source": "arXiv AI/ML",
+      "summary": "26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental cap",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.205779+00:00",
+      "author": "Moritz P\\\"otzsch, Andrea Gentilini, Lisa Rossgoderer, Tom Osterfeld, Kesava Prasad Sanjivi Arul, Swanand Ravindra Kadhe",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+      "url": "https://arxiv.org/abs/2611.26782",
+      "source": "arXiv AI/ML",
+      "summary": "26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral t",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.244950+00:00",
+      "author": "Trupti Mohanty, Ming Du, Mitchell A. Wood, Brad L. Boyce, Remi Dingreville, Mathew J. Cherukara",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+      "url": "https://arxiv.org/abs/2611.26794",
+      "source": "arXiv AI/ML",
+      "summary": "26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture fr",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.301202+00:00",
+      "author": "Yixuan Duan, Kexin Geng, Hanwen Xu, Wei Qiu",
+      "tags": [
+        "cs.AI",
+        "q-bio.QM"
+      ]
+    },
+    {
+      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+      "url": "https://arxiv.org/abs/2611.26797",
+      "source": "arXiv AI/ML",
+      "summary": "26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our under",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.351167+00:00",
+      "author": "Bao Pham",
+      "tags": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+      "url": "https://arxiv.org/abs/2611.26870",
+      "source": "arXiv AI/ML",
+      "summary": "26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should hap",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.395334+00:00",
+      "author": "Radhika Bhargava, Shinibali Bhattacharyya, George Mihaila, Jay Prajapati, Anwesan Pal, Yue Zhang",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+      "url": "https://arxiv.org/abs/2611.26903",
+      "source": "arXiv AI/ML",
+      "summary": "26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech Recent systems report strong overall results, but aggrega",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.438101+00:00",
+      "author": "Aishwarya Fursule, Vamshi Nallaguntla, Yuan Tseng, David Harwath, Anderson Avila, Shruti Kshirsagar",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+      "url": "https://arxiv.org/abs/2611.26906",
+      "source": "arXiv AI/ML",
+      "summary": "26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost Applying an expensive solver to every subgoal wastes computation wh",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.473722+00:00",
+      "author": "Wei Jiang, Ziran Liu, Wei Wang",
+      "tags": [
+        "cs.AI",
+        "cs.LG",
+        "cs.LO"
+      ]
+    },
+    {
+      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+      "url": "https://arxiv.org/abs/2611.26910",
+      "source": "arXiv AI/ML",
+      "summary": "26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights Self-improvement in an embodied world cannot be read fr",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.520032+00:00",
+      "author": "Congyuan Yu, Runping Tian",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+      "url": "https://arxiv.org/abs/2611.26912",
+      "source": "arXiv AI/ML",
+      "summary": "26912v1 Announce Type: new Abstract: The growing complexity of electronic systems demands efficient design flows, yet EDA scripting remains a bottleneck: proprietary APIs are sparsely documented, and ",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.550758+00:00",
+      "author": "Yang Liu, Shengbo Tong, Xiyuan Chen, Shiwei Hou, Sen Yuan, Hao Wang, Yanfeng Li, Hongwen Li, Yiming Zhu, Zhuolun He, Wenjian Yu",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Self-similar Organization of Information in Language",
+      "url": "https://arxiv.org/abs/2611.26935",
+      "source": "arXiv AI/ML",
+      "summary": "26935v1 Announce Type: new Abstract: How much information relevant to predicting the future of a passage (i predictive information) is carried by the preceding text, and how is this information distri",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.576485+00:00",
+      "author": "Leon Lufkin, Cutter Dawes, Kamesh Krishnamurthy",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+      "url": "https://arxiv.org/abs/2611.26942",
+      "source": "arXiv AI/ML",
+      "summary": "26942v1 Announce Type: new Abstract: As AI agents ship more code with minimal human oversight, code review becomes the critical quality-control checkpoint -- but one without a reliable, objective veri",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.610196+00:00",
+      "author": "Ashley Zhang, Narmeen Fatimah Oozeer, Aleksandr Zverianskii, Daniel Ng, Tasana Pejovic, Ant\\'ia Garc\\'ia, Jacob Clyne, Ravpreet Setia, Akshay Utture, Etan Jacob Ginsberg, Shriyash Kaustubh Upadhyay, Fazl Barez",
+      "tags": [
+        "cs.AI",
+        "cs.SE"
+      ]
+    },
+    {
+      "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+      "url": "https://arxiv.org/abs/2611.26966",
+      "source": "arXiv AI/ML",
+      "summary": "26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone We study an execution boundary that sepa",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.649443+00:00",
+      "author": "Deepak Waghmare, Shaad Sufi",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+      "url": "https://arxiv.org/abs/2611.26968",
+      "source": "arXiv AI/ML",
+      "summary": "26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied We call these",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.686944+00:00",
+      "author": "Seunghan Lee, Jun Seo, Junhyeok Kang, Jaehoon Lee, Sangjun Han, Sungdong Yoo, Minjae Kim, Tae Yoon Lim, Dongwan Kang, Hwanil Choi, Soonyoung Lee, Wonbin Ahn",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "source": "NVIDIA Blog",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take",
+      "category": "industry",
+      "published_at": "2026-11-23T17:00:08+00:00",
+      "fetched_at": "2026-11-23T17:30:24.647655+00:00",
+      "author": "NVIDIA Writers",
+      "tags": [
+        "AI",
+        "Gaming",
+        "Hardware",
+        "Robotics",
+        "Software"
+      ]
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind Blog",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "category": "industry",
+      "published_at": "2026-11-23T16:59:40+00:00",
+      "fetched_at": "2026-11-23T17:30:25.663903+00:00",
       "author": "",
       "tags": []
     },
     {
-      "title": "Security event: Prompt leakage for requests in June and July of 2026",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "source": "Together AI Blog",
-      "summary": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026",
-      "category": "industry",
-      "published_at": "2026-11-21T00:00:00+00:00",
-      "fetched_at": "2026-11-22T14:09:16.053457+00:00",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-11-23T17:20:37+00:00",
+      "fetched_at": "2026-11-23T17:30:18.212594+00:00",
       "author": "",
       "tags": []
+    },
+    {
+      "title": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+      "url": "https://arxiv.org/abs/2611.26976",
+      "source": "arXiv AI/ML",
+      "summary": "26976v1 Announce Type: new Abstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NPUs Their matrix un",
+      "category": "tools",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.762332+00:00",
+      "author": "Vinnam Kim, Seong Hoon Seo, Junhan Kim, Jaeseong You, An Chen",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions",
+      "url": "https://arxiv.org/abs/2611.27046",
+      "source": "arXiv AI/ML",
+      "summary": "27046v1 Announce Type: new Abstract: LLM agents increasingly rely on Web interaction, issuing searches, following links, and reading pages, to complete complex user tasks Since each action is driven b",
+      "category": "tools",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.113048+00:00",
+      "author": "Ruichao Liang, Wenzhong Deng, Jing Chen, Yuqing Li, Kaixuan Li, Cong Wu, Yang Liu",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "category": "tools",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "fetched_at": "2026-11-23T17:30:18.246791+00:00",
+      "author": "",
+      "tags": []
+    },
+    {
+      "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
+      "url": "https://arxiv.org/abs/2611.26975",
+      "source": "arXiv AI/ML",
+      "summary": "26975v1 Announce Type: new Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle Streaming safety checks today trade accuracy a",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.720142+00:00",
+      "author": "Soheil Zibakhsh, Pedram Aghazadeh, Farinaz Koushanfar",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.PF"
+      ]
+    },
+    {
+      "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
+      "url": "https://arxiv.org/abs/2611.26988",
+      "source": "arXiv AI/ML",
+      "summary": "26988v1 Announce Type: new Abstract: In letter-of-credit (LC) document examination, a correct final decision does not show that every requirement was examined We therefore evaluate examination require",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.813208+00:00",
+      "author": "Ji Sub Choi, Whan Choi, Seo Yeon Gu, Suhyun Kim, Inyong Yun",
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
+      "url": "https://arxiv.org/abs/2611.26998",
+      "source": "arXiv AI/ML",
+      "summary": "26998v1 Announce Type: new Abstract: We study reward fidelity in an adversarial reinforcement-learning loop for red-teaming financial-services language-model guardrails Apparent wins can arise when an",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.853712+00:00",
+      "author": "Chengming Liu, Leon Viti, Hongxu Chen, Erdem Kemik, Mary-Anne Williams, Ruth Oliver",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+      "url": "https://arxiv.org/abs/2611.27007",
+      "source": "arXiv AI/ML",
+      "summary": "27007v1 Announce Type: new Abstract: Rigorously evaluating medical artificial intelligence (AI) requires testing open-ended clinical management across diverse presentations and stages of care However,",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.891821+00:00",
+      "author": "Teya Bergamaschi, Bijal Rajput, Akshay Goel, Matthew Thompson, Jacqueline Shreibati, Dave Steiner, Ashley Carrick, Mahvish Nagda, Dale R. Webster, Avinatan Hassidim, Katherine Chou, Yossi Matias, Po-Hsuan Cameron Chen, Christina Chen, Mike Schaekermann, Yun Liu, Anil Palepu",
+      "tags": [
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    {
+      "title": "Many Plans at Once: Diverse Top-Quality Planning in Continuous Time",
+      "url": "https://arxiv.org/abs/2611.27012",
+      "source": "arXiv AI/ML",
+      "summary": "27012v1 Announce Type: new Abstract: Planners for physical systems usually return a single trajectory, which leaves no alternative when an unmodeled constraint invalidates the chosen route or downstre",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.924663+00:00",
+      "author": "Mahyar Jahani-nasab, Hamid Rezatofighi, Mor Vered, Buser Say",
+      "tags": [
+        "cs.AI",
+        "cs.RO"
+      ]
+    },
+    {
+      "title": "Same Facts, Different Decision: Fact-Invariant Manipulation and Provenance-Based Defense in Typed Decision Models",
+      "url": "https://arxiv.org/abs/2611.27016",
+      "source": "arXiv AI/ML",
+      "summary": "27016v1 Announce Type: new Abstract: Typed decision models such as TypeSafe's Jev answer only with a probability, an option, or a score, so software can act on them directly Their inputs, however, oft",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:10.975458+00:00",
+      "author": "Yujie Wang, Haotian Chi, Shunrong Jiang",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Integral Multipliers and Arithmetic Obstructions for Two-Hidden-Layer ReLU Maxima",
+      "url": "https://arxiv.org/abs/2611.27018",
+      "source": "arXiv AI/ML",
+      "summary": "27018v1 Announce Type: new Abstract: We study exact representations of maximum functions by ReLU networks with two hidden layers and integer parameters The least positive output multiplier is two for ",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.015409+00:00",
+      "author": "Pengcheng Cheng",
+      "tags": [
+        "cs.AI",
+        "cs.LG",
+        "math.CO"
+      ]
+    },
+    {
+      "title": "Disentangling Verbalized Evaluation Awareness and Refusal through Neuron-Level Intervention",
+      "url": "https://arxiv.org/abs/2611.27032",
+      "source": "arXiv AI/ML",
+      "summary": "27032v1 Announce Type: new Abstract: As large reasoning models (LRMs) become more capable, reliable evaluation becomes essential LRMs can sometimes recognize that they are being evaluated, a phenomeno",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.058327+00:00",
+      "author": "Jingyuan Feng, Gouki Minegishi, Andrew Gambardella, Takeshi Kojima, Yusuke Iwasawa",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "A Continuous Relaxation of Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2611.27056",
+      "source": "arXiv AI/ML",
+      "summary": "27056v1 Announce Type: new Abstract: Quantization is a critical piece of the deployment pipeline in the era of large generative models Low-bit quantization, particularly 2-bits or sub-2-bits, is a not",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.141306+00:00",
+      "author": "Kartikeya Bhardwaj, Mohammed Almousa, Chaitanya Mullapudi, Ananth Balasubramanian, Nithin Ramesan, Tuc Nguyen, Harris Teague",
+      "tags": [
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Dynamic Token Merging for Efficient Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.27064",
+      "source": "arXiv AI/ML",
+      "summary": "27064v1 Announce Type: new Abstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only part of the i",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.171629+00:00",
+      "author": "Chris Gu, Marco Andono Sie, Nathan Zhou, Christopher Potts, Julie Kallini",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Decision Models Are General-Purpose Process Reward Models",
+      "url": "https://arxiv.org/abs/2611.27068",
+      "source": "arXiv AI/ML",
+      "summary": "27068v1 Announce Type: new Abstract: Reinforcement learning (RL) from verifiable outcomes gives a language agent one reward per episode: every step is credited alike, and nothing about the task is lea",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.200997+00:00",
+      "author": "Jiajun Fan, Qinglong Zheng, Ziwen Wang, Bangji Yang, Neil He, Ruihan Guo, Chaoran Cheng, Ge Liu",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Writing Weights or Training Them? Spatial Reasoning through Weight-Space Programming and Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2611.27089",
+      "source": "arXiv AI/ML",
+      "summary": "27089v1 Announce Type: new Abstract: Weight-space programming lets a language model inspect and edit another model's weights, offering an alternative to gradient-based adaptation We evaluated both app",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.251690+00:00",
+      "author": "Yalin Yang, Xiao Huang, Yanan Wu, Hao Yang, Ryan Zhenqi Zhou",
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Reasoning in Two Dimensions: Quantifying Chain-of-Thought Faithfulness and Efficiency",
+      "url": "https://arxiv.org/abs/2611.27100",
+      "source": "arXiv AI/ML",
+      "summary": "27100v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning exposes intermediate steps, but a correct answer does not establish that an LLM relies on the dependence expressed by those steps ",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.291735+00:00",
+      "author": "Chenruo Liu, Quan Zhang, Qi Lei",
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "On the loss landscape of the linear neural network: beyond critical points",
+      "url": "https://arxiv.org/abs/2611.26671",
+      "source": "arXiv ML",
+      "summary": "26671v1 Announce Type: new Abstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.939206+00:00",
+      "author": "Antoine Lejay (PASTA, IECL), Lionel Lenotre (Universit{\\'e} de Haute-Alsace), Sa{\\\"i}d Toubra (IECL)",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.NE",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
+      "url": "https://arxiv.org/abs/2611.26711",
+      "source": "arXiv ML",
+      "summary": "26711v1 Announce Type: new Abstract: Causal Abstraction defines a notion of \\emph{equivalence} between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpret",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:11.971718+00:00",
+      "author": "Denis Sutter, Qing Yao, Sasha Boguraev, Julian Minder, Antonio Di Maio, Thomas Hofmann, Kyle Mahowald, Tiago Pimentel",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Cross-Attack Robust Aggregation for Federated Learning",
+      "url": "https://arxiv.org/abs/2611.26731",
+      "source": "arXiv ML",
+      "summary": "26731v1 Announce Type: new Abstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can pois",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.001810+00:00",
+      "author": "Eyhab Al-Masri",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+      "url": "https://arxiv.org/abs/2611.26752",
+      "source": "arXiv ML",
+      "summary": "26752v1 Announce Type: new Abstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iteration",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.038524+00:00",
+      "author": "Jiangfan Zhang, Wentao Bao, Xian Wu, Xiangjun Fan, Jianpeng Cheng, Jun Xiao",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Who Should Verify? Reviewer Selection with Partial Information and Outcome Audits",
+      "url": "https://arxiv.org/abs/2611.26770",
+      "source": "arXiv ML",
+      "summary": "26770v1 Announce Type: new Abstract: Selecting an AI reviewer requires evidence about what it does after reading a draft On a fixed batch of items, a team can keep the original answers or adopt one re",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.080961+00:00",
+      "author": "The Viet Bui, Tien Mai",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+      "url": "https://arxiv.org/abs/2611.26803",
+      "source": "arXiv ML",
+      "summary": "26803v1 Announce Type: new Abstract: RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollouts, which contain multiple comple",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.123595+00:00",
+      "author": "Vashisth Tiwari, Emma Strubell, J. Zico Kolter",
+      "tags": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    {
+      "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.26805",
+      "source": "arXiv ML",
+      "summary": "26805v1 Announce Type: new Abstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters In cross-device settings, wh",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.159216+00:00",
+      "author": "Erdong Hu, Zhimin Ding, Yuxin Tang, Chris Jermaine",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration",
+      "url": "https://arxiv.org/abs/2611.26807",
+      "source": "arXiv ML",
+      "summary": "26807v1 Announce Type: new Abstract: NitroGen is an open vision-action foundation model for game control It is trained by behavior cloning on online gameplay videos In this paper, we study the frozen ",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.206123+00:00",
+      "author": "Shengyuan Lin, Zhiling Li, Haoyu Nie, Ozan K. Tonguz",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+      "url": "https://arxiv.org/abs/2611.26818",
+      "source": "arXiv ML",
+      "summary": "26818v1 Announce Type: new Abstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial att",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.240266+00:00",
+      "author": "Miguel Silva, Eva Maia, Jo\\~ao Vitorino, Isabel Pra\\c{c}a",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
+      "url": "https://arxiv.org/abs/2611.26828",
+      "source": "arXiv ML",
+      "summary": "26828v1 Announce Type: new Abstract: Delivering robust In-Building Coverage (IBC) is critically impeded by severe Outdoor-to-Indoor (O2I) attenuation, a constraint that intensifies as deployments move",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.296114+00:00",
+      "author": "David Hason Rudd, Eunkwang Shin, Nithiwat Pattrapong, Huan Huo, Xiangmeng Wang",
+      "tags": [
+        "cs.LG",
+        "cs.NI",
+        "eess.SP"
+      ]
+    },
+    {
+      "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+      "url": "https://arxiv.org/abs/2611.26847",
+      "source": "arXiv ML",
+      "summary": "26847v1 Announce Type: new Abstract: Traffic forecasting models are typically evaluated under ideal conditions with complete data This evaluation does not reflect the frequent sensor failures and comm",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.342594+00:00",
+      "author": "Mohamed Hamad, Bilal Mutahir, Mohamed Mabrok, Nizar Zorba, Hamid Saeedi, Halim Yanikomeroglu",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series",
+      "url": "https://arxiv.org/abs/2611.26856",
+      "source": "arXiv ML",
+      "summary": "26856v1 Announce Type: new Abstract: We develop self-supervised methods for training Recursive Quadrature Filter (RQF) encoders on unlabeled time series RQFs are biologically motivated, complex-valued",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.386607+00:00",
+      "author": "Mirko Morello, Shivang Rawat, David J. Heeger",
+      "tags": [
+        "cs.LG",
+        "eess.SP",
+        "q-bio.NC"
+      ]
+    },
+    {
+      "title": "Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical Agents",
+      "url": "https://arxiv.org/abs/2611.26914",
+      "source": "arXiv ML",
+      "summary": "26914v1 Announce Type: new Abstract: Deploying generative AI agents in enterprise clinical workflows requires enforcing multi-dimensional safety and compliance policies--preventing HIPAA Protected Hea",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.422871+00:00",
+      "author": "Joshua Broyde, Sarita A. Joshi",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "title": "Large Reported CHB-MIT Adaptation Gains Disappear with Pretrained Encoders and Matched Probes",
+      "url": "https://arxiv.org/abs/2611.26929",
+      "source": "arXiv ML",
+      "summary": "26929v1 Announce Type: new Abstract: Dani and Liebe (2026) (DL) report that adapting the final encoder block of BIOT and CBraMod with self-supervised learning (SSL) improves CHB-MIT seizure-detection ",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.470017+00:00",
+      "author": "Joseph Sankoorikal Johny, Antony J. Sankoorikal",
+      "tags": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    {
+      "title": "Improving the Optimisation Landscape for Particle Mixtures",
+      "url": "https://arxiv.org/abs/2611.26931",
+      "source": "arXiv ML",
+      "summary": "26931v1 Announce Type: new Abstract: Several methods in statistics and machine learning represent a predictive distribution as an equally weighted mixture of models, or particles, trained via the mixt",
+      "category": "research",
+      "published_at": "2026-11-23T00:00:00-05:00",
+      "fetched_at": "2026-11-23T17:30:12.501822+00:00",
+      "author": "Yan Lin, David T. Frazier, Paula Cordero Encinar, Chris J. Oates",
+      "tags": [
+        "cs.LG"
+      ]
     }
   ]
 }

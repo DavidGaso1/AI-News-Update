@@ -1,6 +1,275 @@
 {
-  "generated_at": "2026-11-22T14:09:31.683747+00:00",
+  "generated_at": "2026-11-23T17:31:12.964512+00:00",
   "archive": [
+    {
+      "date": "2026-11-23",
+      "total": 50,
+      "categories": {
+        "breaking": 1,
+        "research": 43,
+        "industry": 2,
+        "tools": 4
+      },
+      "articles": [
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "OpenAI Blog",
+          "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities",
+          "category": "breaking",
+          "published_at": "2026-11-22T00:00:00+00:00",
+          "author": "",
+          "tags": [
+            "Research"
+          ]
+        },
+        {
+          "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+          "url": "https://arxiv.org/abs/2611.26663",
+          "source": "arXiv AI/ML",
+          "summary": "26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open We crossed AI partnership (one versus",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Rong-Ching Chang, Hao-Chuan Wang",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+          "url": "https://arxiv.org/abs/2611.26717",
+          "source": "arXiv AI/ML",
+          "summary": "26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each objec",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Tanzimul Alam Fahim, Mohammad Arif Hossain",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+          "url": "https://arxiv.org/abs/2611.26722",
+          "source": "arXiv AI/ML",
+          "summary": "26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental cap",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Moritz P\\\"otzsch, Andrea Gentilini, Lisa Rossgoderer, Tom Osterfeld, Kesava Prasad Sanjivi Arul, Swanand Ravindra Kadhe",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+          "url": "https://arxiv.org/abs/2611.26782",
+          "source": "arXiv AI/ML",
+          "summary": "26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral t",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Trupti Mohanty, Ming Du, Mitchell A. Wood, Brad L. Boyce, Remi Dingreville, Mathew J. Cherukara",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+          "url": "https://arxiv.org/abs/2611.26794",
+          "source": "arXiv AI/ML",
+          "summary": "26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture fr",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Yixuan Duan, Kexin Geng, Hanwen Xu, Wei Qiu",
+          "tags": [
+            "cs.AI",
+            "q-bio.QM"
+          ]
+        },
+        {
+          "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+          "url": "https://arxiv.org/abs/2611.26797",
+          "source": "arXiv AI/ML",
+          "summary": "26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our under",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Bao Pham",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.LG",
+            "stat.ML"
+          ]
+        },
+        {
+          "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+          "url": "https://arxiv.org/abs/2611.26870",
+          "source": "arXiv AI/ML",
+          "summary": "26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should hap",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Radhika Bhargava, Shinibali Bhattacharyya, George Mihaila, Jay Prajapati, Anwesan Pal, Yue Zhang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+          "url": "https://arxiv.org/abs/2611.26903",
+          "source": "arXiv AI/ML",
+          "summary": "26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech Recent systems report strong overall results, but aggrega",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Aishwarya Fursule, Vamshi Nallaguntla, Yuan Tseng, David Harwath, Anderson Avila, Shruti Kshirsagar",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+          "url": "https://arxiv.org/abs/2611.26906",
+          "source": "arXiv AI/ML",
+          "summary": "26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost Applying an expensive solver to every subgoal wastes computation wh",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Wei Jiang, Ziran Liu, Wei Wang",
+          "tags": [
+            "cs.AI",
+            "cs.LG",
+            "cs.LO"
+          ]
+        },
+        {
+          "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+          "url": "https://arxiv.org/abs/2611.26910",
+          "source": "arXiv AI/ML",
+          "summary": "26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights Self-improvement in an embodied world cannot be read fr",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Congyuan Yu, Runping Tian",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+          "url": "https://arxiv.org/abs/2611.26912",
+          "source": "arXiv AI/ML",
+          "summary": "26912v1 Announce Type: new Abstract: The growing complexity of electronic systems demands efficient design flows, yet EDA scripting remains a bottleneck: proprietary APIs are sparsely documented, and ",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Yang Liu, Shengbo Tong, Xiyuan Chen, Shiwei Hou, Sen Yuan, Hao Wang, Yanfeng Li, Hongwen Li, Yiming Zhu, Zhuolun He, Wenjian Yu",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Self-similar Organization of Information in Language",
+          "url": "https://arxiv.org/abs/2611.26935",
+          "source": "arXiv AI/ML",
+          "summary": "26935v1 Announce Type: new Abstract: How much information relevant to predicting the future of a passage (i predictive information) is carried by the preceding text, and how is this information distri",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Leon Lufkin, Cutter Dawes, Kamesh Krishnamurthy",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+          "url": "https://arxiv.org/abs/2611.26942",
+          "source": "arXiv AI/ML",
+          "summary": "26942v1 Announce Type: new Abstract: As AI agents ship more code with minimal human oversight, code review becomes the critical quality-control checkpoint -- but one without a reliable, objective veri",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Ashley Zhang, Narmeen Fatimah Oozeer, Aleksandr Zverianskii, Daniel Ng, Tasana Pejovic, Ant\\'ia Garc\\'ia, Jacob Clyne, Ravpreet Setia, Akshay Utture, Etan Jacob Ginsberg, Shriyash Kaustubh Upadhyay, Fazl Barez",
+          "tags": [
+            "cs.AI",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+          "url": "https://arxiv.org/abs/2611.26966",
+          "source": "arXiv AI/ML",
+          "summary": "26966v1 Announce Type: new Abstract: Tool-using AI agents propose actions whose authorization and external effects cannot be inferred from generated text alone We study an execution boundary that sepa",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Deepak Waghmare, Shaad Sufi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+          "url": "https://arxiv.org/abs/2611.26968",
+          "source": "arXiv AI/ML",
+          "summary": "26968v1 Announce Type: new Abstract: A financial report drafted by an LLM can state every number correctly but still go beyond its input, adding judgments and causes that no one supplied We call these",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Seunghan Lee, Jun Seo, Junhyeok Kang, Jaehoon Lee, Sangjun Han, Sungdong Yoo, Minjae Kim, Tae Yoon Lim, Dongwan Kang, Hwanil Choi, Soonyoung Lee, Wonbin Ahn",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Run One, Get Two: Near-Free Streaming Safety Checks for Local LLMs",
+          "url": "https://arxiv.org/abs/2611.26975",
+          "source": "arXiv AI/ML",
+          "summary": "26975v1 Announce Type: new Abstract: Local LLM assistants decode for one user at a time, so decoding is bound by memory bandwidth and leaves compute idle Streaming safety checks today trade accuracy a",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Soheil Zibakhsh, Pedram Aghazadeh, Farinaz Koushanfar",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG",
+            "cs.PF"
+          ]
+        },
+        {
+          "title": "From Letter-of-Credit Requirements to Executable Specifications: Evaluating Verification Accuracy and Completeness",
+          "url": "https://arxiv.org/abs/2611.26988",
+          "source": "arXiv AI/ML",
+          "summary": "26988v1 Announce Type: new Abstract: In letter-of-credit (LC) document examination, a correct final decision does not show that every requirement was examined We therefore evaluate examination require",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Ji Sub Choi, Whan Choi, Seo Yeon Gu, Suhyun Kim, Inyong Yun",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming",
+          "url": "https://arxiv.org/abs/2611.26998",
+          "source": "arXiv AI/ML",
+          "summary": "26998v1 Announce Type: new Abstract: We study reward fidelity in an adversarial reinforcement-learning loop for red-teaming financial-services language-model guardrails Apparent wins can arise when an",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Chengming Liu, Leon Viti, Hongxu Chen, Erdem Kemik, Mary-Anne Williams, Ruth Oliver",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+          "url": "https://arxiv.org/abs/2611.27007",
+          "source": "arXiv AI/ML",
+          "summary": "27007v1 Announce Type: new Abstract: Rigorously evaluating medical artificial intelligence (AI) requires testing open-ended clinical management across diverse presentations and stages of care However,",
+          "category": "research",
+          "published_at": "2026-11-23T00:00:00-05:00",
+          "author": "Teya Bergamaschi, Bijal Rajput, Akshay Goel, Matthew Thompson, Jacqueline Shreibati, Dave Steiner, Ashley Carrick, Mahvish Nagda, Dale R. Webster, Avinatan Hassidim, Katherine Chou, Yossi Matias, Po-Hsuan Cameron Chen, Christina Chen, Mike Schaekermann, Yun Liu, Anil Palepu",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "total": 2,
