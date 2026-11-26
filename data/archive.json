@@ -1,6 +1,272 @@
 {
-  "generated_at": "2026-11-25T16:52:37.731314+00:00",
+  "generated_at": "2026-11-26T16:30:15.897819+00:00",
   "archive": [
+    {
+      "date": "2026-11-26",
+      "total": 50,
+      "categories": {
+        "breaking": 1,
+        "research": 40,
+        "industry": 2,
+        "tools": 7
+      },
+      "articles": [
+        {
+          "title": "Introducing Hurdle: Run agent evals on your API, skills, and docs",
+          "url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
+          "source": "Together AI Blog",
+          "summary": "Hurdle is an open-source npm library for agent evals Run Claude Code and Codex against real tasks on your API, score each run with code checks, guards and an LLM judge, and see which models and condit",
+          "category": "breaking",
+          "published_at": "2026-11-25T00:00:00+00:00",
+          "author": "",
+          "tags": []
+        },
+        {
+          "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+          "url": "https://arxiv.org/abs/2611.31284",
+          "source": "arXiv AI/ML",
+          "summary": "31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution However, in multi-agent systems, an equally fundamental question precede",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Marcelo Fernandez",
+          "tags": [
+            "cs.AI",
+            "cs.MA"
+          ]
+        },
+        {
+          "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+          "url": "https://arxiv.org/abs/2611.31301",
+          "source": "arXiv AI/ML",
+          "summary": "31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector re",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Shaina Raza, Mohamed Hafez, Ahmed Y. Radwan, Khalid Elgazzar, Kathryn Hume",
+          "tags": [
+            "cs.AI",
+            "cs.CV",
+            "cs.SD"
+          ]
+        },
+        {
+          "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+          "url": "https://arxiv.org/abs/2611.31329",
+          "source": "arXiv AI/ML",
+          "summary": "31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory We propose the ",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Trung Hieu Vuong, Van Thien Nguyen, Nhu Son Nguyen, Thanh Dai Tran",
+          "tags": [
+            "cs.AI",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+          "url": "https://arxiv.org/abs/2611.31345",
+          "source": "arXiv AI/ML",
+          "summary": "31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation However, existing benchmarks mainly focus ",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Yuhan Bian, Haoyu Liu, Siyu Li, Hanpei Guo, Jingrong Gao, Zhixu Li",
+          "tags": [
+            "cs.AI",
+            "cs.CV"
+          ]
+        },
+        {
+          "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+          "url": "https://arxiv.org/abs/2611.31346",
+          "source": "arXiv AI/ML",
+          "summary": "31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors However, exist",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Yuhan Bian, Zhaokai Liang, Jia Wang, Haoyu Liu, Yu Chen, Jianfeng Qu, Zhixu Li",
+          "tags": [
+            "cs.AI",
+            "cs.CL"
+          ]
+        },
+        {
+          "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+          "url": "https://arxiv.org/abs/2611.31347",
+          "source": "arXiv AI/ML",
+          "summary": "31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and softwar",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Mohammed Nayeem Khan, Akhil P",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+          "url": "https://arxiv.org/abs/2611.31424",
+          "source": "arXiv AI/ML",
+          "summary": "31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users These benign conversations contain eviden",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Yi Han, Zhen Sun, Zhijie Deng, Yini Huang, Yangyang Zheng, Dongyi Zhang, Xinlei He",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+          "url": "https://arxiv.org/abs/2611.31427",
+          "source": "arXiv AI/ML",
+          "summary": "31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints A model may possess the knowledge needed ",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Chaeeun Lee, Hossein A. Rahmani, Aryo Pradipta Gema, Kexin Xu, Emine Yilmaz, Pasquale Minervini, T. Ian Simpson, Chen Jin, Amrutha Saseendran",
+          "tags": [
+            "cs.AI",
+            "cs.CL",
+            "cs.LG"
+          ]
+        },
+        {
+          "title": "Taxi: Analyzing Agents at (Real) Scale",
+          "url": "https://arxiv.org/abs/2611.31457",
+          "source": "arXiv AI/ML",
+          "summary": "31457v1 Announce Type: new Abstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale Taxi scales to millions of steps efficiently This i",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Guy Dar",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+          "url": "https://arxiv.org/abs/2611.31475",
+          "source": "arXiv AI/ML",
+          "summary": "31475v1 Announce Type: new Abstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multim",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Xiwei Liu, Yulong Li, Xuhui Li, Zhixiang Lu, Haolin Yang, Jianxu Chen, Yifan Lu, Di Fan, Yutong Xie",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
+          "url": "https://arxiv.org/abs/2611.31480",
+          "source": "arXiv AI/ML",
+          "summary": "31480v1 Announce Type: new Abstract: Scientific analyses that span many jobs and computing sites depend on workflow management systems to run reliably, but writing a production workflow requires exper",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Komal Thareja, Mats Rynge, Anirban Mandal, Ewa Deelman",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "XRL4T1D: A Post-hoc Explainability Framework for Reinforcement Learning in Type 1 Diabetes Management",
+          "url": "https://arxiv.org/abs/2611.31498",
+          "source": "arXiv AI/ML",
+          "summary": "31498v1 Announce Type: new Abstract: Type 1 diabetes (T1D) requires lifelong insulin therapy, and reinforcement learning (RL) has shown promise for automated dosing in the UVA/Padova simulator However",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Malay Phadke, Chirath Hettiarachchi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "PatientFlowSynth: Evaluating FHIR Agents with Matched Patient Charts",
+          "url": "https://arxiv.org/abs/2611.31521",
+          "source": "arXiv AI/ML",
+          "summary": "31521v1 Announce Type: new Abstract: Agents that search patient charts must classify claims from retrieved records, including cases with missing or conflicting evidence In Fast Healthcare Interoperabi",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Anthony Cuturrufo, Ratul Ghosh, Devashish Khatwani, Krishnaram Kenthapadi",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+          "url": "https://arxiv.org/abs/2611.31522",
+          "source": "arXiv AI/ML",
+          "summary": "31522v1 Announce Type: new Abstract: GUI agents can choose correct actions yet fail as interfaces change during deliberation Latency alone cannot explain these failures because actions may become inva",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Zhanwen Chen, Tianchun Wang",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Agent Evaluation Without Ground Truth: A Null Proportion Perspective",
+          "url": "https://arxiv.org/abs/2611.31539",
+          "source": "arXiv AI/ML",
+          "summary": "31539v1 Announce Type: new Abstract: The correctness of actions taken by agents is typically evaluated against known, externally verified ground truth labels, such as whether a proof is correct or whe",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Brian M. Cho, Michael Lindon, Nathan Kallus",
+          "tags": [
+            "cs.AI",
+            "math.ST",
+            "stat.AP",
+            "stat.ME",
+            "stat.TH"
+          ]
+        },
+        {
+          "title": "Agent Recovery Gone Wrong: Measuring Harm Beyond Duplicate Calls",
+          "url": "https://arxiv.org/abs/2611.31554",
+          "source": "arXiv AI/ML",
+          "summary": "31554v1 Announce Type: new Abstract: Code-executing LLM agents submit blocks of code that issue several API writes If a block fails after some of its writes have taken effect, the agent rewrites the b",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Artem Trofimov, Boris Novikov",
+          "tags": [
+            "cs.AI",
+            "cs.DB",
+            "cs.SE"
+          ]
+        },
+        {
+          "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+          "url": "https://arxiv.org/abs/2611.31559",
+          "source": "arXiv AI/ML",
+          "summary": "31559v1 Announce Type: new Abstract: LLM-based user simulation can support interface design, accessibility research, and interactive-agent evaluation, but standard computer-use agents are optimized fo",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Yikun Chi, Adam Davies, Debarati Das, Lin Ai, Scott Counts",
+          "tags": [
+            "cs.AI",
+            "cs.HC"
+          ]
+        },
+        {
+          "title": "Off-the-Shelf Autonomous Agents for Game Playtesting",
+          "url": "https://arxiv.org/abs/2611.31570",
+          "source": "arXiv AI/ML",
+          "summary": "31570v1 Announce Type: new Abstract: In playtesting games, a human operator is typically required to test most gameplay elements In this work we present Buddy, an autonomous game solving agent which c",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Ayush Maniar, Eryk Banatt",
+          "tags": [
+            "cs.AI"
+          ]
+        },
+        {
+          "title": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+          "url": "https://arxiv.org/abs/2611.31571",
+          "source": "arXiv AI/ML",
+          "summary": "31571v1 Announce Type: new Abstract: Autoformalization translates a natural-language statement into a formula that captures its intent, which depends on the statement's context: the background that di",
+          "category": "research",
+          "published_at": "2026-11-26T00:00:00-05:00",
+          "author": "Umut A. Acar, Eli Goldweber",
+          "tags": [
+            "cs.AI",
+            "cs.LO"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "total": 12,
